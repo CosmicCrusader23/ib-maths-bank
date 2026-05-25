@@ -1,9 +1,72 @@
 3:I[9431,[],""]
 5:I[3721,[],""]
-6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
-7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
 4:["id","1756","d"]
-0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1756","d"],{"children":["__PAGE__?{\"id\":\"1756\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1756","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
-8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","1756","d"],{"children":["__PAGE__?{\"id\":\"1756\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1756","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
 1:null
-2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/2/","children":["← back to topic ","2"]}]}],["$","h1",null,{"children":"Composition Inverse Function"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"christos"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"BOTH"}],null,null,["$","span",null,{"children":["· ","2.4 / 2.5"]}],["$","a",null,{"href":"https://www.dropbox.com/scl/fi/ucu2rpcf0v8efnem6eaxd/Math-AA-2.4-2.5-COMPOSITION-INVERSE-FUNCTION.pdf?rlkey=np4fp1wue3lt8b9jpqyq62wc1&dl=0","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"src-christos\"><p><strong>Christos Nikolaidis — AA §2.4 / 2.5: Composition Inverse Function</strong></p><p>PDF worksheet bundled by syllabus subtopic.</p><ul><li><a href=\"https://www.dropbox.com/scl/fi/ucu2rpcf0v8efnem6eaxd/Math-AA-2.4-2.5-COMPOSITION-INVERSE-FUNCTION.pdf?rlkey=np4fp1wue3lt8b9jpqyq62wc1&amp;dl=0\" target=\"_blank\" rel=\"noopener\">Worksheet</a></li><li><a href=\"https://www.dropbox.com/scl/fi/82zx4y0c4ij1qljwr499e/Math-AA-2.4-2.5-COMPOSITION-INVERSE-FUNCTION_eco.pdf?rlkey=rhntmn9kvit9csp5ul39jpmww&amp;dl=0\" target=\"_blank\" rel=\"noopener\">Worksheet (no working space)</a></li><li><a href=\"https://www.dropbox.com/scl/fi/fwt00vp9e3gc3wk9acmvw/Math-AA-2.4-2.5-COMPOSITION-INVERSE-FUNCTION_solutions.pdf?rlkey=87ik72ntn12rlh98byzrqu4bi&amp;dl=0\" target=\"_blank\" rel=\"noopener\">Solutions</a></li></ul></div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<p><a href=\"https://www.dropbox.com/scl/fi/fwt00vp9e3gc3wk9acmvw/Math-AA-2.4-2.5-COMPOSITION-INVERSE-FUNCTION_solutions.pdf?rlkey=87ik72ntn12rlh98byzrqu4bi&amp;dl=0\" target=\"_blank\" rel=\"noopener\">Open solutions PDF</a></p>"}}]]}],null]}]
+9:T69e,<div class="specification">
+<p>Liquid oxygen at its boiling point is stored in an insulated tank. Gaseous oxygen is produced from the tank when required using an electrical heater placed in the liquid.</p>
+<p>The following data are available.</p>
+<p style="padding-left: 60px;">Mass of 1.0 mol of oxygen                                 = 32 g</p>
+<p style="padding-left: 60px;">Specific latent heat of vaporization of oxygen   = 2.1 × 10<sup>5</sup> J kg<sup>–1</sup></p>
+</div><div class="specification">
+<p>An oxygen flow rate of 0.25 mol s<sup>–1</sup> is needed.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Distinguish between the internal energy of the oxygen at the boiling point when it is in its liquid phase and when it is in its gas phase.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate, in kW, the heater power required.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the volume of the oxygen produced in one second when it is allowed to expand to a pressure of 0.11 MPa and to reach a temperature of –13 °C.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State <strong>one</strong> assumption of the kinetic model of an ideal gas that does not apply to oxygen.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div>a:T72b,<div class="question" style="padding-left: 20px;">
+<p>Internal energy is the sum of all the PEs and KEs of the molecules (of the oxygen) ✔</p>
+<p>PE of molecules in gaseous state is zero ✔</p>
+<p>(At boiling point) average KE of molecules in gas and liquid is the same ✔</p>
+<p>gases have a higher internal energy ✔</p>
+<p> </p>
+<p><em>Molecules/particles/atoms must be included once, if not, award <strong>[1 max]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em><strong>ALTERNATIVE 1:</strong></em></p>
+<p>flow rate of oxygen = 8 «g s<sup>−1</sup>» ✔</p>
+<p>«2.1 × 10<sup>5</sup> × 8 × 10<sup>−3</sup>» = 1.7 «kW» ✔</p>
+<p> </p>
+<p><em><strong>ALTERNATIVE 2:</strong></em></p>
+<p><em>Q</em> = «0.25 × 32 × 10<sup>−3</sup> × 2.1 × 10<sup>5</sup> =» 1680 «J» ✔</p>
+<p>power = «1680 W =» 1.7 «kW» ✔</p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>T </em>= 260 «K» ✔</p>
+<p><em>V</em> = «<span class="mjpage"><math alttext="\frac{{nRT}}{p} = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+<mi>p</mi>
+</mfrac>
+<mo>=</mo>
+</math></span>» 4.9 × 10<sup>−3</sup> «m<sup>3</sup>» ✔</p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>ideal gas has point objects ✔</p>
+<p>no intermolecular forces ✔</p>
+<p>non liquefaction ✔</p>
+<p>ideal gas assumes monatomic particles ✔</p>
+<p>the collisions between particles are elastic ✔</p>
+<p> </p>
+<p><em>Allow the opposite statements if they are clearly made about oxygen eg oxygen/this can be liquified</em></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/3/","children":["← back to ","Physics"," topic ","3"]}]}],["$","h1",null,{"children":"18N.2.HL.TZ0.9"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"18N"}],["$","span",null,{"children":["· ","3-1-thermal-concepts, 3-2-modelling-a-gas"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

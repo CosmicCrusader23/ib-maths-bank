@@ -1,0 +1,35 @@
+{
+  "subject": "maths_ai",
+  "label": "Maths AI",
+  "topics": [
+    {
+      "id": "1",
+      "name": "Number and algebra",
+      "count": 154
+    },
+    {
+      "id": "2",
+      "name": "Functions",
+      "count": 129
+    },
+    {
+      "id": "3",
+      "name": "Geometry and trigonometry",
+      "count": 152
+    },
+    {
+      "id": "4",
+      "name": "Statistics and probability",
+      "count": 288
+    },
+    {
+      "id": "5",
+      "name": "Calculus",
+      "count": 144
+    }
+  ],
+  "sources": {
+    "pestle": 867
+  },
+  "total": 867
+}

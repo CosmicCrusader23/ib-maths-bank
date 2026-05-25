@@ -1,0 +1,112 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2343","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2343","d"],{"children":["__PAGE__?{\"id\":\"2343\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2343","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T5b9,<div class="specification">
+<p>A positive pion decays into a positive muon and a neutrino.</p>
+<p><span class="mjpage mjpage__block"><math alttext="{\pi ^ + } \to {\mu ^ + } + {v_\mu }" display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>π<!-- π --></mi>
+<mo>+</mo>
+</msup>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+<mrow>
+<msup>
+<mi>μ<!-- μ --></mi>
+<mo>+</mo>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msub>
+<mi>v</mi>
+<mi>μ<!-- μ --></mi>
+</msub>
+</mrow>
+</math></span></p>
+<p>The momentum of the muon is measured to be 29.8 MeV c<sup>–1</sup> in a laboratory reference frame in which the pion is at rest. The rest mass of the muon is 105.7 MeV c<sup>–2</sup> and the mass of the neutrino can be assumed to be zero.</p>
+</div><div class="specification">
+<p>For the laboratory reference frame</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>write down the momentum of the neutrino.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>show that the energy of the pion is about 140 MeV.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State the rest mass of the pion with an appropriate unit.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.</div>
+</div>a:T6d4,<div class="question" style="padding-left: 20px;">
+<p><strong>«</strong>–<strong>»</strong>29.8 <strong>«</strong>MeVc<sup>–1</sup><strong>»</strong></p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>E<sub>π</sub></em> = <span class="mjpage"><math alttext="\sqrt {p_\mu ^2{c^2} + m_\mu ^2{c^4}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<msubsup>
+<mi>p</mi>
+<mi>μ</mi>
+<mn>2</mn>
+</msubsup>
+<mrow>
+<msup>
+<mi>c</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<msubsup>
+<mi>m</mi>
+<mi>μ</mi>
+<mn>2</mn>
+</msubsup>
+<mrow>
+<msup>
+<mi>c</mi>
+<mn>4</mn>
+</msup>
+</mrow>
+</msqrt>
+</math></span> + <em>p<sub>v</sub>c</em> <strong><em>OR</em></strong> <em>E<sub>μ</sub></em> = 109.8 <strong>«</strong>MeV<strong>»</strong></p>
+<p><em>E<sub>π</sub></em> = <strong>«</strong><span class="mjpage"><math alttext="\sqrt {{{29.8}^2} + {{105.7}^2}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mrow>
+<msup>
+<mrow>
+<mn>29.8</mn>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>105.7</mn>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</math></span> + 29.8 =<strong>»</strong> 139.6 <strong>«</strong>MeV<strong>»</strong></p>
+<p> </p>
+<p><em>Final value to at least 3 sig figs required for mark.</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>139.6 MeVc<sup>–2</sup></p>
+<p> </p>
+<p><em>Units required.</em></p>
+<p><em>Accept 140 MeVc<sup>–</sup></em><sup><em>2</em></sup><em>.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/a/","children":["← back to ","Physics"," topic ","a"]}]}],["$","h1",null,{"children":"18M.3.HL.TZ1.6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","7-1-discrete-energy-and-radioactivity, a-4-relativistic-mechanics"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

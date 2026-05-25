@@ -1,0 +1,84 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2683","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2683","d"],{"children":["__PAGE__?{\"id\":\"2683\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2683","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T1cfd,<div class="specification">
+<p>A mass of 1.0 kg of water is brought to its boiling point of 100 °C using an electric heater of power 1.6 kW.</p>
+</div><div class="specification">
+<p>A mass of 0.86 kg of water remains after it has boiled for 200 s.</p>
+</div><div class="specification">
+<p>The electric heater has two identical resistors connected in parallel.</p>
+<p><img src="data:image/png;base64,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" style="display: block; margin-left: auto; margin-right: auto;"/></p>
+<p>The circuit transfers 1.6 kW when switch A only is closed. The external voltage is 220 V.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The molar mass of water is 18 g mol<sup>−1</sup>. Estimate the average speed of the water molecules in the vapor produced. Assume the vapor behaves as an ideal gas.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State <strong>one</strong> assumption of the kinetic model of an ideal gas.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Estimate the specific latent heat of vaporization of water. State an appropriate unit for your answer.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Explain why the temperature of water remains at 100 °C during this time.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The heater is removed and a mass of 0.30 kg of pasta at −10 °C is added to the boiling water.</p>
+<p>Determine the equilibrium temperature of the pasta and water after the pasta is added. Other heat transfers are negligible.</p>
+<p style="padding-left:180px;">Specific heat capacity of pasta = 1.8 kJ kg<sup>−1</sup> K<sup>−1</sup><br/>Specific heat capacity of water = 4.2 kJ kg<sup>−1</sup> K<sup>−1</sup></p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that each resistor has a resistance of about 30 Ω.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the power transferred by the heater when both switches are closed.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.ii.</div>
+</div>a:Tec7,<div class="question" style="padding-left: 20px;">
+<p><em>E</em><sub>k</sub> = « <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>(</mo><mn>1</mn><mo>.</mo><mn>38</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>23</mn></mrow></msup><mo>)</mo><mo>(</mo><mn>373</mn><mo>)</mo></math>» = <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>7</mn><mo>.</mo><mn>7</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>21</mn></mrow></msup></math> «J» <strong>✓</strong></p>
+<p><em>v = </em>«<em><math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mfrac><mrow><mn>3</mn><mo>×</mo><mn>1</mn><mo>.</mo><mn>38</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>23</mn></mrow></msup><mo>×</mo><mn>6</mn><mo>.</mo><mn>02</mn><mo>×</mo><msup><mn>10</mn><mn>23</mn></msup><mo>×</mo><mn>373</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>018</mn></mrow></mfrac></msqrt></math></em>»<em> = </em>720 «m s<sup>−1</sup>» <strong>✓</strong></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>particles can be considered points «without dimensions» <strong>✓</strong></p>
+<p>no intermolecular forces/no forces between particles «except during collisions»<strong>✓</strong></p>
+<p>the volume of a particle is negligible compared to volume of gas <strong>✓</strong></p>
+<p>collisions between particles are elastic <strong>✓</strong></p>
+<p>time between particle collisions are greater than time of collision <strong>✓</strong></p>
+<p>no intermolecular PE/no PE between particles  <strong>✓</strong></p>
+<p> </p>
+<p><em>Accept reference to atoms/molecules for “particle”</em></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«<em>mL = P</em> t» so «<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>L</mi><mo>=</mo><mfrac><mrow><mn>1600</mn><mo>×</mo><mn>200</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>14</mn></mrow></mfrac></math>» = 2.3 x 10<sup>6</sup> «J kg<sup>-1</sup>» <strong>✓</strong></p>
+<p>J kg<sup>−1 </sup><strong>✓</strong></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«all» of the energy added is used to increase the «intermolecular» potential energy of the particles/break «intermolecular» bonds/<strong>OWTTE</strong> <strong>✓</strong></p>
+<p><em>Accept reference to atoms/molecules for “particle”</em> </p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>use of mcΔT <strong>✓</strong></p>
+<p>0.86 × 4200 × (100 – <em>T</em>) = 0.3 × 1800 × (<em>T</em> +10) <strong>✓</strong></p>
+<p><em>T</em><sub>eq</sub> = 85.69«°C» ≅ 86«°C» <strong>✓</strong></p>
+<p><em>Accept T<sub>eq</sub> in Kelvin (359 K).</em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mo>=</mo><mfrac><msup><mi>v</mi><mn>2</mn></msup><mi>R</mi></mfrac><mo> </mo><mi>so</mi><mo> </mo><mfrac><msup><mn>220</mn><mn>2</mn></msup><mn>1600</mn></mfrac><mo> </mo><mi>so</mi><mo> </mo><mi>R</mi><mo>=</mo><mn>30</mn><mo>.</mo><mn>25</mn></math> «Ω» <strong>✓</strong></p>
+<p><em>Must see either the substituted values <strong>OR</strong> a value for R to at least three s.f.</em></p>
+<p> </p>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>use of parallel resistors addition so <em>R</em><sub>eq</sub> = 15 «Ω» <strong>✓</strong></p>
+<p><em>P</em> = 3200 «W» <strong>✓</strong></p>
+<div class="question_part_label">d.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/5/","children":["← back to ","Physics"," topic ","5"]}]}],["$","h1",null,{"children":"21M.2.SL.TZ1.3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"21M"}],["$","span",null,{"children":["· ","3-2-modelling-a-gas, 3-1-thermal-concepts, 5-2-heating-effect-of-electric-currents"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.ii.</div>\n</div>"}}]]}]]}]

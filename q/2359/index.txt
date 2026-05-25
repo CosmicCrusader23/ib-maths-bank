@@ -1,0 +1,251 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2359","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2359","d"],{"children":["__PAGE__?{\"id\":\"2359\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2359","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:Td5f,<div class="specification">
+<p>The water supply for a hydroelectric plant is a reservoir with a large surface area. An outlet pipe takes the water to a turbine.</p>
+<p style="text-align: center;"><img alt="M18/4/PHYSI/HP3/ENG/TZ1/10" src="../assets/uploads/tinymce_asset/asset/4810/Schermafbeelding_2018-08-13_om_15.42.28.png"/></p>
+</div><div class="specification">
+<p>The following data are available:</p>
+<p><span class="mjpage mjpage__block"><math alttext="\begin{array}{*{20}{l}} {{\text{density of water}}}&amp;{ = 1.00 \times {{10}^3}{\text{ kg }}{{\text{m}}^{ - 3}}} \\ {{\text{viscosity of water}}}&amp;{ = 1.31 \times {{10}^{ - 3}}{\text{ Pa s}}} \\ {{\text{diameter of the outlet pipe}}}&amp;{ = 0.600{\text{ m}}} \\ {{\text{velocity of water at outlet pipe}}}&amp;{ = 59.4{\text{ m}}{{\text{s}}^{ - 1}}} \end{array}" display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mtext>density of water</mtext>
+</mrow>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mo>=</mo>
+<mn>1.00</mn>
+<mo>×<!-- × --></mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+<mrow>
+<mtext> kg </mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mtext>viscosity of water</mtext>
+</mrow>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mo>=</mo>
+<mn>1.31</mn>
+<mo>×<!-- × --></mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mtext> Pa s</mtext>
+</mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mtext>diameter of the outlet pipe</mtext>
+</mrow>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mo>=</mo>
+<mn>0.600</mn>
+<mrow>
+<mtext> m</mtext>
+</mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mtext>velocity of water at outlet pipe</mtext>
+</mrow>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mo>=</mo>
+<mn>59.4</mn>
+<mrow>
+<mtext> m</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</math></span></p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State the difference in terms of the velocity of the water between laminar and turbulent flow.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The water level is a height <em>H </em>above the turbine. Assume that the flow is laminar in the outlet pipe.</p>
+<p>Show, using the Bernouilli equation, that the speed of the water as it enters the turbine is given by <em>v</em> = <span class="mjpage"><math alttext="\sqrt {2gH} " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mn>2</mn>
+<mi>g</mi>
+<mi>H</mi>
+</msqrt>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the Reynolds number for the water flow.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Outline whether it is reasonable to assume that flow is laminar in this situation.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.ii.</div>
+</div>a:Tbae,<div class="question" style="padding-left: 20px;">
+<p>in laminar flow, the velocity of the fluid is constant <strong>«</strong>at any point in the fluid<strong>» «</strong>whereas it is not constant for turbulent flow<strong>»</strong></p>
+<p> </p>
+<p><em>Accept any similarly correct answers.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>P<sub>S</sub></em> = <em>P<sub>T</sub></em> <strong>«</strong>as both are exposed to atmospheric pressure<strong>»</strong></p>
+<p>then <em>V<sub>T</sub></em> = 0 <strong>«</strong>if the surface area ofthe reservoir is large<strong>»</strong></p>
+<p><strong>«</strong> <span class="mjpage"><math alttext="\frac{1}{2}\rho v_s^2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mi>ρ</mi>
+<msubsup>
+<mi>v</mi>
+<mi>s</mi>
+<mn>2</mn>
+</msubsup>
+</math></span> + <em>ρgz<sub>S</sub></em> = <em>ρgz<sub>T</sub></em><strong>»</strong></p>
+<p><span class="mjpage"><math alttext="\frac{1}{2}v_S^2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<msubsup>
+<mi>v</mi>
+<mi>S</mi>
+<mn>2</mn>
+</msubsup>
+</math></span> = <em>g</em>(<em>z<sub>T</sub></em> – <em>z<sub>S</sub></em>) = <em>gH</em></p>
+<p>and so <em>v<sub>S</sub></em> = <span class="mjpage"><math alttext="\sqrt {2gH} " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mn>2</mn>
+<mi>g</mi>
+<mi>H</mi>
+</msqrt>
+</math></span></p>
+<p> </p>
+<p><em>MP1 and MP2 may be implied by the correct substitution showing line 3 in the mark scheme.</em></p>
+<p><em>Do not accept simple use of</em> <em>v</em> = <span class="mjpage"><math alttext="\sqrt {2{\text{as}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mn>2</mn>
+<mrow>
+<mtext>as</mtext>
+</mrow>
+</msqrt>
+</math></span><em>.</em></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>R</em> = <span class="mjpage"><math alttext="\frac{{59.4 \times 0.6 \times 1 \times {{10}^3}}}{{1.31 \times {{10}^{ - 3}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>59.4</mn>
+<mo>×</mo>
+<mn>0.6</mn>
+<mo>×</mo>
+<mn>1</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>1.31</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> = 2.72 × 10<sup>7</sup></p>
+<p> </p>
+<p><em>Accept use of radius 0.3 m giving value 1.36 × 10</em><sup><em>7</em></sup><em>.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>as <em>R</em> &gt; 1000 it is not reasonable to assume laminar flow</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">c.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/b/","children":["← back to ","Physics"," topic ","b"]}]}],["$","h1",null,{"children":"18M.3.HL.TZ1.10"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","b-3-fluids-and-fluid-dynamics"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.ii.</div>\n</div>"}}]]}]]}]

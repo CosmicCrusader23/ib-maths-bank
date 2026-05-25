@@ -1,0 +1,85 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2517","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2517","d"],{"children":["__PAGE__?{\"id\":\"2517\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2517","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T4f2,<div class="specification">
+<p>Observer A detects the creation (event 1) and decay (event 2) of a nuclear particle. After creation, the particle moves at a constant speed relative to A. As measured by A, the distance between the events is 15 m and the time between the events is 9.0 × 10<sup>–8</sup> s.</p>
+<p>Observer B moves with the particle.</p>
+<p>For event 1 and event 2,</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Explain what is meant by the statement that the spacetime interval is an invariant quantity.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>calculate the spacetime interval.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>determine the time between them according to observer B.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Outline why the observed times are different for A and B.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div>a:T7e3,<div class="question" style="padding-left: 20px;">
+<p>quantity that is the same/constant in all inertial frames</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>spacetime interval = 27<sup>2</sup> – 15<sup>2</sup> = 504 <strong>«</strong>m<sup>2</sup><strong>»</strong></p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong><em>ALTERNATIVE 1</em></strong></p>
+<p>Evidence of <em>x</em>′ = 0</p>
+<p><em>t</em>′ <strong>«</strong><span class="mjpage"><math alttext="\frac{{\sqrt {504} }}{c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<msqrt>
+<mn>504</mn>
+</msqrt>
+</mrow>
+<mi>c</mi>
+</mfrac>
+</math></span><strong>»</strong> = 7.5 × 10<sup>–8</sup> <strong>«</strong>s<strong>»</strong></p>
+<p><strong><em>ALTERNATIVE 2</em></strong></p>
+<p><em>γ</em> = 1.2</p>
+<p><em>t</em>′ <strong>«</strong>= <span class="mjpage"><math alttext="\frac{{9 \times {{10}^{ - 8}}}}{{1.2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>9</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>8</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>1.2</mn>
+</mrow>
+</mfrac>
+</math></span><strong>»</strong> = 7.5 × 10<sup>–8</sup> <strong>«</strong>s<strong>»</strong></p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>observer B measures the proper time and this is the shortest time measured</p>
+<p><strong><em>OR</em></strong></p>
+<p>time dilation occurs <strong>«</strong>for B's journey<strong>» </strong>according to A</p>
+<p><strong><em>OR</em></strong></p>
+<p>observer B is stationary relative to the particle, observer A is not</p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/a/","children":["← back to ","Physics"," topic ","a"]}]}],["$","h1",null,{"children":"18M.3.SL.TZ2.5"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","a-2-lorentz-transformations"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

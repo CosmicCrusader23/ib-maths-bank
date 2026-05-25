@@ -1,0 +1,334 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2040","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2040","d"],{"children":["__PAGE__?{\"id\":\"2040\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2040","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T43c,<div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>(i) Define<em> gravitational field strength.</em></p>
+<p>(ii) State the SI unit for gravitational field strength.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>A planet orbits the Sun in a circular orbit with orbital period <em>T</em> and orbital radius <em>R</em>. The mass of the Sun is <em>M</em>.</p>
+<p>(i) Show that <span class="mjpage"><math alttext="T = \sqrt {\frac{{4{\pi ^2}{R^3}}}{{GM}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>T</mi>
+<mo>=</mo>
+<msqrt>
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mrow>
+<msup>
+<mi>π</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mrow>
+<msup>
+<mi>R</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+</mfrac>
+</msqrt>
+</math></span>.</p>
+<p>(ii) The Earth’s orbit around the Sun is almost circular with radius 1.5×10<sup>11</sup> m. Estimate the mass of the Sun.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">b.</div>
+</div>a:T15ac,<div class="question" style="padding-left: 20px;">
+<p>(i)  «gravitational» force per unit mass on a «small <strong>or</strong> test» mass </p>
+<p> </p>
+<p>(ii)  N kg<sup>–1 </sup></p>
+<p><em>Award mark if N kg<sup>-1</sup> is seen, treating any further work as neutral.<br/>Do not accept bald m s<sup>–2</sup></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>i<br/>clear evidence that <em>v</em> in <span class="mjpage"><math alttext="{v^2} = \frac{{4{\pi ^2}{R^2}}}{{{T^2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>v</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mrow>
+<msup>
+<mi>π</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mrow>
+<msup>
+<mi>R</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mi>T</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> is equated to orbital speed <span class="mjpage"><math alttext="\sqrt {\frac{{GM}}{R}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+<mi>R</mi>
+</mfrac>
+</msqrt>
+</math></span><br/><em><strong>OR</strong></em><br/>clear evidence that centripetal force is equated to gravitational force<br/><em><strong>OR</strong></em><br/>clear evidence that <em>a</em> in <span class="mjpage"><math alttext="a = \frac{{{v^2}}}{R}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>v</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mi>R</mi>
+</mfrac>
+</math></span> etc is equated to <em>g</em> in <span class="mjpage"><math alttext="g = \frac{{GM}}{{{R^2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>g</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mi>R</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> with consistent use of symbols<br/><em>Minimum is a statement that <span class="mjpage"><math alttext="\sqrt {\frac{{GM}}{R}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+<mi>R</mi>
+</mfrac>
+</msqrt>
+</math></span> is the orbital speed which is then used in <span class="mjpage"><math alttext="v = \frac{{2\pi R}}{T}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>v</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>π</mi>
+<mi>R</mi>
+</mrow>
+<mi>T</mi>
+</mfrac>
+</math></span></em><br/><em>Minimum is F<sub>c</sub> = F<sub>g</sub> ignore any signs.</em><br/><em>Minimum is g = a.</em></p>
+<p>substitutes and re-arranges to obtain result<br/><em>Allow any legitimate method not identified here.</em><br/><em>Do not allow spurious methods involving equations of shm etc</em></p>
+<p><span class="mjpage"><math alttext=" \ll T = \sqrt {\frac{{4{\pi ^2}R}}{{\left( {\frac{{GM}}{{{R^2}}}} \right)}}}  = \sqrt {\frac{{4{\pi ^2}{R^3}}}{{GM}}}  \gg " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>≪</mo>
+<mi>T</mi>
+<mo>=</mo>
+<msqrt>
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mrow>
+<msup>
+<mi>π</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>R</mi>
+</mrow>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mi>R</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mfrac>
+</msqrt>
+<mo>=</mo>
+<msqrt>
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mrow>
+<msup>
+<mi>π</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mrow>
+<msup>
+<mi>R</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+</mfrac>
+</msqrt>
+<mo>≫</mo>
+</math></span></p>
+<p>ii<br/>«<em>T </em>= 365 × 24 × 60 × 60 = 3.15 × 10<sup>7 </sup>s»</p>
+<p><span class="mjpage"><math alttext="M = \, \ll \frac{{4{\pi ^2}{R^3}}}{{G{T^2}}} =  \gg \,\, = \frac{{4 \times {{3.14}^2} \times {{\left( {1.5 \times {{10}^{11}}} \right)}^3}}}{{6.67 \times {{10}^{ - 11}} \times {{\left( {3.15 \times {{10}^7}} \right)}^2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>M</mi>
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mo>≪</mo>
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mrow>
+<msup>
+<mi>π</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mrow>
+<msup>
+<mi>R</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mi>G</mi>
+<mrow>
+<msup>
+<mi>T</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=≫</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>3.14</mn>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1.5</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mn>11</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>6.67</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>11</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>3.15</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>7</mn>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span><br/>2×10<sup>30</sup>«kg»</p>
+<p><em>Allow use of 3.16 x 10<sup>7</sup> s for year length (quoted elsewhere in paper).</em><br/><em>Condone error in power of ten in MP1.</em><br/><em>Award<strong> [1 max]</strong> if incorrect time used (24 h is sometimes seen, leading to 2.66 x 10<sup>35</sup> kg).</em><br/><em>Units are not required, but if not given assume kg and mark POT accordingly if power wrong.</em><br/><em>Award <strong>[2]</strong> for a bald correct answer.</em><br/><em>No sf penalty here.</em></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/6/","children":["← back to ","Physics"," topic ","6"]}]}],["$","h1",null,{"children":"16N.2.SL.TZ0.6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","6-2-newtons-law-of-gravitation"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

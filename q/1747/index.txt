@@ -1,9 +1,301 @@
 3:I[9431,[],""]
 5:I[3721,[],""]
-6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
-7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
 4:["id","1747","d"]
-0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1747","d"],{"children":["__PAGE__?{\"id\":\"1747\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1747","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
-8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","1747","d"],{"children":["__PAGE__?{\"id\":\"1747\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1747","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
 1:null
-2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"Mathematical Induction"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"christos"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"BOTH"}],null,null,["$","span",null,{"children":["· ","1.9"]}],["$","a",null,{"href":"https://www.dropbox.com/scl/fi/qziub0fch7vbiknni5qu4/Math-AA-1.9-MATHEMATICAL-INDUCTION.pdf?rlkey=sxvogvjm5xb77mgljpmwlqqax&dl=0","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"src-christos\"><p><strong>Christos Nikolaidis — AA §1.9: Mathematical Induction</strong></p><p>PDF worksheet bundled by syllabus subtopic.</p><ul><li><a href=\"https://www.dropbox.com/scl/fi/qziub0fch7vbiknni5qu4/Math-AA-1.9-MATHEMATICAL-INDUCTION.pdf?rlkey=sxvogvjm5xb77mgljpmwlqqax&amp;dl=0\" target=\"_blank\" rel=\"noopener\">Worksheet</a></li><li><a href=\"https://www.dropbox.com/scl/fi/7v3v9zqi47ubwjzpya9c6/Math-AA-1.9-MATHEMATICAL-INDUCTION_eco.pdf?rlkey=5dckaiqdi6m051nabbzcshp5l&amp;dl=0\" target=\"_blank\" rel=\"noopener\">Worksheet (no working space)</a></li><li><a href=\"https://www.dropbox.com/scl/fi/4w7ie0bo7lhx9h8fezed7/Math-AA-1.9-MATHEMATICAL-INDUCTION_solutions.pdf?rlkey=1gdofocsv69dt7tdxo46vmqpd&amp;dl=0\" target=\"_blank\" rel=\"noopener\">Solutions</a></li></ul></div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<p><a href=\"https://www.dropbox.com/scl/fi/4w7ie0bo7lhx9h8fezed7/Math-AA-1.9-MATHEMATICAL-INDUCTION_solutions.pdf?rlkey=1gdofocsv69dt7tdxo46vmqpd&amp;dl=0\" target=\"_blank\" rel=\"noopener\">Open solutions PDF</a></p>"}}]]}],null]}]
+9:T10c6,<div class="specification">
+<p><span class="mjpage"><math alttext="{}_{15}^{32}{\text{P}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mn>15</mn>
+</mrow>
+<mrow>
+<mn>32</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+</math></span> is formed when a nucleus of deuterium (<span class="mjpage"><math alttext="{}_{1}^{2}{\text{H}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mn>1</mn>
+</mrow>
+<mrow>
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mtext>H</mtext>
+</mrow>
+</math></span>) collides with a nucleus of <span class="mjpage"><math alttext="{}_{15}^{31}{\text{P}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mn>15</mn>
+</mrow>
+<mrow>
+<mn>31</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+</math></span>. The radius of a deuterium nucleus is 1.5 fm.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State how the density of a nucleus varies with the number of nucleons in the nucleus.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that the nuclear radius of phosphorus-31 (<span class="mjpage"><math alttext="{}_{15}^{31}{\text{P}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mn>15</mn>
+</mrow>
+<mrow>
+<mn>31</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+</math></span>) is about 4 fm.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State the maximum distance between the centres of the nuclei for which the production of <span class="mjpage"><math alttext="{}_{15}^{32}{\text{P}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mn>15</mn>
+</mrow>
+<mrow>
+<mn>32</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+</math></span> is likely to occur.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine, in J, the minimum initial kinetic energy that the deuterium nucleus must have in order to produce <span class="mjpage"><math alttext="{}_{15}^{32}{\text{P}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mn>15</mn>
+</mrow>
+<mrow>
+<mn>32</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+</math></span>. Assume that the phosphorus nucleus is stationary throughout the interaction and that only electrostatic forces act.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span class="mjpage"><math alttext="{}_{15}^{32}{\text{P}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mn>15</mn>
+</mrow>
+<mrow>
+<mn>32</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+</math></span> undergoes beta-minus (β<sup>–</sup>) decay. Explain why the energy gained by the emitted beta particles in this decay is not the same for every beta particle.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State what is meant by decay constant.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>In a fresh pure sample of <span class="mjpage"><math alttext="{}_{15}^{32}{\text{P}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mn>15</mn>
+</mrow>
+<mrow>
+<mn>32</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+</math></span> the activity of the sample is 24 Bq. After one week the activity has become 17 Bq. Calculate, in s<sup>–1</sup>, the decay constant of <span class="mjpage"><math alttext="{}_{15}^{32}{\text{P}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mn>15</mn>
+</mrow>
+<mrow>
+<mn>32</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.ii.</div>
+</div>a:Tcdf,<div class="question" style="padding-left: 20px;">
+<p>it is constant ✔</p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>R</em> = <span class="mjpage"><math alttext="{\text{1}}{\text{.20}} \times {10^{ - 15}} \times {31^{\frac{1}{3}}} = 3.8 \times {10^{ - 15}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>1</mtext>
+</mrow>
+<mrow>
+<mtext>.20</mtext>
+</mrow>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow>
+<mo>−</mo>
+<mn>15</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>31</mn>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>3.8</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow>
+<mo>−</mo>
+<mn>15</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span> «m» ✔</p>
+<p><em>Must see working and answer to at least 2SF</em></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>separation for interaction = 5.3 <em><strong>or</strong></em> 5.5 «fm» ✔</p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>energy required = <span class="mjpage"><math alttext="\frac{{15{e^2}}}{{4\pi {\varepsilon _0} \times 5.3 \times {{10}^{ - 15}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>15</mn>
+<mrow>
+<msup>
+<mi>e</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>4</mn>
+<mi>π</mi>
+<mrow>
+<msub>
+<mi>ε</mi>
+<mn>0</mn>
+</msub>
+</mrow>
+<mo>×</mo>
+<mn>5.3</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>15</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> ✔</p>
+<p>= 6.5 / 6.6 ×10<sup>−13</sup> <em><strong>OR</strong></em> 6.3 ×10<sup>−13 </sup>«J» ✔</p>
+<p> </p>
+<p><em>Allow ecf from (b)(i)</em></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«electron» <span style="text-decoration: underline;">antineutrino</span> also emitted ✔</p>
+<p>energy split between electron and «anti»neutrino ✔</p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>probability of decay of a nucleus ✔</p>
+<p><em><strong>OR</strong></em></p>
+<p>the fraction of the number of nuclei that decay</p>
+<p>in one/the next second</p>
+<p><strong>OR</strong></p>
+<p>per unit time ✔</p>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>1 week = 6.05 × 10<sup>5</sup> «s»</p>
+<p>17 = <span class="mjpage"><math alttext="24{{\text{e}}^{ - \lambda  \times 6.1 \times {{10}^5}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>24</mn>
+<mrow>
+<msup>
+<mrow>
+<mtext>e</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mi>λ</mi>
+<mo>×</mo>
+<mn>6.1</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>5</mn>
+</msup>
+</mrow>
+</mrow>
+</msup>
+</mrow>
+</math></span> ✔</p>
+<p>5.7 × 10<sup>−7 </sup>«s<sup>–1</sup>» ✔<br/><br/></p>
+<p><em>Award<strong> [2 max]</strong> if answer is not in seconds</em></p>
+<p><em>If answer <strong>not</strong> in seconds and <strong>no</strong> unit quoted award<strong> [1 max]</strong> for correct substitution into equation (MP2)</em></p>
+<div class="question_part_label">d.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/10/","children":["← back to ","Physics"," topic ","10"]}]}],["$","h1",null,{"children":"18N.2.HL.TZ0.6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"18N"}],["$","span",null,{"children":["· ","12-2-nuclear-physics, 7-1-discrete-energy-and-radioactivity, 10-2-fields-at-work"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.ii.</div>\n</div>"}}]]}]]}]

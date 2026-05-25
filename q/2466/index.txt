@@ -1,0 +1,98 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2466","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2466","d"],{"children":["__PAGE__?{\"id\":\"2466\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2466","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T1f99,<div class="specification">
+<p>The diagram shows the axes for two inertial reference frames. Frame S represents the ground and frame S′ is a box that moves to the right relative to S with speed <em>v</em>.</p>
+<p style="text-align: center;"><img src="data:image/png;base64,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"/></p>
+</div><div class="specification">
+<p>When the origins of the two frames coincide all clocks show zero. At that instant a beam of light of speed <em>c</em> is emitted from the left wall of the box towards the right wall. The box has proper length <em>L</em>. Consider the event E = light arrives at the right wall of the box.</p>
+<p><br/>Using <strong>Galilean</strong> relativity,</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State what is meant by a reference frame.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>explain why the time coordinate of E in frame S is <span class="mjpage"><math alttext="t = \frac{L}{c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mfrac>
+<mi>L</mi>
+<mi>c</mi>
+</mfrac>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>hence show that the space coordinate of E in frame S is <span class="mjpage"><math alttext="x = L + \frac{{vL}}{c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mi>L</mi>
+<mo>+</mo>
+<mfrac>
+<mrow>
+<mi>v</mi>
+<mi>L</mi>
+</mrow>
+<mi>c</mi>
+</mfrac>
+</math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.ii.</div>
+</div>a:T5cb,<div class="question" style="padding-left: 20px;">
+<p>a set of rulers and clocks / set of coordinates to record the position and time of events ✔</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em><strong>ALTERNATIVE 1:</strong></em></p>
+<p>the time in frame S′ is <span class="mjpage"><math alttext="t' = \frac{L}{c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msup>
+<mi>t</mi>
+<mo>′</mo>
+</msup>
+<mo>=</mo>
+<mfrac>
+<mi>L</mi>
+<mi>c</mi>
+</mfrac>
+</math></span> ✔</p>
+<p>but time is absolute in Galilean relativity so is the same in S ✔</p>
+<p> </p>
+<p><em><strong>ALTERNATIVE 2:</strong></em></p>
+<p>In frame S, light rays travel at <em>c</em> + <em>v</em> ✔</p>
+<p><strong>so</strong> <span class="mjpage"><math alttext="t = \frac{L}{{\left( {c + v} \right) - v}} = \frac{L}{c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mfrac>
+<mi>L</mi>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>c</mi>
+<mo>+</mo>
+<mi>v</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mi>v</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mi>L</mi>
+<mi>c</mi>
+</mfrac>
+</math></span> ✔</p>
+<p> </p>
+<p><em>In Alternative 1, they must refer to S'</em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>x</em> = <em>x</em>' + <em>vt</em> and <em>x</em>' = <em>L</em> ✔</p>
+<p>«substitution to get answer»</p>
+<div class="question_part_label">b.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/a/","children":["← back to ","Physics"," topic ","a"]}]}],["$","h1",null,{"children":"18N.3.SL.TZ0.3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"18N"}],["$","span",null,{"children":["· ","a-1-the-beginnings-of-relativity"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div>"}}]]}]]}]

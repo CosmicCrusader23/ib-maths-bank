@@ -1,0 +1,349 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2524","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2524","d"],{"children":["__PAGE__?{\"id\":\"2524\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2524","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T441d,<div class="specification">
+<p>The <em>pV</em> diagram of a heat engine using an ideal gas consists of an isothermal expansion A → B, an isobaric compression B → C and an adiabatic compression C → A.</p>
+<p style="text-align: center;"><img src="data:image/png;base64,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"/></p>
+<p>The following data are available:</p>
+<p style="padding-left: 180px;">Temperature at A   = 385 K</p>
+<p style="padding-left: 180px;">Pressure at A         = 2.80 × 10<sup>6 </sup>Pa</p>
+<p style="padding-left: 180px;">Volume at A           = 1.00 × 10<sup>–4 </sup>m<sup>3</sup></p>
+<p style="padding-left: 180px;">Volume at B           = 2.80 × 10<sup>–4 </sup>m<sup>3</sup></p>
+<p style="padding-left: 180px;">Volume at C           = 1.85 × 10<sup>–4 </sup>m<sup>3</sup></p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that at C the pressure is 1.00 × 10<sup>6 </sup>Pa.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that at C the temperature is 254 K.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that the thermal energy transferred from the gas during the change B → C is 238 J.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The work done by the gas from A → B is 288 J. Calculate the efficiency of the cycle.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State, without calculation, during which change (A → B, B → C or C → A) the entropy of the gas decreases.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.ii.</div>
+</div>a:T15a9,<div class="question" style="padding-left: 20px;">
+<p><em><strong>ALTERNATIVE 1:</strong></em></p>
+<p><span class="mjpage"><math alttext="{P_c} = {P_B} = \frac{{{P_A}{V_A}}}{{{V_B}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>P</mi>
+<mi>c</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msub>
+<mi>P</mi>
+<mi>B</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>P</mi>
+<mi>A</mi>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>V</mi>
+<mi>A</mi>
+</msub>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msub>
+<mi>V</mi>
+<mi>B</mi>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> ✔</p>
+<p>= <span class="mjpage"><math alttext="\frac{{2.8 \times {{10}^6} \times 1 \times {{10}^{ - 4}}}}{{2.8 \times {{10}^{ - 4}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>2.8</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>6</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mn>1</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>4</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>2.8</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>4</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> «= 1.00 × 10<sup>6 </sup>Pa» ✔</p>
+<p> </p>
+<p><em><strong>ALTERNATIVE 2:</strong></em></p>
+<p><span class="mjpage"><math alttext="2.8 \times {10^6} \times {1.00^{\frac{5}{3}}} = {P_c} \times {1.85^{\frac{5}{3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2.8</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mn>6</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>1.00</mn>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msub>
+<mi>P</mi>
+<mi>c</mi>
+</msub>
+</mrow>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>1.85</mn>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+</math></span> ✔</p>
+<p><span class="mjpage"><math alttext="{P_c} = 2.8 \times {10^6} \times \frac{{{{1.00}^{\frac{5}{3}}}}}{{{{1.85}^{\frac{5}{3}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>P</mi>
+<mi>c</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<mn>2.8</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mn>6</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mn>1.00</mn>
+</mrow>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mn>1.85</mn>
+</mrow>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> «= 1.00 × 10<sup>6 </sup>Pa» ✔</p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em><strong>ALTERNATIVE 1:</strong></em></p>
+<p>Since <em>T<sub>B</sub></em> = <em>T<sub>A</sub></em> then <em>T<sub>c</sub></em> = <span class="mjpage"><math alttext="\frac{{{V_c}{T_B}}}{{{V_B}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>V</mi>
+<mi>c</mi>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>T</mi>
+<mi>B</mi>
+</msub>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msub>
+<mi>V</mi>
+<mi>B</mi>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> ✔</p>
+<p> = <span class="mjpage"><math alttext="\frac{{1.85 \times 385}}{{2.8}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>1.85</mn>
+<mo>×</mo>
+<mn>385</mn>
+</mrow>
+<mrow>
+<mn>2.8</mn>
+</mrow>
+</mfrac>
+</math></span> «= 254.4<sup> </sup>K» ✔</p>
+<p> </p>
+<p><em><strong>ALTERNATIVE 2:</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{{2.80 \times 1.00}}{{385}} = \frac{{1.00 \times 1.85}}{{{T_c}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>2.80</mn>
+<mo>×</mo>
+<mn>1.00</mn>
+</mrow>
+<mrow>
+<mn>385</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>1.00</mn>
+<mo>×</mo>
+<mn>1.85</mn>
+</mrow>
+<mrow>
+<mrow>
+<msub>
+<mi>T</mi>
+<mi>c</mi>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> «K»✔</p>
+<p><span class="mjpage"><math alttext="{T_c} = 385 \times \frac{{1.00 \times 1.85}}{{2.80}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>T</mi>
+<mi>c</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<mn>385</mn>
+<mo>×</mo>
+<mfrac>
+<mrow>
+<mn>1.00</mn>
+<mo>×</mo>
+<mn>1.85</mn>
+</mrow>
+<mrow>
+<mn>2.80</mn>
+</mrow>
+</mfrac>
+</math></span> «= 254.4<sup> </sup>K» ✔</p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>work done = «<em>p</em>Δ<em>V</em> = 1.00 × 10<sup>6</sup> × (1.85 × 10<sup>−4</sup> − 2.80 × 10<sup>−4</sup> =» −95 «J» ✔</p>
+<p>change in internal energy = «<span class="mjpage"><math alttext="\frac{3}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>3</mn>
+<mn>2</mn>
+</mfrac>
+</math></span><em>p</em>Δ<em>V</em> = −<span class="mjpage"><math alttext="\frac{3}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>3</mn>
+<mn>2</mn>
+</mfrac>
+</math></span> × 95 =» −142.5 «J» ✔</p>
+<p><em>Q</em> = −95 − 142.5 ✔</p>
+<p>«−238 J»</p>
+<p> </p>
+<p><em>Allow positive values.</em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>net work is 288 −238 = 50 «J» ✔</p>
+<p>efficiency = «<span class="mjpage"><math alttext="\frac{{288 - 238}}{{288}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>288</mn>
+<mo>−</mo>
+<mn>238</mn>
+</mrow>
+<mrow>
+<mn>288</mn>
+</mrow>
+</mfrac>
+</math></span> =» 0.17 ✔</p>
+<p> </p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>along B→C ✔</p>
+<p> </p>
+<div class="question_part_label">c.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/b/","children":["← back to ","Physics"," topic ","b"]}]}],["$","h1",null,{"children":"18N.3.SL.TZ0.7"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"18N"}],["$","span",null,{"children":["· ","b-2-thermodynamics"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.ii.</div>\n</div>"}}]]}]]}]

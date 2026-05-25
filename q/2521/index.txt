@@ -1,0 +1,195 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2521","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2521","d"],{"children":["__PAGE__?{\"id\":\"2521\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2521","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T2e6e,<div class="specification">
+<p>A planet has radius <em>R</em>. At a distance <em>h </em>above the surface of the planet the gravitational field strength is <em>g </em>and the gravitational potential is <em>V</em>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State what is meant by gravitational field strength.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <em>V </em>= –<em>g</em>(<em>R </em>+ <em>h</em>).</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Draw a graph, on the axes, to show the variation of the gravitational potential <em>V</em> of the planet with height <em>h </em>above the surface of the planet.</p>
+<p><img src="data:image/png;base64,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CSyMxcuWx5Kf/nuM3/fjeO7LftjbKRu/I0CAAAECBAiUC3S63W63d7zT6cTJ35a/t5MEhlzA34shD9h6BAgQIECAQJFA72sizxAtonKIAAECBAgQIECAQN0CikPd+dueAAECBAgQIECAQJGA4lDE5BABAgQIECBAgACBugUUh7rztz0BAgQIECBAgACBIgHFoYjJIQIECBAgQIAAAQJ1CygOdedvewIECBAgQIAAAQJFAopDEZNDBAgQIECAAAECBOoWUBzqzt/2BAgQIECAAAECBIoEFIciJocIECBAgAABAgQI1C2gONSdv+0JECBAgAABAgQIFAkoDkVMDhEgQIAAAQIECBCoW0BxqDt/2xMgQIAAAQIECBAoElAcipgcIkCAAAECBAgQIFC3gOJQd/62J0CAAAECBAgQIFAkoDgUMTlEgAABAgQIECBAoG4BxaHu/G1PgAABAgQIECBAoEhAcShicogAAQIECBAgQIBA3QKKQ935254AAQIECBAgQIBAkYDiUMTkEAECBAgQIECAAIG6BRSHuvO3PQECBAgQIECAAIEiAcWhiMkhAgQIECBAgAABAnULKA515297AgQIECBAgAABAkUCikMRk0MECBAgQIAAAQIE6hZQHOrO3/YECBAgQIAAAQIEigQUhyImhwgQIECAAAECBAjULaA41J2/7QkQIECAAAECBAgUCSgORUwOESBAgAABAgQIEKhbQHGoO3/bEyBAgAABAgQIECgSUByKmBwiQIAAAQIECBAgULeA4lB3/rYnQIAAAQIECBAgUCSgOBQxOUSAAAECBAgQIECgbgHFoe78bU+AAAECBAgQIECgSEBxKGJyiAABAgQIECBAgEDdAopD3fnbngABAgQIECBAgECRgOJQxOQQAQIECBAgQIAAgboFFIe687c9AQIECBAgQIAAgSIBxaGIySECBAgQIECAAAECdQsoDnXnb3sCBAgQIECAAAECRQKKQxGTQwQIECBAgAABAgTqFlAc6s7f9gQIECBAgAABAgSKBBSHIiaHCBAgQIAAAQIECNQtoDjUnb/tCRAgQIAAAQIECBQJKA5FTA4RIECAAAECBAgQqFtAcag7f9sTIECAAAECBAgQKBJQHIqYHCJAgAABAgQIECBQt4DiUHf+tidAgAABAgQIECBQJKA4FDE5RIAAAQIECBAgQKBuAcWh7vxtT4AAAQIECBAgQKBIQHEoYnKIAAECBAgQIECAQN0CikPd+dueAAECBAgQIECAQJGA4lDE5BABAgQIECBAgACBugUUh7rztz0BAgQIECBAgACBIgHFoYjJIQIECBAgQIAAAQJ1CygOdedvewIECBAgQIAAAQJFAopDEZNDBAgQIECAAAECBOoWUBzqzt/2BAgQIECAAAECBIoEFIciJocIECBAgAABAgQI1C2gONSdv+0JECBAgAABAgQIFAkoDkVMDhEgQIAAAQIECBCoW0BxqDt/2xMgQIAAAQIECBAoElAcipgcIkCAAAECBAgQIFC3gOJQd/62J0CAAAECBAgQIFAkoDgUMTlEgAABAgQIECBAoG4BxaHu/G1PgAABAgQIECBAoEhAcShicogAAQIECBAgQIBA3QKKQ935254AAQIECBAgQIBAkYDiUMTkEAECBAgQIECAAIG6BRSHuvO3PQECBAgQIECAAIEiAcWhiMkhAgQIECBAgAABAnULKA515297AgQIECBAgAABAkUCikMRk0MECBAgQIAAAQIE6hZQHOrO3/YECBAgQIAAAQIEigQUhyImhwgQIECAAAECBAjULaA41J2/7QkQIECAAAECBAgUCSgORUwOESBAgAABAgQIEKhbQHGoO//qtp86sif+dev66HQ6J/73la2x47nX4shUdRQWJkCAAIF5EXg3Xtq6Jjrrd8QB/5bMi6gPkldAccibjcnmW2DqF/HDB/8i/iXuiH2HfxXd7q/i8N//Xrz859+Mf/jJu/N9NR+PAAECBFog8Oqrr8Z9990XBw4cmNu0U+/GxP5fxro/+8NY7ququRl6r9YI+BRvTVQGPVuBqYM/jsd3XBXfuPtP48tLFkbEwljyB3fHAw9dFTtf/FkcO9sLeH8CBAgQaJ3ANddcE9ddd13ccccdcysQk4dj/PVLYtWyy8MXVa2L38CzFPA5Pkswx9sqMBWThw7G60uWx7LFvdIw+LUwFi9bHrHzR7HvmHvMAxUvCRAgUIvARRddFBs2bIiXX355DgViKo7t+1HsPHJVrPj82/HSjq3xlf5DYVfGXTveiMlaEO1ZjYDiUE3UtS/6URydOBhHZmI4cjAmjn400596OwECBAgMucDcCsTJf1uWvB1P73o5fn3DA/Ff3V/H/+3bGP9799/FDw58OORq1qtN4ILaFrZv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tQkQIECAAAECBAi0REBxaElQxiRAgAABAgQIECDQpIDi0KS+axMgQIAAAQIECBBoiYDi0JKgjEmAAAECBAgQIECgSQHFoUl91yZAgAABAgQIECDQEgHFoSVBGZMAAQIECBAgQIBAkwKKQ5P6rk2AAAECBAgQIECgJQKKQ0uCMiYBAgQIECBAgACBJgUUhyb1XZsAAQIECBAgQIBASwQUh5YEZUwCBAgQIECAAAECTQooDk3quzYBAgQIECBAgACBlggoDi0JypgECBAgQIAAAQIEmhRQHJrUd20CBAgQIECAAAECLRFQHFoSlDEJECBAgAABAgQINCmgODSp79oECBAgQIAAAQIEWiKgOLQkKGMSIECAAAECBAgQaFJAcWhS37UJECBAgAABAgQItERAcWhJUMYkQIAAAQIECBAg0KSA4tCkvmsTIECAAAECBAgQaImA4tCSoIxJgAABAgQIECBAoEkBxaFJfdcmQIAAAQIECBAg0BIBxaElQRmTAAECBAgQIECAQJMCikOT+q5NgAABAgQIECBAoCUCikNLgjImAQIECBAgQIAAgSYFFIcm9V2bAAECBAgQIECAQEsEFIeWBGVMAgQIECBAgAABAk0KKA5N6rs2AQIECBAgQIAAgZYIKA4tCcqYBAgQIECAAAECBJoUUBya1HdtAgQIECBAgAABAi0RUBxaEpQxCRAgQIAAAQIECDQpoDg0qe/aBAgQIECAAAECBFoioDi0JChjEiBAgAABAgQIEGhSQHFoUt+1CRAgQIAAAQIECLREQHFoSVDGJECAAAECBAgQINCkgOLQpL5rEyBAgAABAgQIEGiJgOLQkqCMSYAAAQIECBAgQKBJAcWhSX3XJkCAAAECBAgQINASAcWhJUEZkwABAgQIECBAgECTAhf0Lt7pdPozDF42OZBrEyBAgAABAgQIECCQT6BfHLrdbr7JTESAAAECBAgQIECAQBoBD1VKE4VBCBAgQIAAAQIECOQVUBzyZmMyAgQIECBAgAABAmkEFIc0URiEAAECBAgQIECAQF6B/wcoPp5s+U619gAAAABJRU5ErkJggg=="/></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.iii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>A planet has a radius of 3.1 × 10<sup>6</sup> m. At a point P a distance 2.4 × 10<sup>7</sup> m above the surface of the planet the gravitational field strength is 2.2 N kg<sup>–1</sup>. Calculate the gravitational potential at point P, include an appropriate unit for your answer.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The diagram shows the path of an asteroid as it moves past the planet.</p>
+<p>                                                                    <img alt="M18/4/PHYSI/HP2/ENG/TZ2/06.c" src="../assets/uploads/tinymce_asset/asset/4861/Schermafbeelding_2018-08-14_om_07.33.17.png"/></p>
+<p>When the asteroid was far away from the planet it had negligible speed. Estimate the speed of the asteroid at point P as defined in (b).</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The mass of the asteroid is 6.2 × 10<sup>12</sup> kg. Calculate the gravitational force experienced by the <strong>planet </strong>when the asteroid is at point P.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div>a:T14a9,<div class="question" style="padding-left: 20px;">
+<p>the <strong>«</strong>gravitational<strong>» </strong>force per unit mass exerted on a point/small/test mass</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>at height <em>h </em>potential is <em>V</em> = –<span class="mjpage"><math alttext="\frac{{GM}}{{(R + h)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>R</mi>
+<mo>+</mo>
+<mi>h</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</math></span></p>
+<p>field is <em>g </em>= <span class="mjpage"><math alttext="\frac{{GM}}{{{{(R + h)}^2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>R</mi>
+<mo>+</mo>
+<mi>h</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span></p>
+<p><strong>«</strong>dividing gives answer<strong>»</strong></p>
+<p> </p>
+<p><em>Do not allow an answer that starts with g = –</em><span class="mjpage"><math alttext="\frac{{\Delta V}}{{\Delta r}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ</mi>
+<mi>V</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">Δ</mi>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</math></span><em> and then cancels the deltas and substitutes </em><em>R </em>+ <em>h</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>correct shape and sign</p>
+<p>non-zero negative vertical intercept</p>
+<p> </p>
+<p><img alt="M18/4/PHYSI/HP2/ENG/TZ2/06.a.iii/M" src="../assets/uploads/tinymce_asset/asset/4860/Schermafbeelding_2018-08-14_om_07.26.11.png"/></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">a.iii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>V</em> = <strong>«</strong>–2.2 × (3.1 × 10<sup>6</sup> + 2.4 × 10<sup>7</sup>) =<strong>»</strong> <strong>«</strong>–<strong>»</strong> 6.0 × 10<sup>7</sup> J kg<sup>–1</sup></p>
+<p> </p>
+<p><em>Unit is essential</em></p>
+<p><em>Allow eg MJ kg<sup>–</sup></em><em><sup>1</sup> </em><em>if power of 10 is correct</em></p>
+<p><em>Allow other correct SI units eg m</em><sup><em>2</em></sup><em>s<sup>–</sup></em><sup><em>2</em></sup><em>, N m kg<sup>–</sup></em><sup><em>1</em></sup></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>total energy at P = 0 / KE gained = GPE lost</p>
+<p><strong>«</strong><span class="mjpage"><math alttext="\frac{1}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</math></span><em>mv</em><sup>2</sup> + <em>mV</em> = 0 ⇒<strong>»</strong> <em>v</em> = <span class="mjpage"><math alttext="\sqrt { - 2V} " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mo>−</mo>
+<mn>2</mn>
+<mi>V</mi>
+</msqrt>
+</math></span></p>
+<p><em>v</em> = <strong>«</strong><span class="mjpage"><math alttext="\sqrt {2 \times 6.0 \times {{10}^7}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mn>2</mn>
+<mo>×</mo>
+<mn>6.0</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>7</mn>
+</msup>
+</mrow>
+</msqrt>
+</math></span> =<strong>»</strong> 1.1 × 10<sup>4</sup> <strong>«</strong>ms<sup>–1</sup><strong>»</strong></p>
+<p> </p>
+<p> </p>
+<p><em>Award </em><strong><em>[3] </em></strong><em>for a bald correct answer</em></p>
+<p><em>Ignore negative sign errors in the workings</em></p>
+<p><em>Allow ECF from 6(b)</em></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong><em>ALTERNATIVE 1</em></strong></p>
+<p>force on asteroid is <strong>«</strong>6.2 × 10<sup>12</sup> × 2.2 =<strong>»</strong> 1.4 × 10<sup>13</sup> <strong>«</strong>N<strong>»</strong></p>
+<p><strong>«</strong>by Newton’s third law<strong>» </strong>this is also the force on the planet</p>
+<p><strong><em>ALTERNATIVE 2</em></strong></p>
+<p>mass of planet = 2.4 x 10<sup>25</sup> <strong>«</strong>kg<strong>» «</strong>from <em>V</em> = –<span class="mjpage"><math alttext="\frac{{GM}}{{(R + h)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>R</mi>
+<mo>+</mo>
+<mi>h</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</math></span><strong>»</strong></p>
+<p>force on planet <strong>«</strong><span class="mjpage"><math alttext="\frac{{GMm}}{{{{(R + h)}^2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+<mi>m</mi>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>R</mi>
+<mo>+</mo>
+<mi>h</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span><strong>»</strong> = 1.4 × 10<sup>13</sup> <strong>«</strong>N<strong>»</strong></p>
+<p> </p>
+<p><em>MP2 must be explicit</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/6/","children":["← back to ","Physics"," topic ","6"]}]}],["$","h1",null,{"children":"18M.2.HL.TZ2.6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","6-2-newtons-law-of-gravitation, 10-1-describing-fields, 10-2-fields-at-work"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.iii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

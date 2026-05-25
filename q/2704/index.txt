@@ -1,0 +1,221 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2704","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2704","d"],{"children":["__PAGE__?{\"id\":\"2704\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2704","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T49b,<div class="specification">
+<p>Muons are created at a height of 3230 m above the Earth’s surface. The muons move vertically downward at a speed of 0.980 c relative to the Earth’s surface. The gamma factor for this speed is 5.00. The half-life of a muon in its rest frame is 2.20 μs.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Estimate in the Earth frame the fraction of the original muons that will reach the Earth’s surface before decaying according to Newtonian mechanics.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Estimate in the Earth frame the fraction of the original muons that will reach the Earth’s surface before decaying according to special relativity.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Demonstrate how an observer moving with the same velocity as the muons accounts for the answer to (a)(ii).</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div>a:Teb9,<div class="question" style="padding-left: 20px;">
+<p>time of travel is «<span style="background-color:#ffffff;"><span class="mjpage"><math alttext="\frac{{3230}}{{0.98 \times 3.0 \times {{10}^8}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>3230</mn>
+</mrow>
+<mrow>
+<mn>0.98</mn>
+<mo>×</mo>
+<mn>3.0</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>8</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span></span>» = 1.10 × 10<sup>−5</sup> «s» ✔</p>
+<p>which is «<span style="background-color:#ffffff;"><span class="mjpage"><math alttext="\frac{{1.10 \times {{10}^{ - 5}}}}{{2.20 \times {{10}^{ - 6}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>1.10</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>2.20</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>6</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span></span>» = 5.0 half-lives ✔</p>
+<p>so fraction arriving as muons is « <span style="background-color:#ffffff;"><span class="mjpage"><math alttext="\frac{1}{{{2^5}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<msup>
+<mn>2</mn>
+<mn>5</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span></span> » = <span class="mjpage"><math alttext="\frac{1}{32}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>32</mn>
+</mfrac>
+</math></span></p>
+<p><em><strong>OR</strong></em></p>
+<p>3 % ✔</p>
+<p><em>Award<strong> [3]</strong> for a bald correct answer</em>.</p>
+<p> </p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>time of travel corresponds to «<span style="background-color:#ffffff;"><span class="mjpage"><math alttext="\frac{{1.10 \times {{10}^{ - 5}}}}{{5.0 \times 2.20 \times {{10}^{ - 6}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>1.10</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>5.0</mn>
+<mo>×</mo>
+<mn>2.20</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>6</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span></span>» = 1.0 half-life ✔</p>
+<p>so fraction arriving as muons is <span class="mjpage"><math alttext="\frac{1}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</math></span></p>
+<p><em><strong>OR</strong></em></p>
+<p>50 % ✔</p>
+<p><em>Award<strong> [2]</strong> for a bald correct answer</em>.</p>
+<p> </p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>observer measures the distance to the surface to be shorter «by a factor of 5.0»/ length contraction occurs ✔</p>
+<p>so time of travel again corresponds to «<span style="background-color:#ffffff;"><span class="mjpage"><math alttext="\frac{{\left( {\frac{{\frac{{3230}}{{5.0}}}}{{0.98 \times 3.0 \times {{10}^8}}}} \right)}}{{\left( {2.20 \times {{10}^{ - 6}}} \right)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mfrac>
+<mrow>
+<mn>3230</mn>
+</mrow>
+<mrow>
+<mn>5.0</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mn>0.98</mn>
+<mo>×</mo>
+<mn>3.0</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>8</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>2.20</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>6</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mfrac>
+</math></span></span>»= 1.0 half-life ✔</p>
+<div class="question_part_label">b.</div>
+</div>b:T40b,<div class="question" style="padding-left: 20px;">
+<p>Muons. The problem of muons created above the Earth surface moving almost at the speed of light, explicitly mentioned in the Guide, was solved well by prepared candidates. In i) many correctly calculated the time of travel in the earth’s frame though some struggled to recognize and apply the decay half-life aspect of this problem.</p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Students who correctly answered part i) did so in ii).</p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Some candidates struggled in b), with only the best candidates identified length contraction. Importantly, the command term here is “demonstrate” which means students must make their response clear by reasoning or evidence. Many who identified length contraction did not provide adequate reasoning to gain full marks.</p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/a/","children":["← back to ","Physics"," topic ","a"]}]}],["$","h1",null,{"children":"19M.3.SL.TZ1.4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","a-2-lorentz-transformations, a-1-the-beginnings-of-relativity"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

@@ -1,0 +1,105 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2442","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2442","d"],{"children":["__PAGE__?{\"id\":\"2442\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2442","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T613,<div class="specification">
+<p>The attenuation values for fat and muscle at different X-ray energies are shown.</p>
+<p style="text-align: center;"><img alt="M18/4/PHYSI/HP3/ENG/TZ2/15.b" src="../assets/uploads/tinymce_asset/asset/4863/Schermafbeelding_2018-08-14_om_09.40.21.png"/></p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Outline the formation of a B scan in medical ultrasound imaging.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State what is meant by half-value thickness in X-ray imaging.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>A monochromatic X-ray beam of energy 20 keV and intensity <em>I</em><sub>0</sub> penetrates 5.00 cm of fat and then 4.00 cm of muscle.</p>
+<p>                             <img alt="M18/4/PHYSI/HP3/ENG/TZ2/X15.b.ii" src="../assets/uploads/tinymce_asset/asset/4868/Schermafbeelding_2018-08-14_om_10.35.20.png"/></p>
+<p>Calculate, in terms of <em>I</em><sub>0</sub>, the final beam intensity that emerges from the muscle.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Compare the use of high and low energy X-rays for medical imaging.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.iii.</div>
+</div>a:Tb89,<div class="question" style="padding-left: 20px;">
+<p>many/array of transducers send ultrasound through body/object</p>
+<p>B scan made from many A scans in different directions</p>
+<p>the reflection from organ boundaries gives rise to position</p>
+<p>the amplitude/size gives brightness to the B scan</p>
+<p>2D/3D image formed <strong>«</strong>by computer<strong>»</strong></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>the thickness of tissue that reduces the intensity <strong>«</strong>of the X-rays<strong>» </strong>by a half</p>
+<p><strong><em>OR</em></strong></p>
+<p><span class="mjpage"><math alttext="{x_{\frac{1}{2}}} = \frac{{\ln 2}}{\mu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>x</mi>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mi>ln</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+</mrow>
+<mi>μ</mi>
+</mfrac>
+</math></span> where <span class="mjpage"><math alttext="{x_{\frac{1}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>x</mi>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</msub>
+</mrow>
+</math></span> is the half value thickness and <em>μ</em> is attenuation coefficient</p>
+<p> </p>
+<p><em>Symbols must be defined for mark to be </em><em>awarded</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>after fat layer, <em>I</em><sub>fat</sub> = <em>I</em><sub>0</sub><em>e</em><sup>–0.4499 × 5.00</sup></p>
+<p>after muscle layer, <em>I</em> =<em> I<sub>fat</sub></em><em>e</em><sup>–0.8490 × 4.00</sup></p>
+<p><em>I</em> = 0.003533 <em>I</em><sub>0</sub> <strong><em>or </em></strong>0.35%</p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>«</strong>high energies factors:<strong>»</strong></p>
+<p>less attenuation/more penetration</p>
+<p>more damage to the body</p>
+<p> </p>
+<p><strong>«</strong>so<strong>» </strong>stronger signal leaves the body</p>
+<p><strong><em>OR</em></strong></p>
+<p><strong>«</strong>so<strong>» </strong>used in <strong>«</strong>most<strong>» </strong>medical imaging techniques</p>
+<p> </p>
+<p><strong>«</strong>low energy factors:<strong>»</strong></p>
+<p>must be used with enhancement techniques</p>
+<p>greater attenuation/less penetration</p>
+<p> </p>
+<p><strong>«</strong>so<strong>» </strong>more damage to the body <strong>«</strong>on surface layers<strong>»</strong></p>
+<p><strong><em>OR</em></strong></p>
+<p><strong>«</strong>so<strong>» </strong>unwanted in <strong>«</strong>most<strong>» </strong>medical imaging techniques</p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">b.iii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/c/","children":["← back to ","Physics"," topic ","c"]}]}],["$","h1",null,{"children":"18M.3.HL.TZ2.15"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","c-4-medical-imaging"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.iii.</div>\n</div>"}}]]}]]}]

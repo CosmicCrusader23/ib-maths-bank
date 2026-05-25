@@ -1,0 +1,130 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2437","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2437","d"],{"children":["__PAGE__?{\"id\":\"2437\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2437","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T4a6,<div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The Sun is a second generation star. Outline, with reference to the Jeans criterion (M<sub>J</sub>), how the Sun is likely to have been formed.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Suggest how fluctuations in the cosmic microwave background (CMB) radiation are linked to the observation that galaxies collide.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that the critical density of the universe is</p>
+<p><span class="mjpage mjpage__block"><math alttext="\frac{{3{H^2}}}{{8\pi G}}" display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>H</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>8</mn>
+<mi>π</mi>
+<mi>G</mi>
+</mrow>
+</mfrac>
+</math></span></p>
+<p>where <em>H</em> is the Hubble parameter and <em>G</em> is the gravitational constant.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div>a:Tcf7,<div class="question" style="padding-left: 20px;">
+<p>interstellar gas/dust «from earlier supernova»</p>
+<p>gravitational attraction between particles</p>
+<p>if the mass is greater than the Jean’s mass/M<sub>j</sub> the interstellar gas coalesces</p>
+<p>as gas collapses temperature increases leading to nuclear fusion</p>
+<p><em>MP3 can be expressed in terms of potential and kinetic energy</em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>fluctuations in CMB due to differences in temperature/mass/density</p>
+<p>during the inflationary period/epoch/early universe</p>
+<p>leading to the formation of galaxies/stars/structures</p>
+<p>gravitational interaction between galaxies can lead to collision</p>
+<p><em><strong>[Max 3 Marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em><strong>ALTERNATIVE 1</strong></em></p>
+<p>kinetic energy of galaxy <span class="mjpage"><math alttext="\frac{1}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</math></span><em>mv</em><sup>2</sup> = <span class="mjpage"><math alttext="\frac{1}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</math></span><em>mH</em><sup>2</sup><em>r</em><sup>2</sup> «uses Hubble’s law»</p>
+<p>potential energy = <span class="mjpage"><math alttext="\frac{{GMm}}{r}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+<mi>m</mi>
+</mrow>
+<mi>r</mi>
+</mfrac>
+</math></span> = <em>G</em><span class="mjpage"><math alttext="\frac{4}{3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>4</mn>
+<mn>3</mn>
+</mfrac>
+</math></span><span class="mjpage"><math alttext="\pi " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>π</mi>
+</math></span><em>r</em><sup>3</sup><span class="mjpage"><math alttext="\rho \frac{m}{r}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>ρ</mi>
+<mfrac>
+<mi>m</mi>
+<mi>r</mi>
+</mfrac>
+</math></span> «introduces density»</p>
+<p>KE=PE to get expression for critical <span class="mjpage"><math alttext="\rho " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>ρ</mi>
+</math></span></p>
+<p> </p>
+<p><em><strong>ALTERNATIVE 2</strong></em></p>
+<p>escape velocity of distant galaxy <em>v</em> = <span class="mjpage"><math alttext="\sqrt {\frac{{2GM}}{r}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+<mi>r</mi>
+</mfrac>
+</msqrt>
+</math></span></p>
+<p>where <em>H</em><sub>0</sub><em>r</em> = <span class="mjpage"><math alttext="\sqrt {\frac{{2GM}}{r}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+<mi>r</mi>
+</mfrac>
+</msqrt>
+</math></span></p>
+<p>substitutes <em>M</em> =  <span class="mjpage"><math alttext="\frac{4}{3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>4</mn>
+<mn>3</mn>
+</mfrac>
+</math></span><span class="mjpage"><math alttext="\pi " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>π</mi>
+</math></span><em>r</em><sup>3</sup><span class="mjpage"><math alttext="\rho " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>ρ</mi>
+</math></span> to get result</p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/d/","children":["← back to ","Physics"," topic ","d"]}]}],["$","h1",null,{"children":"17N.3.HL.TZ0.20"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"17N"}],["$","span",null,{"children":["· ","d-4-stellar-processes, d-5-further-cosmology"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

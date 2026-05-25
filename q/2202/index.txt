@@ -1,0 +1,174 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2202","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2202","d"],{"children":["__PAGE__?{\"id\":\"2202\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2202","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T630,<div class="specification">
+<p>A spectral line in the light received from a distant galaxy shows a redshift of <em>z</em> = 0.16.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State <strong>two</strong> characteristics of the cosmic microwave background (CMB) radiation.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The present temperature of the CMB is 2.8 K. Calculate the peak wavelength of the CMB.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Describe how the CMB provides evidence for the Hot Big Bang model of the universe.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine the distance to this galaxy using a value for the Hubble constant of H<sub>0</sub> = 68 km s<sup>–1</sup><span class="mjpage"><math alttext="\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+</math></span>Mpc<sup>–1</sup>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Estimate the size of the Universe relative to its present size when the light was emitted by the galaxy in (c).</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.ii.</div>
+</div>a:Tccd,<div class="question" style="padding-left: 20px;">
+<p>black body radiation / 3 K</p>
+<p>highly isotropic / uniform throughout<br/><em><strong>OR</strong></em><br/>filling the universe</p>
+<p> </p>
+<p><em>Do not accept: CMB provides evidence for the Big Bang model.</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«<span class="mjpage"><math alttext="\lambda  = \frac{{2.9 \times {{10}^{ - 3}}}}{{2.8}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>2.9</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>2.8</mn>
+</mrow>
+</mfrac>
+</math></span>» ≈ 1.0 «mm»</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>the universe is <strong>expanding</strong> and so the wavelength of the CMB in the past was much smaller</p>
+<p>indicating a very high temperature at the beginning</p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«<span class="mjpage"><math alttext="z = \frac{v}{c} \Rightarrow " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>z</mi>
+<mo>=</mo>
+<mfrac>
+<mi>v</mi>
+<mi>c</mi>
+</mfrac>
+<mo stretchy="false">⇒</mo>
+</math></span>» <em>v</em> = 0.16 × 3 × 10<sup>5 </sup>«= 0.48 × 10<sup>5 </sup>km<span class="mjpage"><math alttext="\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+</math></span>s<sup>−1</sup>»</p>
+<p>«<span class="mjpage"><math alttext="d = \frac{v}{{{H_0}}} \Rightarrow v = \frac{{0.48 \times {{10}^5}}}{{68}} = 706" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+<mo>=</mo>
+<mfrac>
+<mi>v</mi>
+<mrow>
+<mrow>
+<msub>
+<mi>H</mi>
+<mn>0</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo stretchy="false">⇒</mo>
+<mi>v</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>0.48</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>5</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>68</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>706</mn>
+</math></span>» ≈ 710 «Mpc»</p>
+<p> </p>
+<p><em>Award <strong>[1 max]</strong> for POT error.</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="z = \frac{R}{{{R_0}}} - 1 \Rightarrow \frac{R}{{{R_0}}} = 1.16" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>z</mi>
+<mo>=</mo>
+<mfrac>
+<mi>R</mi>
+<mrow>
+<mrow>
+<msub>
+<mi>R</mi>
+<mn>0</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">⇒</mo>
+<mfrac>
+<mi>R</mi>
+<mrow>
+<mrow>
+<msub>
+<mi>R</mi>
+<mn>0</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>1.16</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\frac{{{R_0}}}{R} = 0.86" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>R</mi>
+<mn>0</mn>
+</msub>
+</mrow>
+</mrow>
+<mi>R</mi>
+</mfrac>
+<mo>=</mo>
+<mn>0.86</mn>
+</math></span></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">c.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/d/","children":["← back to ","Physics"," topic ","d"]}]}],["$","h1",null,{"children":"17M.3.SL.TZ1.10"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","d-3-cosmology, d-2-stellar-characteristics-and-stellar-evolution"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.ii.</div>\n</div>"}}]]}]]}]

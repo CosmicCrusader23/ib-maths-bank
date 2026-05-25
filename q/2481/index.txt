@@ -1,0 +1,215 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2481","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2481","d"],{"children":["__PAGE__?{\"id\":\"2481\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2481","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:Tc2f,<div class="specification">
+<p>A beam of coherent monochromatic light from a distant galaxy is used in an optics experiment on Earth.</p>
+</div><div class="specification">
+<p>The beam is incident normally on a double slit. The distance between the slits is 0.300 mm. A screen is at a distance <em>D </em>from the slits. The diffraction angle <em>θ </em>is labelled.</p>
+<p style="text-align: center;"><img alt="M18/4/PHYSI/SP2/ENG/TZ1/03.a" src="../assets/uploads/tinymce_asset/asset/4685/Schermafbeelding_2018-08-10_om_17.53.34.png"/></p>
+</div><div class="specification">
+<p>The graph of variation of intensity with diffraction angle for this experiment is shown.</p>
+<p style="text-align: center;"><img alt="M18/4/PHYSI/HP2/ENG/TZ1/03.b" src="../assets/uploads/tinymce_asset/asset/4801/Schermafbeelding_2018-08-13_om_12.36.49.png"/></p>
+</div><div class="specification">
+<p>A beam of coherent monochromatic light from a distant galaxy is used in an optics experiment on Earth.</p>
+</div><div class="specification">
+<p>The beam is incident normally on a double slit. The distance between the slits is 0.300 mm. A screen is at a distance <em>D </em>from the slits. The diffraction angle <em>θ </em>is labelled.</p>
+<p style="text-align: center;"><img alt="M18/4/PHYSI/SP2/ENG/TZ1/03.a" src="../assets/uploads/tinymce_asset/asset/4685/Schermafbeelding_2018-08-10_om_17.53.34.png"/></p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>A series of dark and bright fringes appears on the screen. Explain how a dark fringe is formed.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Outline why the beam has to be coherent in order for the fringes to be visible.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The wavelength of the beam as observed on Earth is 633.0 nm. The separation between a dark and a bright fringe on the screen is 4.50 mm. Calculate <em>D</em>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.iii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the angular separation between the central peak and the missing peak in the double-slit interference intensity pattern. State your answer to an appropriate number of significant figures.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Deduce, in mm, the width of one slit.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The wavelength of the light in the beam when emitted by the galaxy was 621.4 nm.</p>
+<p>Explain, without further calculation, what can be deduced about the relative motion of the galaxy and the Earth.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div>a:T111a,<div class="question" style="padding-left: 20px;">
+<p>superposition of light from each slit / interference of light from both slits</p>
+<p>with path/phase difference of any half-odd multiple of wavelength/any odd multiple of <span class="mjpage"><math alttext="\pi " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>π</mi>
+</math></span> (in words or symbols)</p>
+<p>producing destructive interference</p>
+<p> </p>
+<p><em>Ignore any reference to crests and troughs.</em></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>light waves (from slits) must have constant phase difference / no phase difference / be in phase</p>
+<p> </p>
+<p><em>OWTTE</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>evidence of solving for <em>D </em>«<em>D</em> <span class="mjpage"><math alttext=" = \frac{{sd}}{\lambda }" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mi>s</mi>
+<mi>d</mi>
+</mrow>
+<mi>λ</mi>
+</mfrac>
+</math></span>» ✔</p>
+<p>«<span class="mjpage"><math alttext="\frac{{4.50 \times {{10}^{ - 3}} \times 0.300 \times {{10}^{ - 3}}}}{{633.0 \times {{10}^{ - 9}}}} \times 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>4.50</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>×</mo>
+<mn>0.300</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>633.0</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>9</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mn>2</mn>
+</math></span>» = 4.27 «m» ✔</p>
+<p> </p>
+<p><em>Award <strong>[1]</strong> max for 2.13 m.</em></p>
+<div class="question_part_label">a.iii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>sin <em>θ</em> = <span class="mjpage"><math alttext="\frac{{4 \times 633.0 \times {{10}^{ - 9}}}}{{0.300 \times {{10}^{ - 3}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mo>×</mo>
+<mn>633.0</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>9</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>0.300</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span></p>
+<p>sin <em>θ</em> = 0.0084401…</p>
+<p>final answer to three sig figs (<em>eg </em>0.00844 or 8.44 × 10<sup>–3</sup>)</p>
+<p> </p>
+<p><em>Allow ECF from (a)(iii).</em></p>
+<p><em>Award </em><strong><em>[1] </em></strong><em>for 0.121 rad (can award MP3 in addition for proper sig fig)</em></p>
+<p><em>Accept calculation in degrees leading to 0.481 degrees.</em></p>
+<p><em>Award MP3 for any answer expressed to 3sf.</em></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>use of diffraction formula <strong>«</strong><em>b</em> = <span class="mjpage"><math alttext="\frac{\lambda }{\theta }" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mi>λ</mi>
+<mi>θ</mi>
+</mfrac>
+</math></span><strong>»</strong></p>
+<p><strong><em>OR</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{633.0 \times {{10}^{ - 9}}}}{{0.00844}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>633.0</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>9</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>0.00844</mn>
+</mrow>
+</mfrac>
+</math></span></p>
+<p><strong>«</strong>=<strong>»</strong> 7.5<strong>«</strong>00<strong>»</strong> × 10<sup>–2</sup><strong> «</strong>mm<strong>»</strong></p>
+<p> </p>
+<p><em>Allow ECF from (b)(i).</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>wavelength increases (so frequency decreases) / light is redshifted</p>
+<p>galaxy is moving away from Earth</p>
+<p> </p>
+<p><em>Allow ECF for MP2 (ie wavelength decreases so moving towards).</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/9/","children":["← back to ","Physics"," topic ","9"]}]}],["$","h1",null,{"children":"18M.2.HL.TZ1.3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","4-2-travelling-waves, 9-3-interference, 9-5-doppler-effect"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.iii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

@@ -1,0 +1,54 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2513","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2513","d"],{"children":["__PAGE__?{\"id\":\"2513\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2513","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T432,<div class="specification">
+<p>A closed box of fixed volume 0.15 m<sup>3</sup> contains 3.0 mol of an ideal monatomic gas. The temperature of the gas is 290 K.</p>
+</div><div class="specification">
+<p>When the gas is supplied with 0.86 kJ of energy, its temperature increases by 23 K. The specific heat capacity of the gas is 3.1 kJ kg<sup>–1</sup> K<sup>–1</sup>.</p>
+</div><div class="specification">
+<p>A closed box of fixed volume 0.15 m<sup>3</sup> contains 3.0 mol of an ideal monatomic gas. The temperature of the gas is 290 K.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine, in kJ, the total kinetic energy of the particles of the gas.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Explain, with reference to the kinetic model of an ideal gas, how an increase in temperature of the gas leads to an increase in pressure.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div>a:T621,<div class="question" style="padding-left: 20px;">
+<p><strong><em>ALTERNATIVE 1</em></strong></p>
+<p>average kinetic energy = <span class="mjpage"><math alttext="\frac{3}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>3</mn>
+<mn>2</mn>
+</mfrac>
+</math></span>1.38 × 10<sup>–23</sup> × 313 = 6.5 × 10<sup>–21</sup><strong> «</strong>J<strong>»</strong></p>
+<p>number of particles = 3.0 × 6.02 × 10<sup>23</sup> = 1.8 × 10<sup>24</sup></p>
+<p>total kinetic energy = 1.8 × 10<sup>24</sup> × 6.5 × 10<sup>–21</sup> = 12 <strong>«</strong>kJ<strong>»</strong></p>
+<p> </p>
+<p><strong><em>ALTERNATIVE 2</em></strong></p>
+<p>ideal gas so <em>U</em> =<em> KE</em></p>
+<p><em>KE</em> = <span class="mjpage"><math alttext="\frac{3}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>3</mn>
+<mn>2</mn>
+</mfrac>
+</math></span>8.31 × 131 × 3</p>
+<p>total kinetic energy = 12 <strong>«</strong>kJ<strong>»</strong></p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>larger temperature implies larger (average) speed/larger (average) KE of molecules/particles/atoms</p>
+<p>increased force/momentum transferred to walls (per collision) / more frequent collisions with walls</p>
+<p>increased force leads to increased pressure because P = F/A (as area remains constant)</p>
+<p> </p>
+<p><em>Ignore any mention of PV = nRT.</em></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/3/","children":["← back to ","Physics"," topic ","3"]}]}],["$","h1",null,{"children":"18M.2.HL.TZ1.2"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","3-2-modelling-a-gas"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

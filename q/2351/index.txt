@@ -1,0 +1,148 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2351","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2351","d"],{"children":["__PAGE__?{\"id\":\"2351\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2351","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T8a2,<div class="specification">
+<p>An optic fibre of length 185 km has an attenuation of 0.200 dB km<sup>–1</sup>. The input power to the cable is 400.0 μW. The output power from the cable must not fall below 2.0 μW.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>An optic fibre of refractive index 1.4475 is surrounded by air. The critical angle for the core – air boundary interface is 44°. Suggest, with a calculation, why the use of cladding with refractive index 1.4444 improves the performance of the optic fibre.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the maximum attenuation allowed for the signal.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>An amplifier can increase the power of the signal by 12 dB. Determine the minimum number of amplifiers required.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The graph shows the variation with wavelength of the refractive index of the glass from which the optic fibre is made.</p>
+<p>                                           <img alt="M18/4/PHYSI/SP3/ENG/TZ2/10.b.ii" src="../assets/uploads/tinymce_asset/asset/4774/Schermafbeelding_2018-08-13_om_09.07.29.png"/></p>
+<p>Two light rays enter the fibre at the same instant along the axes. Ray A has a wavelength of <em>λ</em><sub>A</sub> and ray B has a wavelength of <em>λ</em><sub>B</sub>. Discuss the effect that the difference in wavelength has on the rays as they pass along the fibre.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.iii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>In many places clad optic fibres are replacing copper cables. State <strong>one </strong>example of how fibre optic technology has impacted society.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div>a:Tcb6,<div class="question" style="padding-left: 20px;">
+<p>sin <em>c</em> = <span class="mjpage"><math alttext="\frac{{1.4444}}{{1.4475}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>1.4444</mn>
+</mrow>
+<mrow>
+<mn>1.4475</mn>
+</mrow>
+</mfrac>
+</math></span> <strong><em>or</em></strong> sin <em>c</em> = 0.9978</p>
+<p>critical angle = 86.2<strong>«</strong>°<strong>»</strong></p>
+<p>with cladding only rays travelling nearly parallel to fibre axis are transmitted</p>
+<p><strong><em>OR</em></strong></p>
+<p>pulse broadening/dispersion will be reduced</p>
+<p> </p>
+<p><em>OWTTE</em></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attenuation = <strong>«</strong>10 log<span class="mjpage"><math alttext="\frac{I}{{{I_0}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mi>I</mi>
+<mrow>
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>0</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</math></span><strong>»</strong> = 10 log<span class="mjpage"><math alttext="\frac{{2.0 \times {{10}^{ - 6}}}}{{400 \times {{10}^{ - 6}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>2.0</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>6</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>400</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>6</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span></p>
+<p>attenuation = <strong>«</strong>–<strong>»</strong>23<strong> «</strong>dB<strong>»</strong></p>
+<p> </p>
+<p><em>Accept 10 log</em><span class="mjpage"><math alttext="\frac{{400}}{{2.0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>400</mn>
+</mrow>
+<mrow>
+<mn>2.0</mn>
+</mrow>
+</mfrac>
+</math></span><em> for first marking point</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>185 × 0.200 = 37 loss over length of cable</p>
+<p><strong>«</strong><span class="mjpage"><math alttext="\frac{{37 - 23}}{{12}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>37</mn>
+<mo>−</mo>
+<mn>23</mn>
+</mrow>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+</math></span> = 1.17<strong>»</strong> so two amplifiers are sufficient</p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>mention of material dispersion</p>
+<p>mention that rays become separated in time</p>
+<p><strong><em>OR</em></strong></p>
+<p>mention that ray A travels slower/arrives later than ray B</p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.iii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>high bandwidth/data transfer rates</p>
+<p>low distortion/Low noise/Faithful reproduction</p>
+<p>high security</p>
+<p>fast <strong>«</strong>fibre<strong>» </strong>broadband/internet</p>
+<p>high quality optical audio</p>
+<p>medical endoscopy</p>
+<p> </p>
+<p><em>Allow any other verifiable sensible advantage</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/c/","children":["← back to ","Physics"," topic ","c"]}]}],["$","h1",null,{"children":"18M.3.SL.TZ2.10"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","c-3-fibre-optics"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.iii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

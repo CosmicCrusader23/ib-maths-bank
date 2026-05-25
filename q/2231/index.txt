@@ -1,0 +1,84 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2231","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2231","d"],{"children":["__PAGE__?{\"id\":\"2231\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2231","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T706,<div class="question" style="padding-left: 20px;">
+<p><em>f</em> = «<span class="mjpage"><math alttext="\frac{E}{h} = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mi>E</mi>
+<mi>h</mi>
+</mfrac>
+<mo>=</mo>
+</math></span>» <span class="mjpage"><math alttext="\frac{{14\,400 \times 1.6 \times {{10}^{ - 19}}}}{{6.63 \times {{10}^{ - 34}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>14</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>400</mn>
+<mo>×</mo>
+<mn>1.6</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>19</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>6.63</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>34</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> = «3.475 × 10<sup>18 </sup>Hz»</p>
+<p>Δ<em>f = </em>«<span class="mjpage"><math alttext="\frac{{g \times \Delta h \times f}}{{{c^2}}} \approx " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mi>g</mi>
+<mo>×</mo>
+<mi mathvariant="normal">Δ</mi>
+<mi>h</mi>
+<mo>×</mo>
+<mi>f</mi>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mi>c</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+<mo>≈</mo>
+</math></span>» 8550 «Hz»</p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«as the photon moves away from the Earth, » it has to spend energy to overcome the gravitational field</p>
+<p>since <em>E = h</em><span class="mjpage"><math alttext="\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+</math></span><em>f</em>, the detected frequency would be lower «than the emitted frequency»</p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/a/","children":["← back to ","Physics"," topic ","a"]}]}],["$","h1",null,{"children":"17M.3.HL.TZ1.6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","a-5-general-relativity"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"specification\">\n<p>In an experiment a source of iron-57 emits gamma rays of energy 14.4 ke V. A detector placed 22.6 m vertically above the source measures the frequency of the gamma rays.</p>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Calculate the expected shift in frequency between the emitted and the detected gamma rays.</p>\n<div class=\"marks\">[2]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Explain whether the detected frequency would be greater or less than the emitted frequency.</p>\n<div class=\"marks\">[2]</div>\n<div class=\"question_part_label\">b.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

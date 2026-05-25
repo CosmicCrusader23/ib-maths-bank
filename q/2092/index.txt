@@ -1,0 +1,216 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2092","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2092","d"],{"children":["__PAGE__?{\"id\":\"2092\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2092","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T7e0,<div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Police use radar to detect speeding cars. A police officer stands at the side of the road and points a radar device at an approaching car. The device emits microwaves which reflect off the car and return to the device. A change in frequency between the emitted and received microwaves is measured at the radar device.</p>
+<p>The frequency change Δ<em>f</em> is given by</p>
+<p><span class="mjpage mjpage__block"><math alttext="\Delta f = \frac{{2fv}}{c}" display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi mathvariant="normal">Δ</mi>
+<mi>f</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>f</mi>
+<mi>v</mi>
+</mrow>
+<mi>c</mi>
+</mfrac>
+</math></span></p>
+<p>where <em>f</em> is the transmitter frequency, <em>v</em> is the speed of the car and <em>c</em> is the wave speed.</p>
+<p>The following data are available.</p>
+
+
+
+Transmitter frequency <em>f</em>
+= 40 GHz
+
+
+Δ<em>f</em>
+= 9.5 kHz
+
+
+Maximum speed allowed
+= 28 m s<sup>–1</sup>
+<p> </p>
+<p>(i) Explain the reason for the frequency change.</p>
+<p>(ii) Suggest why there is a factor of 2 in the frequency-change equation.</p>
+<p>(iii) Determine whether the speed of the car is below the maximum speed allowed.</p>
+<div class="marks">[6]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Airports use radar to track the position of aircraft. The waves are reflected from the aircraft and detected by a large circular receiver. The receiver must be able to resolve the radar images of two aircraft flying close to each other.</p>
+<p>The following data are available.</p>
+
+
+
+Diameter of circular radar receiver
+= 9.3 m
+
+
+Wavelength of radar
+= 2.5 cm
+
+
+Distance of two aircraft from the airport
+= 31 km
+
+
+
+<p> </p>
+<p>Calculate the minimum distance between the two aircraft when their images can just be resolved.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div>a:Tebb,<div class="question" style="padding-left: 20px;">
+<p>i<br/>mention of Doppler effect<br/><em><strong>OR</strong></em><br/>«relative» motion between source and observer produces frequency/wavelength change<br/><em>Accept answers which refer to a double frequency shift.</em><br/><em>Award <strong>[0]</strong> if there is any suggestion that the wave speed is changed in the process.</em><br/><br/>the reflected waves come from an approaching “source” <br/><em><strong>OR</strong></em><br/>the incident waves strike an approaching “observer”</p>
+<p>increased frequency received «by the device <em><strong>or</strong></em> by the car»</p>
+<p><br/><br/>ii<br/>the car is a moving “observer” and then a moving “source”, so the Doppler effect occurs twice<br/><em><strong>OR</strong></em><br/>the reflected radar appears to come from a “virtual image” of the device travelling at 2 v towards the device</p>
+<p> </p>
+<p>iii<br/><strong>ALTERNATIVE 1</strong><br/><em>For both alternatives, allow ecf to conclusion if v <strong>OR</strong> Δf are incorrectly calculated.</em></p>
+<p><em>v</em> = «<span class="mjpage"><math alttext="\frac{{\left( {3 \times {{10}^8}} \right) \times \left( {9.5 \times {{10}^3}} \right)}}{{\left( {40 \times {{10}^9}} \right) \times 2}} = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>3</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>8</mn>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>×</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>9.5</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>40</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>9</mn>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>×</mo>
+<mn>2</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+</math></span>» 36 «ms<sup>–1</sup>»</p>
+<p>«36&gt; 28» so car exceeded limit<br/><em>There must be a sense of a conclusion even if numbers are not quoted.</em></p>
+<p><strong>ALTERNATIVE 2</strong><br/><em>reverse argument using speed limit.</em></p>
+<p><span class="mjpage"><math alttext="\Delta f = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi mathvariant="normal">Δ</mi>
+<mi>f</mi>
+<mo>=</mo>
+</math></span> «<span class="mjpage"><math alttext="\frac{{2 \times 40 \times {{10}^9} \times 28}}{{3 \times {{10}^8}}} = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mo>×</mo>
+<mn>40</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>9</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mn>28</mn>
+</mrow>
+<mrow>
+<mn>3</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>8</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+</math></span>» 7500 «Hz»</p>
+<p>« 9500&gt; 7500» so car exceeded limit<br/><em>There must be a sense of a conclusion even if numbers are not quoted.</em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="x = \frac{{31 \times {{10}^3} \times 1.22 \times 2.5 \times {{10}^{ - 2}}}}{{9.3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>31</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mn>1.22</mn>
+<mo>×</mo>
+<mn>2.5</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>9.3</mn>
+</mrow>
+</mfrac>
+</math></span><em><br/>Award <strong>[2]</strong> for a bald correct answer.</em><br/><em>Award <strong>[1 max]</strong> for POT error.</em></p>
+<p>100 «m»<br/><em>Award <strong>[1 max]</strong> for 83m (omits 1.22).</em></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/9/","children":["← back to ","Physics"," topic ","9"]}]}],["$","h1",null,{"children":"16N.2.HL.TZ0.6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","9-5-doppler-effect, 9-4-resolution"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

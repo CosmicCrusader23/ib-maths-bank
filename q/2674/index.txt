@@ -1,0 +1,230 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2674","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2674","d"],{"children":["__PAGE__?{\"id\":\"2674\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2674","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:T787,<div class="specification">
+<p><span style="background-color: #ffffff;">The following data are available for the Cepheid variable δ-Cephei.<br/></span></p>
+<p><span style="background-color: #ffffff;">Peak luminosity = 7.70 × 10<sup>29</sup> W<br/></span></p>
+<p><span style="background-color: #ffffff;">Distance from Earth = 273 pc<br/></span></p>
+<p><span style="background-color: #ffffff;">Peak wavelength of light = 4.29 × 10<sup>–7</sup> m</span></p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color:#ffffff;">Outline the processes that produce the change of luminosity with time of Cepheid variables.</span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">ai.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color:#ffffff;">Explain how Cepheid variables are used to determine distances.</span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">aii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color:#ffffff;">Determine the peak apparent brightness of δ-Cephei as observed from Earth.</span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">bi.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color:#ffffff;">Calculate the peak surface temperature of δ-Cephei.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">bii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color:#ffffff;">Astronomers claim to know the properties of distant stars. Outline how astronomers can be certain that their measurement methods yield correct information.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div>a:T1d8f,<div class="question" style="padding-left: 20px;">
+<p><span style="background-color:#ffffff;">Cepheid variables expand and contract<br/></span></p>
+<p><span style="background-color:#ffffff;"><em><strong>OR</strong></em><br/></span></p>
+<p><span style="background-color:#ffffff;">Radius increases and decreases<br/></span></p>
+<p><span style="background-color:#ffffff;"><em><strong>OR</strong></em><br/></span></p>
+<p><span style="background-color:#ffffff;">Surface area increases and decreases ✔<br/></span></p>
+<p><span style="background-color:#ffffff;">Surface temperature decreases then increases✔<br/></span></p>
+<p><span style="background-color:#ffffff;">Surface becomes transparent then opaque ✔</span></p>
+<p><em><span style="background-color:#ffffff;"><span style="background-color:#ffffff;">OWTTE<br/></span></span></em></p>
+<p><em><span style="background-color:#ffffff;"><span style="background-color:#ffffff;">Do not reward ‘change in luminosity/brightness’ as this is given in the question.<br/></span></span></em></p>
+<p><em><span style="background-color:#ffffff;"><span style="background-color:#ffffff;">Accept changes in reverse order</span></span></em></p>
+<div class="question_part_label">ai.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color:#ffffff;">the «peak» luminosity/actual brightness depends on the period<br/></span></p>
+<p><span style="background-color:#ffffff;"><em><strong>OR</strong></em><br/></span></p>
+<p><span style="background-color:#ffffff;">More luminous Cepheid variables have greater period✔<br/></span></p>
+<p><span style="background-color:#ffffff;">measurements of apparent brightness allow distance determination<br/></span></p>
+<p><span style="background-color:#ffffff;"><em><strong>OR</strong></em><br/></span></p>
+<p><span style="background-color:#ffffff;">Mention of <img height="41" src="data:image/png;base64,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" width="72"/>✔</span></p>
+<p><em><span style="background-color:#ffffff;">OWTTE</span></em></p>
+<div class="question_part_label">aii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color:#ffffff;"><span class="mjpage"><math alttext="d = « 273 \times 3.26 \times 9.46 \times {10^{15}} =» 8.42 \times {10^{18}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+<mo>=</mo>
+<mrow>
+<mo>«</mo>
+</mrow>
+<mn>273</mn>
+<mo>×</mo>
+<mn>3.26</mn>
+<mo>×</mo>
+<mn>9.46</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow>
+<mn>15</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>»</mo>
+</mrow>
+<mn>8.42</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow>
+<mn>18</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>«m»  ✔</span></p>
+<p><span style="background-color:#ffffff;"><span class="mjpage"><math alttext="b = « \frac{L}{{4\pi {d^2}}} = \frac{{7.70 \times {{10}^{29}}}}{{4\pi {{(8.42 \times {{10}^{18}})}^2}}} =» 8.6 \times {10^{ - 10}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+<mo>=</mo>
+<mrow>
+<mo>«</mo>
+</mrow>
+<mfrac>
+<mi>L</mi>
+<mrow>
+<mn>4</mn>
+<mi>π</mi>
+<mrow>
+<msup>
+<mi>d</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>7.70</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mn>29</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>4</mn>
+<mi>π</mi>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>8.42</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mn>18</mn>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mrow>
+<mo>»</mo>
+</mrow>
+<mn>8.6</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow>
+<mo>−</mo>
+<mn>10</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>«Wm<sup>–2</sup>»  <span style="display:inline !important;float:none;background-color:#ffffff;color:#000000;font-family:Verdana , Arial , Helvetica , sans-serif;font-size:14px;font-style:normal;font-variant:normal;font-weight:400;letter-spacing:normal;text-align:left;text-decoration:none;text-indent:0px;white-space:normal;">✔</span></span></p>
+<p> </p>
+<div class="question_part_label">bi.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«<span style="background-color:#ffffff;"><span class="mjpage"><math alttext="T = \frac{{2.9 \times {{10}^{ - 3}}}}{{4.29 \times {{10}^{ - 7}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>T</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>2.9</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>4.29</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>7</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span>»</span></p>
+<p><span style="background-color:#ffffff;">=6800«K»  ✔</span></p>
+<div class="question_part_label">bii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color:#ffffff;">Data subject to peer review/checks by others ✔<br/></span></p>
+<p><span style="background-color:#ffffff;">Compare light from stars with Earth based light sources ✔<br/></span></p>
+<p><span style="background-color:#ffffff;">measurements are corroborated by different instruments/methods from different teams ✔</span></p>
+<p><span style="background-color:#ffffff;"><em>OWTTE</em><br/></span></p>
+<div class="question_part_label">c.</div>
+</div>b:T5ec,<div class="question" style="padding-left: 20px;">
+<p>The expansion and contraction of Cepheid stars was commonly mentioned. Changes in surface temperature and opacity were less commonly mentioned. A common misconception seems to be that the variation of luminosity is due to a change of the rate of fusion. A few candidates left this question unanswered.</p>
+<div class="question_part_label">ai.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Many candidates knew that if the luminosity of the Cepheid is known then the absolute brightness can be used to determine distance. But far fewer candidates could link luminosity with the period of the Cepheid star. Many seemed to think that the luminosity of all Cepheids is the same.</p>
+<div class="question_part_label">aii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Calculating the brightness of a star from its luminosity was an easy question for most candidates. But quite a few did not convert parsecs into metres especially at SL.</p>
+<div class="question_part_label">bi.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>This simple calculation using Wien’s law was very well answered.</p>
+<div class="question_part_label">bii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Many candidates correctly stated that astronomers can use peer review or different methods in checking that the information obtained from stars is correct.</p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/d/","children":["← back to ","Physics"," topic ","d"]}]}],["$","h1",null,{"children":"19M.3.SL.TZ2.13"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","d-2-stellar-characteristics-and-stellar-evolution, d-1-stellar-quantities"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

@@ -1,0 +1,90 @@
+{
+  "subject": "physics",
+  "label": "Physics",
+  "topics": [
+    {
+      "id": "1",
+      "name": "Measurements and uncertainties",
+      "count": 78
+    },
+    {
+      "id": "2",
+      "name": "Mechanics",
+      "count": 185
+    },
+    {
+      "id": "3",
+      "name": "Thermal physics",
+      "count": 95
+    },
+    {
+      "id": "4",
+      "name": "Waves",
+      "count": 138
+    },
+    {
+      "id": "5",
+      "name": "Electricity and magnetism",
+      "count": 145
+    },
+    {
+      "id": "6",
+      "name": "Circular motion and gravitation",
+      "count": 66
+    },
+    {
+      "id": "7",
+      "name": "Atomic, nuclear and particle physics",
+      "count": 120
+    },
+    {
+      "id": "8",
+      "name": "Energy production",
+      "count": 80
+    },
+    {
+      "id": "9",
+      "name": "Wave phenomena (HL)",
+      "count": 86
+    },
+    {
+      "id": "10",
+      "name": "Fields (HL)",
+      "count": 63
+    },
+    {
+      "id": "11",
+      "name": "Electromagnetic induction (HL)",
+      "count": 84
+    },
+    {
+      "id": "12",
+      "name": "Quantum and nuclear physics (HL)",
+      "count": 81
+    },
+    {
+      "id": "a",
+      "name": "Option A — Relativity",
+      "count": 56
+    },
+    {
+      "id": "b",
+      "name": "Option B — Engineering physics",
+      "count": 48
+    },
+    {
+      "id": "c",
+      "name": "Option C — Imaging",
+      "count": 46
+    },
+    {
+      "id": "d",
+      "name": "Option D — Astrophysics",
+      "count": 53
+    }
+  ],
+  "sources": {
+    "pestle": 1424
+  },
+  "total": 1424
+}

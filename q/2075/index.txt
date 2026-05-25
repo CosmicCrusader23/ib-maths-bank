@@ -1,0 +1,87 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2075","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2075","d"],{"children":["__PAGE__?{\"id\":\"2075\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2075","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:Taed,<div class="question">
+<p>i<br/>«intermolecular» potential energy/PE of an ideal gas is zero/negligible<br/><br/></p>
+<p>ii<br/><strong>THIS IS FOR USE WITH AN ENGLISH SCRIPT ONLY</strong><br/>use of <span class="mjpage"><math alttext="T = \frac{{PV}}{{nR}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>T</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mi>P</mi>
+<mi>V</mi>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mi>R</mi>
+</mrow>
+</mfrac>
+</math></span> <em><strong>or</strong></em> <span class="mjpage"><math alttext="T = \frac{{1.4 \times 21}}{{0.46 \times 8.31}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>T</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>1.4</mn>
+<mo>×</mo>
+<mn>21</mn>
+</mrow>
+<mrow>
+<mn>0.46</mn>
+<mo>×</mo>
+<mn>8.31</mn>
+</mrow>
+</mfrac>
+</math></span><br/><em>Award mark for correct re-arrangement as shown here not for quotation of Data Booklet version.</em><br/><em>Award <strong>[2]</strong> for a bald correct answer in K.</em><br/><em>Award <strong>[2 max]</strong> if correct 7.7 K seen followed by –265°C and mark BOD. However, if only –265°C seen, award <strong>[1 max]</strong>.</em><br/><br/>7.7K<br/><em>Do not penalise use of “°K”</em><br/><br/></p>
+<p>ii<br/><strong>THIS IS FOR USE WITH A SPANISH SCRIPT ONLY</strong><br/><span class="mjpage"><math alttext="T = \frac{{PV}}{{nR}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>T</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mi>P</mi>
+<mi>V</mi>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mi>R</mi>
+</mrow>
+</mfrac>
+</math></span><br/><em>Award mark for correct re-arrangement as shown here not for quotation of Data Booklet version.</em></p>
+<p><span class="mjpage"><math alttext="T = \frac{{1.4 \times 2.1 \times {{10}^{ - 6}}}}{{0.46 \times 8.31}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>T</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>1.4</mn>
+<mo>×</mo>
+<mn>2.1</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>6</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>0.46</mn>
+<mo>×</mo>
+<mn>8.31</mn>
+</mrow>
+</mfrac>
+</math></span><br/><em>Uses correct unit conversion for volume</em></p>
+<p>T = 7.7×10<sup>-6</sup>K<br/><em>Award <strong>[2]</strong> for a bald correct answer in K. Finds solution. Allow an ECF from MP2 if unit not converted, ie candidate uses 21m3 and obtains 7.7 K</em><br/><em>Do not penalise use of “°K”</em></p>
+<p> </p>
+<p>iii<br/>«models used to»<br/>predict/hypothesize / lead to further theories<br/><em>Response needs to identify <strong>two</strong> different reasons. (<strong>N.B.</strong> only one in SL).</em></p>
+<p>explain / help with understanding / help to visualize<br/><em>Do not allow any response that is gas specific. The question is couched in general, nature of science terms and must be answered as such.</em></p>
+<p>simulate<br/>simplify/approximate</p>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/3/","children":["← back to ","Physics"," topic ","3"]}]}],["$","h1",null,{"children":"16N.2.HL.TZ0.3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","3-2-modelling-a-gas"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n<p>0.46 mole of an ideal monatomic gas is trapped in a cylinder. The gas has a volume of 21 m<sup>3</sup> and a pressure of 1.4 Pa.</p>\n<p>(i) State how the internal energy of an ideal gas differs from that of a real gas.</p>\n<p>(ii) Determine, in kelvin, the temperature of the gas in the cylinder.</p>\n<p>(iii) The kinetic theory of ideal gases is one example of a scientific model. Identify <strong>two</strong> reasons why scientists find such models useful.</p>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n[N/A]\n</div>"}}]]}]]}]

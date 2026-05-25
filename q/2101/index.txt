@@ -1,0 +1,101 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-bc1850a9b0069ffe.js","878","static/chunks/app/q/%5Bid%5D/page-6cd68aaa82b966ec.js"],""]
+7:I[9896,["234","static/chunks/234-bc1850a9b0069ffe.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","2101","d"]
+0:["Gs3v-rWwOEe99iKJ9m69X",[[["",{"children":["q",{"children":[["id","2101","d"],{"children":["__PAGE__?{\"id\":\"2101\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","2101","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Subjects"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+9:Tb40,<div class="question" style="padding-left: 20px;">
+<p>the «gravitational» work done «by an external agent» per/on unit mass/kg</p>
+<p><em>Allow definition in terms of reverse process of moving mass to infinity eg “work done on external agent by…”.<br/>Allow “energy” as equivalent to “work done”</em></p>
+<p>in moving a «small» mass from infinity to the «surface of» planet / to a point</p>
+<p><em><strong>N.B</strong>.: on SL paper Q5(a)(i) and (ii) is about “gravitational field”.</em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>i<br/>escape speed<br/><em>Care with ECF from MP1.</em></p>
+<p><em>v</em> = «<span class="mjpage"><math alttext="\sqrt {\left( {\frac{{2\,{\text{GM}}}}{R}} \right)}  = " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>GM</mtext>
+</mrow>
+</mrow>
+<mi>R</mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</msqrt>
+<mo>=</mo>
+</math></span>»</p>
+<p><span class="mjpage"><math alttext="\sqrt {\left( {\frac{{2 \times 6.67 \times {{10}^{ - 11}} \times 4.87 \times {{10}^{24}}}}{{6.05 \times {{10}^6}}}} \right)} " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mo>×</mo>
+<mn>6.67</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>11</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>×</mo>
+<mn>4.87</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mn>24</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>6.05</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>6</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</msqrt>
+</math></span> <em><strong>or</strong></em> 1.04×10<sup>4</sup>«<em>m s<sup>–</sup></em><sup>1</sup>»<br/><br/><em><strong>or</strong></em> «1.1 × 1.04 × 10<sup>4 </sup>m s<sup>-1</sup>»= 1.14 × 10<sup>4 </sup>«m s<em><sup>–</sup></em><sup>1</sup>»</p>
+<p>KE = «0.5 × 3500 × (1.1 × 1.04 × 10<sup>4 </sup>m s<em><sup>–</sup></em><sup>1</sup>)<sup>2 </sup>=» 2.27×10<sup>11 </sup>«J»</p>
+<p><em>Award <strong>[1 max]</strong> for omission of 1.1 – leads to 1.88×10<sup>11 </sup>m s<sup>-1</sup>.</em><br/><em>Award <strong>[2]</strong> for a bald correct answer.</em></p>
+<p> </p>
+<p>ii<br/>Velocity/speed decreases / projectile slows down «at decreasing rate»</p>
+<p>«magnitude of» deceleration decreases «at decreasing rate»<br/><em>Mention of deceleration scores MP1 automatically.</em></p>
+<p>velocity becomes constant/non-zero <br/><em><strong>OR</strong></em><br/>deceleration tends to zero</p>
+<p><em>Accept “negative acceleration” for “deceleration”.</em></p>
+<p><em>Must see “velocity” not “speed” for MP3.</em></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/physics/topic/10/","children":["← back to ","Physics"," topic ","10"]}]}],["$","h1",null,{"children":"16N.2.HL.TZ0.7"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Physics"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","10-2-fields-at-work"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Explain what is meant by the gravitational potential at the surface of a planet.</p>\n<div class=\"marks\">[2]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>An unpowered projectile is fired vertically upwards into deep space from the surface of planet Venus. Assume that the gravitational effects of the Sun and the other planets are negligible.</p>\n<p>The following data are available.</p>\n\n\n\nMass of Venus\n= 4.87×10<sup>24</sup> kg\n\n\nRadius of Venus\n= 6.05×10<sup>6</sup> m\n\n\nMass of projectile\n= 3.50×10<sup>3</sup> kg\n\n\nInitial speed of projectile\n= 1.10×escape speed\n\n\n\n<p> </p>\n<p>(i) Determine the initial kinetic energy of the projectile.</p>\n<p>(ii) Describe the subsequent motion of the projectile until it is effectively beyond the gravitational field of Venus.</p>\n<div class=\"marks\">[5]</div>\n<div class=\"question_part_label\">b.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]
