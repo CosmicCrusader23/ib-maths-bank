@@ -1,0 +1,52 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","6781","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","6781","d"],{"children":["__PAGE__?{\"id\":\"6781\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","6781","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T569,<div class="specification">
+<p><span style="background-color: #ffffff;">Amino acids contain both acidic and basic functional groups.</span></p>
+</div><div class="specification">
+<p><span style="background-color: #ffffff;">An aqueous solution of glutamine contains 0.600 mol dm<sup>−3</sup> of the zwitterion and 0.300 mol dm<sup>−3</sup> of the anionic form.</span></p>
+<p><span style="background-color: #ffffff;">     pK<sub>a1</sub> = 2.2 and pK<sub>a2</sub> = 9.1</span></p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Outline which pK<sub>a</sub> value should be used when calculating the pH of the solution, giving your reason.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a(i).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Calculate the pH of the glutamine solution using section 1 of the data booklet.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a(ii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Describe what is meant by the genetic code and how it relates to protein synthesis.</span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div>b:T591,<div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">pK<sub>a2</sub> <em><strong>AND</strong> </em>pH of solution &gt; pH of isoelectric point «as anion present»<br/><em><strong>OR</strong></em><br/>pK<sub>a2</sub> <em><strong>AND</strong> </em>zwitterion has lost H<sup>+</sup> to become anion «so in basic solution»<br/><em><strong>OR</strong></em><br/>pK<sub>a2</sub> <em><strong>AND</strong> </em>«only» anion «and zwitterion» present   <strong>[✔]</strong></span></p>
+<div class="question_part_label">a(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">«pH = 9.1 + log <span class="mjpage"><math alttext="\left[ {\frac{{0.30}}{{0.60}}} \right]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>[</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>0.30</mn>
+</mrow>
+<mrow>
+<mn>0.60</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>]</mo>
+</mrow>
+</math></span> »<br/>«= 9.1 + (–0.3)» = 8.8  <strong>[✔]</strong></span></p>
+<div class="question_part_label">a(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">sequence of bases in DNA  <strong>[✔]</strong></span></p>
+<p><span style="background-color: #ffffff;">codon/triplet code/each set of three bases codes for an amino acid  <strong>[✔]</strong></span></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/b/","children":["← back to ","Chemistry"," topic ","b"]}]}],["$","h1",null,{"children":"19M.3.HL.TZ2.10"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","b-7-proteins-and-enzymes, b-8-nucleic-acids"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n<p>Several candidates stated correctly that pK<sub>a2</sub> should be used with a reason whereas others wrote pKa1, which was incorrect.</p>\n<div class=\"question_part_label\">a(i).</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n<p>Majority of the candidates calculated correctly the pH of the glutamine solution while other candidates managed the ECF mark from part a (i).</p>\n<div class=\"question_part_label\">a(ii).</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n<p>This part was poorly answered by many candidates and was unable to state that genetic code is a sequence of bases in DNA and each codon codes for an amino acid. Often complex answers were written which were incorrect.</p>\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

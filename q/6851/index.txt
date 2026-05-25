@@ -1,0 +1,124 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","6851","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","6851","d"],{"children":["__PAGE__?{\"id\":\"6851\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","6851","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T348c,<div class="specification">
+<p>Magnesium is a group 2 metal which exists as a number of isotopes and forms many compounds.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State the nuclear symbol notation, <span class="mjpage"><math alttext="{}_Z^AX" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mi>Z</mi>
+<mi>A</mi>
+</msubsup>
+<mi>X</mi>
+</math></span>, for magnesium-26.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Mass spectroscopic analysis of a sample of magnesium gave the following results:</p>
+<p><img alt="" src="data:image/png;base64,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"/></p>
+<p>Calculate the relative atomic mass, <em>A</em><sub>r</sub>, of this sample of magnesium to two decimal places.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Magnesium burns in air to form a white compound, magnesium oxide. Formulate an equation for the reaction of magnesium oxide with water.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Describe the trend in acid-base properties of the oxides of period 3, sodium to chlorine.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>In addition to magnesium oxide, magnesium forms another compound when burned in air. Suggest the formula of this compound</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Describe the structure and bonding in solid magnesium oxide.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Magnesium chloride can be electrolysed.</p>
+<p>Deduce the half-equations for the reactions at each electrode when <strong>molten</strong> magnesium chloride is electrolysed, showing the state symbols of the products. The melting points of magnesium and magnesium chloride are 922 K and 987 K respectively.</p>
+<p>Anode (positive electrode):</p>
+<p>Cathode (negative electrode):</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">g.</div>
+</div>b:Tca5,<div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{}_{12}^{26}{\rm{Mg}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mn>12</mn>
+</mrow>
+<mrow>
+<mn>26</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mrow>
+<mi mathvariant="normal">M</mi>
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</math></span></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«Ar =»<span class="mjpage"><math alttext="\frac{{24 \times 78.60 + 25 \times 10.11 + 26 \times 11.29}}{{100}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>24</mn>
+<mo>×</mo>
+<mn>78.60</mn>
+<mo>+</mo>
+<mn>25</mn>
+<mo>×</mo>
+<mn>10.11</mn>
+<mo>+</mo>
+<mn>26</mn>
+<mo>×</mo>
+<mn>11.29</mn>
+</mrow>
+<mrow>
+<mn>100</mn>
+</mrow>
+</mfrac>
+</math></span></p>
+<p>«= 24.3269 =» 24.33</p>
+<p><em>Award <strong>[2]</strong> for correct final answer.</em><br/><em>Do <strong>not</strong> accept data booklet value (24.31).</em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>MgO(s) + H<sub>2</sub>O(l) → Mg(OH)<sub>2</sub>(s)</p>
+<p><em><strong>OR</strong></em></p>
+<p>MgO(s) + H<sub>2</sub>O(l) → Mg<sup><sub>2</sub>+</sup>(aq) + 2OH<sup>–</sup>(aq)</p>
+<p><em>Accept</em> <span class="mjpage"><math alttext=" \rightleftharpoons " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇌</mo>
+</math></span>.</p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>from basic to acidic</p>
+<p>through amphoteric</p>
+<p><em>Accept “alkali/alkaline” for “basic”. <br/>Accept “oxides of Na and Mg: basic <strong>AND</strong> oxide of Al: amphoteric” for M1. <br/>Accept “oxides of non-metals/Si to Cl acidic” for M2. <br/>Do <strong>not</strong> accept just “become more acidic”</em></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Mg<sub>3</sub>N<sub>2</sub></p>
+<p><em>Accept MgO<sub>2</sub>, Mg(OH)<sub>2</sub>, Mg(NOx)<sub>2</sub>, MgCO<sub>3</sub>.</em></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«3-D/giant» regularly repeating arrangement «of ions»<br/><em><strong>OR <br/></strong></em>lattice «of ions»<br/><em>Accept “giant” for M1, unless “giant covalent” stated.</em></p>
+<p>electrostatic attraction between oppositely charged ions<br/><em><strong>OR<br/></strong></em>electrostatic attraction between Mg<sup>2+</sup> and O<sup>2–</sup> ions<br/><em>Do <strong>not</strong> accept “ionic” without description.</em></p>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>Anode (positive electrode):<br/></em>2Cl<sup>–</sup> → Cl<sub>2</sub>(g) + 2e<sup>–</sup></p>
+<p><em>Cathode (negative electrode):<br/></em>Mg<sup>2+</sup> + 2e<sup>–</sup> → Mg(l)</p>
+<p><em>Penalize missing/incorrect state symbols at Cl<sub>2</sub> and Mg once only.<br/>Award <strong>[1 max]</strong> if equations are at wrong electrodes.<br/>Accept Mg (g).</em></p>
+<p> </p>
+<div class="question_part_label">g.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/3/","children":["← back to ","Chemistry"," topic ","3"]}]}],["$","h1",null,{"children":"16N.2.SL.TZ0.4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","2-1-the-nuclear-atom, 1-1-introduction-to-the-particulate-nature-of-matter-and-chemical-change, 3-2-periodic-trends, 9-1-oxidation-and-reduction, 4-1-ionic-bonding-and-structure"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">f.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">g.</div>\n</div>"}}]]}]]}]

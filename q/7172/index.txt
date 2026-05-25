@@ -1,0 +1,364 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","7172","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","7172","d"],{"children":["__PAGE__?{\"id\":\"7172\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","7172","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T9ad,<div class="specification">
+<p>Calcium carbonate reacts with hydrochloric acid.</p>
+<p style="text-align: center;">CaCO<sub>3</sub>(s) + 2HCl(aq) → CaCl<sub>2</sub>(aq) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g)</p>
+</div><div class="specification">
+<p>The results of a series of experiments in which the concentration of HCl was varied are shown below.</p>
+<p style="text-align: center;"><img alt="M18/4/CHEMI/HP2/ENG/TZ1/X04.b" src="../assets/uploads/tinymce_asset/asset/4466/Schermafbeelding_2018-08-07_om_11.18.37.png"/></p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Outline <strong>two </strong>ways in which the progress of the reaction can be monitored. No practical details are required.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Suggest why point D is so far out of line assuming human error is not the cause.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Draw the best fit line for the reaction excluding point D.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Suggest the relationship that points A, B and C show between the concentration of the acid and the rate of reaction.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.iii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Deduce the rate expression for the reaction.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.iv.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the rate constant of the reaction, stating its units.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.v.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Predict from your line of best fit the rate of reaction when the concentration of HCl is 1.00 mol dm<sup>−3</sup>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Describe how the activation energy of this reaction could be determined.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.</div>
+</div>b:T1c88,<div class="question" style="padding-left: 20px;">
+<p><em>Any two of:</em></p>
+<p>loss of mass <strong>«</strong>of reaction mixture/CO<sub>2</sub><strong>»</strong></p>
+<p><strong>«</strong>increase in<strong>» </strong>volume of gas produced</p>
+<p>change of conductivity</p>
+<p>change of pH</p>
+<p>change in temperature</p>
+<p> </p>
+<p><em>Do </em><strong><em>not </em></strong><em>accept “disappearance of </em><em>calcium carbonate”.</em></p>
+<p><em>Do </em><strong><em>not </em></strong><em>accept “gas bubbles”.</em></p>
+<p><em>Do </em><strong><em>not </em></strong><em>accept “colour change” or </em><em>“indicator”.</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>reaction is fast at high concentration <strong><em>AND </em></strong>may be difficult to measure accurately</p>
+<p><strong><em>OR</em></strong></p>
+<p>so many bubbles of CO<sub>2</sub> produced that inhibit contact of HCl(aq) with CaCO<sub>3</sub>(s)</p>
+<p><strong><em>OR</em></strong></p>
+<p>insufficient change in conductivity/pH at high concentrations</p>
+<p><strong><em>OR</em></strong></p>
+<p>calcium carbonate has been used up/is limiting reagent/ there is not enough calcium carbonate <strong>«</strong>to react with the high concentration of HCl<strong>»</strong></p>
+<p><strong><em>OR</em></strong></p>
+<p>HCl is in excess</p>
+<p><strong><em>OR</em></strong></p>
+<p>so many bubbles of CO<sub>2</sub> produced that inhibit contact of HCl(aq) with CaCO<sub>3</sub>(s)</p>
+<p> </p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><img alt="M18/4/CHEMI/HP2/ENG/TZ1/04.b.ii/M" src="../assets/uploads/tinymce_asset/asset/4487/Schermafbeelding_2018-08-07_om_14.39.56.png"/></p>
+<p>straight line going through the origin <strong><em>AND </em></strong>as close to A, B, C as is reasonably possible</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>«</strong>directly<strong>»</strong> proportional</p>
+<p> </p>
+<p><em>Accept “first order” or “linear”.</em></p>
+<p><em>Do </em><strong><em>not </em></strong><em>accept “rate increases as </em><em>concentration increases” or “positive </em><em>correlation”.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">b.iii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>rate = <em>k </em>[H<sup>+</sup>]</p>
+<p> </p>
+<p><em>Accept “rate =</em><em> </em><em>k [HCl]”.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">b.iv.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>0.02</p>
+<p>s<sup>–1</sup></p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.v.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>20.5 <span class="mjpage"><math alttext=" \times " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>×</mo>
+</math></span> 10<sup>–3</sup> <strong>«</strong>mol dm<sup>–3</sup> s<sup>–1</sup><strong>»</strong></p>
+<p> </p>
+<p><em>Accept any answer in the range </em><em>19.5–21.5.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong><em>ALTERNATIVE 1:</em></strong></p>
+<p>carry out reaction at several temperatures</p>
+<p>plot <span class="mjpage"><math alttext="\frac{1}{{\text{T}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mtext>T</mtext>
+</mrow>
+</mfrac>
+</math></span> against log rate constant</p>
+<p><em>E</em><sub>a</sub> = – gradient <span class="mjpage"><math alttext=" \times " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>×</mo>
+</math></span> R</p>
+<p> </p>
+<p><strong><em>ALTERNATIVE 2:</em></strong></p>
+<p>carry out reaction at two temperatures</p>
+<p> </p>
+<p>determine two rate constants</p>
+<p><strong><em>OR</em></strong></p>
+<p>determine the temperature coefficient of the rate</p>
+<p> </p>
+<p>use the formula  <span class="mjpage"><math alttext="\ln \frac{{{k_1}}}{{{k_2}}} = \frac{{{E_{\text{a}}}}}{R}\left( {\frac{1}{{{T_2}}} - \frac{1}{{{T_1}}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>ln</mi>
+<mo>⁡</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>k</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msub>
+<mi>k</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>E</mi>
+<mrow>
+<mtext>a</mtext>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+<mi>R</mi>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<msub>
+<mi>T</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<msub>
+<mi>T</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span></p>
+<p> </p>
+<p> </p>
+<p><em>Accept “gradient </em>= <span class="mjpage"><math alttext="\frac{{ - {E_{\text{a}}}}}{R}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mrow>
+<msub>
+<mi>E</mi>
+<mrow>
+<mtext>a</mtext>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+<mi>R</mi>
+</mfrac>
+</math></span><em>” for M3.</em></p>
+<p><em>Award both M2 and M3 for the formula  </em><span class="mjpage"><math alttext="{\text{ln}}\frac{{rat{e_1}}}{{rat{e_2}}} = \frac{{{E_{\text{a}}}}}{R}\left( {\frac{1}{{{T_2}}} - \frac{1}{{{T_1}}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>ln</mtext>
+</mrow>
+<mfrac>
+<mrow>
+<mi>r</mi>
+<mi>a</mi>
+<mi>t</mi>
+<mrow>
+<msub>
+<mi>e</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</mrow>
+<mrow>
+<mi>r</mi>
+<mi>a</mi>
+<mi>t</mi>
+<mrow>
+<msub>
+<mi>e</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>E</mi>
+<mrow>
+<mtext>a</mtext>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+<mi>R</mi>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<msub>
+<mi>T</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<msub>
+<mi>T</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>.</p>
+<p><em>Accept any variation of the formula, </em><em>such as </em><span class="mjpage"><math alttext="\frac{{rat{e_1}}}{{rat{e_2}}} = {e^{ - \frac{{{E_{\text{a}}}}}{R}\left( {\frac{1}{{{T_1}}} - \frac{1}{{{T_2}}}} \right)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mi>r</mi>
+<mi>a</mi>
+<mi>t</mi>
+<mrow>
+<msub>
+<mi>e</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</mrow>
+<mrow>
+<mi>r</mi>
+<mi>a</mi>
+<mi>t</mi>
+<mrow>
+<msub>
+<mi>e</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>E</mi>
+<mrow>
+<mtext>a</mtext>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+<mi>R</mi>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<msub>
+<mi>T</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<msub>
+<mi>T</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+</msup>
+</mrow>
+</math></span>.</p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/16/","children":["← back to ","Chemistry"," topic ","16"]}]}],["$","h1",null,{"children":"18M.2.HL.TZ1.4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","6-1-collision-theory-and-rates-of-reaction, 11-2-graphical-techniques, 16-1-rate-expression-and-reaction-mechanism, 16-2-activation-energy"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.iii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.iv.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.v.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

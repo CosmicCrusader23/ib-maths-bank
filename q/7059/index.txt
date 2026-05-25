@@ -1,0 +1,57 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","7059","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","7059","d"],{"children":["__PAGE__?{\"id\":\"7059\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","7059","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T9e2,<div class="question" style="padding-left: 20px;">
+<p><em>Any two of:</em></p>
+<p>CO<sub>2 </sub>(g) <span class="mjpage"><math alttext="\mathop  \rightleftharpoons \limits^{{{\text{H}}_{\text{2}}}{\text{O}}\,{\text{(l)}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mo stretchy="false">⇌</mo>
+</mrow>
+<mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>H</mtext>
+</mrow>
+<mrow>
+<mtext>2</mtext>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mtext>O</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>(l)</mtext>
+</mrow>
+</mrow>
+</mover>
+</math></span> CO<sub>2 </sub>(aq)  </p>
+<p>CO<sub>2 </sub>(aq) + H<sub>2</sub>O (l) <span class="mjpage"><math alttext=" \rightleftharpoons " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇌</mo>
+</math></span> H<sup>+</sup> (aq) + HCO<sub>3</sub><sup>–</sup> (aq)<br/><em><strong>OR<br/></strong></em>HCO<sub>3</sub><sup>–</sup> <em><strong>AND</strong></em> H<sup>+</sup> are formed «by dissolved CO<sub>2</sub>»</p>
+<p>«increasing [CO<sub>2</sub>]» shifts equilibrium to right/increases acidity/decreases pH</p>
+<p><em>H<sub>2</sub>O (l) not required over equilibrium sign for M1.</em></p>
+<p><em>State symbols required in the equation in M1.</em></p>
+<p><em>Accept “H<sub>2</sub>CO<sub>3</sub> ” at either side of the equilibrium in M2. </em></p>
+<p><em>Equilibrium sign required for M1 but <strong>not</strong> for M2.</em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>i</p>
+<p>bond length/C=O changes<br/><em><strong>OR<br/></strong></em>«asymmetric» stretching «of bonds»<br/><em><strong>OR<br/></strong></em>bond angle/OCO changes</p>
+<p><em>Accept “molecule bends” for M1.<br/>Accept appropriate diagrams</em></p>
+<p>photon re-emitted in random direction<br/><em><strong>OR<br/></strong></em>polarity/dipole «moment» changes<br/><em><strong>OR<br/></strong></em>dipole «moment» created «when molecule absorbs IR» </p>
+<p> </p>
+<p>ii</p>
+<p>CO<sub>2</sub> gas «ten times» more effective as greenhouse gas/GHG than H<sub>2</sub>O<br/><em><strong>OR<br/></strong></em>CO<sub>2</sub> gas levels keep increasing «unlike H<sub>2</sub>O»<br/><em><strong>OR<br/></strong></em>CO<sub>2</sub> has higher Global Warming Potential/GWP than H<sub>2</sub>O<br/><em><strong>OR<br/></strong></em>CO<sub>2</sub> stays in the atmosphere for longer than H<sub>2</sub>O </p>
+<p><em>Accept converse arguments.</em></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/c/","children":["← back to ","Chemistry"," topic ","c"]}]}],["$","h1",null,{"children":"16N.3.SL.TZ0.13"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","c-5-environmental-impact—global-warming"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"specification\">\n<p>Carbon dioxide and water vapour are greenhouse gases produced by the combustion of fossil fuels.</p>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Explain the effect of the increasing concentration of atmospheric carbon dioxide on the acidity of oceans.</p>\n<div class=\"marks\">[2]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>(i) Describe the changes that occur at the molecular level when atmospheric carbon dioxide gas absorbs infrared radiation emitted from the Earth’s surface.</p>\n<p>(ii) Other than changes to the acidity of oceans, suggest why the production of carbon dioxide is of greater concern than the production of water vapour.</p>\n<div class=\"marks\">[3]</div>\n<div class=\"question_part_label\">b.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

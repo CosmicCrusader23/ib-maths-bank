@@ -1,0 +1,127 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","7418","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","7418","d"],{"children":["__PAGE__?{\"id\":\"7418\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","7418","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T79b,<div class="question" style="padding-left: 20px;">
+<p>all «species» are in same phase ✔</p>
+<p> </p>
+<p><em>Accept “all species are in same state”.</em></p>
+<p><em>Accept “all species are gases”.</em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«reaction quotient/<em>Q</em> =» <span class="mjpage"><math alttext="\frac{{{{\left[ {{\text{S}}{{\text{O}}_3}} \right]}^2}}}{{{{\left[ {{\text{S}}{{\text{O}}_2}} \right]}^2}\left[ {{{\text{O}}_2}} \right]}}{\text{/}}\frac{{{{0.500}^2}}}{{{{0.200}^2} \times 0.300}}{\text{/}}20.8" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow>
+<mtext>S</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>O</mtext>
+</mrow>
+<mn>3</mn>
+</msub>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow>
+<mtext>S</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>O</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>O</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mrow>
+</mfrac>
+<mrow>
+<mtext>/</mtext>
+</mrow>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mn>0.500</mn>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mn>0.200</mn>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mn>0.300</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mtext>/</mtext>
+</mrow>
+<mn>20.8</mn>
+</math></span> ✔</p>
+<p> </p>
+<p>reaction quotient/<em>Q</em>/20.8/answer &lt; <em>K</em><sub>c</sub>/280</p>
+<p><em><strong>OR</strong></em></p>
+<p>mixture needs more product for the number to equal Kc ✔</p>
+<p> </p>
+<p>reaction proceeds to the right/products ✔</p>
+<p> </p>
+<p><em>Do <strong>not</strong> award M3 without valid reasoning.</em></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/7/","children":["← back to ","Chemistry"," topic ","7"]}]}],["$","h1",null,{"children":"18N.2.SL.TZ0.5"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"18N"}],["$","span",null,{"children":["· ","1-1-introduction-to-the-particulate-nature-of-matter-and-chemical-change, 7-1-equilibrium"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"specification\">\n<p>This reaction is used in the manufacture of sulfuric acid.</p>\n<p style=\"text-align: center;\">2SO<sub>2</sub> (g) + O<sub>2</sub> (g) <span class=\"mjpage\"><math alttext=\" \\rightleftharpoons \" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<mo stretchy=\"false\">⇌<!-- ⇌ --></mo>\n</math></span> 2SO<sub>3</sub> (g)        <em>K</em><sub>c</sub> = 280 at 1000 K</p>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>State why this equilibrium reaction is considered homogeneous.</p>\n<div class=\"marks\">[1]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>0.200 mol sulfur dioxide, 0.300 mol oxygen and 0.500 mol sulfur trioxide were mixed in a 1.00 dm<sup>3</sup> flask at 1000 K.</p>\n<p>Predict the direction of the reaction showing your working.</p>\n<div class=\"marks\">[3]</div>\n<div class=\"question_part_label\">b.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

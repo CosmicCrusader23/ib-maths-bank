@@ -1,0 +1,126 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","6518","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","6518","d"],{"children":["__PAGE__?{\"id\":\"6518\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","6518","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T3c16,<div class="specification">
+<p>The Bombardier beetle sprays a mixture of hydroquinone and hydrogen peroxide to fight off predators. The reaction equation to produce the spray can be written as:</p>
+<table style="width: 388.667px; margin-left: 120px;">
+<tbody>
+<tr>
+<td style="width: 211px;">C<sub>6</sub>H<sub>4</sub>(OH)<sub>2</sub>(aq) + H<sub>2</sub>O<sub>2</sub>(aq)</td>
+<td style="width: 18px;">→</td>
+<td style="width: 195.667px;">C<sub>6</sub>H<sub>4</sub>O<sub>2</sub>(aq) + 2H<sub>2</sub>O(l)</td>
+</tr>
+<tr>
+<td style="width: 211px;">hydroquinone</td>
+<td style="width: 18px;"> </td>
+<td style="width: 195.667px;">quinone</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center; padding-left: 120px;"><br/> </p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hydrogenation of propene produces propane. Calculate the standard entropy change, Δ<em>S<sup> </sup></em><sup>θ</sup>, for the hydrogenation of propene.</p>
+<p><img src="data:image/png;base64,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"/></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The standard enthalpy change, Δ<em>H </em><sup>θ</sup>, for the hydrogenation of propene is –124.4 kJ mol<sup>–1</sup>. Predict the temperature above which the hydrogenation reaction is not spontaneous.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.ii.</div>
+</div>b:T8d0,<div class="question" style="padding-left: 20px;">
+<p>«Δ<em>S<sup> </sup></em><sup>θ</sup> =» 270 «J K<sup>–1</sup> mol<sup>–1</sup>» – 267 «J K<sup>–1</sup> mol<sup>–1</sup>» – 131 «J K<sup>–1</sup> mol<sup>–1</sup>»</p>
+<p>«Δ<em>S<sup> </sup></em><sup>θ</sup> =» –128 «J K<sup>–1</sup> mol<sup>–1</sup>»</p>
+<p> </p>
+<p><em>Award <strong>[2]</strong> for correct final answer.</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«non spontaneous if» Δ<em>G </em><sup>θ</sup> = Δ<em>H </em><sup>θ</sup> – <em>T</em>Δ<em>S </em><sup>θ</sup> &gt; 0<br/><em><strong>OR</strong></em><br/>Δ<em>H </em><sup>θ</sup> &gt; <em>T</em>Δ<em>S </em><sup>θ</sup></p>
+<p>«<em>T</em> above» <span class="mjpage"><math alttext="\frac{{ - 124.4{\text{ }}\ll {\text{kJ}}\,{\text{mo}}{{\text{l}}^{ - {\text{1}}}}\gg }}{{ - 0.128{\text{ }}\ll {\text{kJ}}\,{{\text{K}}^{ - 1}}\,{\text{mo}}{{\text{l}}^{ - {\text{1}}}}\gg }} = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>124.4</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo>≪</mo>
+<mrow>
+<mtext>kJ</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>mo</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>l</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mrow>
+<mtext>1</mtext>
+</mrow>
+</mrow>
+</msup>
+</mrow>
+<mo>≫</mo>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>0.128</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo>≪</mo>
+<mrow>
+<mtext>kJ</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msup>
+<mrow>
+<mtext>K</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>mo</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>l</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mrow>
+<mtext>1</mtext>
+</mrow>
+</mrow>
+</msup>
+</mrow>
+<mo>≫</mo>
+</mrow>
+</mfrac>
+<mo>=</mo>
+</math></span>» 972 «K»</p>
+<p> </p>
+<p><em>Award <strong>[2]</strong> for correct final answer.</em></p>
+<p><em>Accept 699 °C.</em></p>
+<p><em>Do not award M2 for any negative T value.</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/10/","children":["← back to ","Chemistry"," topic ","10"]}]}],["$","h1",null,{"children":"17M.2.HL.TZ2.9"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","10-1-fundamentals-of-organic-chemistry, 15-2-entropy-and-spontaneity"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div>"}}]]}]]}]

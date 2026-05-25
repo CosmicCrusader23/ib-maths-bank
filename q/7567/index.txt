@@ -1,0 +1,331 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","7567","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","7567","d"],{"children":["__PAGE__?{\"id\":\"7567\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","7567","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:Tae9,<div class="specification">
+<p>The presence of very small amounts of lead in calcium-based antacids can be determined using inductively coupled plasma-mass spectroscopy (ICP-MS).</p>
+</div><div class="specification">
+<p>An unknown antacid sample has a lead ion concentration of 0.50 μg dm<sup>‒3</sup>.</p>
+</div><div class="specification">
+<p>Chelating agents can be used to treat heavy metal poisoning.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State the type of particle present in the plasma formed.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the concentration of lead ions in the sample in mol dm<sup>‒3</sup>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Lead ions are toxic and can be precipitated using hydroxide ions.</p>
+<p style="text-align: center;">Pb<sup>2+</sup> (aq) + 2OH<sup>‒</sup> (aq) <span class="mjpage"><math alttext=" \rightleftharpoons " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇌</mo>
+</math></span> Pb(OH)<sub>2</sub> (s)</p>
+<p>Sufficient sodium hydroxide solid is added to the antacid sample to produce a 1.0 × 10<sup>‒2</sup> mol dm<sup>‒3</sup> hydroxide ion solution at 298 K.</p>
+<p>Deduce if a precipitate will be formed, using section 32 of the data booklet.</p>
+<p>If you did not calculate the concentration of lead ions in (b)(i), use the value of 2.4 × 10<sup>−4</sup> mol dm<sup>‒3</sup>, but this is not the correct value.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Electrolysis is used to obtain lead from Pb<sup>2+</sup> (aq) solution.</p>
+<p>Determine the time, in hours, required to produce 0.0500 mol lead using a current (<em>I</em>) of 1.34 A. Use section 2 of the data booklet and the equation, charge (<em>Q</em>) = current (<em>I</em>) × time (<em>t</em>, in seconds).</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State <strong>one</strong> feature of a chelating agent.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>An aqueous lead(II) ion reacts with three ethane-1,2-diamine molecules to form an octahedral chelate ion.</p>
+<p>Outline why the chelate ion is more stable than the reactants.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d.ii.</div>
+</div>b:T1aff,<div class="question" style="padding-left: 20px;">
+<p>positive ions/cations/Pb<sup>2+</sup></p>
+<p><em><strong>OR</strong></em></p>
+<p>free electrons ✔</p>
+<p> </p>
+<p><em>Accept “ions” <strong>OR</strong> “charged species/particle”.</em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>[Pb<sup>2+</sup>] = 0.50 × 10<sup>‒6</sup>/5.0 × 10<sup>–7</sup> «g dm<sup>–3</sup>» ✔</p>
+<p>[Pb<sup>2+</sup>] «<span class="mjpage"><math alttext=" = \frac{{0.50 \times {{10}^{ - 6}}\,{\text{g}}\,{\text{d}}{{\text{m}}^{-3}}}}{{207.20\,{\text{g}}\,{\text{mo}}{{\text{l}}^{-1}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>0.50</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>6</mn>
+</mrow>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>207.20</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>mo</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>l</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span>» = 2.4 × 10<sup>‒9</sup> «mol dm<sup>‒3</sup>» ✔</p>
+<p> </p>
+<p><em>Award<strong> [2]</strong> for correct final answer.</em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«<em>K</em><sub>sp</sub> = 1.43 × 10<sup>–20</sup>»</p>
+<p> </p>
+<p><em><strong>ALTERNATIVE 1:</strong></em></p>
+<p>«<em>Q</em> = [Pb<sup>2+</sup>] [OH<sup>–</sup>]<sup>2</sup> = 2.4 × 10<sup>–9</sup> × (1.0 × 10<sup>–2</sup>)<sup>2</sup>» = 2.4 × 10<sup>–13</sup> ✔</p>
+<p> </p>
+<p><em>Q</em> &gt; <em>K</em><sub>sp</sub> <em><strong>AND</strong> </em>precipitate will form</p>
+<p><em><strong>OR</strong></em></p>
+<p>2.4 × 10<sup>–13</sup> &gt; 1.43 × 10<sup>–20</sup> <em><strong>AND</strong> </em>precipitate will form ✔</p>
+<p> </p>
+<p><em><strong>ALTERNATIVE 2:</strong></em></p>
+<p>critical [Pb<sup>2+</sup>] for hydroxide solution «<span class="mjpage"><math alttext=" = \frac{{{K_{sp}}}}{{{{\left[ {{\text{O}}{{\text{H}}^ - }} \right]}^2}}} = \frac{{1.43 \times {{10}^{ - 20}}}}{{{{\left( {1.0 \times {{10}^{ - 2}}} \right)}^2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>K</mi>
+<mrow>
+<mi>s</mi>
+<mi>p</mi>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow>
+<mtext>O</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>H</mtext>
+</mrow>
+<mo>−</mo>
+</msup>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>1.43</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>20</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1.0</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span>» = 1.4 × 10<sup>–16</sup> ✔</p>
+<p> </p>
+<p>initial concentration &gt; critical concentration <em><strong>AND</strong> </em>precipitate will form</p>
+<p><em><strong>OR</strong></em></p>
+<p>2.4 × 10<sup>–9</sup> &gt; 1.4 × 10<sup>–16</sup> <em><strong>AND</strong> </em>precipitate will form ✔</p>
+<p> </p>
+<p>If value given is used:</p>
+<p><em><strong>ALTERNATIVE 3:</strong></em></p>
+<p>«<em>Q</em> = [Pb<sup>2+</sup>] [OH<sup>–</sup>]<sup>2</sup> = 2.4 × 10<sup>–4</sup> × (1.0 × 10<sup>–2</sup>)<sup>2</sup>» = 2.4 × 10<sup>–8</sup> ✔</p>
+<p> </p>
+<p><em>Q</em> &gt; <em>K</em><sub>sp</sub> <em><strong>AND</strong> </em>precipitate will form</p>
+<p><em><strong>OR</strong></em></p>
+<p>2.4 × 10<sup>–8</sup> &gt; 1.43 × 10<sup>–20</sup> <em><strong>AND</strong> </em>precipitate will form ✔</p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«Faraday’s constant, <em>F</em> = 9.65 × 10<sup>4</sup> C mol<sup>‒1</sup> and 1 A = 1 C s<sup>–1</sup>»<br/>Q «= 0.0500 mol × 2 × 96500 C mol<sup>‒1</sup>» = 9650 «C» ✔</p>
+<p>t «<span class="mjpage"><math alttext=" = \frac{Q}{I} = \frac{{9650\,{\text{C}}}}{{1.34\,{\text{C}}\,{{\text{s}}^{-1}}}} \approx 7200\,{\text{s}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mi>Q</mi>
+<mi>I</mi>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>9650</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>C</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mn>1.34</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>C</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+<mo>≈</mo>
+<mn>7200</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+</math></span> so <span class="mjpage"><math alttext="\frac{{7200\,{\text{s}}}}{{60 \times 60\,{\text{s}}\,{{\text{h}}^{-1}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>7200</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mn>60</mn>
+<mo>×</mo>
+<mn>60</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msup>
+<mrow>
+<mtext>h</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span>» = 2.00 «hours» ✔</p>
+<p> </p>
+<p><em>Award <strong>[2]</strong> for correct final answer.</em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>Any one of:</em></p>
+<p>two «or more» lone/non-bonding pairs on different atoms</p>
+<p><em><strong>OR</strong></em></p>
+<p>two «or more» atoms/centres that act as Lewis bases ✔</p>
+<p> </p>
+<p>form «at least» two coordination/coordinate bonds</p>
+<p><em><strong>OR</strong></em></p>
+<p>«at least» two atoms can form coordination/coordinate bonds ✔</p>
+<p> </p>
+<p><em>Reference to “on <strong>DIFFERENT</strong> atoms” required.</em></p>
+<p><em>Accept “dative «covalent» bond” for “coordination/coordinate bond”.</em></p>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>increase in entropy</p>
+<p><em><strong>OR</strong></em></p>
+<p>Δ<em>S</em> &gt; 0/Δ<em>S</em> positive ✔</p>
+<p> </p>
+<p><em>Accept “ΔG &lt; 0” but <strong>not</strong> “ΔH &lt; 0”.</em></p>
+<div class="question_part_label">d.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/a/","children":["← back to ","Chemistry"," topic ","a"]}]}],["$","h1",null,{"children":"18N.3.HL.TZ0.3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"18N"}],["$","span",null,{"children":["· ","a-2-metals-and-inductively-coupled-plasma-(icp)-spectroscopy, a-10-environmental-impact—heavy-metals"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.ii.</div>\n</div>"}}]]}]]}]

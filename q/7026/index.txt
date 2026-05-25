@@ -1,0 +1,262 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","7026","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","7026","d"],{"children":["__PAGE__?{\"id\":\"7026\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","7026","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T53d,<div class="specification">
+<p>Technetium-99m is the most widely used medical radioisotope. It is usually made on-site in medical facilities from isotopes of molybdenum.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Deduce equations for the following nuclear reactions:</p>
+<p>(i) Molybdenum-98 absorbs a neutron.</p>
+<p>(ii) The isotope produced in (a) (i) decays into technetium-99m.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Molybdenum-99 has a half-life of 66 hours, while technetium-99m has a half-life of 6 hours. Outline why technetium-99m is made on-site.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Outline <strong>two</strong> reasons, other than its half-life, why technetium-99m is so useful in medical diagnosis.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Outline the nature of the radioactive waste that is generated by the use of technetium-99m in medical diagnosis.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d.</div>
+</div>b:T1419,<div class="question" style="padding-left: 20px;">
+<p>i</p>
+<p><span class="mjpage"><math alttext="{}_{{\rm{42}}}^{98}{\rm{Mo}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mrow>
+<mrow>
+<mn>42</mn>
+</mrow>
+</mrow>
+</mrow>
+<mrow>
+<mn>98</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mrow>
+<mi mathvariant="normal">M</mi>
+<mi mathvariant="normal">o</mi>
+</mrow>
+</mrow>
+</math></span> + <span class="mjpage"><math alttext="{}_{{\rm{0}}}^{1}{\rm{n}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mrow>
+<mrow>
+<mn>0</mn>
+</mrow>
+</mrow>
+</mrow>
+<mrow>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mrow>
+<mi mathvariant="normal">n</mi>
+</mrow>
+</mrow>
+</math></span> → <span class="mjpage"><math alttext="{}_{{\rm{42}}}^{99}{\rm{Mo}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mrow>
+<mrow>
+<mn>42</mn>
+</mrow>
+</mrow>
+</mrow>
+<mrow>
+<mn>99</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mrow>
+<mi mathvariant="normal">M</mi>
+<mi mathvariant="normal">o</mi>
+</mrow>
+</mrow>
+</math></span></p>
+<p><em>Accept <sup>98</sup>Mo + <sup>1</sup>n/n → <sup>99</sup>Mo.</em></p>
+<p><br/>ii</p>
+<p><span class="mjpage"><math alttext="{}_{42}^{99}{\text{Mo}} \to {}_{43}^{99\,{\text{m}}}{\text{Tc}} + {}_{ - 1}^0\beta " xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mn>42</mn>
+</mrow>
+<mrow>
+<mn>99</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mtext>Mo</mtext>
+</mrow>
+<mo stretchy="false">→</mo>
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mn>43</mn>
+</mrow>
+<mrow>
+<mn>99</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+</mrow>
+</msubsup>
+<mrow>
+<mtext>Tc</mtext>
+</mrow>
+<mo>+</mo>
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mn>0</mn>
+</msubsup>
+<mi>β</mi>
+</math></span></p>
+<p><em>Accept “ <span class="mjpage"><math alttext="{}_{ - 1}^0e" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mn>0</mn>
+</msubsup>
+<mi>e</mi>
+</math></span>” for “ <span class="mjpage"><math alttext="{}_{ - 1}^0\beta " xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mn>0</mn>
+</msubsup>
+<mi>β</mi>
+</math></span>”.</em></p>
+<p><em>Accept “ <span class="mjpage"><math alttext="{}^{99}Mo \to {}_{}^{99\,{\text{m}}}Tc + \beta " xmlns="http://www.w3.org/1998/Math/MathML">
+<msup>
+<mrow>
+</mrow>
+<mrow>
+<mn>99</mn>
+</mrow>
+</msup>
+<mi>M</mi>
+<mi>o</mi>
+<mo stretchy="false">→</mo>
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+</mrow>
+<mrow>
+<mn>99</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+</mrow>
+</msubsup>
+<mi>T</mi>
+<mi>c</mi>
+<mo>+</mo>
+<mi>β</mi>
+</math></span>”.</em></p>
+<p><em>Accept “ <span class="mjpage"><math alttext="{}_{ - 1}^0e/{e^ - }/e" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mn>0</mn>
+</msubsup>
+<mi>e</mi>
+<mrow>
+<mo>/</mo>
+</mrow>
+<mrow>
+<msup>
+<mi>e</mi>
+<mo>−</mo>
+</msup>
+</mrow>
+<mrow>
+<mo>/</mo>
+</mrow>
+<mi>e</mi>
+</math></span>” for “<span class="mjpage"><math alttext="\beta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>β</mi>
+</math></span>”.</em></p>
+<p><em>Do not penalize “ <span class="mjpage"><math alttext="{}_{}^{99}Tc" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+</mrow>
+<mrow>
+<mn>99</mn>
+</mrow>
+</msubsup>
+<mi>T</mi>
+<mi>c</mi>
+</math></span>” for “ <span class="mjpage"><math alttext="{}_{}^{99\,{\text{m}}}Tc" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+</mrow>
+<mrow>
+</mrow>
+<mrow>
+<mn>99</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+</mrow>
+</msubsup>
+<mi>T</mi>
+<mi>c</mi>
+</math></span>”.</em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>molybdenum-99 can be easily transported «before it decays»/more stable<br/><em><strong>OR<br/></strong></em>«most of» technetium-99m will decay during transportation</p>
+<p><em>Do <strong>not</strong> accept just “short half-life of Tc-99m”</em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>emits gamma rays<br/><em><strong>OR<br/></strong></em>emissions escape from body<br/><em><strong>OR<br/></strong></em>emissions detected by gamma camera<br/><em><strong>OR<br/></strong></em>radiation dose is low</p>
+<p>chemically reactive/versatile/transition metal bonds to a range of «biologically active» substances</p>
+<p><em>Do <strong>not</strong> accept “short half-life of Tc-99m”.<br/>Accept “energy of photons produced is «relatively» low” and “no high energy beta emission” for M1.<br/>Accept “…has ability to form tracers” for “…bonds to a range of «biologically active» substances".</em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>low-level «radioactive» waste/LLW<br/><em><strong>OR<br/></strong></em>small amounts of ionizing radiation for short time</p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/d/","children":["← back to ","Chemistry"," topic ","d"]}]}],["$","h1",null,{"children":"16N.3.HL.TZ0.28"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","d-8-nuclear-medicine, d-6-environmental-impact-of-some-medications"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

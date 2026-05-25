@@ -1,0 +1,178 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","6739","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","6739","d"],{"children":["__PAGE__?{\"id\":\"6739\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","6739","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T1c56,<div class="specification">
+<p><span style="background-color: #ffffff;">Ethyne, C<sub>2</sub>H<sub>2</sub>, reacts with oxygen in welding torches.</span></p>
+</div><div class="specification">
+<p><span style="background-color: #ffffff;">Ethyne reacts with steam.</span></p>
+<p><span style="background-color: #ffffff;">C<sub>2</sub>H<sub>2</sub> (g) + H<sub>2</sub>O (g) → C<sub>2</sub>H<sub>4</sub>O (g)</span></p>
+<p><span style="background-color: #ffffff;">Two possible products are:</span></p>
+<p><span style="background-color: #ffffff;"><img alt="" height="190" src="../assets/uploads/tinymce_asset/asset/5980/4c.PNG" width="316"/></span></p>
+</div><div class="specification">
+<p><span style="background-color: #ffffff;">Product <strong>B</strong>, CH<sub>3</sub>CHO, can also be synthesized from ethanol.</span></p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Write an equation for the complete combustion of ethyne.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Deduce the Lewis (electron dot) structure of ethyne.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b(i).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Compare, giving a reason, the length of the bond between the carbon atoms in ethyne with that in ethane, C<sub>2</sub>H<sub>6</sub>.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b(ii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Identify the type of interaction that must be overcome when liquid ethyne vaporizes.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b(iii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">State the name of product <strong>B</strong>, applying IUPAC rules.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c(i).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Determine the enthalpy change for the reaction, in kJ, to produce <strong>A</strong> using section 11 of the data booklet.</span></p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c(ii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">The enthalpy change for the reaction to produce B is −213 kJ.</span></p>
+<p><span style="background-color: #ffffff;">Predict, giving a reason, which product is the most stable.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c(iii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">The IR spectrum and low resolution <sup>1</sup>H NMR spectrum of the actual product formed are shown.</span></p>
+<p><span style="background-color: #ffffff;"><img alt="" height="608" src="../assets/uploads/tinymce_asset/asset/5981/1civ.PNG" width="606"/></span></p>
+<p><span style="background-color: #ffffff;"><span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">Deduce whether the product is </span><strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">A</strong><span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;"> or </span><strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">B</strong><span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">, using evidence from these spectra together with sections 26 and 27 of the  data booklet.</span></span></p>
+<p><span style="background-color: #ffffff;"><span style="background-color: #ffffff;">Identity of product:</span></span></p>
+<p><span style="background-color: #ffffff;"><span style="background-color: #ffffff;"><span style="background-color: #ffffff;">One piece of evidence from IR:</span></span></span></p>
+<p><span style="background-color: #ffffff;"><span style="background-color: #ffffff;"><span style="background-color: #ffffff;"><span style="background-color: #ffffff;">One piece of evidence from <sup>1</sup>H NMR:</span></span></span></span></p>
+<p> </p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c(iv).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Deduce the splitting pattern you would expect for the signals in a high resolution <sup>1</sup>H NMR spectrum.</span></p>
+<p><span style="background-color: #ffffff;"><span style="background-color: #ffffff;">2.3 ppm:</span></span></p>
+<p><span style="background-color: #ffffff;"><span style="background-color: #ffffff;"><span style="background-color: #ffffff;">9.8 ppm:</span></span></span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c(v).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Suggest the reagents and conditions required to ensure a good yield of product <strong>B</strong>.</span></p>
+<p><span style="background-color: #ffffff;">Reagents: </span></p>
+<p><span style="background-color: #ffffff;">Conditions:</span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d(i).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Deduce the average oxidation state of carbon in product <strong>B</strong>.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d(ii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Explain why product <strong>B</strong> is water soluble.</span></p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d(iii).</div>
+</div>b:T2b52,<div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">C<sub>2</sub>H<sub>2</sub> (g) + 2.5O<sub>2</sub> (g) → 2CO<sub>2</sub> (g) + H<sub>2</sub>O (l)</span></p>
+<p><span style="background-color: #ffffff;"><em><strong>OR</strong></em></span></p>
+<p><span style="background-color: #ffffff;">2C<sub>2</sub>H<sub>2</sub> (g) + 5O<sub>2</sub> (g) <span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">→</span> 4CO<sub>2</sub> (g) + 2H<sub>2</sub>O (l)    <strong>[✔]</strong></span></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><img alt="" height="27" src="../assets/uploads/tinymce_asset/asset/5979/1bi.PNG" width="291"/>     <strong>[<span style="background-color: #ffffff;">✔</span>]</strong></p>
+<p> </p>
+<p><em><strong>Note: </strong><span style="background-color: #ffffff;">Accept any valid combination of lines, dots and crosses.</span></em></p>
+<div class="question_part_label">b(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">«ethyne» shorter <em><strong>AND</strong> </em>a greater number of shared/bonding electrons</span></p>
+<p><em><strong><span style="background-color: #ffffff;">OR</span></strong></em></p>
+<p><span style="background-color: #ffffff;">«ethyne» shorter <em><strong>AND</strong> </em>stronger bond     <strong>[✔]</strong></span></p>
+<div class="question_part_label">b(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">London/dispersion/instantaneous dipole-induced dipole forces    <strong>[✔]</strong></span></p>
+<div class="question_part_label">b(iii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">ethanal    <strong>[✔]</strong></span></p>
+<div class="question_part_label">c(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">«sum of bond enthalpies of reactants =» 2(C<span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">—</span>H)+C ≡ C + 2(O<span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">—</span>H)<br/></span><span style="background-color: #ffffff;"><em><strong>OR<br/></strong></em></span><span style="background-color: #ffffff;">2 × 414 «kJ mol<sup>-1</sup>» + 839 «kJ mol<sup>-1</sup>» + 2 × 463 «kJ mol<sup>-1</sup>»<br/></span><span style="background-color: #ffffff;"><em><strong>OR<br/></strong></em></span><span style="background-color: #ffffff;">2593 «kJ»    <strong>[✔]</strong></span></p>
+<p> </p>
+<p><span style="background-color: #ffffff;">«sum of bond enthalpies of A =» 3(C<span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">—</span>H) + C=C + C—O + O—H<br/><em><strong>OR</strong></em><br/>3 × 414 «kJ mol<sup>-1</sup>» + 614 «kJ mol<sup>-1</sup>» + 358 «kJ mol<sup>-1</sup>» + 463 «kJ mol<sup>-1</sup>»<br/><em><strong>OR</strong></em><br/>2677 «kJ»     <strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</strong><br/>«enthalpy of reaction = 2593 kJ – 2677 kJ» = –84 «kJ»     <strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</strong></span></p>
+<p> </p>
+<p><em><span style="background-color: #ffffff;"><strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">Note: </strong>Award <strong>[3]</strong> for correct final answer.</span></em></p>
+<div class="question_part_label">c(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">B <em><strong>AND</strong> </em>it has a more negative/lower enthalpy/«potential» energy</span></p>
+<p><span style="background-color: #ffffff;"><em><strong>OR</strong></em></span></p>
+<p><span style="background-color: #ffffff;">B <em><strong>AND</strong> </em>more exothermic «enthalpy of reaction from same starting point»     <strong>[✔]</strong></span></p>
+<div class="question_part_label">c(iii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;"><em>Identity of product:</em> «<strong>B</strong>»</span></p>
+<p><span style="background-color: #ffffff;"><em>IR spectrum:</em><br/>1700–1750 «cm<sup>–1</sup> band» <em><strong>AND</strong> </em>carbonyl/CO group present<br/><em><strong>OR</strong></em><br/>no «band at» 1620–1680 «cm<sup>–1</sup>» <em><strong>AND</strong> </em>absence of double bond/C=C<br/><em><strong>OR</strong></em><br/>no «broad band at» 3200–3600 «cm<sup>–1</sup> » <em><strong>AND</strong> </em>absence of hydroxyl/OH group    <strong>[✔]</strong><br/></span></p>
+<p><span style="background-color: #ffffff;"><em><sup>1</sup>H NMR spectrum:</em><br/>«only» two signals <em><strong>AND</strong> </em>A would have three<br/><em><strong>OR</strong></em><br/>«signal at» 9.4–10.0 «ppm» <em><strong>AND</strong> </em>«H atom/proton of» aldehyde/–CHO present<br/><em><strong>OR</strong></em><br/>«signal at» 2.2–2.7 «ppm» <em><strong>AND</strong> </em>«H atom/proton of alkyl/CH next to» aldehyde/CHO present<br/><em><strong>OR</strong></em><br/>«signal at» 2.2–2.7 «ppm» <em><strong>AND</strong> </em>«H atom/proton of» RCOCH<sub>2-</sub> present<br/><em><strong>OR</strong></em><br/>no «signal at» 4.5–6.0 «ppm» <em><strong>AND</strong> </em>absence of «H atom/proton next to» double bond/C=C ✔</span></p>
+<p> </p>
+<p><em><span style="background-color: #ffffff;"><strong>Note</strong>: Accept a specific value or range of wavenumbers and chemical shifts.</span></em></p>
+<p><em><span style="background-color: #ffffff;">Accept “two signals with areas 1:3”.</span></em></p>
+<div class="question_part_label">c(iv).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">2.3 ppm: doublet    <strong>[✔]</strong></span></p>
+<p><span style="background-color: #ffffff;">9.8 ppm: quartet    <strong>[✔]</strong></span></p>
+<div class="question_part_label">c(v).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;"><em>Reagents</em>:<br/>acidified/H<sup>+</sup> <em><strong>AND</strong> </em>«potassium» dichromate«(VI)»/K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>/Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>    <strong>[✔]</strong></span></p>
+<p><span style="background-color: #ffffff;"><em>Conditions</em>:<br/>distil «the product before further oxidation»       <span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</span></span></p>
+<p> </p>
+<p><em><span style="background-color: #ffffff;"><strong>Note</strong>: Accept “«acidified potassium» manganate(VII)/KMnO<sub>4</sub>/MnO<sub>4</sub><sup>-</sup>/permanganate”.</span></em></p>
+<p><em><span style="background-color: #ffffff;">Accept “H<sub>2</sub>SO<sub>4</sub>” or “H<sub>3</sub>PO<sub>4</sub>” for “H<sup>+</sup>”.</span></em></p>
+<p><em><span style="background-color: #ffffff;">Accept “more dilute dichromate(VI)/manganate(VII)” or “excess ethanol”.</span></em></p>
+<p><em><span style="background-color: #ffffff;">Award M1 if correct reagents given under “Conditions”.</span></em></p>
+<div class="question_part_label">d(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">–1     <strong>[✔]</strong></span></p>
+<div class="question_part_label">d(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;"><em>Any three of:</em></span></p>
+<p><span style="background-color: #ffffff;">has an oxygen/O atom with a lone pair      <strong>[✔]</strong></span></p>
+<p><span style="background-color: #ffffff;">that can form hydrogen bonds/H-bonds «with water molecules»     <span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</span></span></p>
+<p><span style="background-color: #ffffff;">hydrocarbon chain is short «so does not disrupt many H-bonds with water molecules»     <span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</span></span></p>
+<p><span style="background-color: #ffffff;">«large permanent» dipole-dipole interactions with water      <span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</span></span></p>
+<div class="question_part_label">d(iii).</div>
+</div>c:Tcb5,<div class="question" style="padding-left: 20px;">
+<p>All candidates were able to write the correct reactants/products for combustion of ethyne, but a few failed to balance correctly.</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Most drew correct Lewis structures for ethyne, though some drew ethene.</p>
+<div class="question_part_label">b(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Surprisingly very few explained the difference in bond length/strength looking at electrons shared and just gave the shorter/triple or longer/single bond answer.</p>
+<div class="question_part_label">b(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Good to see that most candidates identified the specific IMF correctly.</p>
+<div class="question_part_label">b(iii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Most candidates gave the correct IUPAC name.</p>
+<div class="question_part_label">c(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Candidates were able to calculate the Δ<em>H</em> of the given reaction correctly; a few inverted the calculations or made mathematical errors.</p>
+<div class="question_part_label">c(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Generally well done, most common error was stating that the enthalpy change was “larger” without the indication that it was an exothermic change or the sign.</p>
+<div class="question_part_label">c(iii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Interpretation of spectra was very good and the few candidates that lost marks with <sup>1</sup>H NMR data rather than IR, for example simply mentioning two signals for B. However, most candidates that attempted this question got full marks.</p>
+<div class="question_part_label">c(iv).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>The stronger candidates were able to predict the splitting pattern correctly, others inverted the answer, but many others repeated the information for protons with the given chemical shift, which is unexpected since wording was straightforward.</p>
+<div class="question_part_label">c(v).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Candidates seemed to be confused by the prompts, reagent and conditions, so often included the acid among conditions. Careless errors were common such as the wrong charge on the dichromate ion. Few candidates suggest permanganate as an option.</p>
+<div class="question_part_label">d(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Most candidates were able to calculate oxidation state of carbon in B.</p>
+<div class="question_part_label">d(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Candidates did not understand that they must mention the IMF responsible for the solubility. Most candidates explained the polarity of the aldehyde and water but did not mention that this results in permanent dipole-dipole interactions; many did mention H-bonding. The mention of the lone pair on O atom and short hydrocarbon chain were very rare.</p>
+<div class="question_part_label">d(iii).</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/21/","children":["← back to ","Chemistry"," topic ","21"]}]}],["$","h1",null,{"children":"19M.2.HL.TZ2.1"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","10-2-functional-group-chemistry, 4-3-covalent-structures, 4-2-covalent-bonding, 4-4-intermolecular-forces, 10-1-fundamentals-of-organic-chemistry, 5-3-bond-enthalpies, 21-1-spectroscopic-identification-of-organic-compounds, 9-1-oxidation-and-reduction"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"}}]]}]]}]

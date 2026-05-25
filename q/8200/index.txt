@@ -1,0 +1,129 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","8200","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","8200","d"],{"children":["__PAGE__?{\"id\":\"8200\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","8200","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:Ta6e,<div class="specification">
+<p>Iron may be extracted from iron (II) sulfide, FeS.</p>
+</div><div class="specification">
+<p>Iron (II) sulfide, FeS, is ionically bonded.</p>
+</div><div class="specification">
+<p>The first step in the extraction of iron from iron (II) sulfide is to roast it in air to form iron (III) oxide and sulfur dioxide.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Outline why metals, like iron, can conduct electricity.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Justify why sulfur is classified as a non-metal by giving <strong>two</strong> of its chemical properties.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Describe the bonding in this type of solid.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c(i).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State the full electron configuration of the sulfide ion.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c(ii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Outline, in terms of their electronic structures, why the ionic radius of the sulfide ion is greater than that of the oxide ion.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c(iii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Suggest why chemists find it convenient to classify bonding into ionic, covalent and metallic.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c(iv).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write the equation for this reaction.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d(i).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Deduce the change in the oxidation state of sulfur.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d(ii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Suggest why this process might raise environmental concerns.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d(iii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Explain why the addition of small amounts of carbon to iron makes the metal harder.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">e.</div>
+</div>b:Tc5d,<div class="question" style="padding-left: 20px;">
+<p>mobile/delocalized «sea of» electrons</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>Any two of:</em></p>
+<p>forms acidic oxides «rather than basic oxides» ✔</p>
+<p>forms covalent/bonds compounds «with other non-metals» ✔</p>
+<p>forms anions «rather than cations» ✔</p>
+<p>behaves as an oxidizing agent «rather than a reducing agent» ✔</p>
+<p><em><br/>Award <strong>[1 max]</strong> for 2 correct non-chemical properties such as non-conductor, high ionisation energy, high electronegativity, low electron affinity if no marks for chemical properties are awarded.</em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>electrostatic attraction ✔</p>
+<p>between oppositely charged ions/between Fe<sup>2+</sup> and S<sup>2−</sup> ✔</p>
+<div class="question_part_label">c(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> ✔</p>
+<p><em><br/>Do <strong>not</strong> accept “[Ne] 3s<sup>2</sup> 3p<sup>6</sup>”.</em></p>
+<div class="question_part_label">c(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«valence» electrons further from nucleus/extra electron shell/ electrons in third/3s/3p level «not second/2s/2p»✔</p>
+<p><em><br/>Accept 2,8 (for O<sup>2–</sup>) and 2,8,8 (for S<sup>2–</sup>)</em></p>
+<div class="question_part_label">c(iii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>allows them to explain the properties of different compounds/substances<br/><em><strong>OR</strong></em><br/>enables them to generalise about substances<br/><em><strong>OR</strong></em><br/>enables them to make predictions ✔</p>
+<p><em><br/>Accept other valid answers.</em></p>
+<div class="question_part_label">c(iv).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>4FeS(s) + 7O<sub>2</sub>(g) → 2Fe<sub>2</sub>O<sub>3</sub>(s) + 4SO<sub>2</sub>(g) ✔</p>
+<p><em><br/>Accept any correct ratio.</em></p>
+<div class="question_part_label">d(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>+6<br/><em><strong>OR</strong></em><br/>−2 to +4 ✔</p>
+<p><em>Accept “6/VI”.</em><br/><em>Accept “−II, 4//IV”.</em><br/>Do <strong>not</strong> accept 2− to 4+.</p>
+<div class="question_part_label">d(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>sulfur dioxide/SO<sub>2</sub> causes acid rain ✔</p>
+<p><em>Accept sulfur dioxide/SO<sub>2</sub>/dust causes respiratory problems</em><br/><em>Do <strong>not</strong> accept just “causes respiratory problems” or “causes acid rain”.</em></p>
+<div class="question_part_label">d(iii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>disrupts the regular arrangement «of iron atoms/ions»<br/><em><strong>OR</strong></em><br/>carbon different size «to iron atoms/ions» ✔</p>
+<p>prevents layers/atoms sliding over each other ✔</p>
+<div class="question_part_label">e.</div>
+</div>c:T436,<div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c(iii).</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c(iv).</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d(iii).</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">e.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/8/","children":["← back to ","Chemistry"," topic ","8"]}]}],["$","h1",null,{"children":"21M.2.SL.TZ1.1"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"21M"}],["$","span",null,{"children":["· ","4-5-metallic-bonding, 3-1-periodic-table, 4-1-ionic-bonding-and-structure, 2-2-electron-configuration, 3-2-periodic-trends, 1-1-introduction-to-the-particulate-nature-of-matter-and-chemical-change, 9-1-oxidation-and-reduction, 8-5-acid-deposition"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"}}]]}]]}]

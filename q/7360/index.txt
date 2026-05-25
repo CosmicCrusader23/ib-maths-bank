@@ -1,0 +1,101 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","7360","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","7360","d"],{"children":["__PAGE__?{\"id\":\"7360\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","7360","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T8bd,<div class="specification">
+<p>Both HDPE (high density polyethene) and LDPE (low density polyethene) are produced by the polymerization of ethene.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Both of these are thermoplastic polymers. Outline what this term means.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Compare and contrast the structures of HDPE and LDPE.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State <strong>one </strong>way in which a physical property of HDPE, other than density, differs from that of LDPE as a result of this structural difference.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The production of HDPE involves the use of homogeneous catalysts. Outline how homogeneous catalysts reduce the activation energy of reactions.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Trace amounts of metal from the catalysts used in the production of HDPE sometimes remain in the product. State a technique that could be used to measure the concentration of the metal.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Suggest <strong>two </strong>of the major obstacles, other than collection and economic factors, which have to be overcome in plastic recycling.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Suggest why there are so many different ways in which plastics can be classified. HDPE can, for example, be categorized thermoplastic, an addition polymer, having Resin Identification Code (RIC) 2, <em>etc</em>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">e.</div>
+</div>b:Tdab,<div class="question" style="padding-left: 20px;">
+<p>soften/melt when heated</p>
+<p><strong><em>OR</em></strong></p>
+<p>can be melted and moulded</p>
+<p> </p>
+<p><em>Accept “low melting point” </em><strong><em>OR </em></strong><em>“can be </em><em>moulded when heated”.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>both have <strong>«</strong>long<strong>» </strong>hydrocarbon chains</p>
+<p><strong><em>OR</em></strong></p>
+<p>both have chains comprising CH<sub>2</sub> units</p>
+<p> </p>
+<p>HDPE has little/no branching <strong><em>AND </em></strong>LDPE has <strong>«</strong>more<strong>» </strong>branching</p>
+<p> </p>
+<p><em>Accept “CH</em><sub><em>2</em></sub><em>–CH</em><sub><em>2 </em></sub><em>units”.</em></p>
+<p><em>Accept “HDPE more crystalline”.</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>HDPE is more rigid/less flexible</p>
+<p><strong><em>OR</em></strong></p>
+<p>HDPE has a higher melting point</p>
+<p><strong><em>OR</em></strong></p>
+<p>HDPE has greater <strong>«</strong>tensile<strong>» </strong>strength</p>
+<p> </p>
+<p><em>Accept “HDPE has lower ductility”.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>form <strong>«</strong>temporary<strong>» </strong>activated complexes/reaction intermediates</p>
+<p> </p>
+<p><em>Accept “consumed in one reaction/step </em><strong><em>AND </em></strong><em>regenerated in a later reaction/step”.</em></p>
+<p><em>Accept “provides alternative mechanism”.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>inductively coupled plasma/ICP spectroscopy using mass spectroscopy/mass spectrometry/MS/ICP-MS</p>
+<p><strong><em>OR</em></strong></p>
+<p>inductively coupled plasma/ICP spectroscopy using optical emission spectroscopy/OES/ICP-OES</p>
+<p> </p>
+<p><em>Accept “atomic absorption/aa </em><em>spectroscopy” or “MS/massspectroscopy/</em><em>mass spectrometry”.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>Any two of:</em></p>
+<p>many types <strong>«</strong>of plastics<strong>» </strong>exist</p>
+<p><strong><em>OR</em></strong></p>
+<p><strong>«</strong>plastics<strong>» </strong>require sorting <strong>«</strong>by type<strong>»</strong></p>
+<p> </p>
+<p><strong>«</strong>plastics<strong>» </strong>need to be separated from non-plastic materials</p>
+<p><strong><em>OR</em></strong></p>
+<p><strong>«</strong>often<strong>» </strong>composites/moulded on/bound to non-plastic/other components</p>
+<p> </p>
+<p><em>Accept other valid factors such as </em><em>thermal decomposition of some plastics, </em><em>production of toxic fumes, etc.</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>«</strong>different classifications are appropriate for<strong>» </strong>different properties/applications/purposes</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">e.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/a/","children":["← back to ","Chemistry"," topic ","a"]}]}],["$","h1",null,{"children":"18M.3.SL.TZ1.4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","a-5-polymers, a-3-catalysts, a-4-liquid-crystals, a-7-environmental-impact—plastics, a-1-materials-science-introduction, a-2-metals-and-inductively-coupled-plasma-(icp)-spectroscopy"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div>"}}]]}]]}]

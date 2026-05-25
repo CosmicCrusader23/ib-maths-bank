@@ -1,0 +1,111 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","6953","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","6953","d"],{"children":["__PAGE__?{\"id\":\"6953\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","6953","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T4a2,<div class="specification">
+<p>The buffer formed by carbon dioxide, CO<sub>2</sub>(aq) and hydrogen carbonate ion, HCO<sub>3</sub><sup>−</sup>(aq), plays an important role in maintaining the pH of blood.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the pH of the buffer from the following data and section 1 of the data booklet.</p>
+<p>p<em>K</em><sub>a</sub>(CO<sub>2</sub>) = 6.34</p>
+<p>[HCO<sub>3</sub><sup>−</sup>(aq)] = 1.40 × 10<sup>−2</sup> mol<span class="mjpage"><math alttext="\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+</math></span>dm<sup>−3</sup></p>
+<p>[CO<sub>2</sub>(aq)] = 1.25 × 10<sup>−3</sup> mol<span class="mjpage"><math alttext="\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+</math></span>dm<sup>−3</sup></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Explain the effect of a large amount of aspirin on the pH of blood.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div>b:T8b8,<div class="question" style="padding-left: 20px;">
+<p>«pH = p<em>K</em><sub>a</sub> + log<sub>10</sub> <span class="mjpage"><math alttext="\left( {\frac{{\left[ {{\text{HC}}{{\text{O}}_3}^ - } \right]}}{{\left[ {{\text{C}}{{\text{O}}_2}} \right]}}} \right) = 6.34 + {\log _{10\;}}(11.2) = 6.34 + 1.05" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow>
+<mtext>HC</mtext>
+</mrow>
+<msup>
+<mrow>
+<msub>
+<mrow>
+<mtext>O</mtext>
+</mrow>
+<mn>3</mn>
+</msub>
+</mrow>
+<mo>−</mo>
+</msup>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow>
+<mtext>C</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>O</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>6.34</mn>
+<mo>+</mo>
+<mrow>
+<msub>
+<mi>log</mi>
+<mrow>
+<mn>10</mn>
+<mspace width="thickmathspace"></mspace>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>11.2</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>6.34</mn>
+<mo>+</mo>
+<mn>1.05</mn>
+</math></span>» = 7.39</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>H<sup>+</sup> from aspirin reacts with HCO<sub>3</sub><sup>−</sup> to form CO<sub>2</sub> and H<sub>2</sub>O<br/><em><strong>OR</strong></em><br/>H<sup>+</sup>(aq) + HCO<sub>3</sub><sup>−</sup>(aq) <span class="mjpage"><math alttext=" \rightleftharpoons " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇌</mo>
+</math></span> CO<sub>2</sub>(aq) + H<sub>2</sub>O(l)<br/><em><strong>OR</strong></em><br/>reverse reaction favoured «to use up some of the H<sup>+</sup> added»</p>
+<p>pH decreases</p>
+<p> </p>
+<p><em>No mark for “stating aspirin is a weak acid that dissociates partially to produce H<sup>+</sup>” without reference to reaction with HCO<sub>3</sub><sup>− </sup>or to the equation.</em></p>
+<p><em>Reversible arrows not required for the mark.</em></p>
+<p><em>Do <strong>not</strong> accept “small pH change when small amount of H<sup>+</sup> is added”.</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/7/","children":["← back to ","Chemistry"," topic ","7"]}]}],["$","h1",null,{"children":"17M.3.SL.TZ1.20"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","d-4-ph-regulation-of-the-stomach, 7-1-equilibrium"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

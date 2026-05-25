@@ -11,13 +11,25 @@
       "label": "Physics",
       "total": 1424,
       "topic_count": 16
+    },
+    {
+      "key": "chemistry",
+      "label": "Chemistry",
+      "total": 2004,
+      "topic_count": 25
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "total": 292,
+      "topic_count": 6
     }
   ],
   "sources": {
-    "pestle": 3158,
+    "pestle": 5454,
     "christos-maa-exercise": 70,
     "christos-mai-exercise": 66,
     "christos-maa-tests": 56
   },
-  "total": 3350
+  "total": 5646
 }

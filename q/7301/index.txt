@@ -1,0 +1,222 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","7301","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","7301","d"],{"children":["__PAGE__?{\"id\":\"7301\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","7301","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T846,<div class="specification">
+<p>A mixture of 1.00 mol SO<sub>2</sub>(g), 2.00 mol O<sub>2</sub>(g) and 1.00 mol SO<sub>3</sub>(g) is placed in a 1.00 dm<sup>3</sup> container and allowed to reach equilibrium.</p>
+<p style="text-align: center;">2SO<sub>2</sub>(g) + O<sub>2</sub>(g) <span class="mjpage"><math alttext=" \rightleftharpoons " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇌<!-- ⇌ --></mo>
+</math></span> 2SO<sub>3</sub>(g)</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Nitrogen oxide is in equilibrium with dinitrogen dioxide.</p>
+<p>2NO(g) <span class="mjpage"><math alttext=" \rightleftharpoons " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇌</mo>
+</math></span> N<sub>2</sub>O<sub>2</sub>(g)     Δ<em>H</em><sup>Θ</sup> &lt; 0</p>
+<p>Deduce, giving a reason, the effect of increasing the temperature on the concentration of N<sub>2</sub>O<sub>2</sub>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>A two-step mechanism is proposed for the formation of NO<sub>2</sub>(g) from NO(g) that involves an exothermic equilibrium process.</p>
+<p>First step: 2NO(g) <span class="mjpage"><math alttext=" \rightleftharpoons " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇌</mo>
+</math></span> N<sub>2</sub>O<sub>2</sub>(g)     fast</p>
+<p>Second step: N<sub>2</sub>O<sub>2</sub>(g) + O<sub>2</sub> (g) → 2NO<sub>2</sub>(g)     slow</p>
+<p>Deduce the rate expression for the mechanism.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The rate constant for a reaction doubles when the temperature is increased from 25.0 °C to 35 °C.</p>
+<p>Calculate the activation energy, <em>E</em><sub>a</sub>, in kJ mol<sup>−1</sup> for the reaction using section 1 and 2 of the data booklet.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div>b:T1173,<div class="question" style="padding-left: 20px;">
+<p>[N<sub>2</sub>O<sub>2</sub>] decreases <strong><em>AND </em></strong>exothermic <strong>«</strong>thus reverse reaction favoured<strong>»</strong></p>
+<p> </p>
+<p><em>Accept “product” for [N</em><sub><em>2</em></sub><em>O</em><sub><em>2</em></sub><em>].</em></p>
+<p><em>Do </em><strong><em>not </em></strong><em>accept just “reverse reaction </em><em>favoured/shift to left” for “[N<sub>2</sub>O<sub>2</sub></em><em>] </em><em>decreases”.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong><em>ALTERNATIVE 1:</em></strong></p>
+<p><strong>«</strong>from equilibrium, step 1<strong>»</strong></p>
+<p><span class="mjpage"><math alttext="{K_c} = \frac{{{\text{[}}{{\text{N}}_2}{{\text{O}}_2}{\text{]}}}}{{{{{\text{[NO]}}}^2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>K</mi>
+<mi>c</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>[</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>N</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>O</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mrow>
+<mtext>]</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mtext>[NO]</mtext>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span></p>
+<p><strong><em>OR</em></strong></p>
+<p>[N<sub>2</sub>O<sub>2</sub>] = <em>K</em><sub><em>c</em></sub>[NO]<sup>2</sup></p>
+<p><strong>«</strong>from step 2, rate <strong>«</strong>= <em>k</em><sub>1</sub>[N<sub>2</sub>O<sub>2</sub>][O<sub>2</sub>] = <em>k</em><sub>2</sub><em>K</em>[NO]<sup>2</sup>[O<sub>2</sub>]<strong>»</strong></p>
+<p>rate = <em>k</em>[NO]<sup>2</sup>[O<sub>2</sub>]</p>
+<p> </p>
+<p><strong><em>ALTERNATIVE 2:</em></strong></p>
+<p><strong>«</strong>from step 2<strong>» </strong>rate = <em>k</em><sub>2</sub>[N<sub>2</sub>O<sub>2</sub>][O<sub>2</sub>]</p>
+<p><strong>«</strong>from step 1, rate<sub>(1)</sub> = k<sub>1</sub>[NO]<sup>2</sup> = <em>k<sub>–</sub></em><sub>1</sub>[N<sub>2</sub>O<sub>2</sub>], [N<sub>2</sub>O<sub>2</sub>] = <span class="mjpage"><math alttext="\frac{{{k_1}}}{{{k_{ - 1}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>k</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msub>
+<mi>k</mi>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> [NO]<sup>2</sup><strong>»</strong></p>
+<p><strong>«</strong>rate = <span class="mjpage"><math alttext="\frac{{{k_1}}}{{{k_{ - 1}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>k</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msub>
+<mi>k</mi>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> <em>k</em><sub>2</sub>[NO]<sup>2</sup>[O<sub>2</sub>]<strong>»</strong></p>
+<p>rate = <em>k</em>[NO]<sup>2</sup>[O<sub>2</sub>]</p>
+<p> </p>
+<p><em>Award </em><strong><em>[2] </em></strong><em>for correct rate expression.</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>«</strong><span class="mjpage"><math alttext="\ln \frac{{{k_1}}}{{{k_2}}} = \frac{{{E_a}}}{R}\left( {\frac{1}{{{T_2}}} - \frac{1}{{{T_1}}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>ln</mi>
+<mo>⁡</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>k</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msub>
+<mi>k</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>E</mi>
+<mi>a</mi>
+</msub>
+</mrow>
+</mrow>
+<mi>R</mi>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<msub>
+<mi>T</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<msub>
+<mi>T</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span><strong>»</strong></p>
+<p>T<sub>2</sub> = <strong>«</strong>273 + 35 =<strong>» </strong>308 K <strong><em>AND </em></strong>T<sub>1</sub> = <strong>«</strong>273 + 25 =<strong>» </strong>298 K</p>
+<p><em>E</em><sub>a</sub> = 52.9 <strong>«</strong>kJ mol<sup>–1</sup><strong>»</strong></p>
+<p> </p>
+<p><em>Award </em><strong><em>[2] </em></strong><em>for correct final answer.</em></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/7/","children":["← back to ","Chemistry"," topic ","7"]}]}],["$","h1",null,{"children":"18M.2.HL.TZ2.6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","7-1-equilibrium, 17-1-the-equilibrium-law, 16-2-activation-energy"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

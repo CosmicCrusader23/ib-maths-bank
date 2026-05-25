@@ -1,0 +1,40 @@
+{
+  "subject": "economics",
+  "label": "Economics",
+  "topics": [
+    {
+      "id": "1",
+      "name": "Introduction to economics",
+      "count": 2
+    },
+    {
+      "id": "2",
+      "name": "Microeconomics",
+      "count": 100
+    },
+    {
+      "id": "3",
+      "name": "Macroeconomics",
+      "count": 109
+    },
+    {
+      "id": "4",
+      "name": "International economics",
+      "count": 35
+    },
+    {
+      "id": "5",
+      "name": "Development economics",
+      "count": 27
+    },
+    {
+      "id": "6",
+      "name": "The global economy",
+      "count": 19
+    }
+  ],
+  "sources": {
+    "pestle": 292
+  },
+  "total": 292
+}

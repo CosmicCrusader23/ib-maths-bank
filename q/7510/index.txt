@@ -1,0 +1,125 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","7510","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","7510","d"],{"children":["__PAGE__?{\"id\":\"7510\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","7510","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:Tc6a,<div class="question" style="padding-left: 20px;">
+<p><em><strong>ALTERNATIVE 1:</strong></em></p>
+<p>4 C=C bonds/4 carbon to carbon double bonds ✔</p>
+<p>mass of iodine per mole of acid = «4 × 253.80 g mol<sup>–1</sup> =» 1015.2 «g mol<sup>–1</sup>» ✔</p>
+<p>iodine number «<span class="mjpage"><math alttext=" = \frac{{1015.2\,{\text{g}}\,{\text{mo}}{{\text{l}}^{ - 1}}}}{{276.46\,{\text{g}}\,{\text{mo}}{{\text{l}}^{ - 1}}}} \times 100" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>1015.2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>mo</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>l</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>276.46</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>mo</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>l</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mn>100</mn>
+</math></span>» = 367 ✔</p>
+<p> </p>
+<p><em><strong>ALTERNATIVE 2:</strong></em></p>
+<p>4 C=C bonds/4 carbon to carbon double bonds ✔</p>
+<p>«<span class="mjpage"><math alttext="\frac{{100\,{\text{g}}}}{{276.46\,{\text{g}}\,{\text{mo}}{{\text{l}}^{ - 1}}}} \times 4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>100</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mn>276.46</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>mo</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>l</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mn>4</mn>
+</math></span> =» 1.447 mol of I<sub>2</sub> «reacts with 100 g»  ✔</p>
+<p>iodine number «= 1.447 mol × 253.80 g mol<sup>–1</sup>» = 367 ✔</p>
+<p> </p>
+<p><em>Award<strong> [3]</strong> for correct final answer.</em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>Any two of:</em></p>
+<p>«structural» components of cell membranes ✔</p>
+<p>energy storage/utilization ✔</p>
+<p>«thermal/electrical» insulation ✔</p>
+<p>transport «of lipid-soluble molecules» ✔</p>
+<p>hormones/chemical messengers ✔</p>
+<p> </p>
+<p><em>Accept other specific functions, such as “prostaglandin/cytokine/bile acid synthesis”, “cell differentiation/growth”, “myelination”, “storage of vitamins/biomolecules”, “signal transmission”, “protection/padding of organs”, “precursors/starting materials for the biosynthesis of other lipid”.</em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>Any one of:</em></p>
+<p>atherosclerosis/cholesterol deposition «in artery walls» ✔</p>
+<p>heart/cardiovascular disease ✔</p>
+<p>stroke ✔</p>
+<p> </p>
+<p><em>Accept “arteries become blocked/walls become thicker”.</em></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/b/","children":["← back to ","Chemistry"," topic ","b"]}]}],["$","h1",null,{"children":"18N.3.HL.TZ0.9"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"18N"}],["$","span",null,{"children":["· ","b-3-lipids"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"specification\">\n<p>Lipids play several roles in our bodies.</p>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>The iodine number is the maximum mass of iodine that reacts with 100 g of an unsaturated compound.</p>\n<p>Determine the iodine number of stearidonic acid, C<sub>17</sub>H<sub>27</sub>COOH.</p>\n<div class=\"marks\">[3]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>State <strong>two</strong> functions of lipids in the body.</p>\n<div class=\"marks\">[2]</div>\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Outline one effect of increased levels of low-density lipoproteins in the blood.</p>\n<div class=\"marks\">[1]</div>\n<div class=\"question_part_label\">c.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

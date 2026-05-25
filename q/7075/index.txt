@@ -1,0 +1,132 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","7075","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","7075","d"],{"children":["__PAGE__?{\"id\":\"7075\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","7075","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:Tda4,<div class="question" style="padding-left: 20px;">
+<p>i</p>
+<p>product has higher binding energy «per nucleon»/more stable<br/><em><strong>OR<br/></strong></em>nucleons in product more tightly bound «with one another»</p>
+<p>lighter elements «than Fe» can fuse/combine with loss of mass/mass defect «and release vast amount of energy»</p>
+<p><em>Accept “mass is converted to energy” for M2</em></p>
+<p> </p>
+<p>ii</p>
+<p><em>Any one of:<br/></em>deuterium/fuel is abundant/cheap<br/>«helium» products not radioactive<br/>fusion much less dangerous than fission<br/>large amounts/shipments of radioactive fuel not required<br/>far less radioactive waste «created by fast moving neutrons» has to be stored </p>
+<p><em>Accept “reduces greenhouse gas emissions/global warming” <strong>OR </strong>“no radioactive waste” <strong>OR</strong> “more reliable power” <strong>OR</strong> “fewer safety issues”. <br/>Do <strong>not</strong> accept “gives out a large amount of energy” as it is in the stem of the question.</em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>i<br/>«<span class="mjpage"><math alttext="\lambda  = \frac{{\ln 2}}{{{t_{\frac{1}{2}}}}} = \frac{{0.693}}{{25.3\,{\text{days}}}} = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mi>ln</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+</mrow>
+<mrow>
+<mrow>
+<msub>
+<mi>t</mi>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>0.693</mn>
+</mrow>
+<mrow>
+<mn>25.3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>days</mtext>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+</math></span>» 2.74 × 10<sup>−2</sup> day<sup>−1</sup><br/><em>Need correct unit for mark.</em></p>
+<p> </p>
+<p>ii<br/>«4 half-lives; 1 →<span class="mjpage"><math alttext="\frac{1}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</math></span>→<span class="mjpage"><math alttext="\frac{1}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</math></span>→<span class="mjpage"><math alttext="\frac{1}{8}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>8</mn>
+</mfrac>
+</math></span>→<span class="mjpage"><math alttext="\frac{1}{16}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>16</mn>
+</mfrac>
+</math></span> =» <span class="mjpage"><math alttext="\frac{1}{16}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>16</mn>
+</mfrac>
+</math></span> / 6.25 × 10<sup>−2</sup><br/><em><strong>OR</strong></em><br/>«<span class="mjpage"><math alttext="\frac{N}{{{N_0}}} = {e^{ - {\lambda _t}}} = {e^{ - 0.0274\,\, \times \,\,101.2}} = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mi>N</mi>
+<mrow>
+<mrow>
+<msub>
+<mi>N</mi>
+<mn>0</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>−</mo>
+<mrow>
+<msub>
+<mi>λ</mi>
+<mi>t</mi>
+</msub>
+</mrow>
+</mrow>
+</msup>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>−</mo>
+<mn>0.0274</mn>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mo>×</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mn>101.2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>=</mo>
+</math></span>» 6.25 × 10<sup>−2</sup></p>
+<p><em>Accept 6.25%.</em></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/c/","children":["← back to ","Chemistry"," topic ","c"]}]}],["$","h1",null,{"children":"16N.3.SL.TZ0.15"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","c-3-nuclear-fusion-and-fission"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"specification\">\n<p>Nuclear reactions transform one nuclide into another. Fission, splitting a large nucleus into two smaller nuclei, releases vast amounts of energy.</p>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>(i) Explain why fusion, combining two smaller nuclei into a larger nucleus, releases vast amounts of energy. Use section 36 of the data booklet.</p>\n<p>(ii) Outline <strong>one</strong> advantage of fusion as a source of energy.</p>\n<div class=\"marks\">[3]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Radioactive phosphorus, <sup>33</sup>P, has a half-life of 25.3 days.</p>\n<p>(i) Calculate <sup>33</sup>P decay constant λ and state its unit. Use section 1 of the data booklet.</p>\n<p>(ii) Determine the fraction of the <sup>33</sup>P sample remaining after 101.2 days.</p>\n<div class=\"marks\">[2]</div>\n<div class=\"question_part_label\">b.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

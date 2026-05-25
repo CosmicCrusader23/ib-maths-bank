@@ -1,0 +1,207 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","6747","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","6747","d"],{"children":["__PAGE__?{\"id\":\"6747\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","6747","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:Tda6,<div class="specification">
+<p><span style="background-color: #ffffff;">Benzoic acid, C<sub>6</sub>H<sub>5</sub>COOH, is another derivative of benzene.</span></p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Identify the wavenumber of one peak in the IR spectrum of benzoic acid, using section 26 of the data booklet.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Identify the spectroscopic technique that is used to measure the bond lengths in solid benzoic acid.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Outline <strong>one</strong> piece of physical evidence for the structure of the benzene ring.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Draw the structure of the conjugate base of benzoic acid showing <strong>all</strong> the atoms and <strong>all</strong> the bonds.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Outline why both C to O bonds in the conjugate base are the same length and suggest a value for them. Use section 10 of the data booklet.</span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">The pH of an aqueous solution of benzoic acid at 298 K is 2.95. Determine the concentration of hydroxide ions in the solution, using section 2 of the data booklet.</span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">f(i).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Formulate the equation for the complete combustion of benzoic acid in oxygen using only integer coefficients.</span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">f(ii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">The combustion reaction in (f)(ii) can also be classed as redox. Identify the atom that is oxidized and the atom that is reduced.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Suggest how benzoic acid, <em>M<sub>r</sub></em> = 122.13, forms an apparent dimer, <em>M<sub>r</sub></em> = 244.26, when dissolved in a non-polar solvent such as hexane.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">h.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">State the reagent used to convert benzoic acid to phenylmethanol (benzyl alcohol), C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>OH.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">i.</div>
+</div>b:T1c85,<div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">Any wavenumber in the following ranges:<br/>2500−3000 «cm<sup>−1</sup>» </span><strong>[✔]</strong><span style="background-color: #ffffff;"><br/>1700−1750 «cm<sup>−1</sup>» </span><strong>[✔]</strong><span style="background-color: #ffffff;"><br/>2850−3090 «cm<sup>−1</sup>» </span><strong>[✔]</strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">X-ray «crystallography/spectroscopy» <strong>[✔]</strong></span></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;"><em>Any one of:</em></span></p>
+<p><span style="background-color: #ffffff;">«regular» hexagon</span></p>
+<p><span style="background-color: #ffffff;"><em><strong>OR</strong></em></span></p>
+<p><span style="background-color: #ffffff;">all «H–C–C/C-C-C» angles equal/120º <strong>[✔]</strong><br/>all C–C bond lengths equal/intermediate between double and single</span></p>
+<p><span style="background-color: #ffffff;"><em><strong>OR</strong></em></span></p>
+<p><span style="background-color: #ffffff;">bond order 1.5 <strong>[✔]</strong></span></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><img alt="" height="158" src="../assets/uploads/tinymce_asset/asset/5947/2d.PNG" width="482"/>      <strong>[<span style="background-color: #ffffff;">✔</span>]</strong></p>
+<p> </p>
+<p><em><strong>Note: </strong><span style="background-color: #ffffff;">Accept Kekulé structures.<br/>Negative sign must be shown in correct position.</span></em></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">electrons delocalized «across the O–C–O system»</span></p>
+<p><span style="background-color: #ffffff;"><em><strong>OR</strong></em></span></p>
+<p><span style="background-color: #ffffff;">resonance occurs <strong>[✔]</strong></span></p>
+<p><span style="background-color: #ffffff;">122 «pm» &lt; C–O &lt; 143 «pm» <strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</strong></span></p>
+<p> </p>
+<p><span style="background-color: #ffffff;"><em><strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">Note: </strong>Accept “delocalized π-bond”.</em><br/><em>Accept “bond intermediate between single and double bond” or “bond order 1.5” for M1.</em><br/><em>Accept any answer in range 123 to 142 pm</em>.</span></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;"><em><strong>ALTERNATIVE 1:</strong></em><br/>[H<sup>+</sup>] «= 10<sup>−2.95</sup>» = 1.122 × 10<sup>−3</sup> «mol dm<sup>−3</sup>» <strong>[✔]</strong></span></p>
+<p><span style="background-color: #ffffff;"><br/>«[OH<sup>−</sup>] = <span class="mjpage"><math alttext="\frac{{1.00 \times {{10}^{ - 14}}{\text{ mo}}{{\text{l}}^2}{\text{ d}}{{\text{m}}^{ - 6}}}}{{1.22 \times {{10}^{ - 3}}{\text{ mol d}}{{\text{m}}^{ - 3}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>1.00</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>14</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mtext> mo</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>l</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mrow>
+<mtext> d</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>6</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>1.22</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mtext> mol d</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> =» 8.91 × 10<sup>−12</sup> «mol dm<sup>−3</sup>» <strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</strong></span></p>
+<p> </p>
+<p><span style="background-color: #ffffff;"><em><strong>ALTERNATIVE 2:</strong></em><br/>pOH = «14 − 2.95 =» 11.05 <strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</strong><br/>«[OH<sup>−</sup>] = 10<sup>−11.05</sup> =» 8.91 × 10<sup>−12</sup> «mol dm<sup>−3</sup>» <strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</strong></span></p>
+<p> </p>
+<p><em><span style="background-color: #ffffff;"><strong>Note</strong>: Award <strong>[2]</strong> for correct final answer.<br/>Accept other methods.</span></em></p>
+<div class="question_part_label">f(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">2C<sub>6</sub>H<sub>5</sub>COOH (s) + 15O<sub>2</sub> (g) → 14CO<sub>2</sub> (g) + 6H<sub>2</sub>O (l)<br/>correct products    </span><strong>[✔]</strong><span style="background-color: #ffffff;"><br/>correct balancing    </span><strong>[✔]</strong></p>
+<div class="question_part_label">f(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;"><em>Oxidized</em>:</span></p>
+<p><span style="background-color: #ffffff;">C/carbon «in C<sub>6</sub>H<sub>5</sub>COOH»</span></p>
+<p><span style="background-color: #ffffff;"><em><strong>AND</strong></em></span></p>
+<p><span style="background-color: #ffffff;"><em>Reduced</em>:</span></p>
+<p><span style="background-color: #ffffff;">O/oxygen «in O<sub>2</sub>»      <strong>[✔]</strong></span></p>
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">«intermolecular» hydrogen bonding    <strong>[✔]</strong></span></p>
+<p> </p>
+<p><em><span style="background-color: #ffffff;"><strong>Note: </strong>Accept diagram showing hydrogen bonding.</span></em></p>
+<div class="question_part_label">h.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">lithium aluminium hydride/LiAlH<sub>4</sub>    <strong>[✔]</strong></span></p>
+<div class="question_part_label">i.</div>
+</div>c:Tc44,<div class="question" style="padding-left: 20px;">
+<p>Most candidates could identify a wavenumber or range of wavenumbers in the IR spectrum of benzoic acid.</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Less than half the candidates identified x-ray crystallography as a technique used to measure bond lengths. There were many stating IR spectroscopy and quite a few random guesses.</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Again less than half the candidates could accurately give a physical piece of evidence for the structure of benzene. Many missed the mark by not being specific, stating ‘all bonds in benzene with same length’ rather than ‘all C-C bonds in benzene have the same length’.</p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Very poorly answered with only 1 in 5 getting this question correct. Many did not show <strong>all</strong> the bonds and <strong>all</strong> the atoms or either forgot or misplaced the negative sign on the conjugate base.</p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>This question was a challenge. Candidates were not able to explain the intermediate bond length and the majority suggested the value of either the bond length of C to O single bond or double bond.</p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Generally well done with a few calculating the pOH rather than the concentration of hydroxide ion asked for.</p>
+<div class="question_part_label">f(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Most earned at least one mark by correctly stating the products of the reaction.</p>
+<div class="question_part_label">f(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Another question where not reading correctly was a concern. Instead of identifying the atom that is oxidized and the atom that is reduced, answers included formulas of molecules or the atoms were reversed for the redox processes.</p>
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>The other question where only 10 % of the candidates earned a mark. Few identified hydrogen bonding as the reason for carboxylic acids forming dimers. There were many G2 forms stating that the use of the word “dimer” is not in the syllabus, however the candidates were given that a dimer has double the molar mass and the majority seemed to understand that the two molecules joined together somehow but could not identify hydrogen bonding as the cause.</p>
+<div class="question_part_label">h.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Very few candidates answered this part correctly and scored the mark. Common answers were H<sub>2</sub>SO<sub>4</sub>, HCl &amp; Sn, H<sub>2</sub>O<sub>2</sub>. In general, strongest candidates gained the mark.</p>
+<div class="question_part_label">i.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/14/","children":["← back to ","Chemistry"," topic ","14"]}]}],["$","h1",null,{"children":"19M.2.HL.TZ1.2"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","21-1-spectroscopic-identification-of-organic-compounds, 10-1-fundamentals-of-organic-chemistry, 8-1-theories-of-acids-and-bases, 14-1-covalent-bonding-and-electron-domain-and-molecular-geometries, 8-3-the-ph-scale, 1-1-introduction-to-the-particulate-nature-of-matter-and-chemical-change, 9-1-oxidation-and-reduction, 4-4-intermolecular-forces, 20-1-types-of-organic-reactions"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"}}]]}]]}]

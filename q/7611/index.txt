@@ -1,0 +1,78 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","7611","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","7611","d"],{"children":["__PAGE__?{\"id\":\"7611\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","7611","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T561,<div class="specification">
+<p><span style="background-color: #ffffff;">Excess acid in the stomach can cause breakdown of the stomach lining.</span></p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Outline how ranitidine (Zantac) inhibits stomach acid production.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a(i).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Outline <strong>two</strong> advantages of taking ranitidine instead of an antacid which neutralizes excess acid.</span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a(ii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Some antacids contain carbonates.</span></p>
+<p><span style="background-color: #ffffff;">Determine the pH of a buffer solution which contains 0.160 mol dm<sup>−3</sup> CO<sub>3</sub><sup>2−</sup> and 0.200 mol dm<sup>−3</sup> HCO<sub>3</sub><sup>−</sup>, using section 1 of the data booklet.</span></p>
+<p><span style="background-color: #ffffff;">p<em>K</em><sub>a</sub> (HCO<sub>3</sub><sup>−</sup>) = 10.32</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.</div>
+</div>b:Tecf,<div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">blocks/binds H2/histamine receptors «in cells of stomach lining»<br/><em><strong>OR</strong></em><br/>prevents histamine molecules binding to H2/histamine receptors «and triggering acid secretion»  <strong>[✔]</strong></span></p>
+<div class="question_part_label">a(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;"><em>Any two of:</em><br/>ranitidine can be effective in treating ulcers «but antacid is not»  <strong>[✔]</strong><br/>ranitidine can prevent long-term damage «from overproduction of acid and antacid does not» <strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</strong><br/>ranitidine has a long-term effect «and antacid has short-term effect only» <strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</strong><br/>ranitidine does not affect ionic balance in body «and antacid does» <strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</strong><br/>ranitidine does not produce bloating/flatulence <strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">[✔]</strong></span></p>
+<p> </p>
+<p><span style="font-size: 14px;"><em> <span style="background-color: #ffffff;"><strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">Note</strong></span><span style="background-color: #ffffff;"><strong style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">:</strong> Accept “ranitidine stops the over production of acid in the stomach while antacids neutralise the excess acid<br/>giving temporary relief” for M2.</span></em></span></p>
+<div class="question_part_label">a(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">«pH = p<em>K</em><sub>a</sub> <span class="mjpage"><math alttext=" + \log \frac{{[{{\text{A}}^ - }]}}{{[{\text{HA]}}}} = 10.32 + \log \frac{{0.160}}{{0.200}} = 10.32 - 0.097" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>+</mo>
+<mi>log</mi>
+<mo>⁡</mo>
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow>
+<msup>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mo>−</mo>
+</msup>
+</mrow>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow>
+<mtext>HA]</mtext>
+</mrow>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>10.32</mn>
+<mo>+</mo>
+<mi>log</mi>
+<mo>⁡</mo>
+<mfrac>
+<mrow>
+<mn>0.160</mn>
+</mrow>
+<mrow>
+<mn>0.200</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>10.32</mn>
+<mo>−</mo>
+<mn>0.097</mn>
+</math></span>»<br/>«pH =»10.22   <strong>[✔]</strong></span></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/d/","children":["← back to ","Chemistry"," topic ","d"]}]}],["$","h1",null,{"children":"19M.3.HL.TZ2.23"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","d-4-ph-regulation-of-the-stomach"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n<p>Some candidates were not confident enough in their answers to receive a mark while others confused the action of ranitidine which blocks H2 receptors with omeprazole which is a proton pump inhibitor.</p>\n<div class=\"question_part_label\">a(i).</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n<p>While most candidates were awarded at least one of the two marks possible for this question some of the descriptions were too vague or incomplete to receive a mark.</p>\n<div class=\"question_part_label\">a(ii).</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n<p>This was generally a well-answered question. Most candidates who did not receive the mark inverted the concentration of the conjugate base/concentration of the acid in the calculation.</p>\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

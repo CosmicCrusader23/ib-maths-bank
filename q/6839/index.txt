@@ -1,0 +1,230 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","6839","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","6839","d"],{"children":["__PAGE__?{\"id\":\"6839\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","6839","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T1904,<div class="specification">
+<p>The concentration of a solution of a weak acid, such as ethanedioic acid, can be determined<br/>by titration with a standard solution of sodium hydroxide, NaOH (aq).</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Distinguish between a weak acid and a strong acid.</p>
+<p>Weak acid:</p>
+<p>Strong acid:</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Suggest why it is more convenient to express acidity using the pH scale instead of using the concentration of hydrogen ions.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>5.00 g of an impure sample of hydrated ethanedioic acid, (COOH)<sub>2</sub>•2H<sub>2</sub>O, was dissolved in water to make 1.00 dm<sup>3</sup> of solution. 25.0 cm<sup>3</sup> samples of this solution were titrated against a 0.100 mol dm<sup>-3</sup> solution of sodium hydroxide using a suitable indicator.</p>
+<p>(COOH)<sub>2</sub> (aq) + 2NaOH (aq) → (COONa)<sub>2</sub> (aq) + 2H<sub>2</sub>O (l)</p>
+<p>The mean value of the titre was 14.0 cm<sup>3</sup>.</p>
+<p>(i)   Calculate the amount, in mol, of NaOH in 14.0 cm<sup>3</sup> of 0.100 mol dm<sup>-3</sup> solution.</p>
+<p>(ii)  Calculate the amount, in mol, of ethanedioic acid in each 25.0 cm<sup>3</sup> sample.</p>
+<p>(iii) Determine the percentage purity of the hydrated ethanedioic acid sample.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The Lewis (electron dot) structure of the ethanedioate ion is shown below.</p>
+<p><img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALEAAABvCAYAAACjHSGaAAAMaElEQVR4Ae2df2gcxxXHn4QpVlIlqsDEp7gEHDUGI/9haqVgF5pa5BoIxqb6I/+0cisM/iPG/adSSKAlUNQ/IiEI8h+h9hm7P4RDkXBJU1sX5BYsp1iVsIxM63PT0CL15GDcOJYiO8GnKe+kJ83tj9vZvdm9ndu3IHZ35u3Mm+/7aG52dm+uTgghgDdWwGAF6g32nV1nBYoKMMQMgvEKMMTGh5AbYIO4rq4Oyv2xZKxAOQXKsYN5pduXsDD9G3jtuy1rzO2CwwNjcGtppdTM48wGsYc9Z7MC2hRYufVb+NGet+D2D7OwKAQU8oPw9PuvwtF3pmDJRy111tkJ+m/hSQsfKrKppwJqXC3B9MAB2PPOyzB186fwzU2exRYNuCdW04mtolTg2WZo9EGmD9MoW8F1JVKBpb/Dn99fhO6jHdDqg0zFDjuRknKjo1Rg5b9w6Zc/g8Htb8DfDj0DPhj2ZRtlk7iuRClwH26e+Tn84K8vwXtvH4Kn6+dg9HCr6yxZ68A0PJL04Rs7SQw+DE8B1xu7pZsw+oufQOfkXhgffh32p77i2wk/vXbZwtHJIH9lC+XM0BUIEjO8JpvNVu7b0iQMHNhfEcDohLYxMU/JVR7TapTQ09MTqNqdO3cGum7johW4P3keBv+yAABvQkfLmxtZcBRG8ifg+yk1PAMPJ/C/ETeGV9KeD10VCJMXbcMJV+85gxUIWQH9EK8swPQfhmHg8C5pjIzPxN+FS7fuh9wcLr4iBXzGbnR0FGZmZiqqUsfFeiFeugGnf5yGPYfOwp39GcgXBAhRgMXc2/CdO6ehY8c+OHz6hq/n4joayWUoKBAgdp2dnTA8PKxQeMgm+O6EvOEwd3WoK6faj212hX+Lke42AfCy6J/61H6BV779Ck6JSgGv2Djk53K5Iic9PT1KXtp4UbpKzQhvzEo21cqsdoVcRqQBRKp3XHxWUuLGCdlAOiNyhY10PqquAhQXP7GLE8SahhMP4aOJi5CFZ+HFb30DnnD59Khv3QuvpFMA2Um48Yn8zMXlAk6OQAHzY6cJ4kew+L87ANAEW5sa3IWvfxyatj4GADn4OP/Q3Y5zIlTA/Nhpgpg0b4QtT26mE94bpYC5sdME8SZobN4CAHMw+59P3UO38jncu70MADtgewvD7i5UlDnmx04TxJuh9dsvQRr+BR9c/Se4zQavfPQhvJtdAEg/D21PqT1SjDKcyayrBmJnvS+2zjpY8+ncZucwDUO2xX2Z/Lt375aY8km4CqDey8vLG5WUiU3RyCE/TrMT2qbYio1dnBWZLpwrToveM1dFvjiNVhCLuXGR6U0LgDbRlZkVixvyibm5OdHe3i6GhoakVD4MSwFXvX3GjiA+e/askqu2Tk/pKjUjvRAX6/xM5MbPif4izKsPTorw9p8T4zn7DDL2CEeOHClOnDPIakELakUAI1ATExMOxajHjiAeGRlxKMeeZBjE9gZ4pTDIXgpVnu8NsL86agJif00utUZBS8ZkQhTPuUcu1UnXmRfAY2Njtnh41Y3xQ5BV72di2RN7NdItHxuNY2AElkF2U0lfuhfAOIRDwPr6+vRV6lBSTUGM7SPhGGSHaGtMUgUYOxW0DXOrOYhRLAY5TGTE+qwPwuN0E0f6RwEwtrQmIWaQw4M4Tj0wtbJmIWaQKcT69nEEGFtX0xAzyLUPcCIgZpArBzmuPTC1rOZ7Ymoo3WzwrAUporaPO8DYisRAjI1lkNXAJSsTAE4cxAwy4em9NwXgRELMINcWwImFmEF2B9mkHphakagxMTWa9jxGJiVW9yYCjJ4nGmIUgEE2G2CGeDV+iQfZ1B54LXzcE5MQqj2y0wsvVIape/waEH4kO7WNdInqZZ4gGiZ+OCGLRgFzeyCi+nUZuUxTjrE3tm6kR5wBRp8ZYkvkKHBOIFtMa/qUdIg7wAyxC4YUwKSCTO03AeCwIda0eEr0y44cO3YMhoaG4NSpU3DhwoVSB4qLRZ+UfvgafxTne/Da6T/C9MKXpbZxOvPpd3t7O+BC19u2bYtTK6L3xdrRhTl2sdal49x6o1PIT4hBXC4g1SX6s7m1NS6+EPmpX4veF1ICUq+KkfkvdFSttYwgfqt+SVOrowELC5OrwOtOBGxLuJc5rFQjV1iYHxHdKRCxWx/ZVL9lcT2OGWIPgSjbe7FoXBzkvBg5P7W2OhFdWd29qX77US1MiGtoVb+NxaK7XBf6fgKe238QnrOM2ujnqSzJoZ+uzjwF9zt0Bw2poIYgpsWivw67nvmaL/lXYfJ1iUbj4H5rdMLoooydnTBadXZeqwI1BPFmaNm+w3uhb63y6SjMVL91tF1PGTUE8SZ4qu15z4W+YekWXBr9U4zmi031Ww+AOkqpIYgB6ls74Gh3Gyy8NQi/mr5n02dl4QN448AL0DGUA2iMz+2AqX7bBK5WgnWaJMypEGtdus7lhQkL+ax4vfhQw+1hR7fI/MO+TrIuX4KWY6rfqu0NkyvjH3bQe7YlT+4Wc2L89/2iCx9srP1CanH1+sx7Yiofv6d16yAo+o1txXcnTNooDmH4bDTEBDAKVAJxGErFqEx86QnbbBLIDLEDQEkFGKXA4ZNpIDPEFoiTDDBJYRrIDDFFTnivuyuZ1vyhSSAzxGs4cg9s/780BWSGmHtgO71SigkgJx5i7oElYl0O4w5yoiFmgF2odUiOM8iJhZgBdiDVIymuICcSYgbYg9Yy2XEEOXEQM8BlCFXMihvIiYKYAVakVMEsTiAnBmIGWIFMnyZxAdlIiP2uicAA+6TTh3mlIPuNpZNrxkGMb1f5WV6JAXYKu960oCBjLHUsFWYUxNhodFi14QywXljLlRYEZL/xdKvfGIipwdgLq3wEMcBuIQ8vPQjIfX19vjomJ++NgFgGGOH02hhgL4XCy/cLsmyv+glr9T72EOO3KtBJ1XEwioK2eE2SvpFhDWw1z2UwVRYml+2DgBxriP0CTIHD6xhgUqM6ewQTP0Fxr7JZQVa5hmxiC7EjwIW8mDr/O9GPy6uuf0mzTXT1nxPjufh9y5hE5r0QQiF2Msj4D6C6EQuq9n7sAn9RlABG565du7Za5+KsyBThTYveM1fXVp4siMXcuMj0pgVAm+jKzK6tGezHTbYNXQEfsQsCcuwgRmjJqfUhgccau8IrP/QocQWuCnjFxiHfL8jEi6sPFWQE6ompAesA4ydRLiPSACLVOy7cBg1kE7tFrisQsBYupbj4jR1ycPDgwWKH5jW0CBPiQMtYNTQ0wMmTJ2Hfvn1rCxdtrLH7ouvawLjM1F54JZ0CyE7CjU8eVWvRI663RIHgsUMOTpw4AfjbIdevXy8pNcoTTQuS0Rq7TbC1qcHd//rHoWnrYwCQg4/zDwFSX3W35ZyIFKgsdvijNxcvXgQEulqb7574wYMHMDMz4+JvI2x5crNLnloy/hoQ1sFb1AoEj11zc7NZEB8/fhx2794NV65ckVTeBI3NW7zXBl75HO7dXgaAHbC9xQ47fjR1dnZCJpORyuZDXQpg5zA/P28pTk/sLIVGe2q9MfEagOdyOcenbUFvDqh++bG1ynsXdB3v1RSgm3Gnp6qVxA7LVYmXF1dqrXC2CjQ7Ib/3MDY2tlqywzRMSZVl8mWAVd67KCmXT5QVIJ1tj43LxKZYuEs+/WPgDIU8U+XkUOwgRidlkNenV3xMmFNDSVinHoJseK9PAdLbBrLP2BHACKetLAd3Ywkx+ukIssDfijun9NgZe3FsHAPsEPUQk9xfrVSLnV+AsSmxhdgdZO8I0GNrBthbK90WQSAkH4JeG2uIsXHYI+NHCjq6PrSgVjvsCWC05zGwg0ARJAWBEW/gKM4qQwi5GbGHGJ2VRSkHsgyw182ALAIf61dAjpkXlPLQsaenR/n1TfLaCIjRWS9RGGAKaXz2csxwrOy0yQCX66CcrqU0YyBGh0kUnHbBY9rwo4gawj0wqRKPPcUM42P9locOgLGVFPswWhxontjLERTFCVRMc0r3Ko/zw1cAY4a9rNzx6AIYvTcO4vAl5xqiUADHvghf0CGE7GOYENdhRfKD7rq6uuKpJVk24eOEKIDvWly+fBnS6XTFLQ6TK4a44vBwASoKhAmx71cxVRxmG1YgSgUY4ijV5rpCUYAhDkVWLjRKBVy/nkRjGKszfMNnVYTPZQXcuJFtdB9zT6xbUS4vcgVssxORe8AVsgIVKsA9cYUC8uXVV4Ahrn4M2IMKFWCIKxSQL6++Av8H0U2De8dmcE0AAAAASUVORK5CYII="/></p>
+<p>Outline why all the C–O bond lengths in the ethanedioate ion are the same length and suggest a value for them. Use section 10 of the data booklet.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div>b:T162e,<div class="question" style="padding-left: 20px;">
+<p><em>Weak acid:</em> partially dissociated/ionized «in solution/water»<br/><em><strong>AND<br/></strong>Strong acid:</em> «assumed to be almost» completely/100% dissociated/ionized «in solution/water»</p>
+<p><em>Accept answers relating to pH, conductivity, reactivity if solutions of equal concentrations stated.</em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>«log scale» reduces a wide range of numbers to a small range<br/><em><strong>OR<br/></strong></em>simple/easy to use<br/><em><strong>OR<br/></strong></em>converts exponential expressions into linear scale/simple numbers</p>
+<p><em>Do <strong>not</strong> accept “easy for calculations”</em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>i</p>
+<p>«n(NaOH) = <span class="mjpage"><math alttext="\left( {\frac{{14.0}}{{1000}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>14.0</mn>
+</mrow>
+<mrow>
+<mn>1000</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> dm<sup>-3</sup> x  0.100 mol dm<sup>-3</sup> =» 1.40 x 10<sup>-3</sup> «mol»</p>
+<p> </p>
+<p>ii</p>
+<p>«<span class="mjpage"><math alttext="\frac{1}{2} \times 1.40 \times {10^{ - 3}} = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo>×</mo>
+<mn>1.40</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>=</mo>
+</math></span>  <span class="mjpage"><math alttext="7.00 \times {10^{ - 4}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>7.00</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow>
+<mo>−</mo>
+<mn>4</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span> «mol»</p>
+<p> </p>
+<p>iii<br/><em><strong>ALTERNATIVE 1:</strong></em><br/>«mass of pure hydrated ethanedioic acid in each titration = 7.00 × 10<sup>-4</sup> mol × 126.08 g mol<sup>-1</sup> =» 0.0883 / 8.83 × 10<sup>-2</sup> «g»</p>
+<p>mass of sample in each titration = «<span class="mjpage"><math alttext="\frac{{25}}{{1000}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>25</mn>
+</mrow>
+<mrow>
+<mn>1000</mn>
+</mrow>
+</mfrac>
+</math></span>×5.00g=»0.125«g»</p>
+<p>«% purity = <span class="mjpage"><math alttext="\frac{{0.0883{\rm{g}}}}{{0.125{\rm{g}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>0.0883</mn>
+<mrow>
+<mrow>
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</mrow>
+<mrow>
+<mn>0.125</mn>
+<mrow>
+<mrow>
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> × 100 =» 70.6 «%»</p>
+<p><em><strong>ALTERNATIVE 2:</strong></em><br/>«mol of pure hydrated ethanedioic acid in 1 dm<sup>3</sup> solution = 7.00 × 10<sup>-4</sup> × <span class="mjpage"><math alttext="\frac{{1000}}{{25}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>1000</mn>
+</mrow>
+<mrow>
+<mn>25</mn>
+</mrow>
+</mfrac>
+</math></span> =» 2.80×10<sup>-2</sup> «mol» <br/>«mass of pure hydrated ethanedioic acid in sample = 2.80 × 10<sup>-2</sup> mol × 126.08 g mol<sup>-1</sup> =» 3.53 «g»<br/>«% purity = <span class="mjpage"><math alttext="\frac{{3.53{\rm{g}}}}{{5.00{\rm{g}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>3.53</mn>
+<mrow>
+<mrow>
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</mrow>
+<mrow>
+<mn>5.00</mn>
+<mrow>
+<mrow>
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> × 100 =» 70.6 «%»</p>
+<p><em><strong>ALTERNATIVE 3:</strong></em><br/>mol of hydrated ethanedioic acid (assuming sample to be pure) = <span class="mjpage"><math alttext="\frac{{5.00{\rm{g}}}}{{126.08{\rm{gmo}}{{\rm{l}}^{ - 1}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>5.00</mn>
+<mrow>
+<mrow>
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</mrow>
+<mrow>
+<mn>126.08</mn>
+<mrow>
+<mrow>
+<mi mathvariant="normal">g</mi>
+<mi mathvariant="normal">m</mi>
+<mi mathvariant="normal">o</mi>
+</mrow>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span> = 0.03966 «mol»<br/>actual amount of hydrated ethanedioic acid = «7.00 × 10<sup>-4</sup> × <span class="mjpage"><math alttext="\frac{{1000}}{{25}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>1000</mn>
+</mrow>
+<mrow>
+<mn>25</mn>
+</mrow>
+</mfrac>
+</math></span> =» 2.80 × 10<sup>-2</sup> «mol»</p>
+<p>«% purity = <span class="mjpage"><math alttext="\frac{{2.80 \times {{10}^{ - 2}}}}{{0.03966}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>2.80</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>0.03966</mn>
+</mrow>
+</mfrac>
+</math></span> × 100 =» 70.6 «%»</p>
+<p><em>Award suitable part marks for alternative methods.</em><br/><em>Award <strong>[3]</strong> for correct final answer.</em><br/><em>Award <strong>[2 max]</strong> for 50.4 % if anhydrous ethanedioic acid assumed.</em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>electrons delocalized «across the O–C–O system»<br/><em><strong>OR<br/></strong></em>resonance occurs<br/><em>Accept delocalized π-bond(s).</em></p>
+<p>122 «pm» &lt; C–O &lt; 143 «pm»</p>
+<p><em>Accept any answer in the range 123 «pm» to 142 «pm». Accept “bond intermediate between single and double bond” or “bond order 1.5”.</em></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/8/","children":["← back to ","Chemistry"," topic ","8"]}]}],["$","h1",null,{"children":"16N.2.SL.TZ0.2"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","8-4-strong-and-weak-acids-and-bases, 8-3-the-ph-scale, 8-2-properties-of-acids-and-bases, 4-3-covalent-structures"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

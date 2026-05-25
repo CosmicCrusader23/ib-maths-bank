@@ -1,0 +1,66 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","6945","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","6945","d"],{"children":["__PAGE__?{\"id\":\"6945\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","6945","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T60d,<div class="specification">
+<p>A link between the combustion of fossil fuels and an increase in the temperature of the Earth’s atmosphere was proposed over a century ago.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Suggest why it is only in recent years that specific predictions of the future effects of fossil fuel combustion have been made.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Carbon dioxide has two different bond stretching modes illustrated below.</p>
+<p><img alt="M17/4/CHEMI/SP3/ENG/TZ1/17.b" src="../assets/uploads/tinymce_asset/asset/3726/Schermafbeelding_2017-09-25_om_13.09.53.png"/></p>
+<p>Predict, with an explanation, whether these stretching modes will absorb infrared radiation.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Outline, giving the appropriate equation(s), how increasing levels of carbon dioxide will affect the pH of the oceans.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Many combustion processes also release particulate matter into the atmosphere. Suggest, giving your reason, how this might affect the temperature of the Earth’s surface.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d.</div>
+</div>b:Tb15,<div class="question" style="padding-left: 20px;">
+<p>computers can now carry out more complex calculations<br/><em><strong>OR</strong></em><br/>better understanding of the interactions between the various systems involved<br/><em><strong>OR</strong></em><br/>clear evidence of global warming<br/><em><strong>OR</strong></em><br/>«reliable» global temperature data now available<br/><em><strong>OR</strong></em><br/>techniques have been available to monitor carbon dioxide levels</p>
+<p> </p>
+<p><em>Accept “better/faster computers”.</em></p>
+<p><em>Accept “better modelling”.</em></p>
+<p><em>Accept “better/more reliable/consistent data”.</em></p>
+<p><em>Accept “better measuring techniques”.</em></p>
+<p><em>Accept other scientifically based (not politically based) reasons.</em></p>
+<p><em>Accept if specific relevant data is given.</em></p>
+<p><em>Do <strong>not</strong> accept “increased combustion of fossil fuels” or “increased concerns about global warming”.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>symmetric stretching will not absorb IR<br/><em><strong>OR</strong></em><br/>asymmetric stretching will absorb IR</p>
+<p>change in polarity/dipole «moment» required «to absorb IR»</p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>CO<sub>2</sub>(aq) + H<sub>2</sub>O(l) <span class="mjpage"><math alttext=" \rightleftharpoons " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇌</mo>
+</math></span> H<sup>+</sup>(aq) + HCO<sub>3</sub><sup>–</sup>(aq) «and pH decreases»<br/><em><strong>OR</strong></em><br/>CO<sub>2</sub>(aq) + H<sub>2</sub>O(l) <span class="mjpage"><math alttext=" \rightleftharpoons " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇌</mo>
+</math></span> H<sub>2</sub>CO<sub>3</sub>(aq) <em><strong>AND</strong></em> H<sub>2</sub>CO<sub>3</sub>(aq) <span class="mjpage"><math alttext=" \rightleftharpoons " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇌</mo>
+</math></span> H<sup>+</sup>(aq) + HCO<sub>3</sub><sup>–</sup>(aq) «and pH decreases»</p>
+<p> </p>
+<p><em>Accept reversible or non-reversible arrows for all.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>reduce it <em><strong>AND</strong></em> absorbing/reflecting sunlight</p>
+<p> </p>
+<p><em>Accept “reduce it because of global dimming”.</em></p>
+<p><em>Accept “reduce it <strong>AND</strong> blocking sunlight”.</em></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/7/","children":["← back to ","Chemistry"," topic ","7"]}]}],["$","h1",null,{"children":"17M.3.SL.TZ1.17"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","c-5-environmental-impact—global-warming, 7-1-equilibrium"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

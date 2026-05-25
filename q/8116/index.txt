@@ -1,0 +1,77 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","8116","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","8116","d"],{"children":["__PAGE__?{\"id\":\"8116\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","8116","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T6b9,<div class="specification">
+<table class="NormalTable" style="width: 835px;">
+<tbody>
+<tr>
+<td style="width: 825px;"><span class="fontstyle0">Carbon fibre reinforced plastic (CFRP) is a useful composite. Epoxy is a thermoset polymer that is used as a binding polymer when making CFRP.</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span class="fontstyle0">Outline the </span><span class="fontstyle2"><strong>two</strong> </span><span class="fontstyle0">distinct phases of this composite.</span></p>
+<p> </p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span class="fontstyle0">Thermoplastic composites are increasingly replacing thermosets.</span></p>
+<p><span class="fontstyle0">Suggest </span><span class="fontstyle2"><strong>one</strong> </span><span class="fontstyle0">advantage of thermoplastic polymers over thermosets.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b(i).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span class="fontstyle0">Explain how thermoplastics, such as polyvinylchloride, PVC, can be made more flexible by the addition of phthalate ester plasticizers.</span></p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b(ii).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span class="fontstyle0">Explain why phthalates are replaced by other plasticizers in the production of plastics.</span></p>
+<p> </p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div>b:T7ec,<div class="question" style="padding-left: 20px;">
+<p>carbon fibre reinforcing phase ✔</p>
+<p>«in a» <span style="text-decoration: underline;">matrix</span> phase of epoxy ✔</p>
+<p><br/><em>Award<strong> [1 max]</strong> for “reinforcing phase «embedded» in a <span style="text-decoration: underline;">matrix</span>”.</em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>can be recycled<br/><em><strong>OR</strong></em><br/>can be reformed when hot<br/><em><strong>OR</strong></em><br/>high impact/chemical/abrasion resistance ✔</p>
+<div class="question_part_label">b(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>Any three of:</em></p>
+<p>plasticizers embed/fit between «polymer» chains ✔</p>
+<p>keep polymer strands/chains/molecules separated/apart ✔</p>
+<p>weaken intermolecular/London/dispersion/attractive/forces/instantaneous induced dipole-induced dipole/forces «between chains» ✔</p>
+<p>prevent chains from packing closely/forming regular packing/structure ✔</p>
+<p><em><br/>Accept “van der Waals/vdW” for “London”.</em></p>
+<div class="question_part_label">b(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>Any two of:</em></p>
+<p>readily released into environment<br/><em><strong>OR</strong></em><br/>have weak intermolecular forces «rather than covalent bonds between chains» ✔</p>
+<p>get into biological systems by ingestion/inhalation ✔</p>
+<p>interrupt endocrine systems<br/><em><strong>OR</strong></em><br/>affect release of hormones<br/><em><strong>OR</strong></em><br/>effect development of male reproductive system ✔</p>
+<p>considered carcinogenic<br/><em><strong>OR</strong></em><br/>can cause cellular damage ✔</p>
+<p>can cause early puberty in females ✔</p>
+<p>can cause thyroid effects ✔</p>
+<p>can cause asthma ✔</p>
+<p><em><br/></em><em>Do not accept just “are a health concern”.</em></p>
+<div class="question_part_label">c.</div>
+</div>c:T68f,<div class="question" style="padding-left: 20px;">
+<p>Approximately 1% of the candidates this session attempted this option so feedback on this section by question is not possible due to the minimal number of scripts available for marking. The students that did attempt this option did not perform very well with several of them leaving some questions unanswered.</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Approximately 1% of the candidates this session attempted this option so feedback on this section by question is not possible due to the minimal number of scripts available for marking. The students that did attempt this option did not perform very well with several of them leaving some questions unanswered.</p>
+<div class="question_part_label">b(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Approximately 1% of the candidates this session attempted this option so feedback on this section by question is not possible due to the minimal number of scripts available for marking. The students that did attempt this option did not perform very well with several of them leaving some questions unanswered.</p>
+<div class="question_part_label">b(ii).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Approximately 1% of the candidates this session attempted this option so feedback on this section by question is not possible due to the minimal number of scripts available for marking. The students that did attempt this option did not perform very well with several of them leaving some questions unanswered.</p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/a/","children":["← back to ","Chemistry"," topic ","a"]}]}],["$","h1",null,{"children":"20N.3.SL.TZ0.3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"20N"}],["$","span",null,{"children":["· ","a-1-materials-science-introduction, a-5-polymers"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"}}]]}]]}]

@@ -1,0 +1,64 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","7687","d"]
+0:["tPV1I80OKUwufzaCzZ8Pu",[[["",{"children":["q",{"children":[["id","7687","d"],{"children":["__PAGE__?{\"id\":\"7687\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","7687","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T496,<div class="specification">
+<p><span style="background-color: #ffffff;">Medicines and drugs are tested for effectiveness and safety.</span></p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Distinguish between therapeutic window and therapeutic index in humans. </span></p>
+<p> </p>
+<p><span style="background-color: #ffffff;">Therapeutic window:</span></p>
+<p><span style="background-color: #ffffff;">Therapeutic index:</span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">State <strong>one</strong> advantage of using morphine as an analgesic.</span></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b(i).</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span style="background-color: #ffffff;">Explain why diamorphine (heroin) is more potent than morphine using section 37 of the data booklet.</span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b(ii).</div>
+</div>b:Td03,<div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;"><em>Therapeutic window:</em><br/>range of dosage «over which a drug» provides the therapeutic/desired effect without causing adverse/toxic effects <strong>[✔]</strong></span></p>
+<p> </p>
+<p><span style="background-color: #ffffff;"><em>Therapeutic index</em>:<br/>toxic dose of drug for 50 % of population divided by minimum effective dose for 50 % of population<br/><em><strong>OR</strong></em><br/><span class="mjpage"><math alttext="\frac{{{\text{TD50}}}}{{{\text{ED}}50}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>TD50</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<mtext>ED</mtext>
+</mrow>
+<mn>50</mn>
+</mrow>
+</mfrac>
+</math></span>  <strong>[✔]</strong></span></p>
+<p> </p>
+<p><em><span style="background-color: #ffffff;"><strong> Note:</strong> M1 may be scored from a correctly labelled diagram.</span></em></p>
+<p><em><span style="background-color: #ffffff;">Accept “difference between ED50/minimum effective/therapeutic dose «for 50% of population» <strong>AND</strong> TD50/toxic dose «for 50% of population»” for M1.</span></em></p>
+<p><em><span style="background-color: #ffffff;">Do <strong>not</strong> accept reference to lethal dose used in therapeutic index in animal studies.</span></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">blocks pain impulses/binds with «opioid» receptors in <span style="text-decoration: underline;">brain/CNS</span><br/><em><strong>OR</strong></em><br/>effective against strong pain<br/><em><strong>OR</strong></em><br/>sedate patients to reduce trauma <strong>[✔]</strong></span></p>
+<p> </p>
+<p><em><span style="background-color: #ffffff;"><strong> Note:</strong> Accept “effective against pain after surgery/cancer/following serious injury”.</span></em></p>
+<p><em><span style="background-color: #ffffff;">Accept “relieves anxiety/stress associated with severe/terminal illness”.</span></em></p>
+<div class="question_part_label">b(i).</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="background-color: #ffffff;">morphine has «two» hydroxyl groups <em><strong>AND</strong> </em>diamorphine has «two» ester/ethanoate/acetate groups<br/><em><strong>OR</strong></em><br/>molecule of diamorphine is less polar than morphine<br/><em><strong>OR</strong></em><br/>groups in morphine are replaced with less polar/non-polar groups in diamorphine  <strong>[✔]</strong></span></p>
+<p><span style="background-color: #ffffff;">«less polar molecules» cross the blood–brain barrier faster/more easily<br/><em><strong>OR</strong></em><br/>diamorphine is more soluble in non-polar environment of CNS/central nervous system than morphine <strong>[✔]</strong></span></p>
+<p> </p>
+<p><em><span style="background-color: #ffffff;"><strong> Note:</strong> Accept “alcohol/hydroxy” for “hydroxyl” but not ”hydroxide”. </span></em></p>
+<p><em><span style="background-color: #ffffff;">Accept “fats” for “lipid”. </span></em></p>
+<p><em><span style="background-color: #ffffff;">Accept “heroin” for “diamorphine”.</span></em></p>
+<div class="question_part_label">b(ii).</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/chemistry/topic/d/","children":["← back to ","Chemistry"," topic ","d"]}]}],["$","h1",null,{"children":"19M.3.SL.TZ2.14"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Chemistry"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","d-1-pharmaceutical-products-and-drug-action, d-3-opiates"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n<p>Most students receive one mark for this question and therapeutic window was probably the more successfully mark. Teachers need to remind students not to refer to lethal dose for therapeutic index. Some students forgot to mention the 50/50 % when explaining therapeutic index or inverted the ration as ED50/TD50.</p>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n<p>This was not a particularly well answered question even though it has been seen in previous exams. Many students confused it with the idea of solubility and passing through the blood brain barrier which was 1(b) (ii).</p>\n<div class=\"question_part_label\">b(i).</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n<p>This question was reasonably well answered with many students receiving at least one of the two marks.</p>\n<div class=\"question_part_label\">b(ii).</div>\n</div>"}}]]}]]}]
