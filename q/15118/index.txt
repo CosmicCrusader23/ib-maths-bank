@@ -1,0 +1,48 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","15118","d"]
+0:["UO28RJ81qhePDIiu8ZGEF",[[["",{"children":["q",{"children":[["id","15118","d"],{"children":["__PAGE__?{\"id\":\"15118\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","15118","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T871,<div class="question" style="padding-left: 20px;">
+<p>a. «detritivores» obtain nutrition from detritus/waste/dead bodies ✔</p>
+<p>b. are heterotrophic ✔</p>
+<p>c. removes large waste/cleans up the ecosystem<br/><em><strong>OR</strong></em><br/>helps control spread of disease ✔</p>
+<p>d. facilitates further decomposition ✔</p>
+<p>e. contribute to the supply of «inorganic» nutrients for autotrophs/nutrient cycling<br/><em><strong>OR</strong></em><br/>improve soil conditions/aeration ✔</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. amylase is an enzyme ✔</p>
+<p>b. secreted by salivary glands/pancreas ✔</p>
+<p>c. active/released into the mouth/small intestine ✔</p>
+<p>d. acts on starch/polysaccharides ✔</p>
+<p>e. breaks «glycosidic» bond by hydrolysis/adding water ✔</p>
+<p>f. converts insoluble/large molecule to soluble/small molecules ✔</p>
+<p>g. product is maltose/disaccharide/sugar molecule ✔</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. plants convert light energy into chemical energy by photosynthesis ✔</p>
+<p>b. photosynthesis takes place in chloroplasts ✔</p>
+<p>c. chloroplasts «are organelles that» contain the pigment chlorophyll ✔</p>
+<p>d. chloroplasts/chlorophyll «in plants» absorb sunlight ✔</p>
+<p>e. «chlorophyll» absorbs red <em><strong>AND</strong></em> blue light most effectively ✔</p>
+<p>f. light causes photolysis/splits water molecule ✔</p>
+<p>g. carbon dioxide <em><strong>AND</strong></em> water are reactants «in photosynthesis» ✔</p>
+<p>h. glucose <em><strong>AND</strong></em> oxygen are products «of photosynthesis» ✔</p>
+<p>i. light <span style="text-decoration: underline;">intensity</span> is a limiting factor for the <span style="text-decoration: underline;">rate</span> of photosynthesis ✔</p>
+<p>j. organic/carbon compounds/glucose provide food/stored energy «for plant itself, animals,food chains» ✔</p>
+<p>k. up to one additional mark for an accurate detail from AHL ✔</p>
+<div class="question_part_label">c.</div>
+</div>b:T66b,<div class="question" style="padding-left: 20px;">
+<p>Most candidates got max 2 for mp a (nutrition of detritivores) and mp e (recycling of nutrients). Candidates getting high marks were able to provide correct examples of detritivores and correctly link to their role in enriching the soil and remove dead material. The biggest problem was the notion that detritivores recycle energy.</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>The name, location and correct function of the enzyme was very common making 3 max the most common marks. Students who got fewer marks gave generic explanations of the process of digestion. Some students made incorrect references to amylase digesting proteins. A few candidates ignored amylase and discussed digestion in general.</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Generally well done with some very knowledgeable answers from the Higher Level programme sometimes to the detriment of the more basic answers required by the standard level examination. Many candidates who attempted this response got more than 4 marks for mp b, d, g and h which were the most common. Students getting higher marks were able to focus on correct conversion of energy, efficiency of red and blue light absorption, and photolysis. Some egregious misconceptions exist among candidates such as plants are green because they absorb green light. The idea that during photosynthesis light energy is converted to chemical energy was frequently neglected.</p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/biology/topic/2/","children":["← back to ","Biology"," topic ","2"]}]}],["$","h1",null,{"children":"19M.2.SL.TZ1.8"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Biology"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","4-1-species-communities-and-ecosystems, 6-1-digestion-and-absorption, 2-9-photosynthesis"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Describe how detritivores obtain nutrition and the effects they have in ecosystems.</p>\n<div class=\"marks\">[4]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Outline the role of amylase in digestion in humans.</p>\n<div class=\"marks\">[4]</div>\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Explain how plants capture and use light in photosynthesis.</p>\n<div class=\"marks\">[7]</div>\n<div class=\"question_part_label\">c.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

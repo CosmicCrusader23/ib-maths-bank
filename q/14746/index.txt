@@ -1,0 +1,54 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","14746","d"]
+0:["UO28RJ81qhePDIiu8ZGEF",[[["",{"children":["q",{"children":[["id","14746","d"],{"children":["__PAGE__?{\"id\":\"14746\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","14746","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:Ta3a,<div class="question" style="padding-left: 20px;">
+<p>a. organisms can potentially interbreed;</p>
+<p>b. to produce fertile offspring;</p>
+<p>c. same sequence of genes (on chromosomes) / same types of chromosomes;</p>
+<p>d. similar traits/phenotype/WTTE;</p>
+<p>e. same chromosome number/karyotype;</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. gene pool is all genes/alleles in an (interbreeding) <span style="text-decoration: underline;">population</span>;</p>
+<p>b. gene pool splits/divides/separated during speciation;</p>
+<p>c. due to reproductive isolation (of groups within a species);</p>
+<p>d. temporal/behavioral/geographic isolation (can cause reproductive isolation);</p>
+<p>e. divergence of gene pools;</p>
+<p>f. allele frequencies change;</p>
+<p>g. natural selection different (in the isolated groups so there is divergence);</p>
+<p>h. different (random) mutations occur (in the isolated populations so there is divergence);</p>
+<p>i. speciation has occurred when differences between populations prevent interbreeding;</p>
+<p><em>Do not award both mpc and mpi for the same idea (reproductive isolation separating populations vs speciation due to interbreeding not being possible)</em>.</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>Process</em>:<br/>a. genetic modification by gene transfer between species;</p>
+<p>b. gene/Bt gene/DNA segment transferred from bacterium to plant/crop;</p>
+<p>c. gene/DNA codes for/responsible for desired protein/gene product;</p>
+<p>d. bacteria have/produce plasmids / gene/DNA inserted into plasmid;</p>
+<p>e. using restriction enzymes/endonucleases to cut DNA;</p>
+<p>f. using DNA ligase to join DNA;</p>
+<p>g. bacterium transfers (modified) plasmid to plant cell;</p>
+<p><em>Benefits</em>:<br/>h. increase crop yields / more food produced / less land needed to grow food;</p>
+<p>i. increase pest/disease resistance / use less pesticides/insecticides/fungicides;</p>
+<p>j. improves crops to be more nutritious/increased vitamin content;</p>
+<p>k. increased tolerance to saline soils/drought/high temperatures/low temperatures;</p>
+<p><em>Risks</em>:<br/>l. GM organisms could spread to sites (where they will cause harm);</p>
+<p>m. transferred gene could spread to other species / spread of herbicide resistance to weeds;</p>
+<p>n. GM crops that produce pesticide could kill non-pest insects/monarch butterflies / insect pests could develop resistance to pesticides/insecticides/Bt toxin;</p>
+<div class="question_part_label">c.</div>
+</div>b:T76e,<div class="question" style="padding-left: 20px;">
+<p>This was the most successfully answered part of Question 8. Many knew that members of a species can interbreed and produce fertile offspring. Surprisingly few mentioned that similarities in characteristics or phenotype are found in species.</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Answers to this part of the question were mostly poor. Gene pools and speciation are the subject of sub-topic 10.3, but many candidates struggled to link these two concepts. Various misunderstandings were seen. As in previous exams, some candidates thought that speciation is evolutionary change over time in a species, rather than the splitting of a species into two or more separate species. Mutations were sometimes described as though they happen in response to a need for new traits, rather than them happening spontaneously and occasionally being selected for.</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>This part of the question was also poorly answered by many candidates. Only a simple account of the procedures used to genetically modify plants was expected and not the details of the use of <em>Agrobacterium</em> that are part of Option B. There was confusion among many candidates about how bacteria might be involved in genetic modification of plants. Two possibilities that were rewarded were the transfer of genes from bacteria or of plasmids derived from bacteria. Where marks were scored, they were mostly for risks and benefits, but many accounts of these were unconvincing. Some of the risks that were suggested were not evidence-based. As with vaccination, it is important that myths about the dangers of procedures such as genetic modification are not propagated.</p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/biology/topic/3/","children":["← back to ","Biology"," topic ","3"]}]}],["$","h1",null,{"children":"20N.2.HL.TZ0.8"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Biology"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"20N"}],["$","span",null,{"children":["· ","4-1-species-communities-and-ecosystems, 10-3-gene-pools-and-speciation, 3-5-genetic-modification-and-biotechnology"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"specification\">\n<p>More than 8 million different species are alive today but over the course of evolution, more than 4 billion may have existed.</p>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Outline the criteria that should be used to assess whether a group of organisms is a species.</p>\n<div class=\"marks\">[3]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Describe the changes that occur in gene pools during speciation.</p>\n<div class=\"marks\">[5]</div>\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Discuss the process, including potential risks and benefits, of using bacteria to genetically modify plant crop species.</p>\n<div class=\"marks\">[7]</div>\n<div class=\"question_part_label\">c.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

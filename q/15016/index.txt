@@ -1,0 +1,51 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","15016","d"]
+0:["UO28RJ81qhePDIiu8ZGEF",[[["",{"children":["q",{"children":[["id","15016","d"],{"children":["__PAGE__?{\"id\":\"15016\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","15016","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:Te11,<div class="question" style="padding-left: 20px;">
+<p>a. sustainable communities/ecosystems allow continued survival of organisms/<em>OWTTE</em> ✔</p>
+<p>b. natural ecosystems can be sustainable over long periods of time/<em>OWTTE</em> ✔</p>
+<p>c. natural ecosystems/rainforest more sustainable than agricultural areas/plantations ✔</p>
+<p>d. diverse community/high biodiversity/higher biodiversity in natural ecosystems/rainforest<br/><em><strong>OR</strong></em><br/>less/low biodiversity in agricultural areas/agricultural soils ✔</p>
+<p>e. agricultural areas/monocultures more affected by pests/diseases ✔</p>
+<p>f. nutrient recycling «efficient» in natural ecosystems/rainforest ✔</p>
+<p>g. nutrients removed with crops/nutrients removed when crops are harvested<br/><em><strong>OR</strong></em><br/>less formation of humus/less organic matter in agricultural soils ✔</p>
+<p>h. more water recycling/more rainfall/more transpiration in natural ecosystems/rainforest ✔</p>
+<p>i. larger biomass/more carbon stored «in biomass» in natural ecosystems/rainforest ✔</p>
+<p>j. shallower soils/less soil erosion/degraded soils/infertile soils in agricultural areas ✔</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. shoot apex is an «apical» meristem/has undifferentiated cells ✔</p>
+<p>b. mitosis «in shoot apex» ✔</p>
+<p>c. cell division/cytokinesis/cells produced «in shoot apex» ✔</p>
+<p>d. cell elongation «in shoot apex» ✔</p>
+<p>e. stem/shoot growth «due to the cell division and elongation in the shoot apex» ✔</p>
+<p>f. produces auxin ✔</p>
+<p>g. auxin stimulates growth/cell elongation ✔</p>
+<p>h. growth towards light ✔</p>
+<p>i. differentiation of cells «produced by the shoot apex» ✔</p>
+<p>j. leaf initiation/leaf development begins/leaf «primordia» formation «at shoot apex» ✔</p>
+<p>k. flowers produced «by shoot apex» ✔</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. polyploidy is having more than two sets of «homologous» chromosomes ✔</p>
+<p>b. triploid has three sets/is 3n ✔</p>
+<p>c. tetraploid has four sets/is 4n ✔</p>
+<p>d. <em>Allium</em>/vizcacha rats/other named example» ✔</p>
+<p>e. details of chromosome numbers in diploid and polyploid species in the example ✔</p>
+<p>f. non-disjunction/failure of chromosome pairs to separate during meiosis ✔</p>
+<p>g. diploid gamete «can lead to polyploidy» ✔</p>
+<p>h. fusion of diploid and haploid gamete produces triploid cells ✔</p>
+<p>i. DNA replication but no subsequent mitosis doubles the chromosome number/produces tetraploid «from diploid»<br/><em><strong>OR</strong></em><br/>fusion of two diploid gametes produces tetraploid/4n ✔</p>
+<p>j. polyploid/tetraploid «crossed» with diploid/non-polyploid produces infertile offspring ✔</p>
+<p>k. meiosis fails in triploids because «homologous» chromosomes cannot pair up ✔</p>
+<p>l. polyploid individuals are reproductively isolated<br/><em><strong>OR</strong></em><br/>polyploidy causes instant/immediate speciation<br/><em><strong>OR</strong></em><br/>tetraploids can form a new species because they can cross with each other<br/><em><strong>OR</strong></em><br/>polyploids cannot cross/produce fertile offspring with diploids ✔</p>
+<p>m. speciation by polyploidy is common in plants/commoner in plants than animals ✔</p>
+<p>n. polyploid individuals tend to be larger ✔</p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/biology/topic/10/","children":["← back to ","Biology"," topic ","10"]}]}],["$","h1",null,{"children":"18N.2.HL.TZ0.8"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Biology"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"18N"}],["$","span",null,{"children":["· ","4-1-species-communities-and-ecosystems, 9-3-growth-in-plants, 10-3-gene-pools-and-speciation"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Extensive areas of the rainforest in Cambodia are being cleared for large-scale rubber plantations. Distinguish between the sustainability of natural ecosystems such as rainforests and the sustainability of areas used for agriculture.</p>\n<div class=\"marks\">[3]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Describe the roles of the shoot apex in the growth of plants.</p>\n<div class=\"marks\">[5]</div>\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Research suggests that many living plant species are polyploid. Explain how polyploidy occurs and, using a <strong>named</strong> example, how polyploidy can lead to speciation.</p>\n<div class=\"marks\">[7]</div>\n<div class=\"question_part_label\">c.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

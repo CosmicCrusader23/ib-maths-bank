@@ -1,0 +1,43 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","14213","d"]
+0:["UO28RJ81qhePDIiu8ZGEF",[[["",{"children":["q",{"children":[["id","14213","d"],{"children":["__PAGE__?{\"id\":\"14213\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","14213","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:T8f5,<div class="question" style="padding-left: 20px;">
+<p>a. phloem transports organic compounds/sucrose</p>
+<p>b. from sources/leaves/where produced to sinks/roots/where used</p>
+<p>c. through sieve tubes/columns of cells with sieve plates/perforated end walls</p>
+<p>d. loading of organic compounds/sucrose into /H<sup>+</sup> ions out of phloem/sieve tubes by active transport/using ATP</p>
+<p>e. high solute concentration causes water to enter by osmosis (at source)</p>
+<p>f. high (hydrostatic) pressure causes flow (from source to sink)</p>
+<p>g. companion cells help with loading / plasmodesmata provide a path between sieve tubes and companion cell</p>
+<p>h. translocation/mass flow</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. meiosis / production of male and female gametes</p>
+<p>b. pollination / transfer of pollen from anther to stigma</p>
+<p>c. fertilization happens after pollination / fertilisation is joining of gametes</p>
+<p>d. seed dispersal / spread of seeds to new locations</p>
+<p><em>Reject fruit dispersal.</em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. helicase unwinds the double helix</p>
+<p>b. gyrase/topoisomerase relieves strains during uncoiling</p>
+<p>c. helicase separates the two strands of DNA/breaks hydrogen bonds</p>
+<p><em>Accept unzips here but not for mark point a.</em></p>
+<p>d. each single strand acts as a template for a new strand / process is semi-conservative</p>
+<p>e. DNA polymerase III can only add nucleotides to the end of an existing chain/to a primer </p>
+<p>f. (DNA) primase adds RNA primer/short length of RNA nucleotides</p>
+<p>g. DNA polymerase (III) adds nucleotides in a 5’ to 3’ direction</p>
+<p>h. complementary base pairing / adenine to thymine and cytosine to guanine</p>
+<p><em>Do not accept letters.</em></p>
+<p>i. DNA polymerase (III) moves towards the replication fork on one strand and away from it on the other strand</p>
+<p>j. continuous on the leading strand and discontinuous/fragments formed on the lagging strand</p>
+<p>k. DNA polymerase I replaces primers/RNA with DNA</p>
+<p>l. ligase joins the fragments together/seals the nicks</p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/biology/topic/7/","children":["← back to ","Biology"," topic ","7"]}]}],["$","h1",null,{"children":"16N.2.HL.TZ0.7"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Biology"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","9-2-transport-in-the-phloem-of-plants, 9-4-reproduction-in-plants, 7-1-dna-structure-and-replication"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"specification\">\n<p>Angiospermophyta are vascular flowering plants.<br/> </p>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Describe the transport of organic compounds in vascular plants.</p>\n<div class=\"marks\">[4]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>The flowers of angiospermophyta are used for sexual reproduction. Outline <strong>three</strong> processes required for successful reproduction of angiospermophyta.</p>\n<div class=\"marks\">[3]</div>\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Growth in living organisms includes replication of DNA. Explain DNA replication.</p>\n<div class=\"marks\">[8]</div>\n<div class=\"question_part_label\">c.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

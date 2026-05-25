@@ -1,0 +1,58 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","13994","d"]
+0:["UO28RJ81qhePDIiu8ZGEF",[[["",{"children":["q",{"children":[["id","13994","d"],{"children":["__PAGE__?{\"id\":\"13994\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","13994","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:Tf02,<div class="question" style="padding-left: 20px;">
+<p><em>helicase</em>:</p>
+<p>a. unwinds/uncoils the DNA «double helix» ✔</p>
+<p>b. breaks hydrogen bonds «between bases» ✔</p>
+<p>c. separates the «two» strands/unzips the DNA/creates replication fork ✔</p>
+<p><em>ligase</em>:</p>
+<p>d. seals nicks/forms a continuous «sugar-phosphate» backbone/strand ✔</p>
+<p>e. makes sugar-phosphate bonds/covalent bonds between adjacent nucleotides ✔</p>
+<p>f. after «RNA» primers are removed/where an «RNA» primer was replaced by DNA ✔</p>
+<p>g. «helps to» join Okazaki fragments ✔</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. variation is required for natural selection/evolution/variation in <span style="text-decoration: underline;">species</span>/<span style="text-decoration: underline;">populations</span> ✔</p>
+<p>b. mutation/meiosis/sexual reproduction is a source of variation ✔</p>
+<p>c. competition/more offspring than the environment can support ✔</p>
+<p>d. <span style="text-decoration: underline;">adaptations</span> make individuals suited to their environment/way of life ✔</p>
+<p>e. survival of better adapted «individuals)/survival of fittest/converse ✔</p>
+<p>f. inheritance of traits/passing on genes of better adapted «individuals»<br/><em><strong>OR</strong></em><br/>reproduction/more reproduction of better adapted/fittest «individuals» ✔</p>
+<p>g. speciation is formation of a new species/splitting of a species/one population becoming a separate species ✔</p>
+<p>h. reproductive isolation of separated populations ✔</p>
+<p>i. geographic isolation «of populations can lead to speciation» ✔</p>
+<p>j. temporal/behavioral isolation «of populations can lead to speciation» ✔</p>
+<p>k. disruptive selection/differences in selection «between populations can lead to speciation» ✔</p>
+<p>l. gradual divergence of populations due to natural selection/due to differences in environment ✔</p>
+<p>m. changes in the <span style="text-decoration: underline;">gene pools</span> «of separated populations»/separation of <span style="text-decoration: underline;">gene pools</span> ✔</p>
+<p>n. interbreeding becomes impossible/no fertile offspring «so speciation has happened» ✔</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. recycling of nutrients/elements/components/materials ✔</p>
+<p>b. carbon/nitrogen/another example of recycled nutrient/element ✔</p>
+<p>c. decomposers/saprotrophs break down organic matter/release «inorganic» nutrients ✔</p>
+<p>d. energy supplied by the sun<br/><em><strong>OR</strong></em><br/>energy cannot be recycled «so ongoing supply is needed»<br/><em><strong>OR</strong></em><br/>energy is lost from ecosystems as heat ✔</p>
+<p>e. <span style="text-decoration: underline;">energy</span> flow along food chains/through food web/through trophic levels ✔</p>
+<p>f. photosynthesis/autotrophs make foods/trap energy<br/><em><strong>OR</strong></em><br/>autotrophs supply the food that supports primary consumers ✔</p>
+<p>g. <span style="text-decoration: underline;">oxygen</span> «for aerobic respiration» released by autotrophs/photosynthesis/plants ✔</p>
+<p>h. <span style="text-decoration: underline;">carbon dioxide</span> «for photosynthesis» released by respiration ✔</p>
+<p>i. populations limited by food supply/predator-prey/interactions/competition<br/><em><strong>OR</strong></em><br/>populations regulated by negative feedback<br/><em><strong>OR</strong></em><br/>fewer/less of each successive trophic level «along the food chain»/<em>OWTTE</em> ✔</p>
+<p>j. supplies of water from rainfall/precipitation/rivers/water cycle ✔</p>
+<div class="question_part_label">c.</div>
+</div>b:T7c1,<div class="question" style="padding-left: 20px;">
+<p>This was generally well answered, with most candidates knowing at least something of the roles of these two enzymes. Most candidates knew that ligase connects Okazaki fragments but some claimed that it creates hydrogen bonds between nucleotides on template and the new strand. Many candidates did not distinguish between unwinding of DNA and separating the strands. Two details that should be more widely known are that helicase separates the two strands of a DNA molecule by encouraging the breakage of hydrogen bonds between bases and that ligase seals nicks by making sugar phosphate bonds.</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Most candidates think they understand evolution by natural selection but many do not. Here the focus was on speciation - the splitting of a species into two or more species. Often answers described the evolution of one species over time, rather than speciation itself. An idea central to natural selection that was frequently missing from an answer is adaptation or fitness. Often traits were referred to as ‘favourable’ and therefore likely to lead to survival and reproduction but there is a circularity of argument there. Survival depends on traits fitting the environment, hence being an adaptation to it. The mostly common ideas seen in answers were differential survival and reproduction, due to differences in traits. A common fault was to confuse individuals and species and to refer to a whole species surviving and reproducing more successfully than another species.</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>There were some vague answers to this question but also some impressive ones that explained ecological processes including nutrient recycling, energy flow and regulation of population sizes.</p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/biology/topic/7/","children":["← back to ","Biology"," topic ","7"]}]}],["$","h1",null,{"children":"19M.2.HL.TZ1.7"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Biology"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","5-2-natural-selection, 7-1-dna-structure-and-replication, 4-1-species-communities-and-ecosystems"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Outline the roles of helicase and ligase in DNA replication.</p>\n<div class=\"marks\">[4]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Explain how natural selection can lead to speciation.</p>\n<div class=\"marks\">[7]</div>\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Outline the features of ecosystems that make them sustainable.</p>\n<div class=\"marks\">[4]</div>\n<div class=\"question_part_label\">c.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

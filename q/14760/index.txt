@@ -1,0 +1,56 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","14760","d"]
+0:["UO28RJ81qhePDIiu8ZGEF",[[["",{"children":["q",{"children":[["id","14760","d"],{"children":["__PAGE__?{\"id\":\"14760\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","14760","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:Tbd8,<div class="question" style="padding-left: 20px;">
+<p>a. sex linked/gene is on the X chromosome ✔</p>
+<p>b. allele «for red-green colour blindness» is recessive/colour blindness is recessive trait/disorder ✔</p>
+<p>c. heterozygous females are unaffected/carriers ✔</p>
+<p>d. X<sup>B</sup> denotes normal allele and X<sup>b</sup> denotes colour blindness allele ✔</p>
+<p>e. more frequent in males because they only have one X chromosome ✔</p>
+<p>f. 50 % chance of colour blindness in sons whose mother who is heterozygote/X<sup>B</sup>X<sup>b </sup><em>✔</em></p>
+<p> </p>
+<p><em>Accept any other letter for the alleles. </em></p>
+<p><em>Award mpb, mpc, mpd and mpf if these points are clearly made on a Punnett grid</em>.</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. «happens in a group of species that» evolve from a common ancestor ✔</p>
+<p>b. evolution «of a structure» in different ways ✔</p>
+<p>c. for different functions ✔</p>
+<p>d. common features remain «despite the differences» ✔</p>
+<p>e. <span style="text-decoration: underline;">homologous</span> structures are evidence «of adaptive radiation»  </p>
+<p><em>Must see “homologous” </em>✔</p>
+<p> </p>
+<p>f. an example of adaptive radiation ✔</p>
+<p>g. example of specific adaptation ✔</p>
+<p>h. second description of a specific adaptation ✔</p>
+<p> </p>
+<p><em><strong>example 1:</strong></em></p>
+<p><em>f. pentadactyl limb</em></p>
+<p><em>g. human hand is adapted for grasping/climbing/manipulation </em></p>
+<p><em>h. front limb of mole is adapted for digging»</em></p>
+<p><em><strong>example 2:</strong></em></p>
+<p><em>f. «Darwin’s» finches’/birds’ beaks</em></p>
+<p><em>g. nectar feeding has a long/thin beak</em></p>
+<p><em>h. seed feeding has a short/stout beak</em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. skin/mucous membranes primary/first defence against pathogens ✔<br/><br/>b. tears/mucus contain enzymes/lysozymes which destroy pathogens ✔ </p>
+<p>c. stomach/skin/some mucus produces acid which kills pathogens ✔ </p>
+<p>d. phagocytic white blood cells/phagocytes/macrophages ingest pathogens <br/><em><strong>OR</strong></em><br/>lysosomes in phagocytes/macrophages release enzymes that digest pathogens ✔ </p>
+<p>e. phagocytes/macrophages give non-specific immunity «to diseases» ✔ </p>
+<p>f. specific immunity provided by lymphocytes ✔ </p>
+<p>g. lymphocytes divide to produce clones «of plasma cells» ✔</p>
+<p>h. plasma cells/lymphocytes produce antibodies ✔</p>
+<p>i. antibodies are specific to a pathogen/antigen ✔</p>
+<p>j. memory cells provide immunity against future attacks by same pathogen ✔</p>
+<p>k. blood clotting/fibrin closes opening in the body so pathogens cannot enter✔</p>
+<p> </p>
+<p><em>Accept leukocytes instead of white blood cells</em></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/biology/topic/3/","children":["← back to ","Biology"," topic ","3"]}]}],["$","h1",null,{"children":"18N.2.SL.TZ0.6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Biology"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"18N"}],["$","span",null,{"children":["· ","3-4-inheritance, 5-1-evidence-for-evolution, 6-3-defence-against-infectious-disease"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p style=\"text-align: left;\">Isolated communities in rural Finland, Hungary and some of the Scottish islands have a high incidence of red-green colour blindness. Describe the inheritance of red-green colour blindness.</p>\n<div class=\"marks\">[3]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>The human hand is an example of adaptive radiation. Outline adaptive radiation.</p>\n<div class=\"marks\">[5]</div>\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Explain how the human body defends itself against pathogens.</p>\n<div class=\"marks\">[7]</div>\n<div class=\"question_part_label\">c.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

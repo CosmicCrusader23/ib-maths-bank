@@ -1,0 +1,53 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","15421","d"]
+0:["UO28RJ81qhePDIiu8ZGEF",[[["",{"children":["q",{"children":[["id","15421","d"],{"children":["__PAGE__?{\"id\":\"15421\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","15421","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:Ta1f,<div class="question" style="padding-left: 20px;">
+<p>a. protein formed from amino acids <br/><em><strong>OR</strong></em> <br/>20 different amino acids ✔</p>
+<p>b. linked together by peptide bonds ✔</p>
+<p>c. may consist of one or more polypeptides linked together ✔</p>
+<p>d. have a specific shape/conformation/folding ✔</p>
+<p>e. shape determines function ✔</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. protein is produced when a gene is expressed / switched on ✔</p>
+<p>b. genetic code/codons consists of three nucleotides/bases/base triplet ✔</p>
+<p>c. genetic code in DNA is <span style="text-decoration:underline;">transcribed</span>/<span style="text-decoration:underline;">transcription</span> (to mRNA) ✔</p>
+<p>d. mRNA exits the nucleus ✔</p>
+<p>e. mRNA (code) is <span style="text-decoration:underline;">translated</span>/<span style="text-decoration:underline;">translation</span> into a polypeptide/protein ✔</p>
+<p>f. amino acid sequence/polypeptide formation occurs at a ribosome ✔</p>
+<p>g. one codon translates to one amino acid ✔</p>
+<p>h. tRNA carries code for specific amino acids ✔</p>
+<p>i. tRNA anticodon matches with specific codon in mRNA ✔</p>
+<p>j. amino acids joined (by peptide bonds) to form polypeptide ✔</p>
+<p>k. sequence of amino acids determined by order of bases/nucleotides/codons in DNA/mRNA ✔</p>
+<p>l. proteins vary based on which amino acids are used <span style="text-decoration:underline;">and</span> their order <br/><em><strong>OR</strong></em><br/> protein variety increases by mutations to DNA ✔</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. enzymes that catalyse/speed up/control (the rate and direction of) metabolic reactions ✔</p>
+<p>b. proteins can be hormones which are chemical messengers to cells ✔</p>
+<p>c. proteins that transport through the membrane such as channel/carrier/pumps / that regulate what enters/leaves the cell ✔</p>
+<p>d. hemoglobin in red blood cells that transports/ binds oxygen ✔</p>
+<p>e. membrane proteins for cell/tissue recognition/cell adhesion/communication ✔</p>
+<p>f. structural elements of muscle fibre/actin/myosin for movement <em><br/><strong>OR</strong><br/></em> spindle fibres move chromosomes ✔</p>
+<p>g. histones condense DNA into chromosomes ✔</p>
+<p><em>The question requires answer that the function is <span style="text-decoration:underline;">in cells</span></em>.</p>
+<div class="question_part_label">c.</div>
+</div>b:T4c0,<div class="question" style="padding-left: 20px;">
+<p>This question was attempted by about 42 % of candidates.</p>
+<p>Many candidates used the terms primary, secondary, tertiary and quaternary as their basic outline. These terms occur in AHL but not in the core. Therefore, without an outline of the meaning of these terms few marks could be earned.</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>This question was attempted by about 42 % of candidates.</p>
+<p>Some brilliant, clear answers were given earning the maximum marks. However, coherent essays explaining protein synthesis were rare. Some students dwelled on transcription without ever mentioning translation. Codons, anticodons and their locations were not clearly understood. Valid information did appear but it was frequently mixed up or incomplete.</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>This question was attempted by about 42 % of candidates.</p>
+<p>Generally good answers were received for those who read the question correctly, i.e. protein function within cells.</p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/biology/topic/2/","children":["← back to ","Biology"," topic ","2"]}]}],["$","h1",null,{"children":"21M.2.SL.TZ1.6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Biology"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"21M"}],["$","span",null,{"children":["· ","2-4-proteins, 2-1-molecules-to-metabolism"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Outline the structure of proteins.</p>\n<div class=\"marks\">[3]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Cells produce a large variety of proteins with different sequences of amino acids. Explain how this is done.</p>\n<div class=\"marks\">[7]</div>\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Outline the range of functions of proteins in cells.</p>\n<div class=\"marks\">[5]</div>\n<div class=\"question_part_label\">c.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

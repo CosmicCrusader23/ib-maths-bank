@@ -1,0 +1,57 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-939a2d97b140b106.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5262,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"SearchBar"]
+8:I[1495,["234","static/chunks/234-939a2d97b140b106.js","185","static/chunks/app/layout-f7250f7887af0409.js"],"MathJax"]
+4:["id","15242","d"]
+0:["UO28RJ81qhePDIiu8ZGEF",[[["",{"children":["q",{"children":[["id","15242","d"],{"children":["__PAGE__?{\"id\":\"15242\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","15242","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a2d4f32773114242.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Revision Bank"}],["$","div",null,{"className":"topbar-tools","children":[["$","$L7",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic."}]]
+1:null
+a:Tdfe,<div class="question" style="padding-left: 20px;">
+<p>a. i and I<sup>A</sup> and I<sup>B</sup> are <span style="text-decoration:underline;">alleles</span> (of the blood group gene) ✔</p>
+<p>b. I<sup>A</sup> is dominant and i is recessive / I<sup>B</sup> is dominant and i is recessive ✔</p>
+<p>c. Group O (only) with ii <span style="text-decoration:underline;">and</span> Group A with I<sup>A</sup>i or I<sup>A</sup>I<sup>A</sup> / Group B with I<sup>B</sup>i or I<sup>B</sup>I<sup>B </sup></p>
+<p>d. I<sup>A</sup> and I<sup>B</sup> are <span style="text-decoration:underline;">co-dominant</span> so Group AB with I<sup>A</sup>I<sup>B</sup> ✔</p>
+<p>e. one allele/copy of the gene inherited from each parent/Punnett square showing this ✔</p>
+<p><em>Disallow mpa if allele notation is incorrect (such as using different letters for different alleles) but allow other mps</em>.</p>
+<p><em>The notation I<sup>i</sup> can be accepted instead of i</em>.</p>
+<p><em>Reject blood groups or types being dominant/recessive – it should be alleles</em>.</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>a. <span style="text-decoration:underline;">mutation</span> (in genes/DNA generates variation)</p>
+<p>b. base substitution / change to base sequence of gene / makes single nucleotide polymorphisms /SNPs ✔</p>
+<p>c. new <span style="text-decoration:underline;">alleles</span> formed / different <span style="text-decoration:underline;">alleles</span> of gene / multiple <span style="text-decoration:underline;">alleles</span> ✔</p>
+<p>d. radiation/mutagenic chemicals/mutagens cause/increase the chance of mutation ✔</p>
+<p>e. <span style="text-decoration:underline;">meiosis</span> (generates variation) ✔</p>
+<p>f. recombination/new combinations of genes/alleles produced by<span style="text-decoration:underline;"> crossing over</span> ✔</p>
+<p>g. independent assortment/random orientation of (pairs of homologous) chromosomes/bivalents ✔</p>
+<p>h. gametes/chromosomes/DNA/genes from two parents combined (in sexual reproduction)</p>
+<p>i. random fertilization (increases genetic variation) ✔</p>
+<p>j. in reproductively/geographically isolated populations natural selection may differ ✔</p>
+<p>k. in small/isolated populations gene pools change/evolution occurs due to natural selection/genetic drift ✔</p>
+<p>l. disruptive selection can cause different varieties/variants/types/phenotypes to diverge ✔ transfer of genes (between bacteria) in plasmids ✔</p>
+<p><em>For mpf it is not enough just to state ‘crossing over’</em>.</p>
+<p><em>Do not accept types of mutation other than substitution for mpb</em>.</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>Analogous </em></p>
+<p>a. different evolutionary origin/do not share (recent) common ancestor (despite similarities of function) ✔</p>
+<p>b. arise by convergent evolution ✔</p>
+<p>c. classification based on analogous traits brings together dissimilar species/is artificial ✔</p>
+<p><em>Homologous </em></p>
+<p>d. similar (internal) structures/pentadactyl limb/other example of homologous structures due to common ancestry ✔</p>
+<p>e. different uses/functions ✔</p>
+<p>f. arise by adaptive radiation/divergent evolution ✔</p>
+<p>g. (natural) classification is based on homologous traits (not analogous) ✔</p>
+<p>h. classification based on homologous traits has predictive values/matches evolutionary history ✔</p>
+<div class="question_part_label">c.</div>
+</div>b:T50d,<div class="question" style="padding-left: 20px;">
+<p>For a well-prepared candidate this was a very routine exercise, but many candidates were not so prepared. A common fault was to confuse blood groups with the alleles that determine the groups, either in notation for alleles, or overall. Commonly, answers did not distinguish between gene and allele. Some candidates focused too much on the consequences of blood groups (including rhesus +ve/−ve) for blood transfusion which was not relevant to the question.</p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>More marks were scored here, with most candidates at least mentioning mutation and some of the events of meiosis. As this was an explain question it was not enough merely to name a process, such as crossing over, some indication of how it generates variation was expected. A common misunderstanding was to think that geographic isolation in itself generates variation.</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>This was well-known by stronger candidates. Weaker candidates tended to omit significant ideas or get analogous and homologous traits muddled up.</p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/biology/topic/3/","children":["← back to ","Biology"," topic ","3"]}]}],["$","h1",null,{"children":"21M.2.HL.TZ1.7"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Biology"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"21M"}],["$","span",null,{"children":["· ","3-4-inheritance, 5-2-natural-selection, 5-4-cladistics"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"specification\">\n<p>Variation in genetically inherited characteristics is the basis for evolution.</p>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Outline the inheritance of blood types in the ABO blood system in humans.</p>\n<div class=\"marks\">[4]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Explain how genetic variation between the individuals in a species can be generated.</p>\n<div class=\"marks\">[7]</div>\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Outline the use of analogous and homologous traits in natural classification.</p>\n<div class=\"marks\">[4]</div>\n<div class=\"question_part_label\">c.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

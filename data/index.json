@@ -23,13 +23,19 @@
       "label": "Economics",
       "total": 292,
       "topic_count": 6
+    },
+    {
+      "key": "biology",
+      "label": "Biology",
+      "total": 1732,
+      "topic_count": 15
     }
   ],
   "sources": {
-    "pestle": 5454,
+    "pestle": 7186,
     "christos-maa-exercise": 70,
     "christos-mai-exercise": 66,
     "christos-maa-tests": 56
   },
-  "total": 5646
+  "total": 7378
 }
