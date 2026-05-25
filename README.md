@@ -1,6 +1,6 @@
 # IB Revision Bank
 
-Curated, merged question bank for IB Mathematics (AA & AI) and IB Physics —
+Curated, merged question bank for IB Mathematics (AA & AI), IB Physics, IB Chemistry and IB Economics —
 pulled from publicly available revision sources and grouped by syllabus topic.
 
 **Live:** https://ib.mycosmic.dev/ 
