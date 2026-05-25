@@ -118,7 +118,7 @@ def ingest(conn) -> int:
             "source": "christos",
             "source_id": ident,
             "source_url": variants.get("main") or next(iter(variants.values())),
-            "subject": "maths_aa",
+            "subject": "maths",
             "course": "AA",
             "level": "BOTH",                 # site notes white = SL+HL, blue = HL-only
             "paper": None,

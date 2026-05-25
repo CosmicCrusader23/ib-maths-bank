@@ -105,4 +105,31 @@ def run(out_dir: Path) -> Path:
         }, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
+
+    # Lightweight search index: every question's summary fields, no HTML.
+    # ~500KB compressed; small enough to serve as a single static file.
+    search_rows = cur.execute(
+        "SELECT id, subject, topic_id, title, subtopic, source, course, level, paper, session "
+        "FROM questions ORDER BY id"
+    ).fetchall()
+    search_index = [
+        {
+            "id":       r["id"],
+            "s":        r["subject"],   # subject (short keys to keep file small)
+            "t":        r["topic_id"],  # topic
+            "title":    r["title"],
+            "sub":      r["subtopic"],
+            "src":      r["source"],
+            "c":        r["course"],
+            "l":        r["level"],
+            "p":        r["paper"],
+            "sess":     r["session"],
+        }
+        for r in search_rows
+    ]
+    (out_dir / "search.json").write_text(
+        json.dumps(search_index, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
+
     return out_dir

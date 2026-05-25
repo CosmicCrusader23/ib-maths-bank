@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { MathJax } from "@/components/MathJax";
+import { SearchBar } from "@/components/SearchBar";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -15,10 +16,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <header className="topbar">
           <Link href="/" className="brand">IB Revision Bank</Link>
-          <nav>
-            <Link href="/">Subjects</Link>
-            <Link href="/about">About</Link>
-          </nav>
+          <div className="topbar-tools">
+            <SearchBar />
+            <Link href="/about/">About</Link>
+          </div>
         </header>
         <main>{children}</main>
         <footer>

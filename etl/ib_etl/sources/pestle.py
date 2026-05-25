@@ -20,12 +20,10 @@ from ..topics import PESTLE_TOPIC_MAP
 
 BASE = "https://git.pirateib.sh/pirateIB/pestle/media/branch/master/assets/jsonqb"
 
-# (bank_key, json filename, subject_resolver)
-#   subject_resolver: ('maths', tid) -> 'maths_aa'/'maths_ai' | ('physics', tid) -> 'physics'
 BANKS = [
-    ("Math AA QB",  "Math%20AA%20QB.json",  "maths_aa"),
-    ("Math AI QB",  "Math%20AI%20QB.json",  "maths_ai"),
-    ("Physics QB",  "Physics%20QB.json",    "physics"),
+    ("Math AA QB",  "Math%20AA%20QB.json",  "maths", "AA"),
+    ("Math AI QB",  "Math%20AI%20QB.json",  "maths", "AI"),
+    ("Physics QB",  "Physics%20QB.json",    "physics", None),
 ]
 
 # question_id formats (pestle): SPM.1.SL.TZ0.8 | 18M.2.AHL.TZ2.H_10 | 18N.2.HL.TZ0.2
@@ -58,42 +56,32 @@ def _parse_id(qid: str) -> dict[str, str | None]:
     }
 
 
-def _resolve_subject(course_subject: str, kind: str) -> str | None:
-    """Resolve a (kind, topic_id) marker to a real subject key.
-
-    For physics, the marker is already 'physics'. For maths, the marker is
-    'maths' and we use the bank's `course_subject` ('maths_aa' or 'maths_ai').
-    """
-    if kind == "physics":
-        return "physics"
-    if kind == "maths":
-        return course_subject if course_subject.startswith("maths_") else None
-    return None
-
-
-def _row_iter(bank_label: str, course_subject: str, raw: list[dict]) -> Iterator[dict]:
-    course_legacy = {"maths_aa": "AA", "maths_ai": "AI"}.get(course_subject)
+def _row_iter(bank_label: str, subject: str, course: str | None, raw: list[dict]) -> Iterator[dict]:
     for q in raw:
         topics = q.get("topics") or []
         routes = []
+        seen: set[str] = set()
         for t in topics:
             if t in PESTLE_TOPIC_MAP:
                 kind, tid = PESTLE_TOPIC_MAP[t]
-                subj = _resolve_subject(course_subject, kind)
-                if subj:
-                    routes.append((subj, tid))
+                if kind != subject:
+                    continue
+                if tid in seen:
+                    continue
+                seen.add(tid)
+                routes.append(tid)
         if not routes:
             continue
         qid = q.get("question_id") or ""
         meta = _parse_id(qid)
         subtopics = q.get("subtopics") or []
-        for subj, tid in routes:
+        for tid in routes:
             yield {
                 "source": "pestle",
-                "source_id": f"{bank_label}:{qid}:{subj}:{tid}",
+                "source_id": f"{bank_label}:{qid}:{tid}",
                 "source_url": "https://pestle.pages.dev/app/",
-                "subject": subj,
-                "course": course_legacy,
+                "subject": subject,
+                "course": course,
                 "level": meta["level"],
                 "paper": meta["paper"],
                 "year": _session_to_year(meta["session"] or ""),
@@ -114,13 +102,13 @@ def _row_iter(bank_label: str, course_subject: str, raw: list[dict]) -> Iterator
 
 def ingest(conn) -> int:
     n = 0
-    for bank_label, filename, course_subject in BANKS:
+    for bank_label, filename, subject, course in BANKS:
         url = f"{BASE}/{filename}"
         dest = CACHE / "pestle" / f"{bank_label}.json"
         print(f"  pestle: fetching {bank_label}…")
         data = fetch(url, dest=dest)
         raw = json.loads(data)
-        rows = list(_row_iter(bank_label, course_subject, raw))
+        rows = list(_row_iter(bank_label, subject, course, raw))
         n += upsert_questions(conn, rows)
         print(f"  pestle: {bank_label}: {len(raw)} questions → {len(rows)} rows")
     return n

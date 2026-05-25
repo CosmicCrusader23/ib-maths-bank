@@ -1,36 +1,36 @@
 {
-  "subject": "maths_aa",
-  "label": "Maths AA",
+  "subject": "maths",
+  "label": "Mathematics",
   "topics": [
     {
       "id": "1",
       "name": "Number and algebra",
-      "count": 171
+      "count": 325
     },
     {
       "id": "2",
       "name": "Functions",
-      "count": 149
+      "count": 278
     },
     {
       "id": "3",
       "name": "Geometry and trigonometry",
-      "count": 192
+      "count": 344
     },
     {
       "id": "4",
       "name": "Statistics and probability",
-      "count": 193
+      "count": 481
     },
     {
       "id": "5",
       "name": "Calculus",
-      "count": 232
+      "count": 376
     }
   ],
   "sources": {
-    "pestle": 867,
+    "pestle": 1734,
     "christos": 70
   },
-  "total": 937
+  "total": 1804
 }

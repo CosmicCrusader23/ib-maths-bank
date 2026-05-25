@@ -10,14 +10,7 @@ from __future__ import annotations
 
 # subject_key -> ordered dict of topic_id -> name
 SUBJECTS: dict[str, dict[str, str]] = {
-    "maths_aa": {
-        "1": "Number and algebra",
-        "2": "Functions",
-        "3": "Geometry and trigonometry",
-        "4": "Statistics and probability",
-        "5": "Calculus",
-    },
-    "maths_ai": {
+    "maths": {
         "1": "Number and algebra",
         "2": "Functions",
         "3": "Geometry and trigonometry",
@@ -45,21 +38,18 @@ SUBJECTS: dict[str, dict[str, str]] = {
 }
 
 SUBJECT_LABELS = {
-    "maths_aa": "Maths AA",
-    "maths_ai": "Maths AI",
-    "physics":  "Physics",
+    "maths":   "Mathematics",
+    "physics": "Physics",
 }
 
 
 # pestle topic slugs → (subject, topic_id)
 PESTLE_TOPIC_MAP: dict[str, tuple[str, str]] = {
-    # maths AA / AI use the same five top-level slugs in pestle
     "topic-1-number-and-algebra":          ("maths", "1"),
     "topic-2-functions":                    ("maths", "2"),
     "topic-3-geometry-and-trigonometry":    ("maths", "3"),
     "topic-4-statistics-and-probability":   ("maths", "4"),
     "topic-5-calculus":                     ("maths", "5"),
-    # physics
     "topic-1-measurements-and-uncertainties":     ("physics", "1"),
     "topic-2-mechanics":                          ("physics", "2"),
     "topic-3-thermal-physics":                    ("physics", "3"),

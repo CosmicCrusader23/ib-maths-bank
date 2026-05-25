@@ -1,36 +1,22 @@
-import Link from "next/link";
-import { loadRoot } from "@/lib/data";
+import { loadRoot, loadSubject } from "@/lib/data";
+import { SubjectTabs } from "@/components/SubjectTabs";
 
 export default async function Home() {
   const idx = await loadRoot();
-  const sourceLine = Object.entries(idx.sources)
-    .map(([k, v]) => `${k} (${v.toLocaleString()})`)
-    .join(" • ");
+  const subjects = await Promise.all(
+    idx.subjects.map(async (s) => ({ key: s.key, data: await loadSubject(s.key) })),
+  );
+  const defaultKey = idx.subjects[0]?.key ?? "maths";
 
   return (
     <>
-      <h1>IB Revision Bank</h1>
-      <p>
+      <h1 className="page-title">IB Revision Bank</h1>
+      <p className="page-lede">
         Browse {idx.total.toLocaleString()} IB questions across maths and
-        physics, grouped by syllabus topic, pulled from public revision
-        sources.
+        physics, grouped by syllabus topic, pulled from public revision sources.
+        Pick a subject below.
       </p>
-      <div className="summary-bar">
-        <span>{idx.total.toLocaleString()} questions</span>
-        <span>{sourceLine}</span>
-      </div>
-
-      <div className="topic-grid">
-        {idx.subjects.map((s) => (
-          <Link key={s.key} href={`/subject/${s.key}/`} className="topic-card">
-            <div className="num">{s.label.split(" ").pop()}</div>
-            <h3>{s.label}</h3>
-            <div className="count">
-              {s.total.toLocaleString()} questions across {s.topic_count} topics
-            </div>
-          </Link>
-        ))}
-      </div>
+      <SubjectTabs subjects={subjects} defaultKey={defaultKey} />
     </>
   );
 }
