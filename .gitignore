@@ -1,0 +1,28 @@
+# ETL cache + raw downloads (re-generable)
+cache/
+recon/*.json
+recon/*.html
+
+# SQLite is regenerable from the JSON exports + source loaders
+data/questions.db
+data/questions.db-*
+
+# Pestle source dump (we re-download as needed)
+pestle_src/
+pestle.zip
+
+# Python
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Site build artefacts (CI rebuilds from public/data/)
+site/node_modules/
+site/.next/
+site/out/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
