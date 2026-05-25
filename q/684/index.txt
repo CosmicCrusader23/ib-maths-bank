@@ -1,0 +1,533 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","684","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","684","d"],{"children":["__PAGE__?{\"id\":\"684\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","684","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T1123,<div class="specification">
+<p>A restaurant serves desserts in glasses in the shape of a cone and in the shape of a hemisphere. The diameter of a cone shaped glass is 7.2 cm and the height of the cone is 11.8 cm as shown.</p>
+<p style="text-align: center;"><img alt="N17/5/MATSD/SP2/ENG/TZ0/06" src="../assets/uploads/tinymce_asset/asset/4188/Schermafbeelding_2018-02-13_om_14.40.46.png"/></p>
+</div><div class="specification">
+<p>The volume of a hemisphere shaped glass is <span class="mjpage"><math alttext="225{\text{ c}}{{\text{m}}^3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>225</mn>
+<mrow>
+<mtext> c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+</math></span>.</p>
+</div><div class="specification">
+<p>The restaurant offers two types of dessert.</p>
+<p>The <strong>regular dessert </strong>is a hemisphere shaped glass completely filled with chocolate mousse. The cost, to the restaurant, of the chocolate mousse for one regular dessert is $1.89.</p>
+</div><div class="specification">
+<p>The <strong>special dessert </strong>is a cone shaped glass filled with two ingredients. It is first filled with orange paste to half of its height and then with chocolate mousse for the remaining volume.</p>
+<p style="text-align: center;"><img alt="N17/5/MATSD/SP2/ENG/TZ0/06.d.e.f" src="../assets/uploads/tinymce_asset/asset/4189/Schermafbeelding_2018-02-13_om_14.44.32.png"/></p>
+</div><div class="specification">
+<p>The cost, to the restaurant, of <span class="mjpage"><math alttext="100{\text{ c}}{{\text{m}}^3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>100</mn>
+<mrow>
+<mtext> c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+</math></span> of orange paste is $7.42.</p>
+</div><div class="specification">
+<p>A chef at the restaurant prepares 50 desserts; <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> regular desserts and <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> special desserts. The cost of the ingredients for the 50 desserts is $111.44.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that the volume of a cone shaped glass is <span class="mjpage"><math alttext="160{\text{ c}}{{\text{m}}^3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>160</mn>
+<mrow>
+<mtext> c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+</math></span>, correct to 3 significant figures.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the radius, <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+</math></span>, of a hemisphere shaped glass.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the cost of <span class="mjpage"><math alttext="100{\text{ c}}{{\text{m}}^3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>100</mn>
+<mrow>
+<mtext> c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+</math></span> of chocolate mousse.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that there is <span class="mjpage"><math alttext="20{\text{ c}}{{\text{m}}^3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>20</mn>
+<mrow>
+<mtext> c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+</math></span> of orange paste in each special dessert.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the total cost of the ingredients of one special dessert.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">f.</div>
+</div>a:T2afa,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="(V = ){\text{ }}\frac{1}{3}\pi {(3.6)^2} \times 11.8" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>V</mi>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+<mi>π</mi>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>3.6</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mn>11.8</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for correct substitution into volume of a cone formula.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 160.145 \ldots {\text{ }}({\text{c}}{{\text{m}}^3})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>160.145</mn>
+<mo>…</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" = 160{\text{ }}({\text{c}}{{\text{m}}^3})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>160</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(AG)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Both rounded and unrounded answers must be seen for the final <strong><em>(A1) </em></strong>to be awarded.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{1}{2} \times \frac{4}{3}\pi {r^3} = 225" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mn>4</mn>
+<mn>3</mn>
+</mfrac>
+<mi>π</mi>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>225</mn>
+</math></span>     <strong><em>(M1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Award <strong><em>(M1) </em></strong>for multiplying volume of sphere formula by <span class="mjpage"><math alttext="\frac{1}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</math></span> (or equivalent).</p>
+<p>Award <strong><em>(A1) </em></strong>for equating the volume of hemisphere formula to 225.</p>
+<p> </p>
+<p><strong><em>OR</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{4}{3}\pi {r^3} = 450" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>4</mn>
+<mn>3</mn>
+</mfrac>
+<mi>π</mi>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>450</mn>
+</math></span>     <strong><em>(A1)(M1)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Award <strong><em>(A1) </em></strong>for 450 seen, <strong><em>(M1) </em></strong>for equating the volume of sphere formula to 450.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="(r = ){\text{ }}4.75{\text{ }}({\text{cm}}){\text{ }}(4.75380 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>4.75</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>cm</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>4.75380</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)(G2)</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{1.89 \times 100}}{{225}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>1.89</mn>
+<mo>×</mo>
+<mn>100</mn>
+</mrow>
+<mrow>
+<mn>225</mn>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for dividing 1.89 by 2.25, or equivalent.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 0.84" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>0.84</mn>
+</math></span>     <strong><em>(A1)(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Accept 84 cents if the units are explicit.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{r_2} = 1.8" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>r</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mn>1.8</mn>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext="{V_2} = \frac{1}{3}\pi {(1.8)^2} \times 5.9" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>V</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+<mi>π</mi>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>1.8</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mn>5.9</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for correct substitution into volume of a cone formula, but only if the result rounds to 20.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 20{\text{ c}}{{\text{m}}^3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>20</mn>
+<mrow>
+<mtext> c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+</math></span>     <strong><em>(AG)</em></strong></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="{r_2} = \frac{1}{2}r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>r</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mi>r</mi>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext="{V_2} = {\left( {\frac{1}{2}} \right)^3}160" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>V</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+<mn>160</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Award <strong><em>(M1) </em></strong>for multiplying 160 by <span class="mjpage"><math alttext="{\left( {\frac{1}{2}} \right)^3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+</math></span>. Award <strong><em>(A0)(M1) </em></strong>for <span class="mjpage"><math alttext="\frac{1}{8} \times 160" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>8</mn>
+</mfrac>
+<mo>×</mo>
+<mn>160</mn>
+</math></span> if <span class="mjpage"><math alttext="\frac{1}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</math></span> is not seen.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 20{\text{ }}({\text{c}}{{\text{m}}^3})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>20</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(AG)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Do not award any marks if the response substitutes in the known value <span class="mjpage"><math alttext="(V = 20)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>V</mi>
+<mo>=</mo>
+<mn>20</mn>
+<mo stretchy="false">)</mo>
+</math></span> to find the radius of the cone.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{20}}{{100}} \times 7.42 + \frac{{140}}{{100}} \times 0.84" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>20</mn>
+</mrow>
+<mrow>
+<mn>100</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mn>7.42</mn>
+<mo>+</mo>
+<mfrac>
+<mrow>
+<mn>140</mn>
+</mrow>
+<mrow>
+<mn>100</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mn>0.84</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for the sum of two correct products.</p>
+<p> </p>
+<p>$ 2.66     <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Follow through from part (c).</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="x + y = 50" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>+</mo>
+<mi>y</mi>
+<mo>=</mo>
+<mn>50</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for correct equation.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="1.89x + 2.66y = 111.44" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1.89</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>2.66</mn>
+<mi>y</mi>
+<mo>=</mo>
+<mn>111.44</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for setting up correct equation, including their 2.66 from part (e).</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="(x = ){\text{ }}28" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>28</mn>
+</math></span>     <strong><em>(A1)</em>(ft)<em>(G3)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Follow through from part (e), but only if their answer for <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> is rounded to the nearest positive integer, where <span class="mjpage"><math alttext="0 &lt; x &lt; 50" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0</mn>
+<mo>&lt;</mo>
+<mi>x</mi>
+<mo>&lt;</mo>
+<mn>50</mn>
+</math></span>.</p>
+<p>Award at most <strong><em>(M1)(M1)(A0) </em></strong>for a final answer of “28, 22”, where the <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span>-value is not clearly defined.</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">f.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"17N.2.SL.TZ0.T_6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17N"}],["$","span",null,{"children":["· ","sl-3-1-3d-space-volume-angles-distance-midpoints"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">f.</div>\n</div>"}}]]}]]}]

@@ -1,0 +1,369 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1263","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1263","d"],{"children":["__PAGE__?{\"id\":\"1263\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1263","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T8b6,<div class="specification">
+<p>Rosa joins a club to prepare to run a marathon. During the first training session Rosa runs a distance of 3000 metres. Each training session she increases the distance she runs by 400 metres.</p>
+</div><div class="specification">
+<p>A marathon is 42.195 kilometres.</p>
+<p>In the <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span>th training session Rosa will run further than a marathon for the first time.</p>
+</div><div class="specification">
+<p>Carlos joins the club to lose weight. He runs 7500 metres during the first month. The distance he runs increases by 20% each <strong>month</strong>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the distance Rosa runs in the third training session;</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the distance Rosa runs in the <span class="mjpage"><math alttext="n" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+</math></span>th training session.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the total distance, in <strong>kilometres</strong>, Rosa runs in the first 50 training sessions.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the distance Carlos runs in the fifth month of training.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the total distance Carlos runs in the first year.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">e.</div>
+</div>a:T2835,<div class="question" style="padding-left: 20px;">
+<p>3800 m     <strong><em>(A1)</em></strong></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="3000 + (n - 1)400{\text{ m}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3000</mn>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mn>400</mn>
+<mrow>
+<mtext> m</mtext>
+</mrow>
+</math></span><span class="mjpage"><math alttext="\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><strong>OR</strong><span class="mjpage"><math alttext="\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="2600 + 400n{\text{ m}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2600</mn>
+<mo>+</mo>
+<mn>400</mn>
+<mi>n</mi>
+<mrow>
+<mtext> m</mtext>
+</mrow>
+</math></span>     <strong><em>(M1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for substitution into arithmetic sequence formula, <strong><em>(A1) </em></strong>for correct substitution.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="3000 + (k - 1)400 &gt; 42195" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3000</mn>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mi>k</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mn>400</mn>
+<mo>&gt;</mo>
+<mn>42195</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Award <strong><em>(M1) </em></strong>for their correct inequality. Accept <span class="mjpage"><math alttext="3 + (k - 1)0.4 &gt; 42.195" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mi>k</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mn>0.4</mn>
+<mo>&gt;</mo>
+<mn>42.195</mn>
+</math></span>.</p>
+<p>Accept <span class="mjpage"><math alttext=" = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+</math></span> <strong>OR </strong><span class="mjpage"><math alttext=" \geqslant " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>⩾</mo>
+</math></span>. Award <strong><em>(M0) </em></strong>for <span class="mjpage"><math alttext="3000 + (k - 1)400 &gt; 42.195" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3000</mn>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mi>k</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mn>400</mn>
+<mo>&gt;</mo>
+<mn>42.195</mn>
+</math></span>.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="(k = ){\text{ }}99" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>k</mi>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>99</mn>
+</math></span>     <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Follow through from part (a)(ii), but only if <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span> is a positive integer.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{50}}{2}\left( {2 \times 3000 + (50 - 1)(400)} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>50</mn>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>2</mn>
+<mo>×</mo>
+<mn>3000</mn>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mn>50</mn>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mn>400</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>(M1)(A1)</em>(ft)</strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for substitution into sum of an arithmetic series formula, <strong><em>(A1)</em>(ft) </strong>for correct substitution.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="640\,000{\text{ m}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>640</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>000</mn>
+<mrow>
+<mtext> m</mtext>
+</mrow>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(A1) </em></strong>for their <span class="mjpage"><math alttext="640\,000" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>640</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>000</mn>
+</math></span> seen.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 640{\text{ km}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>640</mn>
+<mrow>
+<mtext> km</mtext>
+</mrow>
+</math></span>     <strong><em>(A1)</em>(ft)<em>(G3)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(A1)</em>(ft) </strong>for correctly converting their answer in metres to km; this can be awarded independently from previous marks.</p>
+<p> </p>
+<p><strong><em>OR</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{50}}{2}\left( {2 \times 3 + (50 - 1)(0.4)} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>50</mn>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>2</mn>
+<mo>×</mo>
+<mn>3</mn>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mn>50</mn>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mn>0.4</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>(M1)(A1)</em>(ft)<em>(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for substitution into sum of an arithmetic series formula, <strong><em>(A1)</em>(ft) </strong>for correct substitution, <strong><em>(A1) </em></strong>for correctly converting 3000 m and 400 m into km.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 640{\text{ km}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>640</mn>
+<mrow>
+<mtext> km</mtext>
+</mrow>
+</math></span>     <strong><em>(A1)(G3)</em></strong></p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="7500 \times {1.2^{5 - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>7500</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>1.2</mn>
+<mrow>
+<mn>5</mn>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>     <strong><em>(M1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for substitution into geometric series formula, <strong><em>(A1) </em></strong>for correct substitutions.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 15\,600{\text{ m }}(15\,552{\text{ m}})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>15</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>600</mn>
+<mrow>
+<mtext> m </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>15</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>552</mn>
+<mrow>
+<mtext> m</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)(G3)</em></strong></p>
+<p><strong><em>OR</em></strong></p>
+<p><span class="mjpage"><math alttext="7.5 \times {1.2^{5 - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>7.5</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>1.2</mn>
+<mrow>
+<mn>5</mn>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>     <strong><em>(M1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for substitution into geometric series formula, <strong><em>(A1) </em></strong>for correct substitutions.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 15.6{\text{ km}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>15.6</mn>
+<mrow>
+<mtext> km</mtext>
+</mrow>
+</math></span>     <strong><em>(A1)(G3)</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{7500({{1.2}^{12}} - 1)}}{{1.2 - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>7500</mn>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>1.2</mn>
+</mrow>
+<mrow>
+<mn>12</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mn>1.2</mn>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(M1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Award <strong><em>(M1) </em></strong>for substitution into sum of a geometric series formula, <strong><em>(A1) </em></strong>for correct substitutions. Follow through from their ratio (<span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+</math></span>) in part (d). If <span class="mjpage"><math alttext="r &lt; 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+<mo>&lt;</mo>
+<mn>1</mn>
+</math></span> (distance does not increase) or the final answer is unrealistic (<em>eg </em><span class="mjpage"><math alttext="r = 20" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+<mo>=</mo>
+<mn>20</mn>
+</math></span>), do not award the final <em><strong>(A1)</strong></em>.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 297\,000{\text{ m }}(296\,853 \ldots {\text{ m}},{\text{ }}297{\text{ km}})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>297</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>000</mn>
+<mrow>
+<mtext> m </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>296</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>853</mn>
+<mo>…</mo>
+<mrow>
+<mtext> m</mtext>
+</mrow>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>297</mn>
+<mrow>
+<mtext> km</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)(G2)</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">e.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"17N.2.SL.TZ0.T_2"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17N"}],["$","span",null,{"children":["· ","sl-1-2-arithmetic-sequences-and-series"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div>"}}]]}]]}]

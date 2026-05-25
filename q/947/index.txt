@@ -1,0 +1,978 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","947","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","947","d"],{"children":["__PAGE__?{\"id\":\"947\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","947","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tda5,<div class="specification">
+<p>It is given that <span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,y + {\text{lo}}{{\text{g}}_4}\,x + {\text{lo}}{{\text{g}}_4}\,2x = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+<mo>+</mo>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>4</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mo>+</mo>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>4</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_{{r^2}}}x = \frac{1}{2}{\text{lo}}{{\text{g}}_r}\,x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mi>x</mi>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mi>r</mi>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</math></span> where <span class="mjpage"><math alttext="r,\,x \in {\mathbb{R}^ + }" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+<mo>,</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mo>∈</mo>
+<mrow>
+<msup>
+<mrow>
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mo>+</mo>
+</msup>
+</mrow>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Express <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> in terms of <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span>. Give your answer in the form <span class="mjpage"><math alttext="y = p{x^q}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mi>p</mi>
+<mrow>
+<msup>
+<mi>x</mi>
+<mi>q</mi>
+</msup>
+</mrow>
+</math></span>, where <em>p</em> , <em>q</em> are constants.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The region <em>R</em>, is bounded by the graph of the function found in part (b), the <em>x</em>-axis, and the lines <span class="mjpage"><math alttext="x = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span> and <span class="mjpage"><math alttext="x = \alpha " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mi>α</mi>
+</math></span> where <span class="mjpage"><math alttext="\alpha  &gt; 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+<mo>&gt;</mo>
+<mn>1</mn>
+</math></span>. The area of <em>R</em> is <span class="mjpage"><math alttext="\sqrt 2 " xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</math></span>.</p>
+<p>Find the value of <span class="mjpage"><math alttext="\alpha " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+</math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">c.</div>
+</div>a:T38dd,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><strong>METHOD 1</strong></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_{{r^2}}}x = \frac{{{\text{lo}}{{\text{g}}_r}\,x}}{{{\text{lo}}{{\text{g}}_r}\,{r^2}}}\left( { = \frac{{{\text{lo}}{{\text{g}}_r}\,x}}{{{\text{2}}\,{\text{lo}}{{\text{g}}_r}\,r}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mi>x</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mi>r</mi>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mi>r</mi>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mi>r</mi>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>2</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mi>r</mi>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>    <em><strong> M1A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \frac{{{\text{lo}}{{\text{g}}_r}\,x}}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mi>r</mi>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</math></span>     <em><strong>AG</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_{{r^2}}}x = \frac{1}{{{\text{lo}}{{\text{g}}_x}\,{r^2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mi>x</mi>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mi>x</mi>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span>     <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \frac{1}{{2\,{\text{lo}}{{\text{g}}_x}\,r}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mi>x</mi>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</math></span>     <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \frac{{{\text{lo}}{{\text{g}}_r}\,x}}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mi>r</mi>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</math></span>     <em><strong>AG</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<p> </p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,y + {\text{lo}}{{\text{g}}_4}\,x + {\text{lo}}{{\text{g}}_4}\,2x = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+<mo>+</mo>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>4</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mo>+</mo>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>4</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,y + {\text{lo}}{{\text{g}}_4}\,2{x^2} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+<mo>+</mo>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>4</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,y + \frac{1}{2}{\text{lo}}{{\text{g}}_2}\,2{x^2} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,y =  - \frac{1}{2}{\text{lo}}{{\text{g}}_2}\,2{x^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,y = {\text{lo}}{{\text{g}}_2}\left( {\frac{1}{{\sqrt {2x} }}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+<mo>=</mo>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+<mi>x</mi>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <em><strong>M1A1</strong></em></p>
+<p><span class="mjpage"><math alttext="y = \frac{1}{{\sqrt 2 }}{x^{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mrow>
+<msup>
+<mi>x</mi>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>     <em><strong>A1</strong></em></p>
+<p><strong>Note</strong>: For the final <em><strong>A</strong></em> mark, <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> must be expressed in the form <span class="mjpage"><math alttext="p{x^q}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+<mrow>
+<msup>
+<mi>x</mi>
+<mi>q</mi>
+</msup>
+</mrow>
+</math></span>.</p>
+<p><em><strong>[5 marks]</strong></em></p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,y + {\text{lo}}{{\text{g}}_4}\,x + {\text{lo}}{{\text{g}}_4}\,2x = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+<mo>+</mo>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>4</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mo>+</mo>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>4</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,y + \frac{1}{2}{\text{lo}}{{\text{g}}_2}\,x + \frac{1}{2}{\text{lo}}{{\text{g}}_2}\,2x = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,y + {\text{lo}}{{\text{g}}_2}\,{x^{\frac{1}{2}}} + {\text{lo}}{{\text{g}}_2}\,{\left( {2x} \right)^{\frac{1}{2}}} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+<mo>+</mo>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msup>
+<mi>x</mi>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>2</mn>
+<mi>x</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,\left( {\sqrt 2 xy} \right) = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+<mi>x</mi>
+<mi>y</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\sqrt 2 xy = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<msqrt>
+<mn>2</mn>
+</msqrt>
+<mi>x</mi>
+<mi>y</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="y = \frac{1}{{\sqrt 2 }}{x^{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mrow>
+<msup>
+<mi>x</mi>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>     <em><strong>A1</strong></em></p>
+<p><strong>Note</strong>: For the final <em><strong>A</strong></em> mark, <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> must be expressed in the form <span class="mjpage"><math alttext="p{x^q}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+<mrow>
+<msup>
+<mi>x</mi>
+<mi>q</mi>
+</msup>
+</mrow>
+</math></span>.</p>
+<p><em><strong>[5 marks]</strong></em></p>
+<p> </p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>the area of <em>R</em> is <span class="mjpage"><math alttext="\int\limits_1^\alpha  {\frac{1}{{\sqrt 2 }}} {x^{ - 1}}{\text{d}}x" xmlns="http://www.w3.org/1998/Math/MathML">
+<munderover>
+<mo>∫</mo>
+<mn>1</mn>
+<mi>α</mi>
+</munderover>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<msup>
+<mi>x</mi>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</math></span>     <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \left[ {\frac{1}{{\sqrt 2 }}{\text{ln}}\,x} \right]_1^\alpha " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<msubsup>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mrow>
+<mtext>ln</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mn>1</mn>
+<mi>α</mi>
+</msubsup>
+</math></span>     <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \frac{1}{{\sqrt 2 }}{\text{ln}}\,\alpha " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mrow>
+<mtext>ln</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>α</mi>
+</math></span>     <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{1}{{\sqrt 2 }}{\text{ln}}\,\alpha  = \sqrt 2 " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mrow>
+<mtext>ln</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>α</mi>
+<mo>=</mo>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</math></span>     <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\alpha  = {{\text{e}}^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+<mo>=</mo>
+<mrow>
+<msup>
+<mrow>
+<mtext>e</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span>     <em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> Only follow through from part (b) if <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> is in the form <span class="mjpage"><math alttext="y = p{x^q}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mi>p</mi>
+<mrow>
+<msup>
+<mi>x</mi>
+<mi>q</mi>
+</msup>
+</mrow>
+</math></span></p>
+<p><em><strong>[5 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"18M.1.AHL.TZ2.H_11"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","sl-1-5-intro-to-logs"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

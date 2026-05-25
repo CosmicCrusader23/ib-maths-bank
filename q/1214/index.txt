@@ -1,0 +1,461 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1214","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1214","d"],{"children":["__PAGE__?{\"id\":\"1214\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1214","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T8d6,<div class="specification">
+<p>Events <span class="mjpage"><math alttext="A" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>A</mi>
+</math></span> and <span class="mjpage"><math alttext="B" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>B</mi>
+</math></span> are such that <span class="mjpage"><math alttext="{\text{P}}(A \cup B) = 0.95,{\text{ P}}(A \cap B) = 0.6" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mo>∪<!-- ∪ --></mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.95</mn>
+<mo>,</mo>
+<mrow>
+<mtext> P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mo>∩<!-- ∩ --></mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.6</mn>
+</math></span> and <span class="mjpage"><math alttext="{\text{P}}(A|B) = 0.75" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mrow>
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.75</mn>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find <span class="mjpage"><math alttext="{\text{P}}(B)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find <span class="mjpage"><math alttext="{\text{P}}(A)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mo stretchy="false">)</mo>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence show that events <span class="mjpage"><math alttext="A’" xmlns="http://www.w3.org/1998/Math/MathML">
+<msup>
+<mi>A</mi>
+<mo>′</mo>
+</msup>
+</math></span> and <span class="mjpage"><math alttext="B" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>B</mi>
+</math></span> are independent.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div>a:T22ee,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="{\text{P}}(A|B) = \frac{{{\text{P}}(A \cap B)}}{{{\text{P}}(B)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mrow>
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mo>∩</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow 0.75 = \frac{{0.6}}{{{\text{P}}(B)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mn>0.75</mn>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>0.6</mn>
+</mrow>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow {\text{P}}(B){\text{ }}\left( { = \frac{{0.6}}{{0.75}}} \right) = 0.8" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>0.6</mn>
+</mrow>
+<mrow>
+<mn>0.75</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>0.8</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{\text{P}}(A \cup B) = {\text{P}}(A) + {\text{P}}(B) - {\text{P}}(A \cap B)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mo>∪</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mo>−</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mo>∩</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow 0.95 = {\text{P}}(A) + 0.8 - 0.6" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mn>0.95</mn>
+<mo>=</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mn>0.8</mn>
+<mo>−</mo>
+<mn>0.6</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow {\text{P}}(A) = 0.75" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.75</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p><span class="mjpage"><math alttext="{\text{P}}(A'|B) = \frac{{{\text{P}}(A' \cap B)}}{{{\text{P}}(B)}} = \frac{{0.2}}{{0.8}} = 0.25" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>A</mi>
+<mo>′</mo>
+</msup>
+<mrow>
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>A</mi>
+<mo>′</mo>
+</msup>
+<mo>∩</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>0.2</mn>
+</mrow>
+<mrow>
+<mn>0.8</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>0.25</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="{\text{P}}(A'|B) = {\text{P}}(A’)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>A</mi>
+<mo>′</mo>
+</msup>
+<mrow>
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>A</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>R1</em></strong></p>
+<p>hence <span class="mjpage"><math alttext="A’" xmlns="http://www.w3.org/1998/Math/MathML">
+<msup>
+<mi>A</mi>
+<mo>′</mo>
+</msup>
+</math></span> and <span class="mjpage"><math alttext="B" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>B</mi>
+</math></span> are independent     <strong><em>AG</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     If there is evidence that the student has calculated <span class="mjpage"><math alttext="{\text{P}}(A' \cap B) = 0.2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>A</mi>
+<mo>′</mo>
+</msup>
+<mo>∩</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.2</mn>
+</math></span> by assuming independence in the first place, award <strong><em>A0R0</em></strong>.</p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p><strong>EITHER</strong></p>
+<p><span class="mjpage"><math alttext="{\text{P}}(A) = {\text{P}}(A|B)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mrow>
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="{\text{P}}(A) \times {\text{P}}(B) = 0.75 \times 0.80 = 0.6 = {\text{P}}(A \cap B)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mo stretchy="false">)</mo>
+<mo>×</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.75</mn>
+<mo>×</mo>
+<mn>0.80</mn>
+<mo>=</mo>
+<mn>0.6</mn>
+<mo>=</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mo>∩</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong>THEN</strong></p>
+<p><span class="mjpage"><math alttext="A" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>A</mi>
+</math></span> and <span class="mjpage"><math alttext="B" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>B</mi>
+</math></span> are independent     <strong><em>R1</em></strong></p>
+<p>hence <span class="mjpage"><math alttext="A’" xmlns="http://www.w3.org/1998/Math/MathML">
+<msup>
+<mi>A</mi>
+<mo>′</mo>
+</msup>
+</math></span> and <span class="mjpage"><math alttext="B" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>B</mi>
+</math></span> are independent     <strong><em>AG</em></strong></p>
+<p><strong>METHOD 3</strong></p>
+<p><span class="mjpage"><math alttext="{\text{P}}(A') \times {\text{P}}(B) = 0.25 \times 0.80 = 0.2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>A</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>×</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.25</mn>
+<mo>×</mo>
+<mn>0.80</mn>
+<mo>=</mo>
+<mn>0.2</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="{\text{P}}(A') \times {\text{P}}(B) = {\text{P}}(A' \cap B)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>A</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>×</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>A</mi>
+<mo>′</mo>
+</msup>
+<mo>∩</mo>
+<mi>B</mi>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>R1</em></strong></p>
+<p>hence <span class="mjpage"><math alttext="A’" xmlns="http://www.w3.org/1998/Math/MathML">
+<msup>
+<mi>A</mi>
+<mo>′</mo>
+</msup>
+</math></span> and <span class="mjpage"><math alttext="B" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>B</mi>
+</math></span> are independent     <strong><em>AG</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"17N.2.AHL.TZ0.H_2"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17N"}],["$","span",null,{"children":["· ","sl-4-6-combined-mutually-exclusive-conditional-independence-prob-diagrams"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

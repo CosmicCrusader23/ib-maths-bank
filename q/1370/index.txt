@@ -1,0 +1,534 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1370","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1370","d"],{"children":["__PAGE__?{\"id\":\"1370\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1370","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T856,<div class="specification">
+<p>The matrix <em><strong>M</strong></em> is given by <em><strong>M</strong></em> <span class="mjpage"><math alttext=" = \left[ {\begin{array}{*{20}{c}}  1&amp;2&amp;2 \\   3&amp;1&amp;1 \\   2&amp;3&amp;1  \end{array}} \right]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Given that <em><strong>M</strong></em><sup>3</sup> can be written as a quadratic expression in <em><strong>M</strong></em> in the form <em>a<strong>M</strong></em><sup>2</sup> + <em>b<strong>M</strong></em> + <em>c<strong>I</strong></em> , determine the values of the constants <em>a</em>, <em>b</em> and <em>c</em>.</p>
+<div class="marks">[7]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <em><strong>M</strong></em><sup>4</sup> = 19<em><strong>M</strong></em><sup>2</sup> + 40<em><strong>M</strong></em> + 30<em><strong>I</strong></em>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Using mathematical induction, prove that <em><strong>M</strong></em><sup>n</sup> can be written as a quadratic expression in <em><strong>M</strong></em> for all positive integers <em>n </em>≥ 3.</p>
+<div class="marks">[6]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find a quadratic expression in <em><strong>M</strong></em> for the inverse matrix <em><strong>M</strong></em><sup>–1</sup>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div>a:T27cb,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><strong>METHOD 1</strong></p>
+<p><em><strong>M</strong></em><sup>2</sup> <span class="mjpage"><math alttext=" = \left[ {\begin{array}{*{20}{c}}  {11}&amp;{10}&amp;6 \\   8&amp;{10}&amp;8 \\   {13}&amp;{10}&amp;8  \end{array}} \right]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>11</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>10</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>6</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>8</mn>
+</mtd>
+<mtd>
+<mrow>
+<mn>10</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>8</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>13</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>10</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>8</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+</math></span>; <em><strong>M</strong></em><sup>3</sup> <span class="mjpage"><math alttext=" = \left[ {\begin{array}{*{20}{c}}  {53}&amp;{50}&amp;{38} \\   {54}&amp;{50}&amp;{34} \\   {59}&amp;{60}&amp;{44}  \end{array}} \right]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>53</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>50</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>38</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>54</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>50</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>34</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>59</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>60</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>44</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+</math></span>     <em><strong>(A1)(A1)</strong></em></p>
+<p>let <span class="mjpage"><math alttext="\left[ {\begin{array}{*{20}{c}}  {53}&amp;{50}&amp;{38} \\   {54}&amp;{50}&amp;{34} \\   {59}&amp;{60}&amp;{44}  \end{array}} \right] = a\left[ {\begin{array}{*{20}{c}}  {11}&amp;{10}&amp;6 \\   8&amp;{10}&amp;8 \\   {13}&amp;{10}&amp;8  \end{array}} \right] + b\left[ {\begin{array}{*{20}{c}}  1&amp;2&amp;2 \\   3&amp;1&amp;1 \\   2&amp;3&amp;1  \end{array}} \right] + c\left[ {\begin{array}{*{20}{c}}  1&amp;0&amp;0 \\   0&amp;1&amp;0 \\   0&amp;0&amp;1  \end{array}} \right]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>53</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>50</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>38</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>54</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>50</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>34</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>59</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>60</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>44</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>=</mo>
+<mi>a</mi>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>11</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>10</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>6</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>8</mn>
+</mtd>
+<mtd>
+<mrow>
+<mn>10</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>8</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>13</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>10</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>8</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>+</mo>
+<mi>b</mi>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>+</mo>
+<mi>c</mi>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+</math></span>       <em><strong>(M1)</strong></em></p>
+<p>then, for example</p>
+<p>11<em>a</em> + <em>b</em> + <em>c</em> = 53</p>
+<p>10<em>a</em> + 2<em>b</em> = 50       <em><strong> M1A1</strong></em></p>
+<p>6<em>a</em> + 2<em>b</em> = 38</p>
+<p>the solution is <em>a</em> = 3, <em>b</em> =10, <em>c</em> =10      <em><strong>(M1)A1</strong></em></p>
+<p>(<em><strong>M</strong></em><sup>3</sup> = 3<em><strong>M</strong></em><sup>2</sup> +10<em><strong>M</strong></em> +10<em><strong>I</strong></em>)</p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p>det(<em><strong>M</strong></em> − <span class="mjpage"><math alttext="\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+</math></span><em><strong>I</strong></em>) = 0       <em><strong>(M1)</strong></em></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow \left( {1 - \lambda } \right)\left( {{{\left( {1 - \lambda } \right)}^2} - 3} \right) - 2\left( {3\left( {1 - \lambda } \right) - 2} \right) + 2\left( {9 - 2\left( {1 - \lambda } \right)} \right) = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mn>2</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>3</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mn>2</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>9</mn>
+<mo>−</mo>
+<mn>2</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>       <em><strong> M1A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" - {\lambda ^3} + 3{\lambda ^2} + 10\lambda  + 10 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mrow>
+<msup>
+<mi>λ</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>λ</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>10</mn>
+<mi>λ</mi>
+<mo>+</mo>
+<mn>10</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>       <em><strong> M1A1</strong></em></p>
+<p>applying the Cayley – Hamilton theorem       <em><strong>(M1)</strong></em></p>
+<p><em><strong>M</strong></em><sup>3</sup> = 3<em><strong>M</strong></em><sup>2</sup> +10<em><strong>M</strong></em> +10<em><strong>I</strong></em> and so <em>a</em> = 3, <em>b</em> =10, <em>c</em> =10       <em><strong> A1</strong></em></p>
+<p> </p>
+<p><em><strong>[7 marks]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em><strong>M</strong></em><sup>4</sup> = 3<em><strong>M</strong></em><sup>3</sup> + 10<em><strong>M</strong></em><sup>2</sup> + 10<em><strong>M     M1</strong></em></p>
+<p>= 3(3<em><strong>M</strong></em><sup>2</sup> + 10<em><strong>M</strong></em> + 10<strong><em>I</em></strong>) + 10<em><strong>M</strong></em><sup>2</sup> + 10<em><strong>M      M1</strong></em></p>
+<p>=19<em><strong>M</strong></em><sup>2</sup> + 40<em><strong>M</strong></em> +30<strong><em>I       AG</em></strong> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>the statement is true for <em>n</em> = 3 as shown in part (a)       <em><strong>A1</strong></em></p>
+<p>assume true for <em>n</em> = <em>k</em>, <em>ie</em> <em><strong>M</strong></em><sup>k</sup> = <em>p<strong>M</strong></em><sup>2</sup> + <em>q<strong>M</strong></em> + <em>r<strong>I</strong></em>       <em><strong>M1</strong></em></p>
+<p><strong>Note:</strong> Subsequent marks after this <em><strong>M1</strong> </em>are independent and can be awarded.</p>
+<p><em><strong>M</strong><sup>k</sup></em><sup>+1</sup> = <em>p<strong>M</strong><span style="font-size: 11.66px;"><sup>3</sup></span></em> + <em>q<strong>M</strong></em><sup>2</sup>  + <em>r</em><strong><em>M      </em></strong> <em><strong>M1</strong></em></p>
+<p>= <em>p</em>(3<em><strong>M</strong></em><sup>2</sup> +10<em><strong>M</strong></em> +10<em><strong>I</strong></em>) + <em>q<strong>M</strong><sup>2</sup></em> + <em>r<strong>M         M1</strong></em></p>
+<p>= (3<em>p</em> +<em>q</em>)<em><strong>M</strong></em><sup>2</sup> + (10<em>p</em> + <em>r</em>)<span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: italic;font-variant: normal;font-weight: bold;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">M</span> + 10<em>p<strong>I</strong></em>     <em><strong>A1</strong></em></p>
+<p>hence true for <em>n</em> = <em>k</em> ⇒ true for <em>n</em> = <em>k</em> +1 and since true for <em>n</em> = 3, the statement is proved by induction       <em><strong>R1</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>R1</strong></em> provided at least four of the previous marks are gained.</p>
+<p><em><strong>[6 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em><strong>M</strong></em><sup>2</sup> = 3<strong><em>M</em></strong> + 10<em><strong>I</strong></em> + 10<em><strong>M</strong></em><sup>–1</sup>     <em><strong>M1</strong></em></p>
+<p><em><strong>M</strong></em><sup>–1</sup> = <span class="mjpage"><math alttext="\frac{1}{{10}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>10</mn>
+</mrow>
+</mfrac>
+</math></span>(<em><strong>M</strong></em><sup>2</sup> − 3<strong><em>M</em></strong> − 10<em><strong>I</strong></em>)     <em><strong>A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"19M.2.AHL.TZ0.F_3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","ahl-1-14-introduction-to-matrices"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

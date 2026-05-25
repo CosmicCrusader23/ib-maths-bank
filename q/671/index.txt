@@ -1,0 +1,107 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","671","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","671","d"],{"children":["__PAGE__?{\"id\":\"671\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","671","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T742,<div class="specification">
+<p>The maximum temperature <span class="mjpage"><math alttext="T" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>T</mi>
+</math></span>, in degrees Celsius, in a park on six randomly selected days is shown in the following table. The table also shows the number of visitors, <span class="mjpage"><math alttext="N" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>N</mi>
+</math></span>, to the park on each of those six days.</p>
+<p style="text-align: center;"><img alt="M17/5/MATME/SP2/ENG/TZ2/02" src="../assets/uploads/tinymce_asset/asset/3554/Schermafbeelding_2017-08-14_om_17.34.22.png"/></p>
+<p>The relationship between the variables can be modelled by the regression equation <span class="mjpage"><math alttext="N = aT + b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>N</mi>
+<mo>=</mo>
+<mi>a</mi>
+<mi>T</mi>
+<mo>+</mo>
+<mi>b</mi>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span> and of <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the value of  <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+</math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use the regression equation to estimate the number of visitors on a day when the maximum temperature is 15 °C.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div>a:T9d8,<div class="question" style="padding-left: 20px;">
+<p>evidence of set up     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><span class="mjpage"><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span>correct value for <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span> or <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+</math></span></p>
+<p>0.667315, 22.2117</p>
+<p><span class="mjpage"><math alttext="a = 0.667,{\text{ }}b = 22.2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>=</mo>
+<mn>0.667</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>b</mi>
+<mo>=</mo>
+<mn>22.2</mn>
+</math></span>     <strong><em>A1A1</em></strong>     <strong><em>N3</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>0.922958</p>
+<p><span class="mjpage"><math alttext="r = 0.923" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+<mo>=</mo>
+<mn>0.923</mn>
+</math></span>     <strong><em>A1</em></strong>     <strong><em>N1</em></strong></p>
+<p><strong><em>[1 marks]</em></strong></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>valid approach     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><span class="mjpage"><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="0.667(15) + 22.2,{\text{ }}N(15)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0.667</mn>
+<mo stretchy="false">(</mo>
+<mn>15</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mn>22.2</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>N</mi>
+<mo stretchy="false">(</mo>
+<mn>15</mn>
+<mo stretchy="false">)</mo>
+</math></span></p>
+<p>32.2214     <strong><em>(A1)</em></strong></p>
+<p>32 (visitors) (must be an integer)     <strong><em>A1     N2</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"17M.2.SL.TZ2.S_2"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-4-4-pearsons-scatter-diagrams-eqn-of-y-on-x"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

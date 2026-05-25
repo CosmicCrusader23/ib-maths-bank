@@ -1,0 +1,515 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1375","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1375","d"],{"children":["__PAGE__?{\"id\":\"1375\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1375","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T8fd,<div class="specification">
+<p>The matrix <em><strong>A</strong></em> is given by <em><strong>A </strong></em><span class="mjpage"><math alttext=" = \left[ {\begin{array}{*{20}{c}}  a&amp;b \\   c&amp;d  \end{array}} \right]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>a</mi>
+</mtd>
+<mtd>
+<mi>b</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>c</mi>
+</mtd>
+<mtd>
+<mi>d</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+</math></span>.</p>
+</div><div class="specification">
+<p>The matrix <em><strong>B</strong></em> is given by <em><strong>B</strong></em> <span class="mjpage"><math alttext=" = \left[ {\begin{array}{*{20}{c}}  3&amp;2 \\   2&amp;3  \end{array}} \right]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that the eigenvalues of <em><strong>A</strong></em> are real if <span class="mjpage"><math alttext="{\left( {a - d} \right)^2} + 4bc \geqslant 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>a</mi>
+<mo>−</mo>
+<mi>d</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>4</mn>
+<mi>b</mi>
+<mi>c</mi>
+<mo>⩾</mo>
+<mn>0</mn>
+</math></span>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Deduce that the eigenvalues are real if <em><strong>A</strong></em> is symmetric.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine the eigenvalues of <em><strong>B</strong></em>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine the corresponding eigenvectors.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">b.ii.</div>
+</div>a:T1d6e,<div class="question" style="padding-left: 20px;">
+<p>the eigenvalues satisfy</p>
+<p><span class="mjpage"><math alttext="\left| {\begin{array}{*{20}{c}}  {a - \lambda }&amp;b \\   c&amp;{d - \lambda }  \end{array}} \right| = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mi>a</mi>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+</mtd>
+<mtd>
+<mi>b</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>c</mi>
+</mtd>
+<mtd>
+<mrow>
+<mi>d</mi>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\left( {a - \lambda } \right)\left( {d - \lambda } \right) - bc = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>a</mi>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>d</mi>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mi>b</mi>
+<mi>c</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\lambda ^2} - \left( {a + d} \right)\lambda  + ad - bc = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>λ</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>a</mi>
+<mo>+</mo>
+<mi>d</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>λ</mi>
+<mo>+</mo>
+<mi>a</mi>
+<mi>d</mi>
+<mo>−</mo>
+<mi>b</mi>
+<mi>c</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p>the condition for real roots is </p>
+<p><span class="mjpage"><math alttext="{\left( {a + d} \right)^2} - 4\left( {ad - bc} \right) \geqslant 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>a</mi>
+<mo>+</mo>
+<mi>d</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>4</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>a</mi>
+<mi>d</mi>
+<mo>−</mo>
+<mi>b</mi>
+<mi>c</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>⩾</mo>
+<mn>0</mn>
+</math></span>      <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\left( {a - d} \right)^2} + 4bc \geqslant 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>a</mi>
+<mo>−</mo>
+<mi>d</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>4</mn>
+<mi>b</mi>
+<mi>c</mi>
+<mo>⩾</mo>
+<mn>0</mn>
+</math></span>      <em><strong>AG</strong></em></p>
+<p><em><strong>[4 marks]</strong></em></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>if the matrix is symmetric, <em>b</em> = <em>c</em>. In this case,       <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\left( {a - d} \right)^2} + 4bc = {\left( {a - d} \right)^2} + 4{b^2} \geqslant 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>a</mi>
+<mo>−</mo>
+<mi>d</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>4</mn>
+<mi>b</mi>
+<mi>c</mi>
+<mo>=</mo>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>a</mi>
+<mo>−</mo>
+<mi>d</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>4</mn>
+<mrow>
+<msup>
+<mi>b</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>⩾</mo>
+<mn>0</mn>
+</math></span></p>
+<p>because each square term is non-negative      <em><strong>R1</strong><strong>AG</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>the characteristic equation is</p>
+<p><span class="mjpage"><math alttext="{\lambda ^2} - 6\lambda  + 5 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>λ</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>6</mn>
+<mi>λ</mi>
+<mo>+</mo>
+<mn>5</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\lambda  = 1,5" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mn>5</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>taking <span class="mjpage"><math alttext="\lambda  = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\left[ {\begin{array}{*{20}{c}}  2&amp;2 \\   2&amp;2  \end{array}} \right]\left[ {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right] = \left[ {\begin{array}{*{20}{c}}  0 \\   0  \end{array}} \right]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+</math></span>     <em><strong>M1</strong></em></p>
+<p>giving eigenvector <span class="mjpage"><math alttext=" = \left[ {\begin{array}{*{20}{c}}  1 \\   { - 1}  \end{array}} \right]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+</math></span>       <em><strong>A1</strong></em></p>
+<p> </p>
+<p>taking <span class="mjpage"><math alttext="\lambda  = 5" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+<mo>=</mo>
+<mn>5</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\left[ {\begin{array}{*{20}{c}}  { - 2}&amp;2 \\   2&amp;{ - 2}  \end{array}} \right]\left[ {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right] = \left[ {\begin{array}{*{20}{c}}  0 \\   0  \end{array}} \right]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+</math></span>     <em><strong>M1</strong></em></p>
+<p>giving eigenvector <span class="mjpage"><math alttext=" = \left[ {\begin{array}{*{20}{c}}  1 \\   1  \end{array}} \right]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>]</mo>
+</mrow>
+</math></span>       <em><strong>A1</strong></em></p>
+<p><em><strong>[4 marks]</strong></em></p>
+<div class="question_part_label">b.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"19M.1.AHL.TZ0.F_3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","ahl-1-15-eigenvalues-and-eigenvectors"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div>"}}]]}]]}]

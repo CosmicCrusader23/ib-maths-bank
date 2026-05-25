@@ -1,0 +1,555 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","938","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","938","d"],{"children":["__PAGE__?{\"id\":\"938\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","938","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T12f4,<div class="specification">
+<p>On the day of her birth, 1st January 1998, Mary’s grandparents invested <span class="mjpage"><math alttext="\$ x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi mathvariant="normal">$<!-- $ --></mi>
+<mi>x</mi>
+</math></span> in a savings account. They continued to deposit <span class="mjpage"><math alttext="\$ x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi mathvariant="normal">$<!-- $ --></mi>
+<mi>x</mi>
+</math></span> on the first day of each month thereafter.</p>
+<p>The account paid a fixed rate of 0.4% interest per month. The interest was calculated on the last day of each month and added to the account.</p>
+<p>Let <span class="mjpage"><math alttext="\$ {A_n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi mathvariant="normal">$<!-- $ --></mi>
+<mrow>
+<msub>
+<mi>A</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+</math></span> be the amount in Mary’s account on the last day of the <span class="mjpage"><math alttext="n{\text{th}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mrow>
+<mtext>th</mtext>
+</mrow>
+</math></span> month, immediately after the interest had been added.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find an expression for <span class="mjpage"><math alttext="{A_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>A</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> and show that <span class="mjpage"><math alttext="{A_2} = {1.004^2}x + 1.004x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>A</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mo>+</mo>
+<mn>1.004</mn>
+<mi>x</mi>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>(i)     Write down a similar expression for <span class="mjpage"><math alttext="{A_3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>A</mi>
+<mn>3</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="{A_4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>A</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+</math></span>.</p>
+<p>(ii)     Hence show that the amount in Mary’s account the day before she turned 10 years old is given by <span class="mjpage"><math alttext="251({1.004^{120}} - 1)x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>251</mn>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mrow>
+<mn>120</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mi>x</mi>
+</math></span>.</p>
+<div class="marks">[6]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down an expression for <span class="mjpage"><math alttext="{A_n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>A</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+</math></span> in terms of <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> on the day before Mary turned 18 years old showing clearly the value of <span class="mjpage"><math alttext="n" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+</math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Mary’s grandparents wished for the amount in her account to be at least <span class="mjpage"><math alttext="\$ 20\,000" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi mathvariant="normal">$</mi>
+<mn>20</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>000</mn>
+</math></span> the day before she was 18. Determine the minimum value of the monthly deposit <span class="mjpage"><math alttext="\$ x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi mathvariant="normal">$</mi>
+<mi>x</mi>
+</math></span> required to achieve this. Give your answer correct to the nearest dollar.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>As soon as Mary was 18 she decided to invest <span class="mjpage"><math alttext="\$ 15\,000" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi mathvariant="normal">$</mi>
+<mn>15</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>000</mn>
+</math></span> of this money in an account of the same type earning 0.4% interest per month. She withdraws <span class="mjpage"><math alttext="\$ 1000" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi mathvariant="normal">$</mi>
+<mn>1000</mn>
+</math></span> every year on her birthday to buy herself a present. Determine how long it will take until there is no money in the account.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">e.</div>
+</div>a:T23c1,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="{A_1} = 1.004x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>A</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mn>1.004</mn>
+<mi>x</mi>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="{A_2} = 1.004(1.004x + x)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>A</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mn>1.004</mn>
+<mo stretchy="false">(</mo>
+<mn>1.004</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = {1.004^2}x + 1.004x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mo>+</mo>
+<mn>1.004</mn>
+<mi>x</mi>
+</math></span>    <strong><em>AG</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Accept an argument in words for example, first deposit has been in for two months and second deposit has been in for one month.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>(i)     <span class="mjpage"><math alttext="{A_3} = 1.004({1.004^2}x + 1.004x + x) = {1.004^3}x + {1.004^2}x + 1.004x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>A</mi>
+<mn>3</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mn>1.004</mn>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mo>+</mo>
+<mn>1.004</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mn>3</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mo>+</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mo>+</mo>
+<mn>1.004</mn>
+<mi>x</mi>
+</math></span>     <strong><em>(M1)A1</em></strong></p>
+<p><span class="mjpage"><math alttext="{A_4} = {1.004^4}x + {1.004^3}x + {1.004^2}x + 1.004x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>A</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mn>4</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mo>+</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mn>3</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mo>+</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mo>+</mo>
+<mn>1.004</mn>
+<mi>x</mi>
+</math></span>    <strong><em>A1</em></strong></p>
+<p>(ii)     <span class="mjpage"><math alttext="{A_{120}} = ({1.004^{120}} + {1.004^{119}} +  \ldots  + 1.004)x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>A</mi>
+<mrow>
+<mn>120</mn>
+</mrow>
+</msub>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mrow>
+<mn>120</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mrow>
+<mn>119</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>+</mo>
+<mo>…</mo>
+<mo>+</mo>
+<mn>1.004</mn>
+<mo stretchy="false">)</mo>
+<mi>x</mi>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \frac{{{{1.004}^{120}} - 1}}{{1.004 - 1}} \times 1.004x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mn>1.004</mn>
+</mrow>
+<mrow>
+<mn>120</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<mn>1.004</mn>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mn>1.004</mn>
+<mi>x</mi>
+</math></span>    <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = 251({1.004^{120}} - 1)x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>251</mn>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mrow>
+<mn>120</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mi>x</mi>
+</math></span>    <strong><em>AG</em></strong></p>
+<p><strong><em>[6 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{A_{216}} = 251({1.004^{216}} - 1)x{\text{ }}\left( { = x\sum\limits_{t = 1}^{216} {{{1.004}^t}} } \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>A</mi>
+<mrow>
+<mn>216</mn>
+</mrow>
+</msub>
+</mrow>
+<mo>=</mo>
+<mn>251</mn>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mrow>
+<mn>216</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mi>x</mi>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<mi>x</mi>
+<munderover>
+<mo movablelimits="false">∑</mo>
+<mrow>
+<mi>t</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<mn>216</mn>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mn>1.004</mn>
+</mrow>
+<mi>t</mi>
+</msup>
+</mrow>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="251({1.004^{216}} - 1)x = 20\,000 \Rightarrow x = 58.22 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>251</mn>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mrow>
+<mn>216</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mi>x</mi>
+<mo>=</mo>
+<mn>20</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>000</mn>
+<mo stretchy="false">⇒</mo>
+<mi>x</mi>
+<mo>=</mo>
+<mn>58.22</mn>
+<mo>…</mo>
+</math></span>    (<strong><em>A1)(M1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Award <strong><em>(A1) </em></strong>for <span class="mjpage"><math alttext="251({1.004^{216}} - 1)x &gt; 20\,000" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>251</mn>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mrow>
+<mn>216</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mi>x</mi>
+<mo>&gt;</mo>
+<mn>20</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>000</mn>
+</math></span>, <strong><em>(M1) </em></strong>for attempting to solve and <strong><em>(A1) </em></strong>for <span class="mjpage"><math alttext="x &gt; 58.22 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>&gt;</mo>
+<mn>58.22</mn>
+<mo>…</mo>
+</math></span>.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="x = 59" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>59</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Accept <span class="mjpage"><math alttext="x = 58" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>58</mn>
+</math></span>. Accept <span class="mjpage"><math alttext="x \geqslant 59" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>⩾</mo>
+<mn>59</mn>
+</math></span>.</p>
+<p> </p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="r = {1.004^{12}}{\text{ }}( = 1.049 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+<mo>=</mo>
+<mrow>
+<msup>
+<mn>1.004</mn>
+<mrow>
+<mn>12</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mo>=</mo>
+<mn>1.049</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="15\,000{r^n} - 1000\frac{{{r^n} - 1}}{{r - 1}} = 0 \Rightarrow n = 27.8 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>15</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>000</mn>
+<mrow>
+<msup>
+<mi>r</mi>
+<mi>n</mi>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>1000</mn>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>r</mi>
+<mi>n</mi>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<mi>r</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>0</mn>
+<mo stretchy="false">⇒</mo>
+<mi>n</mi>
+<mo>=</mo>
+<mn>27.8</mn>
+<mo>…</mo>
+</math></span>    (<strong><em>A1)(M1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Award <strong><em>(A1) </em></strong>for the equation (with their value of <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+</math></span>), <strong><em>(M1) </em></strong>for attempting to solve for <span class="mjpage"><math alttext="n" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+</math></span> and <strong><em>(A1) </em></strong>for <span class="mjpage"><math alttext="n = 27.8 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>=</mo>
+<mn>27.8</mn>
+<mo>…</mo>
+</math></span></p>
+<p> </p>
+<p><span class="mjpage"><math alttext="n = 28" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>=</mo>
+<mn>28</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Accept <span class="mjpage"><math alttext="n = 27" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>=</mo>
+<mn>27</mn>
+</math></span>.</p>
+<p> </p>
+<p><em><strong>[5 marks]</strong></em></p>
+<div class="question_part_label">e.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"16N.2.AHL.TZ0.H_12"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","sl-1-2-arithmetic-sequences-and-series"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div>"}}]]}]]}]

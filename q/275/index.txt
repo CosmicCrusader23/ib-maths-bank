@@ -1,0 +1,191 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","275","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","275","d"],{"children":["__PAGE__?{\"id\":\"275\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","275","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tee8,<div class="specification">
+<p>Consider the equation <span class="mjpage"><math alttext="{x^5} - 3{x^4} + m{x^3} + n{x^2} + px + q = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>5</mn>
+</msup>
+</mrow>
+<mo>−<!-- − --></mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>4</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>m</mi>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>n</mi>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>p</mi>
+<mi>x</mi>
+<mo>+</mo>
+<mi>q</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>, where <span class="mjpage"><math alttext="m" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>m</mi>
+</math></span>, <span class="mjpage"><math alttext="n" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+</math></span>, <span class="mjpage"><math alttext="p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+</math></span>, <span class="mjpage"><math alttext="q \in \mathbb{R}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>q</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow>
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+</math></span>.</p>
+<p>The equation has three distinct real roots which can be written as <span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>a</mi>
+</math></span>, <span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>b</mi>
+</math></span> and <span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,c" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>lo</mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>g</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>c</mi>
+</math></span>.</p>
+<p>The equation also has two imaginary roots, one of which is <span class="mjpage"><math alttext="d{\text{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+</math></span> where <span class="mjpage"><math alttext="d \in \mathbb{R}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow>
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+</math></span>.</p>
+</div><div class="specification">
+<p>The values <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span>, <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+</math></span>, and <span class="mjpage"><math alttext="c" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>c</mi>
+</math></span> are consecutive terms in a geometric sequence.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="abc = 8" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>a</mi> <mi>b</mi> <mi>c</mi> <mo>=</mo> <mn>8</mn> </math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that one of the real roots is equal to 1.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Given that <span class="mjpage"><math alttext="q = 8{d^2}" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>q</mi> <mo>=</mo> <mn>8</mn> <mrow> <msup> <mi>d</mi> <mn>2</mn> </msup> </mrow> </math></span>, find the other two real roots.</p>
+<div class="marks">[9]</div>
+<div class="question_part_label">c.</div>
+</div>a:T424d,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p>
+<p>recognition of the other root <span class="mjpage"><math alttext=" =  - d{\text{i}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mo>−</mo> <mi>d</mi> <mrow> <mtext>i</mtext> </mrow> </math></span>       <em><strong>(A1)</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,a + {\text{lo}}{{\text{g}}_2}\,b + {\text{lo}}{{\text{g}}_2}\,c + d{\text{i}} - d{\text{i}} = 3" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>a</mi> <mo>+</mo> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>b</mi> <mo>+</mo> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>c</mi> <mo>+</mo> <mi>d</mi> <mrow> <mtext>i</mtext> </mrow> <mo>−</mo> <mi>d</mi> <mrow> <mtext>i</mtext> </mrow> <mo>=</mo> <mn>3</mn> </math></span>        <em><strong>M1A</strong></em><em><strong>1</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>M1</strong> </em>for sum of the roots, <em><strong>A1</strong> </em>for 3. Award <em><strong>A0M1A0</strong></em> for just <span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,a + {\text{lo}}{{\text{g}}_2}\,b + {\text{lo}}{{\text{g}}_2}\,c = 3" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>a</mi> <mo>+</mo> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>b</mi> <mo>+</mo> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>c</mi> <mo>=</mo> <mn>3</mn> </math></span>.</p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,abc = 3" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>a</mi> <mi>b</mi> <mi>c</mi> <mo>=</mo> <mn>3</mn> </math></span>       <em><strong>(M1)</strong></em></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow abc = {2^3}" xmlns="http://www.w3.org/1998/Math/MathML"> <mo stretchy="false">⇒</mo> <mi>a</mi> <mi>b</mi> <mi>c</mi> <mo>=</mo> <mrow> <msup> <mn>2</mn> <mn>3</mn> </msup> </mrow> </math></span>       <em><strong>A</strong></em><em><strong>1</strong></em></p>
+<p><span class="mjpage"><math alttext="abc = 8" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>a</mi> <mi>b</mi> <mi>c</mi> <mo>=</mo> <mn>8</mn> </math></span>       <em><strong>AG</strong></em></p>
+<p><em><strong>[5 marks]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p>let the geometric series be <span class="mjpage"><math alttext="{u_1}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>u</mi> <mn>1</mn> </msub> </mrow> </math></span>, <span class="mjpage"><math alttext="{u_1}r" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>u</mi> <mn>1</mn> </msub> </mrow> <mi>r</mi> </math></span>, <span class="mjpage"><math alttext="{u_1}{r^2}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>u</mi> <mn>1</mn> </msub> </mrow> <mrow> <msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> </math></span></p>
+<p><span class="mjpage"><math alttext="{\left( {{u_1}r} \right)^3} = 8" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mrow> <msub> <mi>u</mi> <mn>1</mn> </msub> </mrow> <mi>r</mi> </mrow> <mo>)</mo> </mrow> <mn>3</mn> </msup> </mrow> <mo>=</mo> <mn>8</mn> </math></span>      <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="{u_1}r = 2" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>u</mi> <mn>1</mn> </msub> </mrow> <mi>r</mi> <mo>=</mo> <mn>2</mn> </math></span>       <em><strong>A</strong></em><em><strong>1</strong></em></p>
+<p>hence one of the roots is <span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}2 = 1" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mn>2</mn> <mo>=</mo> <mn>1</mn> </math></span>      <em><strong>R1</strong></em></p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p><span class="mjpage"><math alttext="\frac{b}{a} = \frac{c}{b}" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mi>b</mi> <mi>a</mi> </mfrac> <mo>=</mo> <mfrac> <mi>c</mi> <mi>b</mi> </mfrac> </math></span></p>
+<p><span class="mjpage"><math alttext="{b^2} = ac \Rightarrow {b^3} = abc = 8" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msup> <mi>b</mi> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mi>a</mi> <mi>c</mi> <mo stretchy="false">⇒</mo> <mrow> <msup> <mi>b</mi> <mn>3</mn> </msup> </mrow> <mo>=</mo> <mi>a</mi> <mi>b</mi> <mi>c</mi> <mo>=</mo> <mn>8</mn> </math></span>      <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="b = 2" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>b</mi> <mo>=</mo> <mn>2</mn> </math></span>       <em><strong>A</strong></em><em><strong>1</strong></em></p>
+<p>hence one of the roots is <span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}2 = 1" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mn>2</mn> <mo>=</mo> <mn>1</mn> </math></span>      <em><strong>R1</strong></em></p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p>product of the roots is <span class="mjpage"><math alttext="{r_1} \times {r_2} \times 1 \times d{\text{i}} \times  - d{\text{i}} =  - 8{d^2}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>r</mi> <mn>1</mn> </msub> </mrow> <mo>×</mo> <mrow> <msub> <mi>r</mi> <mn>2</mn> </msub> </mrow> <mo>×</mo> <mn>1</mn> <mo>×</mo> <mi>d</mi> <mrow> <mtext>i</mtext> </mrow> <mo>×</mo> <mo>−</mo> <mi>d</mi> <mrow> <mtext>i</mtext> </mrow> <mo>=</mo> <mo>−</mo> <mn>8</mn> <mrow> <msup> <mi>d</mi> <mn>2</mn> </msup> </mrow> </math></span>       <em><strong>(M1)(A1)</strong></em></p>
+<p><span class="mjpage"><math alttext="{r_1} \times {r_2} =  - 8" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>r</mi> <mn>1</mn> </msub> </mrow> <mo>×</mo> <mrow> <msub> <mi>r</mi> <mn>2</mn> </msub> </mrow> <mo>=</mo> <mo>−</mo> <mn>8</mn> </math></span>       <em><strong>A</strong></em><em><strong>1</strong></em></p>
+<p>sum of the roots is <span class="mjpage"><math alttext="{r_1} + {r_2} + 1 + d{\text{i}} +  - d{\text{i}} = 3" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>r</mi> <mn>1</mn> </msub> </mrow> <mo>+</mo> <mrow> <msub> <mi>r</mi> <mn>2</mn> </msub> </mrow> <mo>+</mo> <mn>1</mn> <mo>+</mo> <mi>d</mi> <mrow> <mtext>i</mtext> </mrow> <mo>+</mo> <mo>−</mo> <mi>d</mi> <mrow> <mtext>i</mtext> </mrow> <mo>=</mo> <mn>3</mn> </math></span>       <em><strong>(M1)(A1)</strong></em></p>
+<p><span class="mjpage"><math alttext="{r_1} + {r_2} = 2" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>r</mi> <mn>1</mn> </msub> </mrow> <mo>+</mo> <mrow> <msub> <mi>r</mi> <mn>2</mn> </msub> </mrow> <mo>=</mo> <mn>2</mn> </math></span>       <em><strong>A</strong></em><em><strong>1</strong></em></p>
+<p>solving simultaneously       <em><strong>(M1)</strong></em></p>
+<p><span class="mjpage"><math alttext="{r_1} =  - 2" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>r</mi> <mn>1</mn> </msub> </mrow> <mo>=</mo> <mo>−</mo> <mn>2</mn> </math></span>, <span class="mjpage"><math alttext="{r_2} = 4" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>r</mi> <mn>2</mn> </msub> </mrow> <mo>=</mo> <mn>4</mn> </math></span>       <em><strong>A</strong></em><em><strong>1</strong></em><em><strong>A</strong></em><em><strong>1</strong></em></p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p>product of the roots <span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,a \times {\text{lo}}{{\text{g}}_2}\,b \times {\text{lo}}{{\text{g}}_2}\,c \times d{\text{i}} \times  - d{\text{i}} =  - 8{d^2}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>a</mi> <mo>×</mo> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>b</mi> <mo>×</mo> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>c</mi> <mo>×</mo> <mi>d</mi> <mrow> <mtext>i</mtext> </mrow> <mo>×</mo> <mo>−</mo> <mi>d</mi> <mrow> <mtext>i</mtext> </mrow> <mo>=</mo> <mo>−</mo> <mn>8</mn> <mrow> <msup> <mi>d</mi> <mn>2</mn> </msup> </mrow> </math></span>       <em><strong>M</strong></em><em><strong>1</strong></em><em><strong>A</strong></em><em><strong>1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,a \times {\text{lo}}{{\text{g}}_2}\,b \times {\text{lo}}{{\text{g}}_2}\,c =  - 8" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>a</mi> <mo>×</mo> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>b</mi> <mo>×</mo> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>c</mi> <mo>=</mo> <mo>−</mo> <mn>8</mn> </math></span>       <em><strong>A</strong></em><em><strong>1</strong></em></p>
+<p><strong>EITHER</strong></p>
+<p><span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>a</mi> </math></span>, <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>b</mi> </math></span>, <span class="mjpage"><math alttext="c" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>c</mi> </math></span> can be written as <span class="mjpage"><math alttext="\frac{2}{r}" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mn>2</mn> <mi>r</mi> </mfrac> </math></span>, <span class="mjpage"><math alttext="2" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>2</mn> </math></span>, <span class="mjpage"><math alttext="2r" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>2</mn> <mi>r</mi> </math></span>       <em><strong>M</strong></em><em><strong>1</strong></em></p>
+<p><span class="mjpage"><math alttext="\left( {{\text{lo}}{{\text{g}}_2}\frac{2}{r}} \right)\left( {{\text{lo}}{{\text{g}}_2}\,2} \right)\left( {{\text{lo}}{{\text{g}}_2}\,2r} \right) =  - 8" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mo>(</mo> <mrow> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mfrac> <mn>2</mn> <mi>r</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mrow> <mo>(</mo> <mrow> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mrow> <mo>(</mo> <mrow> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mn>2</mn> <mi>r</mi> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mo>−</mo> <mn>8</mn> </math></span></p>
+<p>attempt to solve       <em><strong>M</strong></em><em><strong>1</strong></em></p>
+<p><span class="mjpage"><math alttext="\left( {1 - {\text{lo}}{{\text{g}}_2}\,r} \right)\left( {1 + {\text{lo}}{{\text{g}}_2}\,r} \right) =  - 8" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>−</mo> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>r</mi> </mrow> <mo>)</mo> </mrow> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>r</mi> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mo>−</mo> <mn>8</mn> </math></span></p>
+<p><span class="mjpage"><math alttext="{\text{lo}}{{\text{g}}_2}\,r =  \pm 3" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>r</mi> <mo>=</mo> <mo>±</mo> <mn>3</mn> </math></span></p>
+<p><span class="mjpage"><math alttext="r = \frac{1}{8}{\text{,}}\,\,8" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>r</mi> <mo>=</mo> <mfrac> <mn>1</mn> <mn>8</mn> </mfrac> <mrow> <mtext>,</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mn>8</mn> </math></span>       <em><strong>A</strong></em><em><strong>1</strong></em><em><strong>A</strong></em><em><strong>1</strong></em></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>a</mi> </math></span>, <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>b</mi> </math></span>, <span class="mjpage"><math alttext="c" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>c</mi> </math></span> can be written as <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>a</mi> </math></span>, <span class="mjpage"><math alttext="2" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>2</mn> </math></span>, <span class="mjpage"><math alttext="\frac{4}{a}" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mn>4</mn> <mi>a</mi> </mfrac> </math></span>      <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\left( {{\text{lo}}{{\text{g}}_2}\,a} \right)\left( {{\text{lo}}{{\text{g}}_2}\,2} \right)\left( {{\text{lo}}{{\text{g}}_2}\,\frac{4}{a}} \right) =  - 8" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mo>(</mo> <mrow> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mi>a</mi> </mrow> <mo>)</mo> </mrow> <mrow> <mo>(</mo> <mrow> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mrow> <mo>(</mo> <mrow> <mrow> <mtext>lo</mtext> </mrow> <mrow> <msub> <mrow> <mtext>g</mtext> </mrow> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mfrac> <mn>4</mn> <mi>a</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mo>−</mo> <mn>8</mn> </math></span></p>
+<p>attempt to solve       <em><strong>M</strong></em><em><strong>1</strong></em></p>
+<p><span class="mjpage"><math alttext="a = \frac{1}{4}{\text{,}}\,\,16" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>a</mi> <mo>=</mo> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> <mrow> <mtext>,</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mn>16</mn> </math></span>       <em><strong>A</strong></em><em><strong>1</strong></em><em><strong>A</strong></em><em><strong>1</strong></em></p>
+<p><strong>THEN</strong></p>
+<p><span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>a</mi> </math></span> and <span class="mjpage"><math alttext="c" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>c</mi> </math></span> are <span class="mjpage"><math alttext="\frac{1}{4}{\text{,}}\,\,16" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> <mrow> <mtext>,</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mn>16</mn> </math></span>       <em><strong>(A1)</strong></em></p>
+<p>roots are −2, 4       <em><strong>A</strong></em><em><strong>1</strong></em></p>
+<p> </p>
+<p><em><strong>[9 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"19M.2.AHL.TZ1.H_11"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","sl-1-3-geometric-sequences-and-series"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

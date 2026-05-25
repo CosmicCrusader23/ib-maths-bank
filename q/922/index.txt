@@ -1,0 +1,319 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","922","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","922","d"],{"children":["__PAGE__?{\"id\":\"922\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","922","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tebd,<div class="specification">
+<p>In a large population of hens, the weight of a hen is normally distributed with mean <span class="mjpage"><math alttext="\mu " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>μ<!-- μ --></mi>
+</math></span> kg and standard deviation <span class="mjpage"><math alttext="\sigma " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>σ<!-- σ --></mi>
+</math></span> kg. A random sample of 100 hens is taken from the population.</p>
+<p>The mean weight for the sample is denoted by <span class="mjpage"><math alttext="\bar X" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>X</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</math></span>.</p>
+</div><div class="specification">
+<p>The sample values are summarized by <span class="mjpage"><math alttext="\sum {x = 199.8} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>∑<!-- ∑ --></mo>
+<mrow>
+<mi>x</mi>
+<mo>=</mo>
+<mn>199.8</mn>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="\sum {{x^2} = 407.8} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>∑<!-- ∑ --></mo>
+<mrow>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>407.8</mn>
+</mrow>
+</math></span> where <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> kg is the weight of a hen.</p>
+</div><div class="specification">
+<p>It is found that <span class="mjpage"><math alttext="\sigma " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>σ<!-- σ --></mi>
+</math></span> = 0.27 . It is decided to test, at the 1 % level of significance, the null hypothesis <span class="mjpage"><math alttext="\mu " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>μ<!-- μ --></mi>
+</math></span> = 1.95 against the alternative hypothesis <span class="mjpage"><math alttext="\mu " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>μ<!-- μ --></mi>
+</math></span> &gt; 1.95.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State the distribution of <span class="mjpage"><math alttext="\bar X" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>X</mi>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+</math></span> giving its mean and variance.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find an unbiased estimate for <span class="mjpage"><math alttext="\mu " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>μ</mi>
+</math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find an unbiased estimate for <span class="mjpage"><math alttext="{\sigma ^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>σ</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find a 90 % confidence interval for <span class="mjpage"><math alttext="\mu " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>μ</mi>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the <span class="mjpage"><math alttext="p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+</math></span>-value for the test.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">e.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the conclusion reached.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">e.ii.</div>
+</div>a:T1630,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="\bar X \sim N\left( {\mu {\text{,}}\,\,\frac{{{\sigma ^2}}}{{100}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>X</mi>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+<mo>∼</mo>
+<mi>N</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>μ</mi>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>σ</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>100</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> Accept <span class="mjpage"><math alttext="n" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+</math></span> in place of 100.</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\hat \mu  = \frac{{\sum x }}{n} = \frac{{199.8}}{{100}} = 1.998" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>μ</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mo>∑</mo>
+<mi>x</mi>
+</mrow>
+<mi>n</mi>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>199.8</mn>
+</mrow>
+<mrow>
+<mn>100</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>1.998</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> Accept 2.00, 2.0 and 2.</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{s_{n - 1}}^2 = \frac{n}{{n - 1}}\left( {\frac{{\sum {{x^2}} }}{n} - {{\bar x}^2}} \right) = \frac{{100}}{{99}}\left( {\frac{{407.8}}{{100}} - {{1.998}^2}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<msup>
+<mrow>
+<msub>
+<mi>s</mi>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mn>2</mn>
+</msup>
+<mo>=</mo>
+<mfrac>
+<mi>n</mi>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mo>∑</mo>
+<mrow>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mrow>
+<mi>n</mi>
+</mfrac>
+<mo>−</mo>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mover>
+<mi>x</mi>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>100</mn>
+</mrow>
+<mrow>
+<mn>99</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>407.8</mn>
+</mrow>
+<mrow>
+<mn>100</mn>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>1.998</mn>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>(M1)</strong></em></p>
+<p>= 0.086864</p>
+<p>unbiased estimate for <span class="mjpage"><math alttext="{\sigma ^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>σ</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span> is 0.0869      <em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> Accept any answer which rounds to 0.087.</p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>90 % confidence interval is <span class="mjpage"><math alttext="1.998 \pm 1.660\sqrt {\frac{{0.0869}}{{100}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1.998</mn>
+<mo>±</mo>
+<mn>1.660</mn>
+<msqrt>
+<mfrac>
+<mrow>
+<mn>0.0869</mn>
+</mrow>
+<mrow>
+<mn>100</mn>
+</mrow>
+</mfrac>
+</msqrt>
+</math></span>        <em><strong>(M1)</strong></em></p>
+<p>= (1.95, 2.05)      <em><strong>A1</strong></em><em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> <em><strong>FT</strong></em> their <span class="mjpage"><math alttext="\sigma " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>σ</mi>
+</math></span> from (c).</p>
+<p><strong>Note:</strong> Condone the use of the <span class="mjpage"><math alttext="z" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>z</mi>
+</math></span>-value 1.645 since <span class="mjpage"><math alttext="n" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+</math></span> is large.</p>
+<p><strong>Note:</strong> Accept any values that round to 1.95 and 2.05.</p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+</math></span>-value is 0.0377       <em><strong>A2</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>A1</strong></em> for the 2-tail value 0.0754.</p>
+<p><strong>Note:</strong> Award <em><strong>A2</strong></em> for 0.0377 and <em><strong>A1</strong></em> for any other value that rounds to 0.038.</p>
+<p><strong>Note:</strong> <em><strong>FT</strong> </em>their estimated mean from (b), note that 2 gives <span class="mjpage"><math alttext="p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+</math></span> = 0.032(0).</p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">e.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>accept the null hypothesis     <em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> <em><strong>FT</strong> </em>their <span class="mjpage"><math alttext="p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+</math></span>-value.</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">e.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"19M.3.AHL.TZ0.HSP_3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","ahl-4-14-linear-transformation-of-a-single-rv-e(x)-and-var(x)-unbiased-estimators"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.ii.</div>\n</div>"}}]]}]]}]

@@ -1,0 +1,1479 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/ib-maths-bank/_next/static/chunks/webpack-60f9d28c2ad49c05.js"/><script src="/ib-maths-bank/_next/static/chunks/7d771d05-456d95767a0816d2.js" async=""></script><script src="/ib-maths-bank/_next/static/chunks/588-a5f147b14d1e0cf3.js" async=""></script><script src="/ib-maths-bank/_next/static/chunks/main-app-2953b3dc94410bf6.js" async=""></script><script src="/ib-maths-bank/_next/static/chunks/234-d218828f1f4aa80d.js" async=""></script><script src="/ib-maths-bank/_next/static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js" async=""></script><script src="/ib-maths-bank/_next/static/chunks/app/layout-de62fc915ba2f962.js" async=""></script><link rel="preload" href="https://cdn.jsdelivr.net/npm/mathjax@3/es5/mml-chtml.js" as="script"/><title>IB Maths Bank</title><meta name="description" content="Curated, merged question bank for IB Mathematics (AA &amp; AI, HL &amp; SL), grouped by syllabus topic."/><script src="/ib-maths-bank/_next/static/chunks/polyfills-42372ed130431b0a.js" noModule=""></script></head><body><header class="topbar"><a class="brand" href="/ib-maths-bank/">IB Maths Bank</a><nav><a href="/ib-maths-bank/">Topics</a><a href="/ib-maths-bank/about/">About</a></nav></header><main><article class="q-page"><p style="margin:0"><a href="/ib-maths-bank/topic/5/">← back to topic <!-- -->5</a></p><h1>EXM.3.AHL.TZ0.3</h1><div class="q-meta"><span class="tag">pestle</span><span>AI</span><span>HL</span><span>Paper <!-- -->3</span><span>EXM</span><span>· <!-- -->ahl-5-17-phase-portrait</span><a href="https://pestle.pages.dev/app/" target="_blank" rel="noopener">source ↗</a></div><div class="q-content"><div class="specification">
+<p>This question will investigate the solution to a coupled system of differential equations and how to transform it to a system that can be solved by the eigenvector method.</p>
+<p>It is desired to solve the coupled system of differential equations</p>
+<p><span class="mjpage"><math alttext="\dot x = x + 2y - 50" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>x</mi>
+<mo>˙<!-- ˙ --></mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>y</mi>
+<mo>−<!-- − --></mo>
+<mn>50</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\dot y = 2x + y - 40" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>y</mi>
+<mo>˙<!-- ˙ --></mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mi>y</mi>
+<mo>−<!-- − --></mo>
+<mn>40</mn>
+</math></span></p>
+<p>where <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> and <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> represent the population of two types of symbiotic coral and <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+</math></span> is time measured in decades.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the equilibrium point for this system.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>If initially <span class="mjpage"><math alttext="x = 100" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>100</mn>
+</math></span> and <span class="mjpage"><math alttext="y = 50" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mn>50</mn>
+</math></span> use Euler’s method with an time increment of 0.1 to find an approximation for the values of <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> and <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> when <span class="mjpage"><math alttext="t = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Extend this method to conjecture the limit of the ratio <span class="mjpage"><math alttext="\frac{y}{x}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mi>y</mi>
+<mi>x</mi>
+</mfrac>
+</math></span> as <span class="mjpage"><math alttext="t \to \infty " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo stretchy="false">→</mo>
+<mi mathvariant="normal">∞</mi>
+</math></span>.</p>
+<p> </p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show how using the substitution <span class="mjpage"><math alttext="X = x - 10{\text{,}}\,\,Y = y - 20" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>X</mi>
+<mo>=</mo>
+<mi>x</mi>
+<mo>−</mo>
+<mn>10</mn>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>Y</mi>
+<mo>=</mo>
+<mi>y</mi>
+<mo>−</mo>
+<mn>20</mn>
+</math></span> transforms the system of differential equations into <span class="mjpage"><math alttext="\begin{array}{*{20}{c}}  {\dot X = X + 2Y} \\   {\dot Y = 2X + Y}  \end{array}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mover>
+<mi>X</mi>
+<mo>˙</mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mi>X</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>Y</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mover>
+<mi>Y</mi>
+<mo>˙</mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mn>2</mn>
+<mi>X</mi>
+<mo>+</mo>
+<mi>Y</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Solve this system of equations by the eigenvalue method and hence find the general solution for <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> of the original system.</p>
+<div class="marks">[8]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the particular solution to the original system, given the initial conditions of part (b).</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence find the exact values of <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> and <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> when <span class="mjpage"><math alttext="t = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>, giving the answers to 4 significant figures.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use part (f) to find limit of the ratio <span class="mjpage"><math alttext="\frac{y}{x}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mi>y</mi>
+<mi>x</mi>
+</mfrac>
+</math></span> as <span class="mjpage"><math alttext="t \to \infty " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo stretchy="false">→</mo>
+<mi mathvariant="normal">∞</mi>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">h.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>With the initial conditions as given in part (b) state if the equilibrium point is stable or unstable.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>If instead the initial conditions were given as <span class="mjpage"><math alttext="x = 20" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>20</mn>
+</math></span> and <span class="mjpage"><math alttext="y = 10" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mn>10</mn>
+</math></span>, find the particular solution for <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> of the original system, in this case.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">j.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>With the initial conditions as given in part (j), determine if the equilibrium point is stable or unstable.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">k.</div>
+</div></div><details class="solution"><summary>Markscheme / solution</summary><div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\begin{array}{*{20}{c}}  {\dot x = 0 \Rightarrow x + 2y - 50 = 0} \\   {\dot y = 0 \Rightarrow 2x + y - 40 = 0}  \end{array}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mover>
+<mi>x</mi>
+<mo>˙</mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+<mo stretchy="false">⇒</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>y</mi>
+<mo>−</mo>
+<mn>50</mn>
+<mo>=</mo>
+<mn>0</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mover>
+<mi>y</mi>
+<mo>˙</mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+<mo stretchy="false">⇒</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mi>y</mi>
+<mo>−</mo>
+<mn>40</mn>
+<mo>=</mo>
+<mn>0</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</math></span>     <span class="mjpage"><math alttext=" \Rightarrow x = 10{\text{,}}\,\,y = 20" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mi>x</mi>
+<mo>=</mo>
+<mn>10</mn>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+<mo>=</mo>
+<mn>20</mn>
+</math></span>  <em><strong>    M1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Using <span class="mjpage"><math alttext="\begin{array}{*{20}{c}}  {{x_{n + 1}} = {x_n} + 0.1\left( {{x_n} + 2{y_n} - 50} \right)} \\   {{y_{n + 1}} = {y_n} + 0.1\left( {2{x_n} + {y_n} - 40} \right)} \\   {{t_{n + 1}} = {t_n} + 0.1}  \end{array}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<msub>
+<mi>x</mi>
+<mrow>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msub>
+<mi>x</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>+</mo>
+<mn>0.1</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow>
+<msub>
+<mi>x</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>+</mo>
+<mn>2</mn>
+<mrow>
+<msub>
+<mi>y</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>−</mo>
+<mn>50</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<msub>
+<mi>y</mi>
+<mrow>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msub>
+<mi>y</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>+</mo>
+<mn>0.1</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>2</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msub>
+<mi>y</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>−</mo>
+<mn>40</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<msub>
+<mi>t</mi>
+<mrow>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msub>
+<mi>t</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>+</mo>
+<mn>0.1</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</math></span></p>
+<p>Gives <span class="mjpage"><math alttext="x\left( 1 \right) \simeq 848{\text{,}}\,\,y\left( 1 \right) \simeq 837\,\left( {3sf} \right)\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mrow>
+<mo>(</mo>
+<mn>1</mn>
+<mo>)</mo>
+</mrow>
+<mo>≃</mo>
+<mn>848</mn>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+<mrow>
+<mo>(</mo>
+<mn>1</mn>
+<mo>)</mo>
+</mrow>
+<mo>≃</mo>
+<mn>837</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>3</mn>
+<mi>s</mi>
+<mi>f</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</math></span>  <em><strong>    M1A1A1</strong></em></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>By extending the table, conjecture that <span class="mjpage"><math alttext="\mathop {{\text{lim}}}\limits_{t \to \infty } \frac{y}{x} = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>t</mi>
+<mo stretchy="false">→</mo>
+<mi mathvariant="normal">∞</mi>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mfrac>
+<mi>y</mi>
+<mi>x</mi>
+</mfrac>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>  <em><strong>    M1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="X = x - 10{\text{,}}\,\,Y = y - 20 \Rightarrow \dot X = \dot x{\text{,}}\,\,\dot Y = \dot y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>X</mi>
+<mo>=</mo>
+<mi>x</mi>
+<mo>−</mo>
+<mn>10</mn>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>Y</mi>
+<mo>=</mo>
+<mi>y</mi>
+<mo>−</mo>
+<mn>20</mn>
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mover>
+<mi>X</mi>
+<mo>˙</mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mover>
+<mi>x</mi>
+<mo>˙</mo>
+</mover>
+</mrow>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mover>
+<mi>Y</mi>
+<mo>˙</mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mover>
+<mi>y</mi>
+<mo>˙</mo>
+</mover>
+</mrow>
+</math></span>      <em><strong>R1</strong></em></p>
+<p><span class="mjpage"><math alttext="\begin{array}{*{20}{c}}  {\dot X = \left( {X + 10} \right) + 2\left( {Y + 20} \right) - 50 = X + 2Y} \\   {\dot Y = 2\left( {X + 10} \right) + \left( {Y + 20} \right) - 40 = 2X + Y}  \end{array}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mover>
+<mi>X</mi>
+<mo>˙</mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>X</mi>
+<mo>+</mo>
+<mn>10</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mn>2</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>Y</mi>
+<mo>+</mo>
+<mn>20</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mn>50</mn>
+<mo>=</mo>
+<mi>X</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>Y</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mover>
+<mi>Y</mi>
+<mo>˙</mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mn>2</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>X</mi>
+<mo>+</mo>
+<mn>10</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>Y</mi>
+<mo>+</mo>
+<mn>20</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mn>40</mn>
+<mo>=</mo>
+<mn>2</mn>
+<mi>X</mi>
+<mo>+</mo>
+<mi>Y</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</math></span> <em><strong>    M1A1AG</strong></em></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\left| {\begin{array}{*{20}{c}}  {1 - \lambda }&amp;2 \\   2&amp;{1 - \lambda }  \end{array}} \right| = 0 \Rightarrow {\left( {1 - \lambda } \right)^2} - 4 = 0 \Rightarrow \lambda = - 1\,{\text{or}}\,3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+</mtd>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+<mo stretchy="false">⇒</mo>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>4</mn>
+<mo>=</mo>
+<mn>0</mn>
+<mo stretchy="false">⇒</mo>
+<mi>λ</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>1</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>or</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+</math></span> <em><strong>    M1A1A1</strong></em></p>
+<p><span class="mjpage"><math alttext="\lambda  =  - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>1</mn>
+</math></span>      <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  2&amp;2 \\   2&amp;2  \end{array}} \right)\left( {\begin{array}{*{20}{c}}  p \\   q  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  0 \\   0  \end{array}} \right) \Rightarrow q = - p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>p</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>q</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mi>q</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mi>p</mi>
+</math></span>   an eigenvector is <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  1 \\   { - 1}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\lambda = 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+<mo>=</mo>
+<mn>3</mn>
+</math></span>        <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  { - 2}&amp;2 \\   2&amp;{ - 2}  \end{array}} \right)\left( {\begin{array}{*{20}{c}}  p \\   q  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  0 \\   0  \end{array}} \right) \Rightarrow q = p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>p</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>q</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mi>q</mi>
+<mo>=</mo>
+<mi>p</mi>
+</math></span>   an eigenvector is <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}} 1 \\  {1}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> <em><strong>    M1A1A1</strong></em></p>
+<p><span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  X \\   Y  \end{array}} \right) = A{e^{ - t}}\left( {\begin{array}{*{20}{c}}  1 \\   { - 1}  \end{array}} \right) + B{e^{3t}}\left( {\begin{array}{*{20}{c}}  1 \\   1  \end{array}} \right) \Rightarrow \left( {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right) = A{e^{ - t}}\left( {\begin{array}{*{20}{c}}  1 \\   { - 1}  \end{array}} \right) + B{e^{3t}}\left( {\begin{array}{*{20}{c}}  1 \\   1  \end{array}} \right) + \left( {\begin{array}{*{20}{c}}  {10} \\   {20}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>X</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>Y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mi>A</mi>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>−</mo>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mi>B</mi>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mn>3</mn>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mi>A</mi>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>−</mo>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mi>B</mi>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mn>3</mn>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>10</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>20</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>A1A1</strong></em></p>
+<p> </p>
+<p><em><strong>[8 marks]</strong></em></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\begin{array}{*{20}{c}}  {100 = A + B + 10} \\   {50 = - A + B + 20}  \end{array} \Rightarrow A = 30{\text{,}}\,\,B = 60" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>100</mn>
+<mo>=</mo>
+<mi>A</mi>
+<mo>+</mo>
+<mi>B</mi>
+<mo>+</mo>
+<mn>10</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>50</mn>
+<mo>=</mo>
+<mo>−</mo>
+<mi>A</mi>
+<mo>+</mo>
+<mi>B</mi>
+<mo>+</mo>
+<mn>20</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+<mo stretchy="false">⇒</mo>
+<mi>A</mi>
+<mo>=</mo>
+<mn>30</mn>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>B</mi>
+<mo>=</mo>
+<mn>60</mn>
+</math></span> <em><strong>    M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right) = 30{e^{ - t}}\left( {\begin{array}{*{20}{c}}  1 \\   { - 1}  \end{array}} \right) + 60{e^{3t}}\left( {\begin{array}{*{20}{c}}  1 \\   1  \end{array}} \right) + \left( {\begin{array}{*{20}{c}}  {10} \\   {20}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>30</mn>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>−</mo>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mn>60</mn>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mn>3</mn>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>10</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>20</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="x\left( 1 \right) = 1226{\text{,}}\,\,y\left( 1 \right) = 1214\,\,\left( {4sf} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mrow>
+<mo>(</mo>
+<mn>1</mn>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>1226</mn>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+<mrow>
+<mo>(</mo>
+<mn>1</mn>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>1214</mn>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>4</mn>
+<mi>s</mi>
+<mi>f</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <em><strong>A1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Dominant term is <span class="mjpage"><math alttext="60{e^{3t}}\left( {\begin{array}{*{20}{c}}  1 \\   1  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>60</mn>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mn>3</mn>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> so <span class="mjpage"><math alttext="\mathop {{\text{lim}}}\limits_{t \to \infty } \frac{y}{x} = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>t</mi>
+<mo stretchy="false">→</mo>
+<mi mathvariant="normal">∞</mi>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mfrac>
+<mi>y</mi>
+<mi>x</mi>
+</mfrac>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>    <em><strong>M1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">h.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>The equilibrium point is unstable.               <em><strong>R1</strong></em></p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\begin{array}{*{20}{c}}  {20 = A + B + 10} \\   {10 = - A + B + 20}  \end{array} \Rightarrow A = 10{\text{,}}\,\,B = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>20</mn>
+<mo>=</mo>
+<mi>A</mi>
+<mo>+</mo>
+<mi>B</mi>
+<mo>+</mo>
+<mn>10</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>10</mn>
+<mo>=</mo>
+<mo>−</mo>
+<mi>A</mi>
+<mo>+</mo>
+<mi>B</mi>
+<mo>+</mo>
+<mn>20</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+<mo stretchy="false">⇒</mo>
+<mi>A</mi>
+<mo>=</mo>
+<mn>10</mn>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>B</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>            <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right) = 10{e^{ - t}}\left( {\begin{array}{*{20}{c}}  1 \\   { - 1}  \end{array}} \right) + \left( {\begin{array}{*{20}{c}}  {10} \\   {20}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>10</mn>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>−</mo>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>10</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>20</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>             <em><strong>A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">j.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>As <span class="mjpage"><math alttext="{e^{ - t}} \to 0\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>−</mo>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</math></span> as <span class="mjpage"><math alttext="t \to \infty " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo stretchy="false">→</mo>
+<mi mathvariant="normal">∞</mi>
+</math></span> the equilibrium point is stable.           <em><strong>R1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">k.</div>
+</div></div></details><details class="solution"><summary>Examiners’ report</summary><div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">h.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">j.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">k.</div>
+</div></div></details></article></main><footer><p>Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available.</p></footer><script>(self.__next_s=self.__next_s||[]).push([0,{"children":"\n        window.MathJax = {\n          tex: { inlineMath: [['$', '$'], ['\\\\(', '\\\\)']] },\n          options: { renderActions: { addMenu: [] } },\n        };\n      ","id":"mathjax-config"}])</script><script src="/ib-maths-bank/_next/static/chunks/webpack-60f9d28c2ad49c05.js" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,"1:HL[\"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css\",\"style\"]\n"])</script><script>self.__next_f.push([1,"2:I[7540,[],\"\"]\n5:I[9431,[],\"\"]\n7:I[3721,[],\"\"]\n8:I[1234,[\"234\",\"static/chunks/234-d218828f1f4aa80d.js\",\"878\",\"static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js\"],\"\"]\n9:I[9896,[\"234\",\"static/chunks/234-d218828f1f4aa80d.js\",\"185\",\"static/chunks/app/layout-de62fc915ba2f962.js\"],\"MathJax\"]\nb:I[2521,[],\"\"]\n6:[\"id\",\"885\",\"d\"]\nc:[]\n"])</script><script>self.__next_f.push([1,"0:[\"$\",\"$L2\",null,{\"buildId\":\"RzKK9m21d0OrV9Pb3yC8x\",\"assetPrefix\":\"/ib-maths-bank\",\"urlParts\":[\"\",\"q\",\"885\",\"\"],\"initialTree\":[\"\",{\"children\":[\"q\",{\"children\":[[\"id\",\"885\",\"d\"],{\"children\":[\"__PAGE__?{\\\"id\\\":\\\"885\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],\"initialSeedData\":[\"\",{\"children\":[\"q\",{\"children\":[[\"id\",\"885\",\"d\"],{\"children\":[\"__PAGE__\",{},[[\"$L3\",\"$L4\",null],null],null]},[null,[\"$\",\"$L5\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"q\",\"children\",\"$6\",\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L7\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\"}]],null]},[null,[\"$\",\"$L5\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"q\",\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L7\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\"}]],null]},[[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]],[\"$\",\"html\",null,{\"lang\":\"en\",\"children\":[\"$\",\"body\",null,{\"children\":[[\"$\",\"header\",null,{\"className\":\"topbar\",\"children\":[[\"$\",\"$L8\",null,{\"href\":\"/\",\"className\":\"brand\",\"children\":\"IB Maths Bank\"}],[\"$\",\"nav\",null,{\"children\":[[\"$\",\"$L8\",null,{\"href\":\"/\",\"children\":\"Topics\"}],[\"$\",\"$L8\",null,{\"href\":\"/about\",\"children\":\"About\"}]]}]]}],[\"$\",\"main\",null,{\"children\":[\"$\",\"$L5\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L7\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"title\",null,{\"children\":\"404: This page could not be found.\"}],[\"$\",\"div\",null,{\"style\":{\"fontFamily\":\"system-ui,\\\"Segoe UI\\\",Roboto,Helvetica,Arial,sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\"\",\"height\":\"100vh\",\"textAlign\":\"center\",\"display\":\"flex\",\"flexDirection\":\"column\",\"alignItems\":\"center\",\"justifyContent\":\"center\"},\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\"}}],[\"$\",\"h1\",null,{\"className\":\"next-error-h1\",\"style\":{\"display\":\"inline-block\",\"margin\":\"0 20px 0 0\",\"padding\":\"0 23px 0 0\",\"fontSize\":24,\"fontWeight\":500,\"verticalAlign\":\"top\",\"lineHeight\":\"49px\"},\"children\":\"404\"}],[\"$\",\"div\",null,{\"style\":{\"display\":\"inline-block\"},\"children\":[\"$\",\"h2\",null,{\"style\":{\"fontSize\":14,\"fontWeight\":400,\"lineHeight\":\"49px\",\"margin\":0},\"children\":\"This page could not be found.\"}]}]]}]}]],\"notFoundStyles\":[]}]}],[\"$\",\"footer\",null,{\"children\":[\"$\",\"p\",null,{\"children\":\"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available.\"}]}],[\"$\",\"$L9\",null,{}]]}]}]],null],null],\"couldBeIntercepted\":false,\"initialHead\":[null,\"$La\"],\"globalErrorComponent\":\"$b\",\"missingSlots\":\"$Wc\"}]\n"])</script><script>self.__next_f.push([1,"a:[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"2\",{\"children\":\"IB Maths Bank\"}],[\"$\",\"meta\",\"3\",{\"name\":\"description\",\"content\":\"Curated, merged question bank for IB Mathematics (AA \u0026 AI, HL \u0026 SL), grouped by syllabus topic.\"}]]\n3:null\nd:T1d5c,"])</script><script>self.__next_f.push([1,"\u003cdiv class=\"specification\"\u003e\n\u003cp\u003eThis question will investigate the solution to a coupled system of differential equations and how to transform it to a system that can be solved by the eigenvector method.\u003c/p\u003e\n\u003cp\u003eIt is desired to solve the coupled system of differential equations\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\dot x = x + 2y - 50\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmover\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmo\u003e˙\u003c!-- ˙ --\u003e\u003c/mo\u003e\n\u003c/mover\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmo\u003e−\u003c!-- − --\u003e\u003c/mo\u003e\n\u003cmn\u003e50\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\dot y = 2x + y - 40\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmover\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmo\u003e˙\u003c!-- ˙ --\u003e\u003c/mo\u003e\n\u003c/mover\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmo\u003e−\u003c!-- − --\u003e\u003c/mo\u003e\n\u003cmn\u003e40\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003ewhere \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"x\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003c/math\u003e\u003c/span\u003e and \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"y\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003c/math\u003e\u003c/span\u003e represent the population of two types of symbiotic coral and \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"t\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003c/math\u003e\u003c/span\u003e is time measured in decades.\u003c/p\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\"\u003e\n\u003cp\u003eFind the equilibrium point for this system.\u003c/p\u003e\n\u003cdiv class=\"marks\"\u003e[2]\u003c/div\u003e\n\u003cdiv class=\"question_part_label\"\u003ea.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\"\u003e\n\u003cp\u003eIf initially \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"x = 100\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e100\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e and \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"y = 50\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e50\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e use Euler’s method with an time increment of 0.1 to find an approximation for the values of \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"x\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003c/math\u003e\u003c/span\u003e and \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"y\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003c/math\u003e\u003c/span\u003e when \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"t = 1\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e.\u003c/p\u003e\n\u003cdiv class=\"marks\"\u003e[3]\u003c/div\u003e\n\u003cdiv class=\"question_part_label\"\u003eb.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\"\u003e\n\u003cp\u003eExtend this method to conjecture the limit of the ratio \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\frac{y}{x}\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmfrac\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003c/mfrac\u003e\n\u003c/math\u003e\u003c/span\u003e as \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"t \\to \\infty \" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003cmo stretchy=\"false\"\u003e→\u003c/mo\u003e\n\u003cmi mathvariant=\"normal\"\u003e∞\u003c/mi\u003e\n\u003c/math\u003e\u003c/span\u003e.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cdiv class=\"marks\"\u003e[2]\u003c/div\u003e\n\u003cdiv class=\"question_part_label\"\u003ec.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\"\u003e\n\u003cp\u003eShow how using the substitution \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"X = x - 10{\\text{,}}\\,\\,Y = y - 20\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003eX\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmtext\u003e,\u003c/mtext\u003e\n\u003c/mrow\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmi\u003eY\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e20\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e transforms the system of differential equations into \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\begin{array}{*{20}{c}}  {\\dot X = X + 2Y} \\\\   {\\dot Y = 2X + Y}  \\end{array}\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmrow\u003e\n\u003cmover\u003e\n\u003cmi\u003eX\u003c/mi\u003e\n\u003cmo\u003e˙\u003c/mo\u003e\n\u003c/mover\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmi\u003eX\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003cmi\u003eY\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmrow\u003e\n\u003cmover\u003e\n\u003cmi\u003eY\u003c/mi\u003e\n\u003cmo\u003e˙\u003c/mo\u003e\n\u003c/mover\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003cmi\u003eX\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmi\u003eY\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/math\u003e\u003c/span\u003e.\u003c/p\u003e\n\u003cdiv class=\"marks\"\u003e[3]\u003c/div\u003e\n\u003cdiv class=\"question_part_label\"\u003ed.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\"\u003e\n\u003cp\u003eSolve this system of equations by the eigenvalue method and hence find the general solution for \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\left( {\\begin{array}{*{20}{c}}  x \\\\   y  \\end{array}} \\right)\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003c/math\u003e\u003c/span\u003e of the original system.\u003c/p\u003e\n\u003cdiv class=\"marks\"\u003e[8]\u003c/div\u003e\n\u003cdiv class=\"question_part_label\"\u003ee.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\"\u003e\n\u003cp\u003eFind the particular solution to the original system, given the initial conditions of part (b).\u003c/p\u003e\n\u003cdiv class=\"marks\"\u003e[2]\u003c/div\u003e\n\u003cdiv class=\"question_part_label\"\u003ef.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\"\u003e\n\u003cp\u003eHence find the exact values of \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"x\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003c/math\u003e\u003c/span\u003e and \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"y\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003c/math\u003e\u003c/span\u003e when \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"t = 1\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e, giving the answers to 4 significant figures.\u003c/p\u003e\n\u003cdiv class=\"marks\"\u003e[2]\u003c/div\u003e\n\u003cdiv class=\"question_part_label\"\u003eg.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\"\u003e\n\u003cp\u003eUse part (f) to find limit of the ratio \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\frac{y}{x}\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmfrac\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003c/mfrac\u003e\n\u003c/math\u003e\u003c/span\u003e as \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"t \\to \\infty \" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003cmo stretchy=\"false\"\u003e→\u003c/mo\u003e\n\u003cmi mathvariant=\"normal\"\u003e∞\u003c/mi\u003e\n\u003c/math\u003e\u003c/span\u003e.\u003c/p\u003e\n\u003cdiv class=\"marks\"\u003e[2]\u003c/div\u003e\n\u003cdiv class=\"question_part_label\"\u003eh.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\"\u003e\n\u003cp\u003eWith the initial conditions as given in part (b) state if the equilibrium point is stable or unstable.\u003c/p\u003e\n\u003cdiv class=\"marks\"\u003e[1]\u003c/div\u003e\n\u003cdiv class=\"question_part_label\"\u003ei.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\"\u003e\n\u003cp\u003eIf instead the initial conditions were given as \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"x = 20\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e20\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e and \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"y = 10\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e, find the particular solution for \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\left( {\\begin{array}{*{20}{c}}  x \\\\   y  \\end{array}} \\right)\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003c/math\u003e\u003c/span\u003e of the original system, in this case.\u003c/p\u003e\n\u003cdiv class=\"marks\"\u003e[2]\u003c/div\u003e\n\u003cdiv class=\"question_part_label\"\u003ej.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\"\u003e\n\u003cp\u003eWith the initial conditions as given in part (j), determine if the equilibrium point is stable or unstable.\u003c/p\u003e\n\u003cdiv class=\"marks\"\u003e[2]\u003c/div\u003e\n\u003cdiv class=\"question_part_label\"\u003ek.\u003c/div\u003e\n\u003c/div\u003e"])</script><script>self.__next_f.push([1,"e:T4fc1,"])</script><script>self.__next_f.push([1,"\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\begin{array}{*{20}{c}}  {\\dot x = 0 \\Rightarrow x + 2y - 50 = 0} \\\\   {\\dot y = 0 \\Rightarrow 2x + y - 40 = 0}  \\end{array}\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmrow\u003e\n\u003cmover\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmo\u003e˙\u003c/mo\u003e\n\u003c/mover\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e0\u003c/mn\u003e\n\u003cmo stretchy=\"false\"\u003e⇒\u003c/mo\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e50\u003c/mn\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e0\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmrow\u003e\n\u003cmover\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmo\u003e˙\u003c/mo\u003e\n\u003c/mover\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e0\u003c/mn\u003e\n\u003cmo stretchy=\"false\"\u003e⇒\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e40\u003c/mn\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e0\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/math\u003e\u003c/span\u003e     \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\" \\Rightarrow x = 10{\\text{,}}\\,\\,y = 20\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmo stretchy=\"false\"\u003e⇒\u003c/mo\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmtext\u003e,\u003c/mtext\u003e\n\u003c/mrow\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e20\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e  \u003cem\u003e\u003cstrong\u003e    M1A1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003e[2 marks]\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"question_part_label\"\u003ea.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n\u003cp\u003eUsing \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\begin{array}{*{20}{c}}  {{x_{n + 1}} = {x_n} + 0.1\\left( {{x_n} + 2{y_n} - 50} \\right)} \\\\   {{y_{n + 1}} = {y_n} + 0.1\\left( {2{x_n} + {y_n} - 40} \\right)} \\\\   {{t_{n + 1}} = {t_n} + 0.1}  \\end{array}\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmrow\u003e\n\u003cmsub\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmi\u003en\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/msub\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmsub\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmi\u003en\u003c/mi\u003e\n\u003c/msub\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e0.1\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmrow\u003e\n\u003cmsub\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmi\u003en\u003c/mi\u003e\n\u003c/msub\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmsub\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmi\u003en\u003c/mi\u003e\n\u003c/msub\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e50\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmrow\u003e\n\u003cmsub\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmi\u003en\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/msub\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmsub\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmi\u003en\u003c/mi\u003e\n\u003c/msub\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e0.1\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmsub\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmi\u003en\u003c/mi\u003e\n\u003c/msub\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmsub\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmi\u003en\u003c/mi\u003e\n\u003c/msub\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e40\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmrow\u003e\n\u003cmsub\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmi\u003en\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/msub\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmsub\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003cmi\u003en\u003c/mi\u003e\n\u003c/msub\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e0.1\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/math\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eGives \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"x\\left( 1 \\right) \\simeq 848{\\text{,}}\\,\\,y\\left( 1 \\right) \\simeq 837\\,\\left( {3sf} \\right)\\,\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e≃\u003c/mo\u003e\n\u003cmn\u003e848\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmtext\u003e,\u003c/mtext\u003e\n\u003c/mrow\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e≃\u003c/mo\u003e\n\u003cmn\u003e837\u003c/mn\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmn\u003e3\u003c/mn\u003e\n\u003cmi\u003es\u003c/mi\u003e\n\u003cmi\u003ef\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003c/math\u003e\u003c/span\u003e  \u003cem\u003e\u003cstrong\u003e    M1A1A1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003e[3 marks]\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"question_part_label\"\u003eb.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n\u003cp\u003eBy extending the table, conjecture that \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\mathop {{\\text{lim}}}\\limits_{t \\to \\infty } \\frac{y}{x} = 1\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmunder\u003e\n\u003cmrow\u003e\n\u003cmrow\u003e\n\u003cmtext\u003elim\u003c/mtext\u003e\n\u003c/mrow\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003cmo stretchy=\"false\"\u003e→\u003c/mo\u003e\n\u003cmi mathvariant=\"normal\"\u003e∞\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/munder\u003e\n\u003cmo\u003e⁡\u003c/mo\u003e\n\u003cmfrac\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003c/mfrac\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e  \u003cem\u003e\u003cstrong\u003e    M1A1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003e[2 marks]\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"question_part_label\"\u003ec.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"X = x - 10{\\text{,}}\\,\\,Y = y - 20 \\Rightarrow \\dot X = \\dot x{\\text{,}}\\,\\,\\dot Y = \\dot y\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003eX\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmtext\u003e,\u003c/mtext\u003e\n\u003c/mrow\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmi\u003eY\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e20\u003c/mn\u003e\n\u003cmo stretchy=\"false\"\u003e⇒\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmover\u003e\n\u003cmi\u003eX\u003c/mi\u003e\n\u003cmo\u003e˙\u003c/mo\u003e\n\u003c/mover\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmover\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmo\u003e˙\u003c/mo\u003e\n\u003c/mover\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmtext\u003e,\u003c/mtext\u003e\n\u003c/mrow\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmrow\u003e\n\u003cmover\u003e\n\u003cmi\u003eY\u003c/mi\u003e\n\u003cmo\u003e˙\u003c/mo\u003e\n\u003c/mover\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmover\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmo\u003e˙\u003c/mo\u003e\n\u003c/mover\u003e\n\u003c/mrow\u003e\n\u003c/math\u003e\u003c/span\u003e      \u003cem\u003e\u003cstrong\u003eR1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\begin{array}{*{20}{c}}  {\\dot X = \\left( {X + 10} \\right) + 2\\left( {Y + 20} \\right) - 50 = X + 2Y} \\\\   {\\dot Y = 2\\left( {X + 10} \\right) + \\left( {Y + 20} \\right) - 40 = 2X + Y}  \\end{array}\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmrow\u003e\n\u003cmover\u003e\n\u003cmi\u003eX\u003c/mi\u003e\n\u003cmo\u003e˙\u003c/mo\u003e\n\u003c/mover\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmi\u003eX\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmi\u003eY\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e20\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e50\u003c/mn\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmi\u003eX\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003cmi\u003eY\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmrow\u003e\n\u003cmover\u003e\n\u003cmi\u003eY\u003c/mi\u003e\n\u003cmo\u003e˙\u003c/mo\u003e\n\u003c/mover\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmi\u003eX\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmi\u003eY\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e20\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e40\u003c/mn\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003cmi\u003eX\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmi\u003eY\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/math\u003e\u003c/span\u003e \u003cem\u003e\u003cstrong\u003e    M1A1AG\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003e[3 marks]\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"question_part_label\"\u003ed.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\left| {\\begin{array}{*{20}{c}}  {1 - \\lambda }\u0026amp;2 \\\\   2\u0026amp;{1 - \\lambda }  \\end{array}} \\right| = 0 \\Rightarrow {\\left( {1 - \\lambda } \\right)^2} - 4 = 0 \\Rightarrow \\lambda = - 1\\,{\\text{or}}\\,3\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmo\u003e|\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmi\u003eλ\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003cmtd\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmi\u003eλ\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e|\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e0\u003c/mn\u003e\n\u003cmo stretchy=\"false\"\u003e⇒\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmsup\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmi\u003eλ\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003c/msup\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e4\u003c/mn\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e0\u003c/mn\u003e\n\u003cmo stretchy=\"false\"\u003e⇒\u003c/mo\u003e\n\u003cmi\u003eλ\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmrow\u003e\n\u003cmtext\u003eor\u003c/mtext\u003e\n\u003c/mrow\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmn\u003e3\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e \u003cem\u003e\u003cstrong\u003e    M1A1A1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\lambda  =  - 1\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003eλ\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e      \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\left( {\\begin{array}{*{20}{c}}  2\u0026amp;2 \\\\   2\u0026amp;2  \\end{array}} \\right)\\left( {\\begin{array}{*{20}{c}}  p \\\\   q  \\end{array}} \\right) = \\left( {\\begin{array}{*{20}{c}}  0 \\\\   0  \\end{array}} \\right) \\Rightarrow q = - p\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003cmtd\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003cmtd\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003ep\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003eq\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e0\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e0\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo stretchy=\"false\"\u003e⇒\u003c/mo\u003e\n\u003cmi\u003eq\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmi\u003ep\u003c/mi\u003e\n\u003c/math\u003e\u003c/span\u003e   an eigenvector is \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\left( {\\begin{array}{*{20}{c}}  1 \\\\   { - 1}  \\end{array}} \\right)\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003c/math\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\lambda = 3\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003eλ\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e3\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e        \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\left( {\\begin{array}{*{20}{c}}  { - 2}\u0026amp;2 \\\\   2\u0026amp;{ - 2}  \\end{array}} \\right)\\left( {\\begin{array}{*{20}{c}}  p \\\\   q  \\end{array}} \\right) = \\left( {\\begin{array}{*{20}{c}}  0 \\\\   0  \\end{array}} \\right) \\Rightarrow q = p\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003cmtd\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e2\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003ep\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003eq\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e0\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e0\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo stretchy=\"false\"\u003e⇒\u003c/mo\u003e\n\u003cmi\u003eq\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmi\u003ep\u003c/mi\u003e\n\u003c/math\u003e\u003c/span\u003e   an eigenvector is \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\left( {\\begin{array}{*{20}{c}} 1 \\\\  {1}  \\end{array}} \\right)\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003c/math\u003e\u003c/span\u003e \u003cem\u003e\u003cstrong\u003e    M1A1A1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\left( {\\begin{array}{*{20}{c}}  X \\\\   Y  \\end{array}} \\right) = A{e^{ - t}}\\left( {\\begin{array}{*{20}{c}}  1 \\\\   { - 1}  \\end{array}} \\right) + B{e^{3t}}\\left( {\\begin{array}{*{20}{c}}  1 \\\\   1  \\end{array}} \\right) \\Rightarrow \\left( {\\begin{array}{*{20}{c}}  x \\\\   y  \\end{array}} \\right) = A{e^{ - t}}\\left( {\\begin{array}{*{20}{c}}  1 \\\\   { - 1}  \\end{array}} \\right) + B{e^{3t}}\\left( {\\begin{array}{*{20}{c}}  1 \\\\   1  \\end{array}} \\right) + \\left( {\\begin{array}{*{20}{c}}  {10} \\\\   {20}  \\end{array}} \\right)\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003eX\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003eY\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmi\u003eA\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmsup\u003e\n\u003cmi\u003ee\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/msup\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmi\u003eB\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmsup\u003e\n\u003cmi\u003ee\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmn\u003e3\u003c/mn\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/msup\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo stretchy=\"false\"\u003e⇒\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmi\u003eA\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmsup\u003e\n\u003cmi\u003ee\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/msup\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmi\u003eB\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmsup\u003e\n\u003cmi\u003ee\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmn\u003e3\u003c/mn\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/msup\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e20\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003c/math\u003e\u003c/span\u003e      \u003cem\u003e\u003cstrong\u003eA1A1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003e[8 marks]\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"question_part_label\"\u003ee.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\begin{array}{*{20}{c}}  {100 = A + B + 10} \\\\   {50 = - A + B + 20}  \\end{array} \\Rightarrow A = 30{\\text{,}}\\,\\,B = 60\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e100\u003c/mn\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmi\u003eA\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmi\u003eB\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e50\u003c/mn\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmi\u003eA\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmi\u003eB\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e20\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003cmo stretchy=\"false\"\u003e⇒\u003c/mo\u003e\n\u003cmi\u003eA\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e30\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmtext\u003e,\u003c/mtext\u003e\n\u003c/mrow\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmi\u003eB\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e60\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e \u003cem\u003e\u003cstrong\u003e    M1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\left( {\\begin{array}{*{20}{c}}  x \\\\   y  \\end{array}} \\right) = 30{e^{ - t}}\\left( {\\begin{array}{*{20}{c}}  1 \\\\   { - 1}  \\end{array}} \\right) + 60{e^{3t}}\\left( {\\begin{array}{*{20}{c}}  1 \\\\   1  \\end{array}} \\right) + \\left( {\\begin{array}{*{20}{c}}  {10} \\\\   {20}  \\end{array}} \\right)\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e30\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmsup\u003e\n\u003cmi\u003ee\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/msup\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e60\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmsup\u003e\n\u003cmi\u003ee\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmn\u003e3\u003c/mn\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/msup\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e20\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003c/math\u003e\u003c/span\u003e      \u003cem\u003e\u003cstrong\u003eA1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003e[2 marks]\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"question_part_label\"\u003ef.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"x\\left( 1 \\right) = 1226{\\text{,}}\\,\\,y\\left( 1 \\right) = 1214\\,\\,\\left( {4sf} \\right)\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e1226\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmtext\u003e,\u003c/mtext\u003e\n\u003c/mrow\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e1214\u003c/mn\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmn\u003e4\u003c/mn\u003e\n\u003cmi\u003es\u003c/mi\u003e\n\u003cmi\u003ef\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003c/math\u003e\u003c/span\u003e     \u003cem\u003e\u003cstrong\u003eA1A1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003e[2 marks]\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"question_part_label\"\u003eg.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n\u003cp\u003eDominant term is \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"60{e^{3t}}\\left( {\\begin{array}{*{20}{c}}  1 \\\\   1  \\end{array}} \\right)\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmn\u003e60\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmsup\u003e\n\u003cmi\u003ee\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmn\u003e3\u003c/mn\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/msup\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003c/math\u003e\u003c/span\u003e so \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\mathop {{\\text{lim}}}\\limits_{t \\to \\infty } \\frac{y}{x} = 1\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmunder\u003e\n\u003cmrow\u003e\n\u003cmrow\u003e\n\u003cmtext\u003elim\u003c/mtext\u003e\n\u003c/mrow\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003cmo stretchy=\"false\"\u003e→\u003c/mo\u003e\n\u003cmi mathvariant=\"normal\"\u003e∞\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/munder\u003e\n\u003cmo\u003e⁡\u003c/mo\u003e\n\u003cmfrac\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003c/mfrac\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e    \u003cem\u003e\u003cstrong\u003eM1A1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003e[2 marks]\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"question_part_label\"\u003eh.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n\u003cp\u003eThe equilibrium point is unstable.               \u003cem\u003e\u003cstrong\u003eR1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003e[1 mark]\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"question_part_label\"\u003ei.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\begin{array}{*{20}{c}}  {20 = A + B + 10} \\\\   {10 = - A + B + 20}  \\end{array} \\Rightarrow A = 10{\\text{,}}\\,\\,B = 0\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e20\u003c/mn\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmi\u003eA\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmi\u003eB\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmi\u003eA\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmi\u003eB\u003c/mi\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmn\u003e20\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003cmo stretchy=\"false\"\u003e⇒\u003c/mo\u003e\n\u003cmi\u003eA\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmtext\u003e,\u003c/mtext\u003e\n\u003c/mrow\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003cmi\u003eB\u003c/mi\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e0\u003c/mn\u003e\n\u003c/math\u003e\u003c/span\u003e            \u003cem\u003e\u003cstrong\u003eM1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"\\left( {\\begin{array}{*{20}{c}}  x \\\\   y  \\end{array}} \\right) = 10{e^{ - t}}\\left( {\\begin{array}{*{20}{c}}  1 \\\\   { - 1}  \\end{array}} \\right) + \\left( {\\begin{array}{*{20}{c}}  {10} \\\\   {20}  \\end{array}} \\right)\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003ex\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmi\u003ey\u003c/mi\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e=\u003c/mo\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003cmrow\u003e\n\u003cmsup\u003e\n\u003cmi\u003ee\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/msup\u003e\n\u003c/mrow\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmn\u003e1\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e+\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmo\u003e(\u003c/mo\u003e\n\u003cmrow\u003e\n\u003cmtable columnspacing=\"1em\" rowspacing=\"4pt\"\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e10\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003cmtr\u003e\n\u003cmtd\u003e\n\u003cmrow\u003e\n\u003cmn\u003e20\u003c/mn\u003e\n\u003c/mrow\u003e\n\u003c/mtd\u003e\n\u003c/mtr\u003e\n\u003c/mtable\u003e\n\u003c/mrow\u003e\n\u003cmo\u003e)\u003c/mo\u003e\n\u003c/mrow\u003e\n\u003c/math\u003e\u003c/span\u003e             \u003cem\u003e\u003cstrong\u003eA1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003e[2 marks]\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"question_part_label\"\u003ej.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n\u003cp\u003eAs \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"{e^{ - t}} \\to 0\\,\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmrow\u003e\n\u003cmsup\u003e\n\u003cmi\u003ee\u003c/mi\u003e\n\u003cmrow\u003e\n\u003cmo\u003e−\u003c/mo\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003c/mrow\u003e\n\u003c/msup\u003e\n\u003c/mrow\u003e\n\u003cmo stretchy=\"false\"\u003e→\u003c/mo\u003e\n\u003cmn\u003e0\u003c/mn\u003e\n\u003cmspace width=\"thinmathspace\"\u003e\u003c/mspace\u003e\n\u003c/math\u003e\u003c/span\u003e as \u003cspan class=\"mjpage\"\u003e\u003cmath alttext=\"t \\to \\infty \" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\n\u003cmi\u003et\u003c/mi\u003e\n\u003cmo stretchy=\"false\"\u003e→\u003c/mo\u003e\n\u003cmi mathvariant=\"normal\"\u003e∞\u003c/mi\u003e\n\u003c/math\u003e\u003c/span\u003e the equilibrium point is stable.           \u003cem\u003e\u003cstrong\u003eR1A1\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003e[2 marks]\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"question_part_label\"\u003ek.\u003c/div\u003e\n\u003c/div\u003e"])</script><script>self.__next_f.push([1,"f:T483,\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n[N/A]\n\u003cdiv class=\"question_part_label\"\u003ea.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n[N/A]\n\u003cdiv class=\"question_part_label\"\u003eb.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n[N/A]\n\u003cdiv class=\"question_part_label\"\u003ec.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n[N/A]\n\u003cdiv class=\"question_part_label\"\u003ed.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n[N/A]\n\u003cdiv class=\"question_part_label\"\u003ee.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n[N/A]\n\u003cdiv class=\"question_part_label\"\u003ef.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n[N/A]\n\u003cdiv class=\"question_part_label\"\u003eg.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n[N/A]\n\u003cdiv class=\"question_part_label\"\u003eh.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n[N/A]\n\u003cdiv class=\"question_part_label\"\u003ei.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n[N/A]\n\u003cdiv class=\"question_part_label\"\u003ej.\u003c/div\u003e\n\u003c/div\u003e\u003cdiv class=\"question\" style=\"padding-left: 20px;\"\u003e\n[N/A]\n\u003cdiv class=\"question_part_label\"\u003ek.\u003c/div\u003e\n\u003c/div\u003e4:[\"$\",\"article\",null,{\"className\":\"q-page\",\"children\":[[\"$\",\"p\",null,{\"style\":{\"margin\":0},\"children\":[\"$\",\"$L8\",null,{\"href\":\"/topic/5/\",\"children\":[\"← back to topic \",\"5\"]}]}],[\"$\",\"h1\",null,{\"children\":\"EXM.3.AHL.TZ0.3\"}],[\"$\",\"div\",null,{\"className\":\"q-meta\",\"children\":[[\"$\",\"span\",null,{\"className\":\"tag\",\"children\":\"pestle\"}],[\"$\",\"span\",null,{\"children\":\"AI\"}],[\"$\",\"span\",null,{\"children\":\"HL\"}],[\"$\",\"span\",null,{\"children\":[\"Paper \",\"3\"]}],[\"$\",\"span\",null,{\"children\":\"EXM\"}],[\"$\",\"span\",null,{\"children\":[\"· \",\"ahl-5-17-phase-portrait\"]}],[\"$\",\"a\",null,{\"href\":\"https://pestle.pages.dev/app/\",\"target\":\"_blank\",\"rel\":\"noopener\",\"children\":\"source ↗\"}]]}],[\"$\",\"div\",null,{\"className\":\"q-content\",\"dangerouslySetInnerHTML\":{\"__html\":\"$d\"}}],[\"$\",\"details\",null,{\"className\":\"solution\",\"children\":[[\"$\",\"summary\",null,{\"children\":\"Markscheme / solution\"}],[\"$\",\"div\",nu"])</script><script>self.__next_f.push([1,"ll,{\"dangerouslySetInnerHTML\":{\"__html\":\"$e\"}}]]}],[\"$\",\"details\",null,{\"className\":\"solution\",\"children\":[[\"$\",\"summary\",null,{\"children\":\"Examiners’ report\"}],[\"$\",\"div\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"$f\"}}]]}]]}]\n"])</script></body></html>

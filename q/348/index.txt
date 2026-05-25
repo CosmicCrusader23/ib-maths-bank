@@ -1,0 +1,330 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","348","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","348","d"],{"children":["__PAGE__?{\"id\":\"348\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","348","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tc49,<div class="specification">
+<p>Xavier, the parachutist, jumps out of a plane at a height of <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>h</mi>
+</math></span> metres above the ground. After free falling for 10 seconds his parachute opens. His velocity, <span class="mjpage"><math alttext="v\,{\text{m}}{{\text{s}}^{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>v</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>, <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+</math></span> seconds after jumping from the plane, can be modelled by the function</p>
+<p><span class="mjpage"><math alttext="v(t) = \left\{ {\begin{array}{*{20}{l}} {9.8t{\text{,}}}&amp;{0 \leqslant t \leqslant 10} \\ {\frac{{98}}{{\sqrt {1 + {{(t - 10)}^2}} }},}&amp;{t &gt; 10} \end{array}} \right." xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>v</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<mo>{</mo>
+<mrow>
+<mtable columnalign="left" columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>9.8</mn>
+<mi>t</mi>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>0</mn>
+<mo>⩽<!-- ⩽ --></mo>
+<mi>t</mi>
+<mo>⩽<!-- ⩽ --></mo>
+<mn>10</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mrow>
+<mn>98</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo>−<!-- − --></mo>
+<mn>10</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</mrow>
+</mfrac>
+<mo>,</mo>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mi>t</mi>
+<mo>&gt;</mo>
+<mn>10</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo fence="true" stretchy="true" symmetric="true"></mo>
+</mrow>
+</math></span></p>
+</div><div class="specification">
+<p>His velocity when he reaches the ground is <span class="mjpage"><math alttext="2.8{\text{ m}}{{\text{s}}^{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2.8</mn>
+<mrow>
+<mtext> m</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find his velocity when <span class="mjpage"><math alttext="t = 15" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mn>15</mn>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the vertical distance Xavier travelled in the first 10 seconds.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine the value of <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>h</mi>
+</math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">c.</div>
+</div>a:T100c,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="v(15) = \frac{{98}}{{\sqrt {1 + {{(15 - 10)}^2}} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>v</mi>
+<mo stretchy="false">(</mo>
+<mn>15</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>98</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>15</mn>
+<mo>−</mo>
+<mn>10</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="v(15) = 19.2{\text{ }}({\text{m}}{{\text{s}}^{ - 1}})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>v</mi>
+<mo stretchy="false">(</mo>
+<mn>15</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>19.2</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\int\limits_0^{10} {9.8t\,{\text{d}}t} " xmlns="http://www.w3.org/1998/Math/MathML">
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mn>10</mn>
+</mrow>
+</munderover>
+<mrow>
+<mn>9.8</mn>
+<mi>t</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</math></span>    <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" = 490{\text{ }}({\text{m}})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>490</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{98}}{{\sqrt {1 + {{(t - 10)}^2}} }} = 2.8" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>98</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo>−</mo>
+<mn>10</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>2.8</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="t = 44.985 \ldots {\text{ }}({\text{s}})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mn>44.985</mn>
+<mo>…</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="h = 490 + \int\limits_{10}^{44.9...} {\frac{{98}}{{\sqrt {1 + {{(t - 10)}^2}} }}{\text{d}}t} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>h</mi>
+<mo>=</mo>
+<mn>490</mn>
+<mo>+</mo>
+<munderover>
+<mo>∫</mo>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mn>44.9...</mn>
+</mrow>
+</munderover>
+<mrow>
+<mfrac>
+<mrow>
+<mn>98</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo>−</mo>
+<mn>10</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</mrow>
+</mfrac>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</math></span>    <strong><em>(M1)(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext="h = 906{\text{ (m}})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>h</mi>
+<mo>=</mo>
+<mn>906</mn>
+<mrow>
+<mtext> (m</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[5 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"17M.2.AHL.TZ1.H_11"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-5-9-kinematics-problems"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

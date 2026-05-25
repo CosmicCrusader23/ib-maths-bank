@@ -1,0 +1,104 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1683","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1683","d"],{"children":["__PAGE__?{\"id\":\"1683\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1683","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T1094,<div class="specification">
+<p>A particle moves such that its displacement, <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math> metres, from a point <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>O</mtext></math> at time <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi></math> seconds is given by the differential equation</p>
+<p style="text-align: center;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><msup><mo>d</mo><mn>2</mn></msup><mi>x</mi></mrow><mrow><mo>d</mo><msup><mi>t</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mn>5</mn><mfrac><mrow><mo>d</mo><mi>x</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>+</mo><mn>6</mn><mi>x</mi><mo>=</mo><mn>0</mn></math></p>
+</div><div class="specification">
+<p>The equation for the motion of the particle is amended to</p>
+<p style="text-align: center;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><msup><mo>d</mo><mn>2</mn></msup><mi>x</mi></mrow><mrow><mo>d</mo><msup><mi>t</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mn>5</mn><mfrac><mrow><mo>d</mo><mi>x</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>+</mo><mn>6</mn><mi>x</mi><mo>=</mo><mn>3</mn><mi>t</mi><mo>+</mo><mn>4</mn></math>.</p>
+</div><div class="specification">
+<p>When <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>0</mn></math> the particle is stationary at <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>O</mtext></math>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use the substitution <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mfrac><mrow><mo>d</mo><mi>x</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac></math> to show that this equation can be written as</p>
+<p style="text-align:center;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mtable><mtr><mtd><mfrac><mrow><mo>d</mo><mi>x</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac></mtd></mtr><mtr><mtd><mfrac><mrow><mo>d</mo><mi>y</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac></mtd></mtr></mtable></mfenced><mo>=</mo><mfenced><mtable><mtr><mtd><mn>0</mn><mo> </mo><mo> </mo></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>6</mn><mo> </mo><mo> </mo></mtd><mtd><mo>-</mo><mn>5</mn></mtd></mtr></mtable></mfenced><mfenced><mtable><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mi>y</mi></mtd></mtr></mtable></mfenced></math>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the eigenvalues for the matrix <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mtable><mtr><mtd><mn>0</mn><mo> </mo><mo> </mo></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>6</mn><mo> </mo><mo> </mo></mtd><mtd><mo>-</mo><mn>5</mn></mtd></mtr></mtable></mfenced></math>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence state the long-term velocity of the particle.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.iii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use the substitution <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mfrac><mrow><mo>d</mo><mi>x</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac></math> to write the differential equation as a system of coupled, first order differential equations.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use Euler’s method with a step length of <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>.</mo><mn>1</mn></math> to find the displacement of the particle when <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>1</mn></math>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the long-term velocity of the particle.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.iii.</div>
+</div>a:T1e51,<div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mfrac><mrow><mo>d</mo><mi>x</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>⇒</mo><mfrac><mrow><mo>d</mo><mi>y</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>+</mo><mn>5</mn><mfrac><mrow><mo>d</mo><mi>x</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>+</mo><mn>6</mn><mi>x</mi><mo>=</mo><mn>0</mn></math>   <strong>OR   </strong><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>d</mo><mi>y</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>+</mo><mn>5</mn><mi>y</mi><mo>+</mo><mn>6</mn><mi>x</mi><mo>=</mo><mn>0</mn></math>         <em><strong>M1</strong></em></p>
+<p><strong><br/>Note:</strong> Award <strong>M1</strong> for substituting <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>d</mo><mi>y</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac></math> for <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><msup><mo>d</mo><mn>2</mn></msup><mi>x</mi></mrow><mrow><mo>d</mo><msup><mi>t</mi><mn>2</mn></msup></mrow></mfrac></math>.</p>
+<p><br/><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mtable><mtr><mtd><mfrac><mrow><mo>d</mo><mi>x</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac></mtd></mtr><mtr><mtd><mfrac><mrow><mo>d</mo><mi>y</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac></mtd></mtr></mtable></mfenced><mo>=</mo><mfenced><mtable><mtr><mtd><mn>0</mn><mo> </mo><mo> </mo></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>6</mn><mo> </mo><mo> </mo></mtd><mtd><mo>-</mo><mn>5</mn></mtd></mtr></mtable></mfenced><mfenced><mtable><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mi>y</mi></mtd></mtr></mtable></mfenced></math>        <em><strong>AG</strong></em></p>
+<p> </p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>det</mtext><mfenced><mtable><mtr><mtd><mo>-</mo><mi>λ</mi><mo> </mo><mo> </mo></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>6</mn><mo> </mo><mo> </mo></mtd><mtd><mo>-</mo><mn>5</mn><mo>-</mo><mi>λ</mi></mtd></mtr></mtable></mfenced><mo>=</mo><mn>0</mn></math>         <em><strong>(M1)</strong></em></p>
+<p><br/><em><strong>Note:</strong></em> Award <em><strong>M1</strong> </em>for an attempt to find eigenvalues. Any indication that <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>det</mtext><mfenced><mrow><mi mathvariant="bold-italic">M</mi><mo>-</mo><mi>λ</mi><mi mathvariant="bold-italic">I</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math> has been used is sufficient for the <em><strong>(M1)</strong></em>.</p>
+<p><br/><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mi>λ</mi><mfenced><mrow><mo>-</mo><mn>5</mn><mo>-</mo><mi>λ</mi></mrow></mfenced><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></math>   <strong>OR   </strong><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>λ</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>λ</mi><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></math>         <em><strong>(A1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>λ</mi><mo>=</mo><mo>-</mo><mn>2</mn><mo>,</mo><mo> </mo><mo>-</mo><mn>3</mn></math>        <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>(on a phase portrait the particle approaches <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mn>0</mn><mo>,</mo><mo> </mo><mn>0</mn><mo>)</mo></math> as <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi></math> increases so long term velocity (<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math>) is)</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn></math>        <em><strong>A1</strong></em></p>
+<p><br/><em><strong>Note:</strong></em> Only award <em><strong>A1</strong></em> for <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn></math> if both eigenvalues in part (a)(ii) are negative. If at least one is positive accept an answer of ‘<em>no limit</em>’ or ‘<em>infinity</em>’, or in the case of one positive and one negative also accept ‘<em>no limit or <math xmlns="http://www.w3.org/1998/Math/MathML"><mn mathvariant="italic">0</mn></math> (depending on initial conditions)</em>’.</p>
+<p> </p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.iii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mfrac><mrow><mo>d</mo><mi>x</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><msup><mo>d</mo><mn>2</mn></msup><mi>x</mi></mrow><mrow><mo>d</mo><msup><mi>t</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>d</mo><mi>y</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac></math>         <em><strong>(A1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>d</mo><mi>y</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>+</mo><mn>5</mn><mi>y</mi><mo>+</mo><mn>6</mn><mi>x</mi><mo>=</mo><mn>3</mn><mi>t</mi><mo>+</mo><mn>4</mn></math>        <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>recognition that <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>h</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn></math> in any recurrence formula           <em><strong>(M1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><msub><mi>t</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><msub><mi>t</mi><mi>n</mi></msub><mo>+</mo><mn>0</mn><mo>.</mo><mn>1</mn></mrow></mfenced></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>x</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><msub><mi>x</mi><mi>n</mi></msub><mo>+</mo><mn>0</mn><mo>.</mo><mn>1</mn><msub><mi>y</mi><mi>n</mi></msub></math>           <em><strong>(A1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>y</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><msub><mi>y</mi><mi>n</mi></msub><mo>+</mo><mn>0</mn><mo>.</mo><mn>1</mn><mfenced><mrow><mn>3</mn><msub><mi>t</mi><mi>n</mi></msub><mo>+</mo><mn>4</mn><mo>-</mo><mn>5</mn><msub><mi>y</mi><mi>n</mi></msub><mo>-</mo><mn>6</mn><msub><mi>x</mi><mi>n</mi></msub></mrow></mfenced></math>           <em><strong>(A1)</strong></em></p>
+<p>(when <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>1</mn></math>,) <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>64402</mn><mo>…</mo><mo>≈</mo><mn>0</mn><mo>.</mo><mn>644</mn><mo> </mo><mtext>m</mtext></math>        <em><strong>A2</strong></em></p>
+<p> </p>
+<p><em><strong>[5 marks]</strong></em></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>recognizing that <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math> is the velocity</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>.</mo><mn>5</mn><mo> </mo><msup><mtext>m s</mtext><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>         <em><strong>A1</strong></em> </p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.iii.</div>
+</div>b:T571,<div class="question" style="padding-left: 20px;">
+<p>It was clear that second order differential equations had not been covered by many schools. Fortunately, many were able to successfully answer part (ii) as this was independent of the other two parts. For part (iii) it was expected that candidates would know that two negative eigenvalues mean the system tends to the origin and so the long-term velocity is 0. Some candidates tried to solve the system. It should be noted that when the command term is ‘state’ then no further working out is expected to be seen.</p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">a.iii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Forming a coupled system from a second order differential equation and solving it using Euler’s method is a technique included in the course guide. Candidates who had learned this technique were successful in this question.</p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.iii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"22M.2.AHL.TZ1.4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"22M"}],["$","span",null,{"children":["· ","ahl-1-15-eigenvalues-and-eigenvectors, ahl-5-18-eulers-method-for-2nd-order-des"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

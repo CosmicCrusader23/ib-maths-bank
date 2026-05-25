@@ -1,0 +1,122 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1723","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1723","d"],{"children":["__PAGE__?{\"id\":\"1723\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1723","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tbeb,<div class="specification">
+<p>Scott purchases food for his dog in large bags and feeds the dog the same amount of dog food each day. The amount of dog food left in the bag at the end of each day can be modelled by an arithmetic sequence.</p>
+<p>On a particular day, Scott opened a new bag of dog food and fed his dog. By the end of the third day there were <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>115</mn><mo>.</mo><mn>5</mn></math> cups of dog food remaining in the bag and at the end of the eighth day there were <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>108</mn></math> cups of dog food remaining in the bag.</p>
+</div><div class="specification">
+<p>Find the number of cups of dog food</p>
+</div><div class="specification">
+<p>In <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2021</mn></math>, Scott spent <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>625</mn></math> on dog food. Scott expects that the amount he spends on dog food will increase at an annual rate of <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>6</mn><mo>.</mo><mn>4</mn><mo>%</mo></math>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>fed to the dog per day.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>remaining in the bag at the end of the first day.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the number of days that Scott can feed his dog with one bag of food.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine the amount that Scott expects to spend on dog food in <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2025</mn></math>. Round your answer to the nearest dollar.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the value of <math xmlns="http://www.w3.org/1998/Math/MathML"><munderover><mtext>Σ</mtext><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mn>10</mn></munderover><mfenced><mrow><mn>625</mn><mo>×</mo><mn>1</mn><mo>.</mo><msup><mn>064</mn><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msup></mrow></mfenced></math>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Describe what the value in part (d)(i) represents in this context.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Comment on the appropriateness of modelling this scenario with a geometric sequence.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">e.</div>
+</div>a:T1e00,<div class="question" style="padding-left: 20px;">
+<p><strong>EITHER</strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>115</mn><mo>.</mo><mn>5</mn><mo>=</mo><msub><mi>u</mi><mn>1</mn></msub><mo>+</mo><mfenced><mrow><mn>3</mn><mo>-</mo><mn>1</mn></mrow></mfenced><mo>×</mo><mi>d</mi><mo> </mo><mo> </mo><mo> </mo><mfenced><mrow><mn>115</mn><mo>.</mo><mn>5</mn><mo>=</mo><msub><mi>u</mi><mn>1</mn></msub><mo>+</mo><mn>2</mn><mi>d</mi></mrow></mfenced></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>108</mn><mo>=</mo><msub><mi>u</mi><mn>1</mn></msub><mo>+</mo><mfenced><mrow><mn>8</mn><mo>-</mo><mn>1</mn></mrow></mfenced><mo>×</mo><mi>d</mi><mo> </mo><mo> </mo><mo> </mo><mfenced><mrow><mn>108</mn><mo>=</mo><msub><mi>u</mi><mn>1</mn></msub><mo>+</mo><mn>7</mn><mi>d</mi></mrow></mfenced></math>         <em><strong>(M1)(A1)</strong></em></p>
+<p><br/><strong>Note:</strong> Award <em><strong>M1</strong> </em>for attempting to use the arithmetic sequence term formula, <em><strong>A1</strong> </em>for both equations correct. Working for <em><strong>M1</strong> </em>and <em><strong>A1</strong> </em>can be found in parts (i) or (ii).</p>
+<p><br/><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mi>d</mi><mo>=</mo><mo>-</mo><mn>1</mn><mo>.</mo><mn>5</mn></mrow></mfenced></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>.</mo><mn>5</mn></math> (cups/day)         <em><strong>A1</strong></em></p>
+<p><br/><strong>Note:</strong> Answer must be written as a positive value to award <em><strong>A1</strong></em>.</p>
+<p><br/><em><strong>OR</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mi>d</mi><mo>=</mo></mrow></mfenced><mo> </mo><mfrac><mrow><mn>115</mn><mo>.</mo><mn>5</mn><mo>-</mo><mn>108</mn></mrow><mn>5</mn></mfrac></math>         <em><strong>(M1)(A1)</strong></em></p>
+<p><br/><strong>Note:</strong> Award <em><strong>M1</strong> </em>for attempting a calculation using the difference between term <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>3</mn></math> and term <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>8</mn></math>; <em><strong>A1</strong> </em>for a correct substitution.</p>
+<p><br/><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mi>d</mi><mo>=</mo></mrow></mfenced><mo> </mo><mn>1</mn><mo>.</mo><mn>5</mn></math> (cups/day)         <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><msub><mi>u</mi><mn>1</mn></msub><mo>=</mo></mrow></mfenced><mo> </mo><mn>118</mn><mo>.</mo><mn>5</mn></math> (cups)         <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempting to substitute their values into the term formula for arithmetic sequence equated to zero        <em><strong>(M1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>=</mo><mn>118</mn><mo>.</mo><mn>5</mn><mo>+</mo><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>×</mo><mfenced><mrow><mo>-</mo><mn>1</mn><mo>.</mo><mn>5</mn></mrow></mfenced></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mi>n</mi><mo>=</mo></mrow></mfenced><mo> </mo><mn>80</mn></math> days        <em><strong>A1</strong></em></p>
+<p><br/><strong>Note:</strong> Follow through from part (a) only if their answer is positive.</p>
+<p><em><strong><br/>[2 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><msub><mi>t</mi><mn>5</mn></msub><mo>=</mo></mrow></mfenced><mo> </mo><mo> </mo><mn>625</mn><mo>×</mo><mn>1</mn><mo>.</mo><msup><mn>064</mn><mfenced><mrow><mn>5</mn><mo>-</mo><mn>1</mn></mrow></mfenced></msup></math>       <em><strong>(M1)(A1)</strong></em></p>
+<p><br/><strong>Note:</strong> Award <em><strong>M1</strong> </em>for attempting to use the geometric sequence term formula; <em><strong>A1</strong> </em>for a correct substitution</p>
+<p> </p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>801</mn></math>       <em><strong>A1</strong></em></p>
+<p><br/><strong>Note:</strong> The answer must be rounded to a whole number to award the final <em><strong>A1</strong></em>.</p>
+<p><em><strong><br/>[3 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><msub><mi>S</mi><mn>10</mn></msub><mo>=</mo></mrow></mfenced><mo> </mo><mo> </mo><mfenced><mo>$</mo></mfenced><mo> </mo><mn>8390</mn><mo> </mo><mo> </mo><mfenced><mrow><mn>8394</mn><mo>.</mo><mn>39</mn><mo>…</mo></mrow></mfenced></math>         <em><strong>A1</strong></em></p>
+<p><em><strong><br/>[1 mark]</strong></em></p>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>EITHER</strong></p>
+<p>the total cost (of dog food)        <em><strong> R1</strong></em></p>
+<p>for <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>10</mn></math> years beginning in <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2021</mn></math>   <strong>OR  </strong><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>10</mn></math> years before <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2031</mn></math>        <em><strong> R1</strong></em></p>
+<p><br/><strong>OR</strong></p>
+<p>the total cost (of dog food)        <em><strong> R1</strong></em></p>
+<p>from <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2021</mn></math> to <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2030</mn></math> (inclusive)  <strong>OR</strong>  from <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2021</mn></math> to (the start of) <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2031</mn></math>        <em><strong> R1</strong></em></p>
+<p><em><strong><br/>[2 marks]</strong></em></p>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>EITHER</strong><br/>According to the model, the cost of dog food per year will eventually be too high to keep a dog.</p>
+<p><strong>OR</strong><br/>The model does not necessarily consider changes in inflation rate.</p>
+<p><strong>OR</strong><br/>The model is appropriate as long as inflation increases at a similar rate.</p>
+<p><strong>OR</strong><br/>The model does not account for changes in the amount of food the dog eats as it ages/becomes ill/stops growing.</p>
+<p><strong>OR</strong><br/>The model is appropriate since dog food bags can only be bought in discrete quantities.       <em><strong> R1</strong></em></p>
+<p><em><strong><br/></strong></em><strong>Note:</strong> Accept reasonable answers commenting on the appropriateness of the model for the specific scenario. There should be a reference to the given context. A reference to the geometric model must be clear: either “model” is mentioned specifically, or other mathematical terms such as “increasing” or “discrete quantities” are seen. Do not accept a contextual argument in isolation, e.g. “The dog will eventually die”.</p>
+<p><em><strong><br/>[1 mark]</strong></em></p>
+<div class="question_part_label">e.</div>
+</div>b:T631,<div class="question" style="padding-left: 20px;">
+<p>Parts (a) and (b) were mostly well answered, but some candidates ignored the context and did not give the number of dog food cups per day as a positive number. Most candidates considered geometric sequence in part (c) correctly, and used the correct formula for the nth term, although they used an incorrect value for n at times. Some candidates used the finance application incorrectly. The sum in part (d) was calculated correctly by some candidates, although many seemed unfamiliar with sigma notation and with calculating summations using GDC. In part (d), most candidates interpreted correctly that the sum represented the cost of dog food for 10 years but did not identify the specific 10-year period. Part (e) was not answered well – often candidates made very general and abstract statements devoid of any contextual references.</p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">e.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"22M.2.SL.TZ2.2"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"22M"}],["$","span",null,{"children":["· ","sl-1-2-arithmetic-sequences-and-series, sl-1-3-geometric-sequences-and-series, sl-2-6-modelling-skills"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

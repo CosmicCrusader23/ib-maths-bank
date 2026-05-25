@@ -1,0 +1,1223 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","554","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","554","d"],{"children":["__PAGE__?{\"id\":\"554\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","554","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tfb3,<div class="specification">
+<p>The plane <em>П</em><sub>1</sub> contains the points P(1, 6, −7) , Q(0, 1, 1) and R(2, 0, −4).</p>
+</div><div class="specification">
+<p>The Cartesian equation of the plane <em>П</em><sub>2</sub> is given by <span class="mjpage"><math alttext="x - 3y - z = 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>−<!-- − --></mo>
+<mn>3</mn>
+<mi>y</mi>
+<mo>−<!-- − --></mo>
+<mi>z</mi>
+<mo>=</mo>
+<mn>3</mn>
+</math></span>.</p>
+</div><div class="specification">
+<p>The Cartesian equation of the plane <em>П</em><sub>3</sub> is given by <span class="mjpage"><math alttext="ax + by + cz = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mi>x</mi>
+<mo>+</mo>
+<mi>b</mi>
+<mi>y</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mi>z</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>.</p>
+</div><div class="specification">
+<p>Consider the case that <em>П</em><sub>3</sub> contains <span class="mjpage"><math alttext="L" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>L</mi>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the Cartesian equation of the plane containing P, Q and R.</p>
+<div class="marks">[6]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Given that <em>П</em><sub>1</sub> and <em>П</em><sub>2</sub> meet in a line <span class="mjpage"><math alttext="L" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>L</mi>
+</math></span>, verify that the vector equation of <span class="mjpage"><math alttext="L" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>L</mi>
+</math></span> can be given by <em><strong>r</strong></em> <span class="mjpage"><math alttext=" = \left( {\begin{array}{*{20}{c}}  {\frac{5}{4}} \\   0 \\   { - \frac{7}{4}}  \end{array}} \right) + \lambda \left( {\begin{array}{*{20}{c}}  {\frac{1}{2}} \\   1 \\   { - \frac{5}{2}}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mn>7</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mi>λ</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Given that <em>П</em><sub>3</sub> is parallel to the line <span class="mjpage"><math alttext="L" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>L</mi>
+</math></span>, show that <span class="mjpage"><math alttext="a + 2b - 5c = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>b</mi>
+<mo>−</mo>
+<mn>5</mn>
+<mi>c</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="5a - 7c = 4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>5</mn>
+<mi>a</mi>
+<mo>−</mo>
+<mn>7</mn>
+<mi>c</mi>
+<mo>=</mo>
+<mn>4</mn>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Given that <em>П</em><sub>3</sub> is equally inclined to both <em>П</em><sub>1</sub> and <em>П</em><sub>2</sub>, determine two distinct possible Cartesian equations for <em>П</em><sub>3</sub>.</p>
+<div class="marks">[7]</div>
+<div class="question_part_label">d.ii.</div>
+</div>a:T4f9d,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><strong>METHOD 1</strong></p>
+<p>for example</p>
+<p><span class="mjpage"><math alttext="\overrightarrow {{\text{PQ}}} = \left( {\begin{array}{*{20}{c}}  { - 1} \\   { - 5} \\   8  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mtext>PQ</mtext>
+</mrow>
+<mo>→</mo>
+</mover>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>8</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>, <span class="mjpage"><math alttext="\overrightarrow {{\text{PR}}} = \left( {\begin{array}{*{20}{c}}  1 \\   { - 6} \\   3  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mtext>PR</mtext>
+</mrow>
+<mo>→</mo>
+</mover>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>6</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>       <em><strong>A1</strong></em><em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="\overrightarrow {{\text{PQ}}}  \times \overrightarrow {{\text{PR}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mtext>PQ</mtext>
+</mrow>
+<mo>→</mo>
+</mover>
+<mo>×</mo>
+<mover>
+<mrow>
+<mtext>PR</mtext>
+</mrow>
+<mo>→</mo>
+</mover>
+</math></span> = 33<em><strong>i</strong></em> + 11<em><strong>j</strong></em> + 11<em><strong>k      (M1)A1</strong></em></p>
+<p><em><strong>r.n</strong></em> = <em><strong>a.n</strong></em></p>
+<p><span class="mjpage"><math alttext="33x + 11y + 11z = \left( {\begin{array}{*{20}{c}}  0 \\   1 \\   1  \end{array}} \right) \cdot \left( {\begin{array}{*{20}{c}}  {33} \\   {11} \\   {11}  \end{array}} \right) = 22" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>33</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>11</mn>
+<mi>y</mi>
+<mo>+</mo>
+<mn>11</mn>
+<mi>z</mi>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>⋅</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>33</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>11</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>11</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>22</mn>
+</math></span>     <em><strong>(M1)</strong></em></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow 3x + y + z = 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mn>3</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mi>y</mi>
+<mo>+</mo>
+<mi>z</mi>
+<mo>=</mo>
+<mn>2</mn>
+</math></span> or equivalent       <em><strong>A1</strong></em></p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p>assume plane can be written as <span class="mjpage"><math alttext="ax + by + cz = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mi>x</mi>
+<mo>+</mo>
+<mi>b</mi>
+<mi>y</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mi>z</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>       <em><strong>M1</strong></em></p>
+<p>substituting each set of coordinates gives the system of equations:</p>
+<p><span class="mjpage"><math alttext="a + 6b - 7c = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>+</mo>
+<mn>6</mn>
+<mi>b</mi>
+<mo>−</mo>
+<mn>7</mn>
+<mi>c</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="0a + b + c = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mi>b</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="2a + 0b - 4c = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mn>0</mn>
+<mi>b</mi>
+<mo>−</mo>
+<mn>4</mn>
+<mi>c</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>       <em><strong>A1</strong></em></p>
+<p>solving by GDC      <em><strong>(M1)</strong></em></p>
+<p><span class="mjpage"><math alttext="a = \frac{3}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>=</mo>
+<mfrac>
+<mn>3</mn>
+<mn>2</mn>
+</mfrac>
+</math></span>, <span class="mjpage"><math alttext="b = \frac{1}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</math></span>, <span class="mjpage"><math alttext="C = \frac{1}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>C</mi>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</math></span>       <em><strong>A1</strong></em><em><strong>A1</strong></em><em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow \frac{3}{2}x + \frac{1}{2}y + \frac{1}{2}z = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mfrac>
+<mn>3</mn>
+<mn>2</mn>
+</mfrac>
+<mi>x</mi>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mi>y</mi>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mi>z</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span> or equivalent</p>
+<p> </p>
+<p><em><strong>[6 marks]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p>substitution of equation of line into both equations of planes       <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="3\left( {\frac{5}{4} + \frac{\lambda }{2}} \right) + \left( { - \frac{7}{4} - \frac{{5\lambda }}{2}} \right) = 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>4</mn>
+</mfrac>
+<mo>+</mo>
+<mfrac>
+<mi>λ</mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mn>7</mn>
+<mn>4</mn>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mn>5</mn>
+<mi>λ</mi>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>2</mn>
+</math></span>       <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="\left( {\frac{5}{4} + \frac{\lambda }{2}} \right) - 3\lambda  - \left( { - \frac{7}{4} - \frac{{5\lambda }}{2}} \right) = 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>4</mn>
+</mfrac>
+<mo>+</mo>
+<mfrac>
+<mi>λ</mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mi>λ</mi>
+<mo>−</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mn>7</mn>
+<mn>4</mn>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mn>5</mn>
+<mi>λ</mi>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>3</mn>
+</math></span>       <em><strong>A1</strong></em></p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p>adding <em>Π</em><sub>1</sub> and <em>Π</em><sub>2</sub> gives <span class="mjpage"><math alttext="4x - 2y = 5" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>4</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mi>y</mi>
+<mo>=</mo>
+<mn>5</mn>
+</math></span>       <em><strong>M1</strong></em></p>
+<p>given  <span class="mjpage"><math alttext="y = \lambda  \Rightarrow x = \frac{5}{4} + \frac{\lambda }{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mi>λ</mi>
+<mo stretchy="false">⇒</mo>
+<mi>x</mi>
+<mo>=</mo>
+<mfrac>
+<mn>5</mn>
+<mn>4</mn>
+</mfrac>
+<mo>+</mo>
+<mfrac>
+<mi>λ</mi>
+<mn>2</mn>
+</mfrac>
+</math></span>       <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="z = 2 - y - 3x =  - \frac{7}{4} - \frac{{5\lambda }}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>z</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mo>−</mo>
+<mi>y</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mi>x</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mfrac>
+<mn>7</mn>
+<mn>4</mn>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mn>5</mn>
+<mi>λ</mi>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</math></span>       <em><strong>A1</strong></em></p>
+<p>⇒<em><strong>r</strong></em> <span class="mjpage"><math alttext=" = \left( {\begin{array}{*{20}{c}} {\frac{5}{4}} \\  0 \\  { - \frac{7}{4}}  \end{array}} \right) + \lambda \left( {\begin{array}{*{20}{c}} {\frac{1}{2}} \\  1 \\  { - \frac{5}{2}}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mn>7</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mi>λ</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>       <em><strong>AG</strong></em></p>
+<p> </p>
+<p><strong>METHOD 3</strong></p>
+<p><em><strong>n</strong></em><sub>1</sub> × <em><strong>n</strong></em><sub>2</sub> = <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  2 \\   4 \\   { - 10}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>10</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>       <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = 4\left( {\begin{array}{*{20}{c}}  {\frac{1}{2}} \\   1 \\   { - \frac{5}{2}}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>4</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>       <em><strong>R1</strong></em></p>
+<p>common point <span class="mjpage"><math alttext="\frac{5}{4} - 3\left( 0 \right) - \left( { - \frac{7}{4}} \right) = 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>5</mn>
+<mn>4</mn>
+</mfrac>
+<mo>−</mo>
+<mn>3</mn>
+<mrow>
+<mo>(</mo>
+<mn>0</mn>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mn>7</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>3</mn>
+</math></span> and <span class="mjpage"><math alttext=" - 3\left( {\frac{5}{4}} \right) - 0 - \left( { - \frac{7}{4}} \right) =  - 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>3</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mn>0</mn>
+<mo>−</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mn>7</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mo>−</mo>
+<mn>2</mn>
+</math></span>       <em><strong>A1</strong></em> </p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>normal to <em>П</em><sub>3</sub> is perpendicular to direction of <span class="mjpage"><math alttext="L" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>L</mi>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow \left( {\begin{array}{*{20}{c}} a \\   b \\   c  \end{array}} \right) \cdot \left( {\begin{array}{*{20}{c}}  1 \\   2 \\   { - 5}  \end{array}} \right) = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>a</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>b</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>c</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>⋅</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>       <em><strong>A1</strong></em></p>
+<p><strong>⇒</strong><span class="mjpage"><math alttext="a + 2b - 5c = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>b</mi>
+<mo>−</mo>
+<mn>5</mn>
+<mi>c</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>       <em><strong>AG</strong></em></p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>substituting <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  {\frac{5}{4}} \\   0 \\   { - \frac{7}{4}}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mn>7</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> into <em>П</em><sub>3</sub>:      <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{{5a}}{4} - \frac{{7c}}{4} = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>5</mn>
+<mi>a</mi>
+</mrow>
+<mn>4</mn>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mn>7</mn>
+<mi>c</mi>
+</mrow>
+<mn>4</mn>
+</mfrac>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="5a - 7c = 4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>5</mn>
+<mi>a</mi>
+<mo>−</mo>
+<mn>7</mn>
+<mi>c</mi>
+<mo>=</mo>
+<mn>4</mn>
+</math></span>      <em><strong>AG</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt to find scalar products for <em>П</em><sub>1</sub> and <em>П</em><sub>3</sub>, <em>П</em><sub>2</sub> and <em>П</em><sub>3</sub>.</p>
+<p>and equating       <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{{3a + b + C}}{{\sqrt {11} \sqrt {{a^2} + {b^2} + {c^2}} }} = \frac{{a - 3b - c}}{{\sqrt {11} \sqrt {{a^2} + {b^2} + {c^2}} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>3</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mi>b</mi>
+<mo>+</mo>
+<mi>C</mi>
+</mrow>
+<mrow>
+<msqrt>
+<mn>11</mn>
+</msqrt>
+<msqrt>
+<mrow>
+<msup>
+<mi>a</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>b</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>c</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mi>a</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mi>b</mi>
+<mo>−</mo>
+<mi>c</mi>
+</mrow>
+<mrow>
+<msqrt>
+<mn>11</mn>
+</msqrt>
+<msqrt>
+<mrow>
+<msup>
+<mi>a</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>b</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>c</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</mrow>
+</mfrac>
+</math></span>      <em><strong>M1</strong></em></p>
+<p><strong>Note:</strong> Accept <span class="mjpage"><math alttext="3a + b + c = a - 3b - c" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mi>b</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mo>=</mo>
+<mi>a</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mi>b</mi>
+<mo>−</mo>
+<mi>c</mi>
+</math></span>.</p>
+<p><span class="mjpage"><math alttext=" \Rightarrow a + 2b + c = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mi>a</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>b</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p>attempt to solve <span class="mjpage"><math alttext="a + 2b + c = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>b</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>, <span class="mjpage"><math alttext="a + 2b - 5c = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>b</mi>
+<mo>−</mo>
+<mn>5</mn>
+<mi>c</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>, <span class="mjpage"><math alttext="5a - 7c = 4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>5</mn>
+<mi>a</mi>
+<mo>−</mo>
+<mn>7</mn>
+<mi>c</mi>
+<mo>=</mo>
+<mn>4</mn>
+</math></span>      <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow a = \frac{4}{5}{\text{,}}\,\,b =  - \frac{2}{5}{\text{,}}\,\,c = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mi>a</mi>
+<mo>=</mo>
+<mfrac>
+<mn>4</mn>
+<mn>5</mn>
+</mfrac>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>b</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mfrac>
+<mn>2</mn>
+<mn>5</mn>
+</mfrac>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>c</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p>hence equation is <span class="mjpage"><math alttext="\frac{{4x}}{5} - \frac{{2y}}{5} = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mi>x</mi>
+</mrow>
+<mn>5</mn>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>y</mi>
+</mrow>
+<mn>5</mn>
+</mfrac>
+<mo>=</mo>
+<mn>1</mn>
+</math></span></p>
+<p>for second equation:</p>
+<p><span class="mjpage"><math alttext="\frac{{3a + b + C}}{{\sqrt {11} \sqrt {{a^2} + {b^2} + {c^2}} }} = - \frac{{a - 3b - c}}{{\sqrt {11} \sqrt {{a^2} + {b^2} + {c^2}} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>3</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mi>b</mi>
+<mo>+</mo>
+<mi>C</mi>
+</mrow>
+<mrow>
+<msqrt>
+<mn>11</mn>
+</msqrt>
+<msqrt>
+<mrow>
+<msup>
+<mi>a</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>b</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>c</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mi>a</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mi>b</mi>
+<mo>−</mo>
+<mi>c</mi>
+</mrow>
+<mrow>
+<msqrt>
+<mn>11</mn>
+</msqrt>
+<msqrt>
+<mrow>
+<msup>
+<mi>a</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>b</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>c</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</mrow>
+</mfrac>
+</math></span>      <em><strong>(M1)</strong></em></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow 2a - b = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mn>2</mn>
+<mi>a</mi>
+<mo>−</mo>
+<mi>b</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span></p>
+<p>attempt to solve <span class="mjpage"><math alttext="2a - b = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>a</mi>
+<mo>−</mo>
+<mi>b</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>, <span class="mjpage"><math alttext="a + 2b - 5c = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>b</mi>
+<mo>−</mo>
+<mn>5</mn>
+<mi>c</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>, <span class="mjpage"><math alttext="5a - 7c = 4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>5</mn>
+<mi>a</mi>
+<mo>−</mo>
+<mn>7</mn>
+<mi>c</mi>
+<mo>=</mo>
+<mn>4</mn>
+</math></span>      <em><strong>M1</strong></em></p>
+<p>⇒<span class="mjpage"><math alttext="a = - 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>2</mn>
+</math></span>, <span class="mjpage"><math alttext="b = - 4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>4</mn>
+</math></span>, <span class="mjpage"><math alttext="c = - 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>c</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>2</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p>hence equation is <span class="mjpage"><math alttext="- 2x - 4y - 2z = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>4</mn>
+<mi>y</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mi>z</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span></p>
+<p><em><strong>[7 marks]</strong></em></p>
+<div class="question_part_label">d.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"19M.2.AHL.TZ2.H_11"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","ahl-3-17-vector-equations-of-a-plane"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.ii.</div>\n</div>"}}]]}]]}]

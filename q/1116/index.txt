@@ -1,0 +1,194 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1116","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1116","d"],{"children":["__PAGE__?{\"id\":\"1116\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1116","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T736,<div class="specification">
+<p>The random variables <span class="mjpage"><math alttext="U,{\text{ }}V" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>U</mi>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>V</mi>
+</math></span> follow a bivariate normal distribution with product moment correlation coefficient <span class="mjpage"><math alttext="\rho " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>ρ<!-- ρ --></mi>
+</math></span>.</p>
+</div><div class="specification">
+<p>A random sample of 12 observations on <em>U</em>, <em>V</em> is obtained to determine whether there is a correlation between <em>U and</em> <em>V</em>. The sample product moment correlation coefficient is denoted by <em>r</em>. A test to determine whether or not <em>U</em>, <em>V</em> are independent is carried out at the 1% level of significance.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State suitable hypotheses to investigate whether or not <span class="mjpage"><math alttext="U" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>U</mi>
+</math></span>, <span class="mjpage"><math alttext="V" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>V</mi>
+</math></span> are independent.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the least value of <span class="mjpage"><math alttext="|r|" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>r</mi>
+<mrow>
+<mo stretchy="false">|</mo>
+</mrow>
+</math></span> for which the test concludes that <span class="mjpage"><math alttext="\rho  \ne 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>ρ</mi>
+<mo>≠</mo>
+<mn>0</mn>
+</math></span>.</p>
+<div class="marks">[6]</div>
+<div class="question_part_label">b.</div>
+</div>a:T106f,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="{{\text{H}}_0}:\rho  = 0;{\text{ }}{{\text{H}}_1}:\rho  \ne 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>H</mtext>
+</mrow>
+<mn>0</mn>
+</msub>
+</mrow>
+<mo>:</mo>
+<mi>ρ</mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>;</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>H</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>:</mo>
+<mi>ρ</mi>
+<mo>≠</mo>
+<mn>0</mn>
+</math></span>     <strong><em>A1A1</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\nu  = 10" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>ν</mi>
+<mo>=</mo>
+<mn>10</mn>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext="{t_{0.005}} = 3.16927 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>t</mi>
+<mrow>
+<mn>0.005</mn>
+</mrow>
+</msub>
+</mrow>
+<mo>=</mo>
+<mn>3.16927</mn>
+<mo>…</mo>
+</math></span>     <strong><em>(M1)(A1)</em></strong></p>
+<p>we reject <span class="mjpage"><math alttext="{{\text{H}}_0}:\rho  = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>H</mtext>
+</mrow>
+<mn>0</mn>
+</msub>
+</mrow>
+<mo>:</mo>
+<mi>ρ</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span> if <span class="mjpage"><math alttext="\left| t \right| &gt; 3.16927 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mi>t</mi>
+<mo>|</mo>
+</mrow>
+<mo>&gt;</mo>
+<mn>3.16927</mn>
+<mo>…</mo>
+</math></span>     <strong><em>(R1)</em></strong></p>
+<p>attempting to solve <span class="mjpage"><math alttext="\left| r \right|\sqrt {\frac{{10}}{{1 - {r^2}}}}  &gt; 3.16927 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mi>r</mi>
+<mo>|</mo>
+</mrow>
+<msqrt>
+<mfrac>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</msqrt>
+<mo>&gt;</mo>
+<mn>3.16927</mn>
+<mo>…</mo>
+</math></span> for <span class="mjpage"><math alttext="\left| r \right|" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mi>r</mi>
+<mo>|</mo>
+</mrow>
+</math></span>     <strong><em>M1</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Allow = instead of &gt;.</p>
+<p> </p>
+<p>(least value of <span class="mjpage"><math alttext="\left| r \right|" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mi>r</mi>
+<mo>|</mo>
+</mrow>
+</math></span> is) 0.708 (3 sf)     <strong><em>A1</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>A1M1A0R1M1A0 </em></strong>to candidates who use a one-tailed test. Award <strong><em>A0M1A0R1M1A0 </em></strong>to candidates who use an incorrect number of degrees of freedom or both a one-tailed test and incorrect degrees of freedom.</p>
+<p> </p>
+<p><strong>Note:</strong> Possible errors are</p>
+<p>10 DF 1-tail, <span class="mjpage"><math alttext="t = 2.763 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mn>2.763</mn>
+<mo>…</mo>
+</math></span>, least value <span class="mjpage"><math alttext=" = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+</math></span> 0.658</p>
+<p>11 DF 2-tail, <span class="mjpage"><math alttext="t = 3.105 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mn>3.105</mn>
+<mo>…</mo>
+</math></span>, least value <span class="mjpage"><math alttext=" = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+</math></span> 0.684</p>
+<p>11 DF 1-tail, <span class="mjpage"><math alttext="t = 2.718 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mn>2.718</mn>
+<mo>…</mo>
+</math></span>, least value <span class="mjpage"><math alttext=" = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+</math></span> 0.634.</p>
+<p><strong><em>[6 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"17N.3.AHL.TZ0.HSP_4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"17N"}],["$","span",null,{"children":["· ","ahl-4-18-t-and-z-test-type-i-and-ii-errors"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

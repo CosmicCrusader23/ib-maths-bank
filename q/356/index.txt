@@ -1,0 +1,130 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","356","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","356","d"],{"children":["__PAGE__?{\"id\":\"356\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","356","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T6b7,<div class="specification">
+<p>For a study, a researcher collected 200 leaves from oak trees. After measuring the lengths of the leaves, in cm, she produced the following cumulative frequency graph.</p>
+<p style="text-align: center;"><img alt="M17/5/MATSD/SP1/ENG/TZ2/06" src="../assets/uploads/tinymce_asset/asset/3583/Schermafbeelding_2017-08-15_om_17.29.13.png"/></p>
+</div><div class="specification">
+<p>The researcher finds that 10% of the leaves have a length greater than <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span> cm.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the median length of these leaves.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the number of leaves with a length less than or equal to 8 cm.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use the graph to find the value of <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Before measuring, the researcher estimated <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span> to be approximately 9.5 cm. Find the percentage error in her estimate.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.ii.</div>
+</div>a:Tce3,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p>9 (cm)     <strong><em>(A1)</em></strong>     <strong><em>(C1)</em></strong></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>40 (leaves)     <strong><em>(A1)</em></strong>     <strong><em>(C1)</em></strong></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="(200 \times 0.90 = ){\text{ }}180" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mn>200</mn>
+<mo>×</mo>
+<mn>0.90</mn>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>180</mn>
+</math></span> or equivalent     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for a horizontal line drawn through the cumulative frequency value of 180 and meeting the curve (or the corresponding vertical line from 10.5 cm).</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="(k = ){\text{ }}10.5{\text{ (cm)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>k</mi>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>10.5</mn>
+<mrow>
+<mtext> (cm)</mtext>
+</mrow>
+</math></span>     <strong><em>(A1)</em></strong>     <strong><em>(C2)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Accept an error of ±0.1.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\left| {\frac{{9.5 - 10.5}}{{10.5}}} \right| \times 100\% " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>9.5</mn>
+<mo>−</mo>
+<mn>10.5</mn>
+</mrow>
+<mrow>
+<mn>10.5</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mo>×</mo>
+<mn>100</mn>
+<mi mathvariant="normal">%</mi>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Notes:</strong>     Award <strong><em>(M1) </em></strong>for their correct substitution into the percentage error formula.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="{\text{9.52 (% ) }}\left( {{\text{9.52380}} \ldots {\text{ (% )}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>9.52 (% ) </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow>
+<mtext>9.52380</mtext>
+</mrow>
+<mo>…</mo>
+<mrow>
+<mtext> (% )</mtext>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>(A1)</em>(ft)</strong>     <strong><em>(C2)</em></strong></p>
+<p> </p>
+<p><strong>Notes:</strong>     Follow through from their answer to part (c)(i).</p>
+<p>Award <strong><em>(A1)(A0) </em></strong>for an answer of <span class="mjpage"><math alttext=" - 9.52" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>9.52</mn>
+</math></span> with or without working.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"17M.1.SL.TZ2.T_6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-4-2-histograms-cf-graphs-box-plots"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.ii.</div>\n</div>"}}]]}]]}]

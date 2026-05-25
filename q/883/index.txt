@@ -1,0 +1,147 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","883","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","883","d"],{"children":["__PAGE__?{\"id\":\"883\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","883","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T742,<div class="question">
+<p>It is believed that two variables, <span class="mjpage"><math alttext="v" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>v</mi>
+</math></span> and <span class="mjpage"><math alttext="w" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>w</mi>
+</math></span> are related by the equation <span class="mjpage"><math alttext="v = k{w^n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>v</mi>
+<mo>=</mo>
+<mi>k</mi>
+<mrow>
+<msup>
+<mi>w</mi>
+<mi>n</mi>
+</msup>
+</mrow>
+</math></span>, where <span class="mjpage"><math alttext="k{\text{,}}\,\,n \in \mathbb{R}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>n</mi>
+<mo>∈</mo>
+<mrow>
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+</math></span>.  Experimental values of <span class="mjpage"><math alttext="v" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>v</mi>
+</math></span> and <span class="mjpage"><math alttext="w" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>w</mi>
+</math></span> are obtained. A graph of <span class="mjpage"><math alttext="{\text{ln}}\,v" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>ln</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>v</mi>
+</math></span> against <span class="mjpage"><math alttext="{\text{ln}}\,w" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>ln</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>w</mi>
+</math></span> shows a straight line passing through (−1.7, 4.3) and (7.1, 17.5).</p>
+<p>Find the value of <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span> and of <span class="mjpage"><math alttext="n" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+</math></span>. </p>
+</div>a:T7f9,<div class="question">
+<p><span class="mjpage"><math alttext="{\text{ln}}\,v = n\,{\text{ln}}\,w + {\text{ln}}\,k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>ln</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>v</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>ln</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>w</mi>
+<mo>+</mo>
+<mrow>
+<mtext>ln</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>k</mi>
+</math></span>       <em><strong>M1A1</strong></em></p>
+<p>gradient <span class="mjpage"><math alttext=" = \frac{{17.5 - 4.3}}{{7.1 + 1.7}}{\text{  }}\left( { = 1.5} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>17.5</mn>
+<mo>−</mo>
+<mn>4.3</mn>
+</mrow>
+<mrow>
+<mn>7.1</mn>
+<mo>+</mo>
+<mn>1.7</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<mn>1.5</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>       <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="n = 1.5" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>=</mo>
+<mn>1.5</mn>
+</math></span>            <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span>-intercept <span class="mjpage"><math alttext=" = 1.5 \times 1.7 + 4.3{\text{   }}\left( { = 6.85} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>1.5</mn>
+<mo>×</mo>
+<mn>1.7</mn>
+<mo>+</mo>
+<mn>4.3</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<mn>6.85</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>       <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="k = {e^{6.85}} = 944" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+<mo>=</mo>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mn>6.85</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>944</mn>
+</math></span>       <em><strong>M1A1</strong></em></p>
+<p><em><strong>[7 marks]</strong></em></p>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/2/","children":["← back to topic ","2"]}]}],["$","h1",null,{"children":"EXM.1.AHL.TZ0.14"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"EXM"}],["$","span",null,{"children":["· ","ahl-2-10-scaling-large-numbers-log-log-graphs"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n[N/A]\n</div>"}}]]}]]}]

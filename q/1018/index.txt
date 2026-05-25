@@ -1,0 +1,197 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1018","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1018","d"],{"children":["__PAGE__?{\"id\":\"1018\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1018","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T84a,<div class="specification">
+<p>A manufacturer produces 1500 boxes of breakfast cereal every day.</p>
+<p>The weights of these boxes are normally distributed with a mean of 502 grams and a standard deviation of 2 grams.</p>
+</div><div class="specification">
+<p>All boxes of cereal with a weight between 497.5 grams and 505 grams are sold. The manufacturer’s income from the sale of each box of cereal is $2.00.</p>
+</div><div class="specification">
+<p>The manufacturer recycles any box of cereal with a weight <strong>not </strong>between 497.5 grams and 505 grams. The manufacturer’s recycling cost is $0.16 per box.</p>
+</div><div class="specification">
+<p>A <strong>different </strong>manufacturer produces boxes of cereal with weights that are normally distributed with a mean of 350 grams and a standard deviation of 1.8 grams.</p>
+<p>This manufacturer sells all boxes of cereal that are above a minimum weight, <span class="mjpage"><math alttext="w" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>w</mi>
+</math></span>.</p>
+<p>They sell 97% of the cereal boxes produced.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Draw a diagram that shows this information.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>(i)     Find the probability that a box of cereal, chosen at random, is sold.</p>
+<p>(ii)     Calculate the manufacturer’s expected daily income from these sales.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the manufacturer’s expected daily recycling cost.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the value of <span class="mjpage"><math alttext="w" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>w</mi>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.</div>
+</div>a:T14c8,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><img alt="N16/5/MATSD/SP2/ENG/TZ0/04.a/M" src="../assets/uploads/tinymce_asset/asset/3346/Schermafbeelding_2017-03-08_om_11.51.39.png"/></p>
+<p><strong><em>(A1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Award <strong><em>(A1) </em></strong>for bell shape with mean of 502.</p>
+<p>Award <strong><em>(A1) </em></strong>for an indication of standard deviation <em>eg </em>500 and 504.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>(i)     <span class="mjpage"><math alttext="0.921{\text{ }}(0.920968 \ldots ,{\text{ }}92.0968 \ldots \% )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0.921</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0.920968</mn>
+<mo>…</mo>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>92.0968</mn>
+<mo>…</mo>
+<mi mathvariant="normal">%</mi>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for a diagram showing the correct shaded region.</p>
+<p> </p>
+<p>(ii)     <span class="mjpage"><math alttext="1500 \times 2 \times 0.920968 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1500</mn>
+<mo>×</mo>
+<mn>2</mn>
+<mo>×</mo>
+<mn>0.920968</mn>
+<mo>…</mo>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" = {\text{ }}(\$ ){\text{ }}2760{\text{ }}(2762.90 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">$</mi>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>2760</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>2762.90</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Follow through from their answer to part (b)(i).</p>
+<p> </p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="1500 \times 0.16 \times 0.079031 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1500</mn>
+<mo>×</mo>
+<mn>0.16</mn>
+<mo>×</mo>
+<mn>0.079031</mn>
+<mo>…</mo>
+</math></span>    <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Award <strong><em>(A1) </em></strong>for <span class="mjpage"><math alttext="1500 \times 0.16 \times {\text{ their }}(1 - 0.920968 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1500</mn>
+<mo>×</mo>
+<mn>0.16</mn>
+<mo>×</mo>
+<mrow>
+<mtext> their </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mn>0.920968</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>.</p>
+<p> </p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="(1500 - 1381.45) \times 0.16" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mn>1500</mn>
+<mo>−</mo>
+<mn>1381.45</mn>
+<mo stretchy="false">)</mo>
+<mo>×</mo>
+<mn>0.16</mn>
+</math></span>    <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Award <strong><em>(M1) </em></strong>for <span class="mjpage"><math alttext="(1500 - {\text{their }}1381.45) \times 0.16" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mn>1500</mn>
+<mo>−</mo>
+<mrow>
+<mtext>their </mtext>
+</mrow>
+<mn>1381.45</mn>
+<mo stretchy="false">)</mo>
+<mo>×</mo>
+<mn>0.16</mn>
+</math></span>.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = (\$ )19.0{\text{ (}}18.9676 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">$</mi>
+<mo stretchy="false">)</mo>
+<mn>19.0</mn>
+<mrow>
+<mtext> (</mtext>
+</mrow>
+<mn>18.9676</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="347{\text{ }}({\text{grams}}){\text{ }}(346.614 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>347</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>grams</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>346.614</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(G3)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Award <strong><em>(G2) </em></strong>for an answer that rounds to 346.</p>
+<p>Award <strong><em>(G1) </em></strong>for <span class="mjpage"><math alttext="353.385 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>353.385</mn>
+<mo>…</mo>
+</math></span> seen without working (for finding the top 3%).</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"16N.2.SL.TZ0.T_4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","sl-4-9-normal-distribution-and-calculations"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

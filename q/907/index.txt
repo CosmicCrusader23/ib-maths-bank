@@ -1,0 +1,242 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","907","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","907","d"],{"children":["__PAGE__?{\"id\":\"907\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","907","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T1829,<div class="specification">
+<p>Let <span class="mjpage"><math alttext="y = {{\text{e}}^x}\sin x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mrow>
+<msup>
+<mrow>
+<mtext>e</mtext>
+</mrow>
+<mi>x</mi>
+</msup>
+</mrow>
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>x</mi>
+</math></span>.</p>
+</div><div class="specification">
+<p>Consider the function <span class="mjpage"><math alttext="f" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+</math></span>  defined by <span class="mjpage"><math alttext="f(x) = {{\text{e}}^x}\sin x,{\text{ }}0 \leqslant x \leqslant \pi " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<msup>
+<mrow>
+<mtext>e</mtext>
+</mrow>
+<mi>x</mi>
+</msup>
+</mrow>
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>x</mi>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0</mn>
+<mo>⩽<!-- ⩽ --></mo>
+<mi>x</mi>
+<mo>⩽<!-- ⩽ --></mo>
+<mi>π<!-- π --></mi>
+</math></span>.</p>
+</div><div class="specification">
+<p>The curvature at any point <span class="mjpage"><math alttext="(x,{\text{ }}y)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>y</mi>
+<mo stretchy="false">)</mo>
+</math></span> on a graph is defined as <span class="mjpage"><math alttext="\kappa  = \frac{{\left| {\frac{{{{\text{d}}^2}y}}{{{\text{d}}{x^2}}}} \right|}}{{{{\left( {1 + {{\left( {\frac{{{\text{d}}y}}{{{\text{d}}x}}} \right)}^2}} \right)}^{\frac{3}{2}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>κ<!-- κ --></mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>|</mo>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mrow>
+<mfrac>
+<mn>3</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find an expression for <span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}x}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mfrac> </math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="\frac{{{{\text{d}}^2}y}}{{{\text{d}}{x^2}}} = 2{{\text{e}}^x}\cos x" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <msup> <mrow> <mtext>d</mtext> </mrow> <mn>2</mn> </msup> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </mfrac> <mo>=</mo> <mn>2</mn> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> </math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that the function <span class="mjpage"><math alttext="f" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>f</mi> </math></span> has a local maximum value when <span class="mjpage"><math alttext="x = \frac{{3\pi }}{4}" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> <mo>=</mo> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> </math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> </math></span>-coordinate of the point of inflexion of the graph of <span class="mjpage"><math alttext="f" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>f</mi> </math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Sketch the graph of <span class="mjpage"><math alttext="f" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>f</mi> </math></span>, clearly indicating the position of the local maximum point, the point of inflexion and the axes intercepts.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the area of the region enclosed by the graph of <span class="mjpage"><math alttext="f" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>f</mi> </math></span> and the <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> </math></span>-axis.</p>
+<p> </p>
+<div class="marks">[6]</div>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of the curvature of the graph of <span class="mjpage"><math alttext="f" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>f</mi> </math></span> at the local maximum point.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value <span class="mjpage"><math alttext="\kappa " xmlns="http://www.w3.org/1998/Math/MathML"> <mi>κ</mi> </math></span> for <span class="mjpage"><math alttext="x = \frac{\pi }{2}" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> <mo>=</mo> <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> </math></span> and comment on its meaning with respect to the shape of the graph.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">h.</div>
+</div>a:T3e5e,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}x}} = {{\text{e}}^x}\sin x + {{\text{e}}^x}\cos x{\text{ }}\left( { = {{\text{e}}^x}(\sin x + \cos x)} \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mo>+</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <mrow> <mtext> </mtext> </mrow> <mrow> <mo>(</mo> <mrow> <mo>=</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mo stretchy="false">(</mo> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mo>+</mo> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <mo stretchy="false">)</mo> </mrow> <mo>)</mo> </mrow> </math></span>    <strong><em>M1A1</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{{{\text{d}}^2}y}}{{{\text{d}}{x^2}}} = {{\text{e}}^x}(\sin x + \cos x) + {{\text{e}}^x}(\cos x - \sin x)" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <msup> <mrow> <mtext>d</mtext> </mrow> <mn>2</mn> </msup> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </mfrac> <mo>=</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mo stretchy="false">(</mo> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mo>+</mo> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <mo stretchy="false">)</mo> <mo>+</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mo stretchy="false">(</mo> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <mo>−</mo> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mo stretchy="false">)</mo> </math></span>    <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = 2{{\text{e}}^x}\cos x" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mn>2</mn> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> </math></span>    <strong><em>AG</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}x}} = {{\text{e}}^{\frac{{3\pi }}{4}}}\left( {\sin \frac{{3\pi }}{4} + \cos \frac{{3\pi }}{4}} \right) = 0" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mrow> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> </mrow> </msup> </mrow> <mrow> <mo>(</mo> <mrow> <mi>sin</mi> <mo>⁡</mo> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> <mo>+</mo> <mi>cos</mi> <mo>⁡</mo> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mn>0</mn> </math></span>    <strong><em>R1</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{{\text{d}}^2}y}}{{{\text{d}}{x^2}}} = 2{{\text{e}}^{\frac{{3\pi }}{4}}}\cos \frac{{3\pi }}{4} &lt; 0" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <msup> <mrow> <mtext>d</mtext> </mrow> <mn>2</mn> </msup> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </mfrac> <mo>=</mo> <mn>2</mn> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mrow> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> </mrow> </msup> </mrow> <mi>cos</mi> <mo>⁡</mo> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> <mo>&lt;</mo> <mn>0</mn> </math></span>    <strong><em>R1</em></strong></p>
+<p>hence maximum at <span class="mjpage"><math alttext="x = \frac{{3\pi }}{4}" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> <mo>=</mo> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> </math></span>     <strong><em>AG</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{{{\text{d}}^2}y}}{{{\text{d}}{x^2}}} = 0 \Rightarrow 2{{\text{e}}^x}\cos x = 0" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <msup> <mrow> <mtext>d</mtext> </mrow> <mn>2</mn> </msup> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </mfrac> <mo>=</mo> <mn>0</mn> <mo stretchy="false">⇒</mo> <mn>2</mn> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <mo>=</mo> <mn>0</mn> </math></span>    <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow x = \frac{\pi }{2}" xmlns="http://www.w3.org/1998/Math/MathML"> <mo stretchy="false">⇒</mo> <mi>x</mi> <mo>=</mo> <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> </math></span>    <strong><em>A1</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Award <strong><em>M1A0 </em></strong>if extra zeros are seen.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><img alt="N16/5/MATHL/HP1/ENG/TZ0/11.e/M" src="../assets/uploads/tinymce_asset/asset/3293/Schermafbeelding_2017-02-28_om_14.29.02.png"/></p>
+<p>correct shape and correct domain     <strong><em>A1</em></strong></p>
+<p>max at <span class="mjpage"><math alttext="x = \frac{{3\pi }}{4}" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> <mo>=</mo> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> </math></span>, point of inflexion at <span class="mjpage"><math alttext="x = \frac{\pi }{2}" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> <mo>=</mo> <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> </math></span>     <strong><em>A1</em></strong></p>
+<p>zeros at <span class="mjpage"><math alttext="x = 0" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> <mo>=</mo> <mn>0</mn> </math></span> and <span class="mjpage"><math alttext="x = \pi " xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> <mo>=</mo> <mi>π</mi> </math></span>     <strong><em>A1</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Penalize incorrect domain with first <strong><em>A </em></strong>mark; allow <strong><em>FT </em></strong>from (d) on extra points of inflexion.</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>EITHER</strong></p>
+<p><span class="mjpage"><math alttext="\int_0^x {{{\text{e}}^x}\sin x{\text{d}}x = [{{\text{e}}^x}\sin x]_0^\pi  - \int_0^\pi  {{{\text{e}}^x}\cos x{\text{d}}x} } " xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>x</mi> </msubsup> <mrow> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> <mo>=</mo> <mo stretchy="false">[</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <msubsup> <mo stretchy="false">]</mo> <mn>0</mn> <mi>π</mi> </msubsup> <mo>−</mo> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>π</mi> </msubsup> <mrow> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mrow> </math></span>    <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\int_0^\pi  {{{\text{e}}^x}\sin x{\text{d}}x = [{{\text{e}}^x}\sin x]_0^\pi  - \left( {[{{\text{e}}^x}\cos x]_0^x + \int_0^\pi  {{{\text{e}}^x}\sin x{\text{d}}x} } \right)} " xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>π</mi> </msubsup> <mrow> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> <mo>=</mo> <mo stretchy="false">[</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <msubsup> <mo stretchy="false">]</mo> <mn>0</mn> <mi>π</mi> </msubsup> <mo>−</mo> <mrow> <mo>(</mo> <mrow> <mo stretchy="false">[</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <msubsup> <mo stretchy="false">]</mo> <mn>0</mn> <mi>x</mi> </msubsup> <mo>+</mo> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>π</mi> </msubsup> <mrow> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </math></span>    <strong><em>A1</em></strong></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="\int_0^\pi  {{{\text{e}}^x}\sin x{\text{d}}x = [ - {{\text{e}}^x}\cos x]_0^\pi  + \int_0^\pi  {{{\text{e}}^x}\cos x{\text{d}}x} } " xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>π</mi> </msubsup> <mrow> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> <mo>=</mo> <mo stretchy="false">[</mo> <mo>−</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <msubsup> <mo stretchy="false">]</mo> <mn>0</mn> <mi>π</mi> </msubsup> <mo>+</mo> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>π</mi> </msubsup> <mrow> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mrow> </math></span>    <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\int_0^\pi  {{{\text{e}}^x}\sin x{\text{d}}x = [ - {{\text{e}}^x}\cos x]} _0^\pi  + \left( {[{{\text{e}}^x}\sin x]_0^\pi  - \int_0^\pi  {{{\text{e}}^x}\sin x{\text{d}}x} } \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>π</mi> </msubsup> <msubsup> <mrow> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> <mo>=</mo> <mo stretchy="false">[</mo> <mo>−</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <mo stretchy="false">]</mo> </mrow> <mn>0</mn> <mi>π</mi> </msubsup> <mo>+</mo> <mrow> <mo>(</mo> <mrow> <mo stretchy="false">[</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <msubsup> <mo stretchy="false">]</mo> <mn>0</mn> <mi>π</mi> </msubsup> <mo>−</mo> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>π</mi> </msubsup> <mrow> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mrow> <mo>)</mo> </mrow> </math></span>    <strong><em>A1</em></strong></p>
+<p><strong>THEN</strong></p>
+<p><span class="mjpage"><math alttext="\int_0^\pi  {{{\text{e}}^x}\sin x{\text{d}}x = \frac{1}{2}\left( {[{{\text{e}}^x}\sin x]_0^x - [{{\text{e}}^x}\cos x]_0^x} \right)} " xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>π</mi> </msubsup> <mrow> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> <mo>=</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mrow> <mo>(</mo> <mrow> <mo stretchy="false">[</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <msubsup> <mo stretchy="false">]</mo> <mn>0</mn> <mi>x</mi> </msubsup> <mo>−</mo> <mo stretchy="false">[</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <msubsup> <mo stretchy="false">]</mo> <mn>0</mn> <mi>x</mi> </msubsup> </mrow> <mo>)</mo> </mrow> </mrow> </math></span>    <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\int_0^\pi  {{{\text{e}}^x}\sin x{\text{d}}x = \frac{1}{2}({{\text{e}}^x} + 1)} " xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>π</mi> </msubsup> <mrow> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> <mo>=</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo stretchy="false">(</mo> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mi>x</mi> </msup> </mrow> <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> </mrow> </math></span>    <strong><em>A1</em></strong></p>
+<p><strong><em>[6 marks]</em></strong></p>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}x}} = 0" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mn>0</mn> </math></span>    <strong><em>(A1)</em></strong></p>
+<p> <span class="mjpage"><math alttext="\frac{{{d^2}y}}{{d{x^2}}} = 2{e^{\frac{{3\pi }}{4}}}\cos \frac{{3\pi }}{4} =  - \sqrt 2 {e^{\frac{{3\pi }}{4}}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <msup> <mi>d</mi> <mn>2</mn> </msup> </mrow> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </mfrac> <mo>=</mo> <mn>2</mn> <mrow> <msup> <mi>e</mi> <mrow> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> </mrow> </msup> </mrow> <mi>cos</mi> <mo>⁡</mo> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> <mo>=</mo> <mo>−</mo> <msqrt> <mn>2</mn> </msqrt> <mrow> <msup> <mi>e</mi> <mrow> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> </mrow> </msup> </mrow> </math></span> <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext="\kappa  = \frac{{\left| { - \sqrt 2 {{\text{e}}^{\frac{{3\pi }}{4}}}} \right|}}{1} = \sqrt 2 {{\text{e}}^{\frac{{3\pi }}{4}}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>κ</mi> <mo>=</mo> <mfrac> <mrow> <mrow> <mo>|</mo> <mrow> <mo>−</mo> <msqrt> <mn>2</mn> </msqrt> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mrow> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> </mrow> </msup> </mrow> </mrow> <mo>|</mo> </mrow> </mrow> <mn>1</mn> </mfrac> <mo>=</mo> <msqrt> <mn>2</mn> </msqrt> <mrow> <msup> <mrow> <mtext>e</mtext> </mrow> <mrow> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> </mrow> </msup> </mrow> </math></span>    <strong><em>A1</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\kappa  = 0" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>κ</mi> <mo>=</mo> <mn>0</mn> </math></span>    <strong><em>A1</em></strong></p>
+<p>the graph is approximated by a straight line     <strong><em>R1</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">h.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"16N.1.AHL.TZ0.H_11"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","ahl-5-16-eulers-method-for-1st-order-des"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">f.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">g.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">h.</div>\n</div>"}}]]}]]}]

@@ -1,0 +1,221 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","495","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","495","d"],{"children":["__PAGE__?{\"id\":\"495\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","495","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T12a2,<div class="question">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p>attempt to use l’Hôpital’s rule,     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="{\text{limit}} = \mathop {\lim }\limits_{x \to 0} \frac{{2\sin x\cos x}}{{\ln (1 + x) + \frac{x}{{1 + x}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>limit</mtext>
+</mrow>
+<mo>=</mo>
+<munder>
+<mrow>
+<mo form="prefix">lim</mo>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mi>ln</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mfrac>
+<mi>x</mi>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mfrac>
+</math></span><span class="mjpage"><math alttext="\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span>or<span class="mjpage"><math alttext="\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="\frac{{\sin 2x}}{{\ln (1 + x) + \frac{x}{{1 + x}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mi>ln</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mfrac>
+<mi>x</mi>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>A1A1</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>A1 </em></strong>for numerator <strong><em>A1 </em></strong>for denominator.</p>
+<p> </p>
+<p>this gives 0/0 so use the rule again     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \mathop {\lim }\limits_{x \to 0} \frac{{2{{\cos }^2}x - 2{{\sin }^2}x}}{{\frac{1}{{1 + x}} + \frac{{1 + x - x}}{{{{(1 + x)}^2}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<munder>
+<mrow>
+<mo form="prefix">lim</mo>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mrow>
+<msup>
+<mrow>
+<mi>cos</mi>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mrow>
+<msup>
+<mrow>
+<mi>sin</mi>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>+</mo>
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mi>x</mi>
+<mo>−</mo>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</mfrac>
+</math></span><span class="mjpage"><math alttext="\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span>or<span class="mjpage"><math alttext="\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="\frac{{2\cos 2x}}{{\frac{{2 + x}}{{{{(1 + x)}^2}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mo>+</mo>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>A1A1</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>A1 </em></strong>for numerator <strong><em>A1 </em></strong>for denominator.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>1</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     This <strong><em>A1 </em></strong>is dependent on all previous marks being awarded, except when the first application of L’Hopital’s does not lead to 0/0, when it should be awarded for the correct limit of their derived function.</p>
+<p> </p>
+<p><strong><em>[7 marks]</em></strong></p>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"17M.3.AHL.TZ0.HCA_1"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","ahl-5-13-limits-and-lhopitals"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n<p>Use l’Hôpital’s rule to determine the value of</p>\n<p><span class=\"mjpage mjpage__block\"><math alttext=\"\\mathop {\\lim }\\limits_{x \\to 0} \\frac{{{{\\sin }^2}x}}{{x\\ln (1 + x)}}.\" display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<munder>\n<mrow>\n<mo form=\"prefix\">lim</mo>\n</mrow>\n<mrow>\n<mi>x</mi>\n<mo stretchy=\"false\">→</mo>\n<mn>0</mn>\n</mrow>\n</munder>\n<mo>⁡</mo>\n<mfrac>\n<mrow>\n<mrow>\n<msup>\n<mrow>\n<mi>sin</mi>\n</mrow>\n<mn>2</mn>\n</msup>\n</mrow>\n<mi>x</mi>\n</mrow>\n<mrow>\n<mi>x</mi>\n<mi>ln</mi>\n<mo>⁡</mo>\n<mo stretchy=\"false\">(</mo>\n<mn>1</mn>\n<mo>+</mo>\n<mi>x</mi>\n<mo stretchy=\"false\">)</mo>\n</mrow>\n</mfrac>\n<mo>.</mo>\n</math></span></p>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n[N/A]\n</div>"}}]]}]]}]

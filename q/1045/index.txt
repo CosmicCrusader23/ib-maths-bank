@@ -1,0 +1,141 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1045","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1045","d"],{"children":["__PAGE__?{\"id\":\"1045\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1045","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tb64,<div class="specification">
+<p>Packets of biscuits are produced by a machine. The weights <span class="mjpage"><math alttext="X" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>X</mi>
+</math></span>, in grams, of packets of biscuits can be modelled by a normal distribution where <span class="mjpage"><math alttext="X \sim {\text{N}}(\mu ,{\text{ }}{\sigma ^2})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>X</mi>
+<mo>∼<!-- ∼ --></mo>
+<mrow>
+<mtext>N</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>μ<!-- μ --></mi>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<msup>
+<mi>σ<!-- σ --></mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>. A packet of biscuits is considered to be underweight if it weighs less than 250 grams.</p>
+</div><div class="specification">
+<p>The manufacturer makes the decision that the probability that a packet is underweight should be 0.002. To do this <span class="mjpage"><math alttext="\mu " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>μ<!-- μ --></mi>
+</math></span> is increased and <span class="mjpage"><math alttext="\sigma " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>σ<!-- σ --></mi>
+</math></span> remains unchanged.</p>
+</div><div class="specification">
+<p>The manufacturer is happy with the decision that the probability that a packet is underweight should be 0.002, but is unhappy with the way in which this was achieved. The machine is now adjusted to reduce <span class="mjpage"><math alttext="\sigma " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>σ<!-- σ --></mi>
+</math></span> and return <span class="mjpage"><math alttext="\mu " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>μ<!-- μ --></mi>
+</math></span> to 253.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Given that <span class="mjpage"><math alttext="\mu = 253" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>μ</mi>
+<mo>=</mo>
+<mn>253</mn>
+</math></span> and <span class="mjpage"><math alttext="\sigma = 1.5" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>σ</mi>
+<mo>=</mo>
+<mn>1.5</mn>
+</math></span> find the probability that a randomly chosen packet of biscuits is underweight.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the new value of <span class="mjpage"><math alttext="\mu " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>μ</mi>
+</math></span> giving your answer correct to two decimal places.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the new value of <span class="mjpage"><math alttext="\sigma " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>σ</mi>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div>a:T969,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="{\text{P}}(X &lt; 250) = 0.0228" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>&lt;</mo>
+<mn>250</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.0228</mn>
+</math></span>     <strong><em>(M1)A1</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{250 - \mu }}{{1.5}} = - 2.878 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>250</mn>
+<mo>−</mo>
+<mi>μ</mi>
+</mrow>
+<mrow>
+<mn>1.5</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo>−</mo>
+<mn>2.878</mn>
+<mo>…</mo>
+</math></span>     <strong><em>(M1)(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow \mu = 254.32" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mi>μ</mi>
+<mo>=</mo>
+<mn>254.32</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p> </p>
+<p><strong>Notes:</strong>     Only award <strong><em>A1 </em></strong>here if the correct 2dp answer is seen. Award <strong><em>M0 </em></strong>for use of <span class="mjpage"><math alttext="{1.5^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mn>1.5</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span>.</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{250 - 253}}{\sigma } = - 2.878 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>250</mn>
+<mo>−</mo>
+<mn>253</mn>
+</mrow>
+<mi>σ</mi>
+</mfrac>
+<mo>=</mo>
+<mo>−</mo>
+<mn>2.878</mn>
+<mo>…</mo>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow \sigma = 1.04" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mi>σ</mi>
+<mo>=</mo>
+<mn>1.04</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"17M.2.AHL.TZ2.H_3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-4-9-normal-distribution-and-calculations"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

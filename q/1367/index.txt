@@ -1,0 +1,446 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1367","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1367","d"],{"children":["__PAGE__?{\"id\":\"1367\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1367","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T8b8,<div class="specification">
+<p>The function <span class="mjpage"><math alttext="f\left( x \right) = \frac{1}{3}{x^3} + \frac{1}{2}{x^2} + kx + 5" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+<mrow>
+<mo>(</mo>
+<mi>x</mi>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>k</mi>
+<mi>x</mi>
+<mo>+</mo>
+<mn>5</mn>
+</math></span> has a local maximum and a local minimum. The local maximum is at <span class="mjpage"><math alttext="x =  - 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mn>3</mn>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="k = - 6" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>6</mn>
+</math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the coordinates of the local <strong>minimum</strong>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the interval where the gradient of the graph of <span class="mjpage"><math alttext="f\left( x \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+<mrow>
+<mo>(</mo>
+<mi>x</mi>
+<mo>)</mo>
+</mrow>
+</math></span> is negative.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine the equation of the normal at <span class="mjpage"><math alttext="x = - 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>2</mn>
+</math></span> in the form <span class="mjpage"><math alttext="y = mx + c" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mi>m</mi>
+<mi>x</mi>
+<mo>+</mo>
+<mi>c</mi>
+</math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">d.</div>
+</div>a:T289e,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="{x^2} + x + k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mi>k</mi>
+</math></span>  <em><strong>  (A1)(A1)(A1)</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>(A1)</strong></em> for each correct term. Award at most <em><strong>(A1)(A1)(A0)</strong></em> if additional terms are seen or for an answer <span class="mjpage"><math alttext="{x^2} + x - 6" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>x</mi>
+<mo>−</mo>
+<mn>6</mn>
+</math></span>. If their derivative is seen in parts (b), (c) or (d) and not in part (a), award at most <em><strong>(A1)(A1)(A0)</strong></em>.</p>
+<p><span class="mjpage"><math alttext="{\left( { - 3} \right)^2} + \left( { - 3} \right) + k = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mi>k</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>  <strong> <em>(M1)</em><em>(M1)</em></strong></p>
+<p><strong>Note:</strong> Award <em><strong>(M1)</strong></em> for substituting in <span class="mjpage"><math alttext="x = - 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>3</mn>
+</math></span> into their derivative and <em><strong>(M1)</strong></em> for setting it equal to zero. Substituting <span class="mjpage"><math alttext="k = - 6" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>6</mn>
+</math></span> invalidates the process, award at most (<em><strong>A1)(A1)(A1)(M0)(M0)</strong></em>.</p>
+<p><span class="mjpage"><math alttext="\left( {k = } \right) - 6" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>k</mi>
+<mo>=</mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mn>6</mn>
+</math></span>      <em><strong>(AG)</strong></em></p>
+<p><strong>Note:</strong> For the final <em><strong>(M1)</strong></em> to be awarded, no incorrect working must be seen, and must lead to the conclusion <span class="mjpage"><math alttext="k = - 6" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>6</mn>
+</math></span>. The final <em><strong>(AG)</strong></em> must be seen.</p>
+<p><strong><em>[5 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>(2, −2.33)  <strong>OR </strong> <span class="mjpage"><math alttext="\left( {2{\text{,}}\,\, - \frac{7}{3}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>2</mn>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mo>−</mo>
+<mfrac>
+<mn>7</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>    <em><strong>  (A1)(A1)</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>(A1)</strong></em> for each correct coordinate. Award <em><strong>(A0)(A1)</strong></em> if parentheses are missing. Accept <span class="mjpage"><math alttext="x = 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>2</mn>
+</math></span>, <span class="mjpage"><math alttext="y = - 2.33" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>2.33</mn>
+</math></span>. Award <em><strong>(M1)(A0)</strong></em> for their derivative, a quadratic expression with –6 substituted for <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span>, equated to zero but leading to an incorrect answer.</p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext=" - 3 &lt; x &lt; 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>3</mn>
+<mo>&lt;</mo>
+<mi>x</mi>
+<mo>&lt;</mo>
+<mn>2</mn>
+</math></span>   <em><strong>   (A1)</strong></em><strong>(ft)</strong><em><strong>(A1)</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>(A1)</strong></em> for <span class="mjpage"><math alttext="x &gt; - 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>&gt;</mo>
+<mo>−</mo>
+<mn>3</mn>
+</math></span> , <em><strong>(A1)</strong></em><strong>(ft)</strong> for <span class="mjpage"><math alttext="x &lt; 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>&lt;</mo>
+<mn>2</mn>
+</math></span>. Follow through for their "2" in part (b). It is possible to award <em><strong>(A0)(A1)</strong></em>. For <span class="mjpage"><math alttext=" - 3 &lt; y &lt; 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>3</mn>
+<mo>&lt;</mo>
+<mi>y</mi>
+<mo>&lt;</mo>
+<mn>2</mn>
+</math></span> award <em><strong>(A1)(A0)</strong></em>. Accept equivalent notation such as (−3, 2). Award <em><strong>(A0)</strong><strong>(A1)</strong></em><strong>(ft)</strong> for <span class="mjpage"><math alttext=" - 3 \leqslant x \leqslant 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>3</mn>
+<mo>⩽</mo>
+<mi>x</mi>
+<mo>⩽</mo>
+<mn>2</mn>
+</math></span>.</p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>−4   <em><strong>   (A1)</strong></em><strong>(ft)</strong></p>
+<p><strong>Note:</strong> Award <em><strong>(A1)</strong></em><strong>(ft)</strong> for the gradient of the tangent seen. If an incorrect derivative was used in part (a), then working for their <span class="mjpage"><math alttext="f'\left( { - 2} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<msup>
+<mi>f</mi>
+<mo>′</mo>
+</msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> must be seen. Follow through from their derivative in part (a).</p>
+<p>gradient of normal is <span class="mjpage"><math alttext="\frac{1}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</math></span>   <em><strong>   (A1)</strong></em><strong>(ft)</strong>   </p>
+<p><strong>Note:</strong> Award <em><strong>(A1)</strong></em><strong>(ft)</strong> for the negative reciprocal of their gradient of tangent. Follow through within this part. Award <em><strong>(G2)</strong></em> for an unsupported gradient of the normal.</p>
+<p><span class="mjpage"><math alttext="\frac{{49}}{3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>49</mn>
+</mrow>
+<mn>3</mn>
+</mfrac>
+</math></span>   <span class="mjpage"><math alttext="\left( {f\left( { - 2} \right) = \frac{1}{3}{{\left( { - 2} \right)}^3} + \frac{1}{2}{{\left( { - 2} \right)}^2} - 6\left( { - 2} \right) + 5 = \frac{{49}}{3}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>f</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>6</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mn>5</mn>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>49</mn>
+</mrow>
+<mn>3</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>   <em><strong>   (A1)</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>(A1)</strong></em> for <span class="mjpage"><math alttext="\frac{{49}}{3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>49</mn>
+</mrow>
+<mn>3</mn>
+</mfrac>
+</math></span>  (16.3333…) seen.</p>
+<p><span class="mjpage"><math alttext="\frac{{49}}{3} = \frac{1}{4}\left( { - 2} \right) + c" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>49</mn>
+</mrow>
+<mn>3</mn>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mi>c</mi>
+</math></span>  <strong>OR  </strong><span class="mjpage"><math alttext="y - \frac{{49}}{3} = \frac{1}{4}\left( {x -  - 2} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mn>49</mn>
+</mrow>
+<mn>3</mn>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>x</mi>
+<mo>−</mo>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>       <em><strong>(M1)</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>(M1)</strong></em> for substituting their normal gradient into equation of line formula.</p>
+<p><span class="mjpage"><math alttext="y = \frac{1}{4}x + \frac{{101}}{6}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+<mi>x</mi>
+<mo>+</mo>
+<mfrac>
+<mrow>
+<mn>101</mn>
+</mrow>
+<mn>6</mn>
+</mfrac>
+</math></span>  <strong>OR  </strong><span class="mjpage"><math alttext="y = 0.25x + 16.8333 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mn>0.25</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>16.8333</mn>
+<mo>…</mo>
+</math></span><strong>  </strong>    <em><strong>(A1)</strong></em><strong>(ft)<em>(G4)</em></strong></p>
+<p><strong>Note:</strong> Award <em><strong>(G4)</strong></em> for the correct equation of line in correct form without any prior working. The final <em><strong>(A1)</strong></em><strong>(ft)</strong> is contingent on <span class="mjpage"><math alttext="y = \frac{{49}}{3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>49</mn>
+</mrow>
+<mn>3</mn>
+</mfrac>
+</math></span> and <span class="mjpage"><math alttext="x = - 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>2</mn>
+</math></span>.</p>
+<p><strong><em>[5 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"19M.2.SL.TZ1.T_6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","sl-5-1-introduction-of-differential-calculus"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

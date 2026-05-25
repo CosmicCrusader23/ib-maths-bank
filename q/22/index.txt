@@ -1,0 +1,1159 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","22","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","22","d"],{"children":["__PAGE__?{\"id\":\"22\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","22","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Te29,<div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="{\text{cot}}\,2\theta  = \frac{{1 - {\text{ta}}{{\text{n}}^2}\,\theta }}{{2\,{\text{tan}}\,\theta }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>θ</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Verify that <span class="mjpage"><math alttext="x = {\text{tan}}\,\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</math></span> and <span class="mjpage"><math alttext="x =  - \,{\text{cot}}\,\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</math></span> satisfy the equation <span class="mjpage"><math alttext="{x^2} + \left( {2\,{\text{cot}}\,2\theta } \right)x - 1 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>θ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>x</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>.</p>
+<div class="marks">[7]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence, or otherwise, show that the exact value of <span class="mjpage"><math alttext="{\text{tan}}\frac{\pi }{{12}} = 2 - \sqrt 3 " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>2</mn>
+<mo>−</mo>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Using the results from parts (b) and (c) find the exact value of <span class="mjpage"><math alttext="{\text{tan}}\frac{\pi }{{24}} - {\text{cot}}\frac{\pi }{{24}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>24</mn>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>24</mn>
+</mrow>
+</mfrac>
+</math></span>.</p>
+<p>Give your answer in the form <span class="mjpage"><math alttext="a + b\sqrt 3 " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>+</mo>
+<mi>b</mi>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</math></span> where <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span>, <span class="mjpage"><math alttext="b \in \mathbb{Z}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+<mo>∈</mo>
+<mrow>
+<mi mathvariant="double-struck">Z</mi>
+</mrow>
+</math></span>.</p>
+<div class="marks">[6]</div>
+<div class="question_part_label">d.</div>
+</div>a:T581e,<div class="question" style="padding-left: 20px;">
+<p>stating the relationship between <span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;"><span class="mjpage"><math alttext="\cot " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>cot</mi>
+</math></span></span> and <span style="background-color: #ffffff;"><span class="mjpage"><math alttext="\tan " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>tan</mi>
+</math></span></span> and stating the identity for <span class="mjpage"><math alttext="{\text{tan}}\,2\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>θ</mi>
+</math></span>       <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{cot}}\,2\theta  = \frac{1}{{{\text{tan}}\,2\theta }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>θ</mi>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</math></span> and <span class="mjpage"><math alttext="{\text{tan}}\,2\theta  = \frac{{2\,{\text{tan}}\,\theta }}{{1 - {\text{ta}}{{\text{n}}^2}\,\theta }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>θ</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</math></span></p>
+<p>⇒ <span class="mjpage"><math alttext="{\text{cot}}\,2\theta  = \frac{{1 - {\text{ta}}{{\text{n}}^2}\,\theta }}{{2\,{\text{tan}}\,\theta }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>θ</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</math></span>     <em><strong>AG</strong></em></p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em><strong>METHOD 1</strong></em></p>
+<p>attempting to substitute <span class="mjpage"><math alttext="{\text{tan}}\,\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</math></span> for <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> and using the result from (a)      <em><strong>M1</strong></em></p>
+<p>LHS = <span class="mjpage"><math alttext="{\text{ta}}{{\text{n}}^2}\,\theta  + 2\,{\text{tan}}\,\theta \left( {\frac{{1 - {\text{ta}}{{\text{n}}^2}\,\theta }}{{2\,{\text{tan}}\,\theta }}} \right) - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mn>1</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{ta}}{{\text{n}}^2}\,\theta  + 1 - {\text{ta}}{{\text{n}}^2}\,\theta  - 1 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>(= RHS)      <em><strong>A1</strong></em></p>
+<p>so <span class="mjpage"><math alttext="x = {\text{tan}}\,\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</math></span> satisfies the equation      <em><strong>AG</strong></em></p>
+<p>attempting to substitute <span class="mjpage"><math alttext=" - \,{\text{cot}}\,\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</math></span> for <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> and using the result from (a)       <em><strong>M1</strong></em></p>
+<p>LHS = <span class="mjpage"><math alttext="{\text{co}}{{\text{t}}^2}\,\theta  - 2\,{\text{cot}}\,\theta \left( {\frac{{1 - {\text{ta}}{{\text{n}}^2}\,\theta }}{{2\,{\text{tan}}\,\theta }}} \right) - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>co</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>t</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mn>1</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \frac{1}{{{\text{ta}}{{\text{n}}^2}\,\theta }} - \left( {\frac{{1 - {\text{ta}}{{\text{n}}^2}\,\theta }}{{\,{\text{ta}}{{\text{n}}^2}\,\theta }}} \right) - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mn>1</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" \frac{1}{{{\text{ta}}{{\text{n}}^2}\,\theta }} - \frac{1}{{{\text{ta}}{{\text{n}}^2}\,\theta }} + 1 - 1 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+<mo>+</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mn>1</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>(= RHS)     <em><strong>A1</strong></em></p>
+<p>so <span class="mjpage"><math alttext="x =  - \,{\text{cot}}\,\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</math></span> satisfies the equation      <em><strong>AG</strong></em></p>
+<p> </p>
+<p><em><strong>METHOD 2</strong></em></p>
+<p>let <span class="mjpage"><math alttext="\alpha  = {\text{tan}}\,\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+<mo>=</mo>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</math></span> and <span class="mjpage"><math alttext="\beta  =  - \,{\text{cot}}\,\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>β</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</math></span></p>
+<p>attempting to find the sum of roots       <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\alpha  + \beta  = {\text{tan}}\,\theta  - \frac{1}{{{\text{tan}}\,\theta }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+<mo>+</mo>
+<mi>β</mi>
+<mo>=</mo>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>−</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</math></span></p>
+<p>         <span class="mjpage"><math alttext=" = \frac{{{\text{ta}}{{\text{n}}^2}\,\theta  - 1}}{{{\text{tan}}\,\theta }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</math></span><span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">     </span><em style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: italic;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;"><strong>A1</strong></em></p>
+<p>         <span class="mjpage"><math alttext=" =  - 2\,{\text{cot}}\,2\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mo>−</mo>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>θ</mi>
+</math></span> (from part (a))     <em><strong>A1</strong></em></p>
+<p>attempting to find the product of roots         <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\alpha \beta  = {\text{tan}}\,\theta  \times \left( { - \,{\text{cot}}\,\theta } \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+<mi>β</mi>
+<mo>=</mo>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>×</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <em><strong>A1</strong></em></p>
+<p>= −1     <em><strong>A1</strong></em></p>
+<p>the coefficient of <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> and the constant term in the quadratic are <span class="mjpage"><math alttext="{2\,{\text{cot}}\,2\theta }" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>θ</mi>
+</mrow>
+</math></span> and −1 respectively        <em><strong>R1</strong></em></p>
+<p>hence the two roots are <span class="mjpage"><math alttext="\alpha  = {\text{tan}}\,\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+<mo>=</mo>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</math></span> and <span class="mjpage"><math alttext="\beta  =  - \,{\text{cot}}\,\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>β</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</math></span>       <em><strong>AG</strong></em></p>
+<p><em><strong>[7 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em><strong>METHOD 1</strong></em></p>
+<p><span class="mjpage"><math alttext="x = {\text{tan}}\frac{\pi }{{12}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+</math></span> and <span class="mjpage"><math alttext="x =  - {\text{cot}}\frac{\pi }{{12}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+</math></span> are roots of <span class="mjpage"><math alttext="{x^2} + \left( {2\,{\text{cot}}\frac{\pi }{{6}}} \right)x - 1 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>6</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>x</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>        <em><strong>R1</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>R1</strong> </em>if only <span class="mjpage"><math alttext="x = {\text{tan}}\frac{\pi }{{12}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+</math></span> is stated as a root of <span class="mjpage"><math alttext="{x^2} + \left( {2\,{\text{cot}}\frac{\pi }{{6}}} \right)x - 1 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>6</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>x</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>.</p>
+<p><span class="mjpage"><math alttext="{x^2} + 2\sqrt 3 x - 1 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>2</mn>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+<mi>x</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>        <em><strong>A1</strong></em></p>
+<p>attempting to solve <strong>their</strong> quadratic equation         <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="x =  - \sqrt 3  \pm 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mo>−</mo>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+<mo>±</mo>
+<mn>2</mn>
+</math></span>        <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{tan}}\frac{\pi }{{12}} &gt; 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+<mo>&gt;</mo>
+<mn>0</mn>
+</math></span>  (<span class="mjpage"><math alttext=" - {\text{cot}}\frac{\pi }{{12}} &lt; 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+<mo>&lt;</mo>
+<mn>0</mn>
+</math></span>)        <em><strong>R1</strong></em></p>
+<p>so <span class="mjpage"><math alttext="{\text{tan}}\frac{\pi }{{12}} = 2 - \sqrt 3 " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>2</mn>
+<mo>−</mo>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</math></span>      <em><strong>AG</strong></em></p>
+<p> </p>
+<p><em><strong>METHOD 2</strong></em></p>
+<p>attempting to substitute <span class="mjpage"><math alttext="\theta  = \frac{\pi }{{12}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ</mi>
+<mo>=</mo>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+</math></span> into the identity for <span class="mjpage"><math alttext="{\text{tan}}\,2\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>θ</mi>
+</math></span>           <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{tan}}\frac{\pi }{6} = \frac{{2\,{\text{tan}}\frac{\pi }{{12}}}}{{1 - {\text{ta}}{{\text{n}}^2}\frac{\pi }{{12}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mn>6</mn>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+</mrow>
+</mfrac>
+</math></span></p>
+<p><span class="mjpage"><math alttext="{\text{ta}}{{\text{n}}^2}\frac{\pi }{{12}} + 2\sqrt 3 \,{\text{tan}}\frac{\pi }{{12}} - 1 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+<mo>+</mo>
+<mn>2</mn>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mn>1</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <em><strong>A1</strong></em></p>
+<p>attempting to solve <strong>their </strong>quadratic equation      <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{tan}}\frac{\pi }{{12}} =  - \sqrt 3  \pm 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo>−</mo>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+<mo>±</mo>
+<mn>2</mn>
+</math></span>     <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{tan}}\frac{\pi }{{12}} &gt; 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+<mo>&gt;</mo>
+<mn>0</mn>
+</math></span>      <em><strong>R1</strong></em></p>
+<p>so <span class="mjpage"><math alttext="{\text{tan}}\frac{\pi }{{12}} = 2 - \sqrt 3 " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>2</mn>
+<mo>−</mo>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</math></span>      <em><strong>AG</strong></em></p>
+<p><em><strong>[5 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{\text{tan}}\frac{\pi }{{24}} - {\text{cot}}\frac{\pi }{{24}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>24</mn>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>24</mn>
+</mrow>
+</mfrac>
+</math></span> is the sum of the roots of <span class="mjpage"><math alttext="{x^2} + \left( {2\,{\text{cot}}\frac{\pi }{{12}}} \right)x - 1 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>x</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>        <em><strong>R1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{tan}}\frac{\pi }{{24}} - {\text{cot}}\frac{\pi }{{24}} =  - 2\,{\text{cot}}\frac{\pi }{{12}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>24</mn>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>24</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo>−</mo>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cot</mtext>
+</mrow>
+<mfrac>
+<mi>π</mi>
+<mrow>
+<mn>12</mn>
+</mrow>
+</mfrac>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \frac{{ - 2}}{{2 - \sqrt 3 }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mo>−</mo>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</math></span>      <em><strong>A1</strong></em></p>
+<p>attempting to rationalise <strong>their</strong> denominator      <em><strong> (M1)</strong></em></p>
+<p><span class="mjpage"><math alttext=" =  - 4 - 2\sqrt 3 " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mo>−</mo>
+<mn>4</mn>
+<mo>−</mo>
+<mn>2</mn>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</math></span>       <em><strong>A1</strong></em><em><strong>A1</strong></em></p>
+<p><em><strong>[6 marks]</strong></em></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/2/","children":["← back to topic ","2"]}]}],["$","h1",null,{"children":"SPM.2.AHL.TZ0.12"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"SPM"}],["$","span",null,{"children":["· ","sl-2-7-solutions-of-quadratic-equations-and-inequalities-discriminant-and-nature-of-roots"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

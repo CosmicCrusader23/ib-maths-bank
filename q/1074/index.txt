@@ -1,0 +1,449 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1074","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1074","d"],{"children":["__PAGE__?{\"id\":\"1074\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1074","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T1d5d,<div class="question">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="{x^3} + {y^3} - 3xy = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mi>x</mi>
+<mi>y</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="3{x^2} + 3{y^2}\frac{{{\text{d}}y}}{{{\text{d}}x}} - 3x\frac{{{\text{d}}y}}{{{\text{d}}x}} - 3y = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mn>3</mn>
+<mi>x</mi>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mn>3</mn>
+<mi>y</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <strong><em>M1A1</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Differentiation wrt <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> is also acceptable.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}x}} = \frac{{3y - 3{x^2}}}{{3{y^2} - 3x}}{\text{ }}\left( { = \frac{{y - {x^2}}}{{{y^2} - x}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>3</mn>
+<mi>y</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mi>y</mi>
+<mo>−</mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>All following marks may be awarded if the denominator is correct, but the numerator incorrect.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="{y^2} - x = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <strong><em>M1</em></strong></p>
+<p><strong>EITHER</strong></p>
+<p><span class="mjpage"><math alttext="x = {y^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span></p>
+<p><span class="mjpage"><math alttext="{y^6} + {y^3} - 3{y^3} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>6</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext="{y^6} - 2{y^3} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>6</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>2</mn>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="{y^3}({y^3} - 2) = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="(y \ne 0)\therefore y = \sqrt[3]{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>y</mi>
+<mo>≠</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>∴</mo>
+<mi>y</mi>
+<mo>=</mo>
+<mroot>
+<mn>2</mn>
+<mn>3</mn>
+</mroot>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="x = {\left( {\sqrt[3]{2}} \right)^2}{\text{ }}\left( { = \sqrt[3]{4}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mroot>
+<mn>2</mn>
+<mn>3</mn>
+</mroot>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<mroot>
+<mn>4</mn>
+<mn>3</mn>
+</mroot>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="{x^3} + xy - 3xy = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>x</mi>
+<mi>y</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mi>x</mi>
+<mi>y</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="x({x^2} - 2y) = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>2</mn>
+<mi>y</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="x \ne 0 \Rightarrow y = \frac{{{x^2}}}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>≠</mo>
+<mn>0</mn>
+<mo stretchy="false">⇒</mo>
+<mi>y</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="{y^2} = \frac{{{x^4}}}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>4</mn>
+</msup>
+</mrow>
+</mrow>
+<mn>4</mn>
+</mfrac>
+</math></span></p>
+<p><span class="mjpage"><math alttext="x = \frac{{{x^4}}}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>4</mn>
+</msup>
+</mrow>
+</mrow>
+<mn>4</mn>
+</mfrac>
+</math></span></p>
+<p><span class="mjpage"><math alttext="x({x^3} - 4) = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>4</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="(x \ne 0)\therefore x = \sqrt[3]{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>≠</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>∴</mo>
+<mi>x</mi>
+<mo>=</mo>
+<mroot>
+<mn>4</mn>
+<mn>3</mn>
+</mroot>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="y = \frac{{{{\left( {\sqrt[3]{4}} \right)}^2}}}{2} = \sqrt[3]{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mroot>
+<mn>4</mn>
+<mn>3</mn>
+</mroot>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mo>=</mo>
+<mroot>
+<mn>2</mn>
+<mn>3</mn>
+</mroot>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[8 marks]</em></strong></p>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"17N.1.AHL.TZ0.H_7"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"17N"}],["$","span",null,{"children":["· ","sl-5-3-differentiating-polynomials-n-e-z"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n<p>The folium of Descartes is a curve defined by the equation <span class=\"mjpage\"><math alttext=\"{x^3} + {y^3} - 3xy = 0\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<mrow>\n<msup>\n<mi>x</mi>\n<mn>3</mn>\n</msup>\n</mrow>\n<mo>+</mo>\n<mrow>\n<msup>\n<mi>y</mi>\n<mn>3</mn>\n</msup>\n</mrow>\n<mo>−</mo>\n<mn>3</mn>\n<mi>x</mi>\n<mi>y</mi>\n<mo>=</mo>\n<mn>0</mn>\n</math></span>, shown in the following diagram.</p>\n<p><img alt=\"N17/5/MATHL/HP1/ENG/TZ0/07\" src=\"../assets/uploads/tinymce_asset/asset/4118/Schermafbeelding_2018-02-07_om_18.23.15.png\"/></p>\n<p>Determine the exact coordinates of the point P on the curve where the tangent line is parallel to the <span class=\"mjpage\"><math alttext=\"y\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<mi>y</mi>\n</math></span>-axis.</p>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n[N/A]\n</div>"}}]]}]]}]

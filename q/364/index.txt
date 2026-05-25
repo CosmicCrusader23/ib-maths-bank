@@ -1,0 +1,156 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","364","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","364","d"],{"children":["__PAGE__?{\"id\":\"364\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","364","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T76e,<div class="specification">
+<p>The random variables <em>X</em> , <em>Y</em> follow a bivariate normal distribution with product moment correlation coefficient <em>ρ</em>.</p>
+</div><div class="specification">
+<p>A random sample of 11 observations on <em>X</em>, <em>Y</em> was obtained and the value of the sample product moment correlation coefficient, <em>r</em>, was calculated to be −0.708.</p>
+</div><div class="specification">
+<p>The covariance of the random variables <em>U</em>, <em>V</em> is defined by</p>
+<p style="text-align: center;">Cov(<em>U</em>, <em>V</em>) = E((<em>U</em> − E(<em>U</em>))(<em>V</em> − E(<em>V</em>))).</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State suitable hypotheses to investigate whether or not a negative linear association exists between <em>X</em> and <em>Y</em>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine the <em>p</em>-value.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State your conclusion at the 1 % significance level.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that Cov(<em>U</em>, <em>V</em>) = E(<em>UV</em>) − E(<em>U</em>)E(<em>V</em>).</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence show that if <em>U</em>, <em>V</em> are independent random variables then the population product moment correlation coefficient, <em>ρ</em>, is zero.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.ii.</div>
+</div>a:T1072,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p>H<sub>0 </sub>: <em>ρ</em> = 0; H<sub>1 </sub>: <em>ρ</em> &lt; 0       <em><strong>A1</strong></em></p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="t =  - 0.708\sqrt {\frac{{11 - 2}}{{1 - {{\left( { - 0.708} \right)}^2}}}} \,\, = \,\,\left( { - 3.0075 \ldots } \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>0.708</mn>
+<msqrt>
+<mfrac>
+<mrow>
+<mn>11</mn>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mn>0.708</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</msqrt>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mn>3.0075</mn>
+<mo>…</mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>       <em><strong>(M1)</strong></em></p>
+<p>degrees of freedom = 9        <em><strong>(A1)</strong></em></p>
+<p>P(<em>T</em> &lt; −3.0075...) = 0.00739       <em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> Accept any answer that rounds to 0.0074.</p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>reject H<sub>0</sub> or equivalent statement      <em><strong> R1</strong></em></p>
+<p><strong>Note:</strong> Apply follow through on the candidate’s <em>p</em>-value.</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Cov(<em>U</em>, <em>V</em>) + E((<em>U</em> − E(<em>U</em>))(<em>V</em> − E(<em>V</em>)))</p>
+<p>= E(<em>UV </em>− E(<em>U</em>)<em>V </em>− E(<em>V</em>)<em>U </em>+ E(<em>U</em>)E(<em>V</em>))       <strong>M1</strong></p>
+<p>= E(<em>UV</em>) − E(E(<em>U</em>)<em>V</em>) − E(E(<em>V</em>)<em>U</em>) + E(E(<em>U</em>)E(<em>V</em>))       <em><strong>(A1)</strong></em></p>
+<p>= E(<em>UV</em>) − E(<em>U</em>)E(<em>V</em>) − E(<em>V</em>)E(<em>U</em>) + E(<em>U</em>)E(<em>V</em>)       <em><strong>A1</strong></em></p>
+<p>Cov(<em>U</em>, <em>V</em>) = E(<em>UV</em>) − E(<em>U</em>)E(<em>V</em>)       <em><strong>AG</strong></em></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>E(<em>UV</em>) = E(<em>U</em>)E(<em>V</em>) (independent random variables)       <em><strong>R1</strong></em></p>
+<p>⇒Cov(<em>U</em>, <em>V</em>) = E(<em>U</em>)E(<em>V</em>) − E(<em>U</em>)E(<em>V</em>) = 0      <em><strong>A1</strong></em></p>
+<p>hence, <em>ρ = </em><span class="mjpage"><math alttext="\frac{{{\text{Cov}}\left( {U,\,V} \right)}}{{\sqrt {{\text{Var}}\left( U \right)\,{\text{Var}}\left( V \right)} }} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>Cov</mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>U</mi>
+<mo>,</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>V</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mrow>
+<msqrt>
+<mrow>
+<mtext>Var</mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mi>U</mi>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>Var</mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mi>V</mi>
+<mo>)</mo>
+</mrow>
+</msqrt>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <em><strong>A1AG</strong></em></p>
+<p><strong>Note:</strong> Accept the statement that Cov(<em>U</em>,<em>V</em>) is the numerator of the formula for <em>ρ</em>.</p>
+<p><strong>Note:</strong> Only award the first <em><strong>A1</strong> </em>if the <em><strong>R1</strong> </em>is awarded.</p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">c.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"18M.3.AHL.TZ0.HSP_4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","sl-4-4-pearsons-scatter-diagrams-eqn-of-y-on-x"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.ii.</div>\n</div>"}}]]}]]}]

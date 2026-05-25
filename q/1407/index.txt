@@ -1,0 +1,374 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1407","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1407","d"],{"children":["__PAGE__?{\"id\":\"1407\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1407","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Te49,<div class="specification">
+<p>Consider the function <span class="mjpage"><math alttext="f(x) = 0.3{x^3} + \frac{{10}}{x} + {2^{ - x}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.3</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mfrac>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mi>x</mi>
+</mfrac>
+<mo>+</mo>
+<mrow>
+<msup>
+<mn>2</mn>
+<mrow>
+<mo>−<!-- − --></mo>
+<mi>x</mi>
+</mrow>
+</msup>
+</mrow>
+</math></span>.</p>
+</div><div class="specification">
+<p>Consider a second function, <span class="mjpage"><math alttext="g(x) = 2x - 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>g</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mo>−<!-- − --></mo>
+<mn>3</mn>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate <span class="mjpage"><math alttext="f(1)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Sketch the graph of <span class="mjpage"><math alttext="y = f(x)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</math></span> for <span class="mjpage"><math alttext=" - 7 \leqslant x \leqslant 4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>7</mn>
+<mo>⩽</mo>
+<mi>x</mi>
+<mo>⩽</mo>
+<mn>4</mn>
+</math></span> and <span class="mjpage"><math alttext=" - 30 \leqslant y \leqslant 30" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>30</mn>
+<mo>⩽</mo>
+<mi>y</mi>
+<mo>⩽</mo>
+<mn>30</mn>
+</math></span>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the equation of the vertical asymptote.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the coordinates of the <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span>-intercept.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the possible values of <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> for which <span class="mjpage"><math alttext="x &lt; 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>&lt;</mo>
+<mn>0</mn>
+</math></span> and <span class="mjpage"><math alttext="f’(x) &gt; 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<msup>
+<mi>f</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>&gt;</mo>
+<mn>0</mn>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the solution of <span class="mjpage"><math alttext="f(x) = g(x)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>g</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">f.</div>
+</div>a:T1e7b,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="0.3{(1)^3} + \frac{{10}}{1} + {2^{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0.3</mn>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mfrac>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mn>1</mn>
+</mfrac>
+<mo>+</mo>
+<mrow>
+<msup>
+<mn>2</mn>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for correct substitution into function.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 10.8" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>10.8</mn>
+</math></span>     <strong><em>(A1)(G2)</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><img alt="M17/5/MATSD/SP2/ENG/TZ1/03.b/M" src="../assets/uploads/tinymce_asset/asset/3603/Schermafbeelding_2017-08-16_om_14.01.31.png"/>     <strong><em>(A1)(A1)(A1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(A1) </em></strong>for indication of correct window and labelled axes.</p>
+<p>Award <strong><em>(A1) </em></strong>for correct shape and position for <span class="mjpage"><math alttext="x &lt; 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>&lt;</mo>
+<mn>0</mn>
+</math></span> (with the local maximum, local minimum and <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span>-intercept in relative approximate location in <span class="mjpage"><math alttext="{{\text{3}}^{{\text{rd}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mtext>3</mtext>
+</mrow>
+<mrow>
+<mrow>
+<mtext>rd</mtext>
+</mrow>
+</mrow>
+</msup>
+</mrow>
+</math></span> quadrant).</p>
+<p>Award <strong><em>(A1) </em></strong>for correct shape and position for <span class="mjpage"><math alttext="x &gt; 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>&gt;</mo>
+<mn>0</mn>
+</math></span> (with the local minimum in relative approximate location in <span class="mjpage"><math alttext="{{\text{1}}^{{\text{st}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mtext>1</mtext>
+</mrow>
+<mrow>
+<mrow>
+<mtext>st</mtext>
+</mrow>
+</mrow>
+</msup>
+</mrow>
+</math></span> quadrant).</p>
+<p>Award <strong><em>(A1) </em></strong>for smooth curve with indication of asymptote (graph should not touch <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span>-axis and should not curve away from the <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span>-axis). The asymptote is only assessed in this mark.</p>
+<p> </p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="x = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <strong><em>(A2)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(A1) </em></strong>for “<span class="mjpage"><math alttext="x = {\text{(a constant)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mrow>
+<mtext>(a constant)</mtext>
+</mrow>
+</math></span>” and <strong><em>(A1) </em></strong>for “<span class="mjpage"><math alttext="{\text{(a constant)}} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>(a constant)</mtext>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>”.</p>
+<p>The answer must be an equation.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="( - 6.18,{\text{ }}0){\text{ }}( - 6.17516 \ldots ,{\text{ }}0)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mo>−</mo>
+<mn>6.18</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mo>−</mo>
+<mn>6.17516</mn>
+<mo>…</mo>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(A1) </em></strong>for each correct coordinate. Award <strong><em>(A0)(A1) </em></strong>if parentheses are missing.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext=" - 4.99 &lt; x &lt;  - 2.47{\text{ }}( - 4.98688 \ldots  &lt; x &lt;  - 2.46635 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>4.99</mn>
+<mo>&lt;</mo>
+<mi>x</mi>
+<mo>&lt;</mo>
+<mo>−</mo>
+<mn>2.47</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mo>−</mo>
+<mn>4.98688</mn>
+<mo>…</mo>
+<mo>&lt;</mo>
+<mi>x</mi>
+<mo>&lt;</mo>
+<mo>−</mo>
+<mn>2.46635</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(A1) </em></strong>for both correct end points, <strong><em>(A1) </em></strong>for strict inequalities used with 2 endpoints.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="0.3{x^3} + \frac{{10}}{x} + {2^{ - x}} = 2x - 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0.3</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mfrac>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mi>x</mi>
+</mfrac>
+<mo>+</mo>
+<mrow>
+<msup>
+<mn>2</mn>
+<mrow>
+<mo>−</mo>
+<mi>x</mi>
+</mrow>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>3</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for equating the expressions for <span class="mjpage"><math alttext="f" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+</math></span> and <span class="mjpage"><math alttext="g" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>g</mi>
+</math></span> or for the line <span class="mjpage"><math alttext="y = 2x - 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>3</mn>
+</math></span> sketched (positive gradient, negative <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span>-intercept) on their graph from part (a).</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="(x = ){\text{ }} - 1.34{\text{ }}( - 1.33650 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo>−</mo>
+<mn>1.34</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mo>−</mo>
+<mn>1.33650</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award a maximum of <strong><em>(M1)(A0) </em></strong>or <strong><em>(G1) </em></strong>for coordinate pair seen as final answer.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">f.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/2/","children":["← back to topic ","2"]}]}],["$","h1",null,{"children":"17M.2.SL.TZ1.T_3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-2-5-modelling-functions"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">f.</div>\n</div>"}}]]}]]}]

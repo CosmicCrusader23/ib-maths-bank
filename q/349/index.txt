@@ -1,0 +1,682 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","349","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","349","d"],{"children":["__PAGE__?{\"id\":\"349\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","349","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tf1c,<div class="specification">
+<p>Let <span class="mjpage"><math alttext="\omega " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>ω<!-- ω --></mi>
+</math></span> be one of the non-real solutions of the equation <span class="mjpage"><math alttext="{z^3} = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>z</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>.</p>
+</div><div class="specification">
+<p>Consider the complex numbers <span class="mjpage"><math alttext="p = 1 - 3{\text{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mn>3</mn>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="q = x + (2x + 1){\text{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>q</mi>
+<mo>=</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+</math></span>, where <span class="mjpage"><math alttext="x \in \mathbb{R}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow>
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine the value of</p>
+<p>(i)     <span class="mjpage"><math alttext="1 + \omega  + {\omega ^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1</mn>
+<mo>+</mo>
+<mi>ω</mi>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span>;</p>
+<p>(ii)     <span class="mjpage"><math alttext="1 + \omega {\text{*}} + {(\omega {\text{*}})^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1</mn>
+<mo>+</mo>
+<mi>ω</mi>
+<mrow>
+<mtext>*</mtext>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>ω</mi>
+<mrow>
+<mtext>*</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="(\omega  - 3{\omega ^2})({\omega ^2} - 3\omega ) = 13" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>ω</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mi>ω</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>13</mn>
+</math></span>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the values of <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> that satisfy the equation <span class="mjpage"><math alttext="\left| p \right| = \left| q \right|" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mi>p</mi>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>|</mo>
+<mi>q</mi>
+<mo>|</mo>
+</mrow>
+</math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Solve the inequality <span class="mjpage"><math alttext="\operatorname{Re} (pq) + 8 &lt; {\left( {\operatorname{Im} (pq)} \right)^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>Re</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mi>q</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mn>8</mn>
+<mo>&lt;</mo>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>Im</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mi>q</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span>.</p>
+<div class="marks">[6]</div>
+<div class="question_part_label">d.</div>
+</div>a:T28ee,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p>(i)     <strong>METHOD 1</strong></p>
+<p><span class="mjpage"><math alttext="1 + \omega  + {\omega ^2} = \frac{{1 - {\omega ^3}}}{{1 - \omega }} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1</mn>
+<mo>+</mo>
+<mi>ω</mi>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mi>ω</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p>as <span class="mjpage"><math alttext="\omega  \ne 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>ω</mi>
+<mo>≠</mo>
+<mn>1</mn>
+</math></span>     <strong><em>R1</em></strong></p>
+<p><strong>METHOD 2</strong></p>
+<p>solutions of <span class="mjpage"><math alttext="1 - {\omega ^3} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</math></span> are <span class="mjpage"><math alttext="\omega  = 1,{\text{ }}\omega {\text{ = }}\frac{{ - 1 \pm \sqrt 3 {\text{i}}}}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>ω</mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>ω</mi>
+<mrow>
+<mtext> = </mtext>
+</mrow>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+<mo>±</mo>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</math></span>     <strong><em>A1</em></strong></p>
+<p>verification that the sum of these roots is 0     <strong><em>R1</em></strong></p>
+<p>(ii)     <span class="mjpage"><math alttext="1 + \omega {\text{*}} + {(\omega {\text{*}})^2} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1</mn>
+<mo>+</mo>
+<mi>ω</mi>
+<mrow>
+<mtext>*</mtext>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>ω</mi>
+<mrow>
+<mtext>*</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <strong><em>A2</em></strong></p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="(\omega  - 3{\omega ^2})({\omega ^2} - 3\omega ) =  - 3{\omega ^4} + 10{\omega ^3} - 3{\omega ^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>ω</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mi>ω</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mo>−</mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>4</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>10</mn>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span>    <strong><em>M1A1</em></strong></p>
+<p><strong>EITHER</strong></p>
+<p><span class="mjpage"><math alttext=" =  - 3{\omega ^2}({\omega ^2} + \omega  + 1) + 13{\omega ^3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mo>−</mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>ω</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mn>13</mn>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+</math></span>    <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext=" =  - 3{\omega ^2} \times 0 + 13 \times 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mo>−</mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mn>0</mn>
+<mo>+</mo>
+<mn>13</mn>
+<mo>×</mo>
+<mn>1</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext=" =  - 3\omega  + 10 - 3{\omega ^2} =  - 3({\omega ^2} + \omega  + 1) + 13" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mo>−</mo>
+<mn>3</mn>
+<mi>ω</mi>
+<mo>+</mo>
+<mn>10</mn>
+<mo>−</mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mo>−</mo>
+<mn>3</mn>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mi>ω</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>ω</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mn>13</mn>
+</math></span>    <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext=" =  - 3 \times 0 + 13" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mo>−</mo>
+<mn>3</mn>
+<mo>×</mo>
+<mn>0</mn>
+<mo>+</mo>
+<mn>13</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><strong>OR</strong></p>
+<p>substitution by <span class="mjpage"><math alttext="\omega  = \frac{{ - 1 \pm \sqrt 3 {\text{i}}}}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>ω</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+<mo>±</mo>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</math></span> in any form     <strong><em>M1</em></strong></p>
+<p>numerical values of each term seen     <strong><em>A1</em></strong></p>
+<p><strong>THEN</strong></p>
+<p><span class="mjpage"><math alttext=" = 13" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>13</mn>
+</math></span>    <strong><em>AG</em></strong></p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\left| p \right| = \left| q \right| \Rightarrow \sqrt {{1^2} + {3^2}}  = \sqrt {{x^2} + {{(2x + 1)}^2}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mi>p</mi>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>|</mo>
+<mi>q</mi>
+<mo>|</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<msqrt>
+<mrow>
+<msup>
+<mn>1</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mn>3</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+<mo>=</mo>
+<msqrt>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</math></span>    <strong><em>(M1)(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext="5{x^2} + 4x - 9 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>5</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>4</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>9</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="(5x + 9)(x - 1) = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mn>5</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>9</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>    <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="x = 1,{\text{ }}x =  - \frac{9}{5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>x</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mfrac>
+<mn>9</mn>
+<mn>5</mn>
+</mfrac>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><strong><em>[5 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="pq = (1 - 3{\text{i}})\left( {x + (2x + 1){\text{i}}} \right) = (7x + 3) + (1 - x){\text{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+<mi>q</mi>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mn>3</mn>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>x</mi>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mn>7</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+</math></span>    <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\operatorname{Re} (pq) + 8 &lt; {\left( {\operatorname{Im} (pq)} \right)^2} \Rightarrow (7x + 3) + 8 &lt; {(1 - x)^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>Re</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mi>q</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mn>8</mn>
+<mo>&lt;</mo>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>Im</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mi>q</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mo stretchy="false">(</mo>
+<mn>7</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mn>8</mn>
+<mo>&lt;</mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mi>x</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span>    <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow {x^2} - 9x - 10 &gt; 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>9</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>10</mn>
+<mo>&gt;</mo>
+<mn>0</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow (x + 1)(x - 10) &gt; 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>−</mo>
+<mn>10</mn>
+<mo stretchy="false">)</mo>
+<mo>&gt;</mo>
+<mn>0</mn>
+</math></span>    <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="x &lt;  - 1,{\text{ }}x &gt; 10" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>&lt;</mo>
+<mo>−</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>x</mi>
+<mo>&gt;</mo>
+<mn>10</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><strong><em>[6 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"16N.1.AHL.TZ0.H_12"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","ahl-1-12-complex-numbers-cartesian-form-and-argand-diag"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

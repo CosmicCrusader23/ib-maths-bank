@@ -1,0 +1,513 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1155","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1155","d"],{"children":["__PAGE__?{\"id\":\"1155\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1155","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T1013,<div class="specification">
+<p>Let <strong><em>A </em></strong><span class="mjpage"><math alttext=" = \left( {\begin{array}{*{20}{c}}  3&amp;1 \\   4&amp;3  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>.</p>
+</div><div class="specification">
+<p>Let <strong><em>A</em></strong><sup>2</sup> + <span class="mjpage"><math alttext="m" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>m</mi>
+</math></span><em><strong>A </strong></em>+ <span class="mjpage"><math alttext="n" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+</math></span><em><strong>I</strong></em> = <strong><em>O</em></strong> where <span class="mjpage"><math alttext="m" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>m</mi>
+</math></span>, <span class="mjpage"><math alttext="n \in \mathbb{Z}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow>
+<mi mathvariant="double-struck">Z</mi>
+</mrow>
+</math></span> and <strong><em>O </em></strong>= <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  0&amp;0 \\   0&amp;0  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the values of <span class="mjpage"><math alttext="\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+</math></span> for which the matrix (<strong><em>A</em></strong> − <span class="mjpage"><math alttext="\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+</math></span><strong><em>I</em></strong>) is singular.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <span class="mjpage"><math alttext="m" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>m</mi>
+</math></span> and of <span class="mjpage"><math alttext="n" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+</math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence show that <strong><em>I</em></strong> = <span class="mjpage"><math alttext="\frac{1}{5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>5</mn>
+</mfrac>
+</math></span><strong><em>A </em></strong>(6<strong><em>I</em></strong> – <strong><em>A</em></strong>).</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use the result from <strong>part (b) (ii)</strong> to explain why <strong><em>A</em></strong> is non-singular.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.iii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use the values from <strong>part (b) (i)</strong> to express <strong><em>A</em></strong><sup>4</sup> in the form <span class="mjpage"><math alttext="p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+</math></span><em><strong>A</strong></em>+ <span class="mjpage"><math alttext="q" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>q</mi>
+</math></span><em><strong>I</strong></em> where <span class="mjpage"><math alttext="p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+</math></span>, <span class="mjpage"><math alttext="q \in \mathbb{Z}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>q</mi>
+<mo>∈</mo>
+<mrow>
+<mi mathvariant="double-struck">Z</mi>
+</mrow>
+</math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">c.</div>
+</div>a:T30c0,<div class="question" style="padding-left: 20px;">
+<p><strong><em>A</em></strong> − <span class="mjpage"><math alttext="\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+</math></span><strong><em>I</em></strong> = <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  {3 - \lambda }&amp;1 \\   4&amp;{3 - \lambda }  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>3</mn>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mrow>
+<mn>3</mn>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span><em><strong>           A1</strong></em></p>
+<p>If <strong><em>A</em></strong> − <span class="mjpage"><math alttext="\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+</math></span><strong><em>I</em></strong> is singular then det (<strong><em>A</em></strong> − <span class="mjpage"><math alttext="\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+</math></span><strong><em>I</em></strong>) = 0<em><strong>           (R1)</strong></em></p>
+<p>det (<strong><em>A</em></strong> − <span class="mjpage"><math alttext="\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+</math></span><strong><em>I</em></strong>) <span class="mjpage"><math alttext=" = {\left( {3 - \lambda } \right)^2} - 4\left( { = {\lambda ^2} - 6\lambda  + 5} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>3</mn>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>4</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mi>λ</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>6</mn>
+<mi>λ</mi>
+<mo>+</mo>
+<mn>5</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span><em><strong>           (A1)</strong></em></p>
+<p>Attempting to solve <span class="mjpage"><math alttext="{\left( {3 - \lambda } \right)^2} - 4 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>3</mn>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>4</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span> or equivalent for <span class="mjpage"><math alttext="\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+</math></span>         <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+</math></span> = 1, 5      <em><strong>A1  N2</strong></em></p>
+<p><em> <strong>Note:</strong> </em>Candidates need both values of <span class="mjpage"><math alttext="\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+</math></span> for the final <em><strong>A1</strong></em>.</p>
+<p><em><strong>[5 marks]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{\left( {\begin{array}{*{20}{c}}  3&amp;1 \\   4&amp;3  \end{array}} \right)^2} + m\left( {\begin{array}{*{20}{c}}  3&amp;1 \\   4&amp;3  \end{array}} \right) + n\left( {\begin{array}{*{20}{c}}  1&amp;0 \\   0&amp;1  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  0&amp;0 \\   0&amp;0  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>m</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mi>n</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span><em><strong>           A1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\left( {\begin{array}{*{20}{c}}  3&amp;1 \\   4&amp;3  \end{array}} \right)^2} = \left( {\begin{array}{*{20}{c}}  {13}&amp;6 \\   {24}&amp;{13}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>13</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>6</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>24</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>13</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span><em><strong>           (A1)</strong></em></p>
+<p>Forming any two independent equations   <em><strong>        M1</strong></em></p>
+<p>(<em>eg</em> <span class="mjpage"><math alttext="6 + m = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>6</mn>
+<mo>+</mo>
+<mi>m</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>, <span class="mjpage"><math alttext="13 + 3m + n = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>13</mn>
+<mo>+</mo>
+<mn>3</mn>
+<mi>m</mi>
+<mo>+</mo>
+<mi>n</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span> or equivalent)</p>
+<p><em><strong>Note:</strong> </em>Accept equations in matrix form.</p>
+<p>Solving these two equations      <em><strong>(M1)</strong></em></p>
+<p><span class="mjpage"><math alttext="m = -6" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>m</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>6</mn>
+</math></span> and <span class="mjpage"><math alttext="n = 5" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>=</mo>
+<mn>5</mn>
+</math></span>      <em><strong>A1  N2</strong></em></p>
+<p><em><strong>[5 marks]</strong></em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong><em>A</em></strong><sup>2</sup> − 6<strong><em>A</em></strong> + 5<strong><em>I</em></strong> = <strong><em>O</em></strong>        <em><strong>(M1) </strong></em></p>
+<p>5<strong><em>I</em></strong> = 6<strong><em>A</em></strong> − <strong><em>A</em></strong><sup>2</sup>         <em><strong>A1</strong></em></p>
+<p>= <strong><em>A</em></strong>(6<strong><em>I</em></strong> − <strong><em>A</em></strong>)          <em><strong>A1A1 </strong></em></p>
+<p><em><strong>Note:</strong> </em>Award <em><strong>A1</strong></em> for <em><strong>A</strong></em> and <em><strong>A1</strong></em> for (6<em><strong>I</strong></em> − <em><strong>A</strong></em>).</p>
+<p><strong><em>I</em></strong> = <span class="mjpage"><math alttext="\frac{1}{5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>5</mn>
+</mfrac>
+</math></span><strong><em>A</em></strong>(6<strong><em>I</em></strong> − <strong><em>A</em></strong>)     <em><strong>AG  N0 </strong></em></p>
+<p><em><strong>Special Case:</strong></em> Award <em><strong>M1A0A0A0</strong></em> only for candidates following alternative methods.</p>
+<p><em><strong>[5 marks]</strong></em></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p><strong><em>I</em></strong> = <span class="mjpage"><math alttext="\frac{1}{5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>5</mn>
+</mfrac>
+</math></span><strong><em>A</em></strong>(6<strong><em>I</em></strong> − <strong><em>A</em></strong>) = <strong><em>A </em></strong><em>×</em> <span class="mjpage"><math alttext="\frac{1}{5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>5</mn>
+</mfrac>
+</math></span>(6<strong><em>I</em></strong> − <strong><em>A</em></strong>)         <em><strong>M1 </strong></em></p>
+<p>Hence by definition <span class="mjpage"><math alttext="\frac{1}{5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>5</mn>
+</mfrac>
+</math></span>(6<strong><em>I</em></strong> − <strong><em>A</em></strong>) is the inverse of <strong><em>A</em></strong>.     <em><strong>R1 </strong></em></p>
+<p>Hence <strong><em>A</em></strong><sup>−1</sup> exists and so <strong><em>A</em></strong> is non-singular       <em><strong>R1   N0 </strong></em></p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p>As det <strong><em>I</em></strong> = 1 (≠ 0), then          <em><strong>R1 </strong></em></p>
+<p>det <span class="mjpage"><math alttext="\frac{1}{5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>5</mn>
+</mfrac>
+</math></span><strong><em>A</em></strong>(6<strong><em>I</em></strong> − <strong><em>A</em></strong>) = <span class="mjpage"><math alttext="\frac{1}{5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>5</mn>
+</mfrac>
+</math></span> det <strong><em>A</em></strong> <em>×</em> det (6<strong><em>I</em></strong> − <strong><em>A</em></strong>) (≠ 0)      <em><strong>M1 </strong></em></p>
+<p>⇒ det <strong><em>A</em></strong> ≠ 0 and so <strong><em>A</em></strong> is non-singular.        <em><strong> R1   N0 </strong></em></p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">b.iii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p><strong><em>A</em></strong><sup>2</sup> = 6<strong><em>A</em></strong> − 5<strong><em>I</em></strong>              <em><strong>(A1) </strong></em></p>
+<p><strong><em>A</em></strong><sup>4</sup> = (6<strong><em>A</em></strong> − 5<strong><em>I</em></strong>)<sup>2              </sup><em><strong>M1</strong></em></p>
+<p>     = 36<strong><em>A</em></strong><sup>2</sup> − 60<strong><em>AI</em></strong> + 25<strong><em>I</em></strong><sup>2              </sup><em><strong>A1</strong></em></p>
+<p>     = 36(6<strong><em>A</em></strong> − 5<strong><em>I</em></strong>) − 60<strong><em>A</em></strong> + 25<strong><em>I              M1</em></strong></p>
+<p>     = 156<strong><em>A</em></strong> − 155<strong><em>I</em></strong> (<span class="mjpage"><math alttext="p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+</math></span> = 156, <span class="mjpage"><math alttext="q" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>q</mi>
+</math></span> = −155)              <em><strong>A1  N0 </strong></em></p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p><strong><em>A</em></strong><sup>2</sup> = 6<strong><em>A</em></strong> − 5<strong><em>I              (A1) </em></strong></p>
+<p><strong><em>A</em></strong><sup>3</sup> = 6<strong><em>A</em></strong><sup>2</sup> − 5<strong><em>A</em></strong> where <strong><em>A</em></strong><sup>2</sup> = 6<strong><em>A</em></strong> − 5<strong><em>I              M1</em></strong></p>
+<p>     = 31<strong><em>A </em></strong>− 30<strong><em>I              A1 </em></strong></p>
+<p><strong><em>A</em></strong><sup>4</sup> = 31<strong><em>A</em></strong><sup>2</sup> − 30<strong><em>A</em></strong> where <strong><em>A</em></strong><sup>2</sup> = 6<strong><em>A</em></strong> − 5<strong><em>I              M1</em></strong></p>
+<p>     = 156<strong><em>A</em></strong> − 155<strong><em>I</em></strong> (<span class="mjpage"><math alttext="p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+</math></span> = 156, <span class="mjpage"><math alttext="q" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>q</mi>
+</math></span> = −155)              <em><strong>A1  N0 </strong></em></p>
+<p> </p>
+<p><em><strong>Note:</strong></em> Do not accept methods that evaluate A4 directly from <em><strong>A</strong></em>.</p>
+<p> </p>
+<p><em><strong>[5 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"EXM.2.AHL.TZ0.23"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"EXM"}],["$","span",null,{"children":["· ","ahl-1-14-introduction-to-matrices"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.iii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

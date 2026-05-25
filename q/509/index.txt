@@ -1,0 +1,120 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","509","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","509","d"],{"children":["__PAGE__?{\"id\":\"509\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","509","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T815,<div class="question">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p>cos <em>θ</em> = <span class="mjpage"><math alttext="\frac{{\left( {3i - 4j - 5k} \right) \bullet \left( {5i - 4j + 3k} \right)}}{{\left| {3i - 4j - 5k} \right|\left| {5i - 4j + 3k} \right|}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>3</mn>
+<mi>i</mi>
+<mo>−</mo>
+<mn>4</mn>
+<mi>j</mi>
+<mo>−</mo>
+<mn>5</mn>
+<mi>k</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>∙</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>5</mn>
+<mi>i</mi>
+<mo>−</mo>
+<mn>4</mn>
+<mi>j</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mi>k</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mn>3</mn>
+<mi>i</mi>
+<mo>−</mo>
+<mn>4</mn>
+<mi>j</mi>
+<mo>−</mo>
+<mn>5</mn>
+<mi>k</mi>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mn>5</mn>
+<mi>i</mi>
+<mo>−</mo>
+<mn>4</mn>
+<mi>j</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mi>k</mi>
+</mrow>
+<mo>|</mo>
+</mrow>
+</mrow>
+</mfrac>
+</math></span>      <em><strong>(M1)</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \frac{{16}}{{\sqrt {50} \sqrt {50} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>16</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>50</mn>
+</msqrt>
+<msqrt>
+<mn>50</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</math></span>     <em><strong>A1A1</strong></em></p>
+<p><strong>Note:</strong> <em><strong>A1</strong></em> for correct numerator and <em><strong>A1</strong> </em>for correct denominator.</p>
+<p><span class="mjpage"><math alttext=" = \frac{8}{{25}}\left( { = \frac{{16}}{{50}} = 0.32} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mn>8</mn>
+<mrow>
+<mn>25</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>16</mn>
+</mrow>
+<mrow>
+<mn>50</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>0.32</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <em><strong> A1</strong></em></p>
+<p><em><strong>[4 marks]</strong></em></p>
+<p> </p>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"18M.1.AHL.TZ2.H_1"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","ahl-3-13-scalar-(dot)-product"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n<p>The acute angle between the vectors 3<em><strong>i</strong></em> − 4<em><strong>j</strong></em> − 5<em><strong>k</strong></em> and 5<em><strong>i</strong></em> − 4<em><strong>j</strong></em> + 3<em><strong>k</strong></em> is denoted by <em>θ</em>.</p>\n<p>Find cos <em>θ</em>.</p>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n[N/A]\n</div>"}}]]}]]}]

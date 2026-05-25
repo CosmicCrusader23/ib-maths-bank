@@ -1,0 +1,1148 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","497","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","497","d"],{"children":["__PAGE__?{\"id\":\"497\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","497","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T419,<div class="question">
+<p>Using L’Hôpital’s rule, find <span class="mjpage"><math alttext="\mathop {{\text{lim}}}\limits_{x \to 0} \left( {\frac{{{\text{tan}}\,3x - 3\,{\text{tan}}\,x}}{{{\text{sin}}\,3x - 3\,{\text{sin}}\,x}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>.</p>
+</div>a:T4bf0,<div class="question">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="\mathop {{\text{lim}}}\limits_{x \to 0} \left( {\frac{{{\text{tan}}\,3x - 3\,{\text{tan}}\,x}}{{{\text{sin}}\,3x - 3\,{\text{sin}}\,x}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\mathop {{\text{lim}}}\limits_{x \to 0} \left( {\frac{{{\text{3}}\,{\text{se}}{{\text{c}}^2}\,3x - 3\,{\text{se}}{{\text{c}}^2}\,x}}{{{\text{3}}\,{\text{cos}}\,3x - 3\,{\text{cos}}\,x}}} \right)\,\,\,\,\,\left( { = \mathop {{\text{lim}}}\limits_{x \to 0} \left( {\frac{{{\text{se}}{{\text{c}}^2}\,3x - {\text{se}}{{\text{c}}^2}\,x}}{{{\text{cos}}\,3x - {\text{cos}}\,x}}} \right)\,} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>3</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>3</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>M1A1A1</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>M1</strong></em> for attempt at differentiation using l'Hopital's rule, <em><strong>A1</strong></em> for numerator, <em><strong>A1</strong></em> for denominator.</p>
+<p> </p>
+<p><strong>METHOD 1</strong></p>
+<p>using l’Hopital’s rule again</p>
+<p><span class="mjpage"><math alttext=" = \mathop {{\text{lim}}}\limits_{x \to 0} \left( {\frac{{{\text{18}}\,{\text{se}}{{\text{c}}^2}\,3x\,{\text{tan}}\,3x - 6\,{\text{se}}{{\text{c}}^2}\,x\,{\text{tan}}\,x}}{{ - 9\,{\text{sin}}\,3x + 3\,{\text{sin}}\,x}}} \right)\,\,\left( { = \mathop {{\text{lim}}}\limits_{x \to 0} \left( {\frac{{{\text{6}}\,{\text{se}}{{\text{c}}^2}\,3x\,{\text{tan}}\,3x - 2\,{\text{se}}{{\text{c}}^2}\,x\,{\text{tan}}\,x}}{{ - 3\,{\text{sin}}\,3x + {\text{sin}}\,x}}} \right)} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>18</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>6</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>9</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>6</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>A1A1</strong></em></p>
+<p><strong>EITHER</strong></p>
+<p><span class="mjpage"><math alttext=" = \mathop {{\text{lim}}}\limits_{x \to 0} \left( {\frac{{{\text{108}}\,{\text{se}}{{\text{c}}^2}\,3x\,{\text{ta}}{{\text{n}}^2}\,3x + 54\,{\text{se}}{{\text{c}}^4}\,3x - 12\,{\text{se}}{{\text{c}}^2}\,x\,{\text{ta}}{{\text{n}}^2}\,x - 6\,{\text{se}}{{\text{c}}^4}\,x}}{{{\text{ - 27}}\,{\text{cos}}\,3x + 3\,{\text{cos}}\,x}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>108</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>54</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>4</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>12</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mo>−</mo>
+<mn>6</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>4</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext> - 27</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>A1A1</strong></em></p>
+<p><strong>Note:</strong> Not all terms in numerator need to be written in final fraction. Award <em><strong>A1</strong></em> for <span class="mjpage"><math alttext="54\,{\text{se}}{{\text{c}}^4}\,3x +  \ldots  - 6\,{\text{se}}{{\text{c}}^4}\,x \ldots - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>54</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>4</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mo>…</mo>
+<mo>−</mo>
+<mn>6</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>4</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mo>…</mo>
+<mo>−</mo>
+</math></span>. However, if the terms are written, they<br/>must be correct to award A1.</p>
+<p>attempt to substitute <span class="mjpage"><math alttext="x = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>         <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \frac{{48}}{{ - 24}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>48</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>24</mn>
+</mrow>
+</mfrac>
+</math></span></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="\frac{{\text{d}}}{{{\text{d}}x}}\left( {{\text{18}}\,{\text{se}}{{\text{c}}^2}\,3x\,{\text{tan}}\,3x - 6\,{\text{se}}{{\text{c}}^2}\,x\,{\text{tan}}\,x} \right)\left| {_{x = 0} = 48} \right." xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow>
+<mtext>18</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>6</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>|</mo>
+<mrow>
+<msub>
+<mi></mi>
+<mrow>
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>48</mn>
+</mrow>
+<mo fence="true" stretchy="true" symmetric="true"></mo>
+</mrow>
+</math></span>      <em><strong>(M1)A1</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{{\text{d}}}{{{\text{d}}x}}\left( { - 9\,{\text{sin}}\,3x + 3\,{\text{sin}}\,x} \right)\left| {_{x = 0} =  - 24} \right." xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−</mo>
+<mn>9</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>|</mo>
+<mrow>
+<msub>
+<mi></mi>
+<mrow>
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−</mo>
+<mn>24</mn>
+</mrow>
+<mo fence="true" stretchy="true" symmetric="true"></mo>
+</mrow>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><strong>THEN</strong></p>
+<p><span class="mjpage"><math alttext="\left( {\mathop {{\text{lim}}}\limits_{x \to 0} \left( {\frac{{{\text{tan}}\,3x - 3\,{\text{tan}}\,x}}{{{\text{sin}}\,3x - 3\,{\text{sin}}\,x}}} \right)} \right) =  - 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mo>−</mo>
+<mn>2</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p><span class="mjpage"><math alttext=" = \mathop {{\text{lim}}}\limits_{x \to 0} \left( {\frac{{\frac{3}{{{\text{co}}{{\text{s}}^2}\,3x}} - \frac{3}{{{\text{co}}{{\text{s}}^2}\,x}}}}{{{\text{3}}\,{\text{cos}}\,3x - 3\,{\text{cos}}\,x}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mfrac>
+<mn>3</mn>
+<mrow>
+<mrow>
+<mtext>co</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mn>3</mn>
+<mrow>
+<mrow>
+<mtext>co</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mrow>
+<mtext>3</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \mathop {{\text{lim}}}\limits_{x \to 0} \left( {\frac{{{\text{co}}{{\text{s}}^2}\,x - {\text{co}}{{\text{s}}^2}\,3x}}{{{\text{co}}{{\text{s}}^2}\,3x\,{\text{co}}{{\text{s}}^2}\,x\left( {{\text{cos}}\,3x - {\text{cos}}\,x} \right)}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>co</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mo>−</mo>
+<mrow>
+<mtext>co</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>co</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>co</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \mathop {{\text{lim}}}\limits_{x \to 0} \left( {\frac{{{\text{cos}}\,x + {\text{cos}}\,3x}}{{ - {\text{co}}{{\text{s}}^2}\,3x\,{\text{co}}{{\text{s}}^2}\,x}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<munder>
+<mrow>
+<mrow>
+<mtext>lim</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">→</mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mo>+</mo>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mrow>
+<mtext>co</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>3</mn>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>co</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>M1A1</strong></em></p>
+<p>attempt to substitute <span class="mjpage"><math alttext="x = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>         <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \frac{2}{{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mn>2</mn>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" =  - 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mo>−</mo>
+<mn>2</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[9 marks]</strong></em></p>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"19M.3.AHL.TZ0.HCA_4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","ahl-5-13-limits-and-lhopitals"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n[N/A]\n</div>"}}]]}]]}]

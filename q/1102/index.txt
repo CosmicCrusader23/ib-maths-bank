@@ -1,0 +1,668 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1102","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1102","d"],{"children":["__PAGE__?{\"id\":\"1102\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1102","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T18c9,<div class="question">
+<p>A camera at point C is 3 m from the edge of a straight section of road as shown in the following diagram. The camera detects a car travelling along the road at <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+</math></span> = 0. It then rotates, always pointing at the car, until the car passes O, the point on the edge of the road closest to the camera.</p>
+<p style="text-align: center;"><img src="data:image/png;base64,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"/></p>
+<p style="text-align: left;">A car travels along the road at a speed of 24 ms<sup>−1</sup>. Let the position of the car be X and let OĈX = <em>θ</em>.</p>
+<p style="text-align: left;">Find <span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</math></span>, the rate of rotation of the camera, in radians per second, at the instant the car passes the point O .</p>
+</div>a:T3457,<div class="question">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p>let OX = <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span></p>
+<p><strong>METHOD 1</strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}x}}{{{\text{d}}t}} = 24" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>24</mn>
+</math></span>   (or −24)       <em><strong>(A1)</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}} = \frac{{{\text{d}}x}}{{{\text{d}}t}} \times \frac{{{\text{d}}\theta }}{{{\text{d}}x}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</math></span>       <em><strong>(M1)</strong></em></p>
+<p><span class="mjpage"><math alttext="3\,{\text{tan}}\,\theta  = x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>=</mo>
+<mi>x</mi>
+</math></span>       <em><strong>A1</strong></em></p>
+<p><strong>EITHER</strong></p>
+<p><span class="mjpage"><math alttext="3\,{\text{se}}{{\text{c}}^2}\,\theta  = \frac{{{\text{d}}x}}{{{\text{d}}\theta }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</math></span>       <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}} = \frac{{24}}{{3\,{\text{se}}{{\text{c}}^2}\,\theta }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>24</mn>
+</mrow>
+<mrow>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</math></span></p>
+<p>attempt to substitute for <span class="mjpage"><math alttext="\theta  = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span> into their differential equation<span style="display: inline !important;float: none;background-color: #ffffff;color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;">       </span><em style="color: #000000;font-family: Verdana,Arial,Helvetica,sans-serif;font-size: 14px;font-style: italic;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px;white-space: normal;"><strong>M1</strong></em></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="\theta  = {\text{arctan}}\left( {\frac{x}{3}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ</mi>
+<mo>=</mo>
+<mrow>
+<mtext>arctan</mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mi>x</mi>
+<mn>3</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}x}} = \frac{1}{3} \times \frac{1}{{1 + \frac{{{x^2}}}{9}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mn>9</mn>
+</mfrac>
+</mrow>
+</mfrac>
+</math></span>       <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}} = 24 \times \frac{1}{{3\left( {1 + \frac{{{x^2}}}{9}} \right)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>24</mn>
+<mo>×</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>3</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mn>9</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mfrac>
+</math></span></p>
+<p>attempt to substitute for <span class="mjpage"><math alttext="x = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span> into their differential equation       <em><strong>M1</strong></em></p>
+<p><strong>THEN</strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}} = \frac{{24}}{3} = 8" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>24</mn>
+</mrow>
+<mn>3</mn>
+</mfrac>
+<mo>=</mo>
+<mn>8</mn>
+</math></span>  (rad s<sup>−1</sup>)       <em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> Accept −8 rad s<sup>−1</sup>.</p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}x}}{{{\text{d}}t}} = 24" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>24</mn>
+</math></span>   (or −24)       <em><strong>(A1)</strong></em></p>
+<p><span class="mjpage"><math alttext="3\,{\text{tan}}\,\theta  = x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>=</mo>
+<mi>x</mi>
+</math></span>       <em><strong>A1</strong></em></p>
+<p>attempt to differentiate implicitly with respect to <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+</math></span>       <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="3\,{\text{se}}{{\text{c}}^2}\,\theta  \times \frac{{{\text{d}}\theta }}{{{\text{d}}t}} = \frac{{{\text{d}}x}}{{{\text{d}}t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>×</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}} = \frac{{24}}{{3\,{\text{se}}{{\text{c}}^2}\,\theta }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>24</mn>
+</mrow>
+<mrow>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</math></span></p>
+<p>attempt to substitute for <span class="mjpage"><math alttext="\theta  = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span> into their differential equation       <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}} = \frac{{24}}{3} = 8" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>24</mn>
+</mrow>
+<mn>3</mn>
+</mfrac>
+<mo>=</mo>
+<mn>8</mn>
+</math></span> (rad s<sup>−1</sup>)       <em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> Accept −8 rad s<sup>−1</sup>.</p>
+<p><strong>Note:</strong> Can be done by consideration of CX, use of Pythagoras.</p>
+<p> </p>
+<p><strong>METHOD 3</strong></p>
+<p>let the position of the car be at time <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+</math></span> be <span class="mjpage"><math alttext="d - 24t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+<mo>−</mo>
+<mn>24</mn>
+<mi>t</mi>
+</math></span> from O       <em><strong>(A1)</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{tan}}\,\theta  = \frac{{d - 24t}}{3}\left( { = \frac{d}{3} - 8t} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mo>−</mo>
+<mn>24</mn>
+<mi>t</mi>
+</mrow>
+<mn>3</mn>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<mfrac>
+<mi>d</mi>
+<mn>3</mn>
+</mfrac>
+<mo>−</mo>
+<mn>8</mn>
+<mi>t</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>       <em><strong>M1</strong></em></p>
+<p><strong>Note:</strong> For <span class="mjpage"><math alttext="{\text{tan}}\,\theta  = \frac{{24t}}{3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>24</mn>
+<mi>t</mi>
+</mrow>
+<mn>3</mn>
+</mfrac>
+</math></span> award <em><strong>A0M1</strong></em> and follow through.</p>
+<p><strong>EITHER</strong></p>
+<p>attempt to differentiate implicitly with respect to <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+</math></span>       <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="{\text{se}}{{\text{c}}^2}\,\theta \frac{{{\text{d}}\theta }}{{{\text{d}}t}} =  - 8" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>θ</mi>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo>−</mo>
+<mn>8</mn>
+</math></span>       <em><strong>A1</strong></em></p>
+<p>attempt to substitute for <span class="mjpage"><math alttext="\theta  = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span> into their differential equation       <em><strong>M1</strong></em></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="\theta  = {\text{arctan}}\left( {\frac{d}{3} - 8t} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ</mi>
+<mo>=</mo>
+<mrow>
+<mtext>arctan</mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mi>d</mi>
+<mn>3</mn>
+</mfrac>
+<mo>−</mo>
+<mn>8</mn>
+<mi>t</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>       <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}} = \frac{8}{{1 + {{\left( {\frac{d}{3} - 8t} \right)}^2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mn>8</mn>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mi>d</mi>
+<mn>3</mn>
+</mfrac>
+<mo>−</mo>
+<mn>8</mn>
+<mi>t</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span>       <em><strong>A1</strong></em></p>
+<p>at O, <span class="mjpage"><math alttext="t = \frac{d}{{24}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mn>24</mn>
+</mrow>
+</mfrac>
+</math></span>       <em><strong>A1</strong></em></p>
+<p><strong>THEN</strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}} =  - 8" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo>−</mo>
+<mn>8</mn>
+</math></span>       <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[6 marks]</strong></em></p>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"19M.1.AHL.TZ1.H_5"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","sl-5-1-introduction-of-differential-calculus"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n[N/A]\n</div>"}}]]}]]}]

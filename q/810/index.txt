@@ -1,0 +1,107 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","810","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","810","d"],{"children":["__PAGE__?{\"id\":\"810\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","810","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tcc0,<div class="specification">
+<p>The function <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math> is defined by <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfrac></math>, where <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>∈</mo><mi mathvariant="normal">ℝ</mi><mo>,</mo><mo> </mo><mi>x</mi><mo>≠</mo><mo>-</mo><mn>4</mn></math>.</p>
+</div><div class="specification">
+<p>For the graph of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math></p>
+</div><div class="specification">
+<p>The graphs of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> intersect at <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mi>p</mi></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mi>q</mi></math>, where <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mo>&lt;</mo><mi>q</mi></math>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>write down the equation of the vertical asymptote.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>find the equation of the horizontal asymptote.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>x</mi></mfenced></math>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Using an algebraic approach, show that the graph of <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> is obtained by a reflection of the graph of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math> in the <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math>-axis followed by a reflection in the <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math>-axis.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math> and the value of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>q</mi></math>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence, find the area enclosed by the graph of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math> and the graph of <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.ii.</div>
+</div>a:T1f83,<div class="question" style="padding-left: 20px;">
+<p><strong><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mo>-</mo><mn>4</mn></math></strong><strong>          <em>A1</em></strong></p>
+<p> </p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt to substitute into <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mfrac><mi>a</mi><mi>c</mi></mfrac></math>  OR  table with large values of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math>  OR  sketch of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math> showing asymptotic behaviour<strong>          <em>(M1)</em></strong></p>
+<p><strong><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>4</mn></math></strong><strong>          <em>A1</em></strong></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mfrac><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfrac></math></p>
+<p>attempt to interchange <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math> (seen anywhere)        <strong><em>M1</em></strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mi>y</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></math>   OR   <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mi>y</mi><mo>+</mo><mn>4</mn><mi>x</mi><mo>=</mo><mn>4</mn><mi>y</mi><mo>+</mo><mn>1</mn></math><strong>         <em>(A1)</em></strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mi>y</mi><mo>-</mo><mn>4</mn><mi>x</mi><mo>=</mo><mn>1</mn><mo>-</mo><mn>4</mn><mi>y</mi></math>   OR   <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mi>y</mi><mo>-</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>1</mn><mo>-</mo><mn>4</mn><mi>x</mi></math><strong>         <em>(A1)</em></strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mn>4</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>-</mo><mn>4</mn></mrow></mfrac></math>  (accept <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mn>4</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>-</mo><mn>4</mn></mrow></mfrac></math>)<strong>         <em>A1</em></strong></p>
+<p> </p>
+<p><em><strong>[4 marks]</strong></em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>reflection in <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math>-axis given by <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mfenced><mrow><mo>-</mo><mi>x</mi></mrow></mfenced></math><strong>         <em>(M1)</em></strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mfenced><mrow><mo>-</mo><mi>x</mi></mrow></mfenced><mo>=</mo><mfrac><mrow><mo>-</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mo>-</mo><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfrac></math><strong>         <em>(A1)</em></strong></p>
+<p>reflection of their <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mfenced><mrow><mo>-</mo><mi>x</mi></mrow></mfenced></math> in <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math>-axis given by <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mi>f</mi><mfenced><mrow><mo>-</mo><mi>x</mi></mrow></mfenced></math> accept "now <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></math>"        <strong><em>M1</em></strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mo>-</mo><mi>f</mi><mfenced><mrow><mo>-</mo><mi>x</mi></mrow></mfenced><mo>=</mo></mrow></mfenced><mo> </mo><mo>-</mo><mfrac><mrow><mo>-</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mo>-</mo><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfrac></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mfrac><mrow><mo>-</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>-</mo><mn>4</mn></mrow></mfrac></math>  OR  <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn>4</mn><mi>x</mi><mo>-</mo><mn>1</mn></mrow><mrow><mo>-</mo><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfrac></math><strong>         <em>A1</em></strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mn>4</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>-</mo><mn>4</mn></mrow></mfrac><mo> </mo><mo> </mo><mfenced><mrow><mo>=</mo><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>x</mi></mfenced></mrow></mfenced></math><strong>         <em>AG</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong> If the candidate attempts to show the result using a particular coordinate on the graph of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math> rather than a general coordinate on the graph of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math>, where appropriate, award marks as follows:<br/><strong><em>M0A0</em> for eg</strong> <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>)</mo><mo>→</mo><mo>(</mo><mo>−</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>)</mo></math><br/><strong><em>M0A0</em> for</strong> <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mo>−</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>)</mo><mo>→</mo><mo>(</mo><mo>−</mo><mn>2</mn><mo>,</mo><mo>−</mo><mn>3</mn><mo>)</mo></math></p>
+<p> </p>
+<p><em><strong>[4 marks]</strong></em></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt to solve <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>x</mi></mfenced></math> using graph or algebraically<strong>         <em>(M1)</em></strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mo>=</mo><mo>-</mo><mn>1</mn></math>  AND  <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>q</mi><mo>=</mo><mn>1</mn></math><strong>         <em>A1</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong> Award <em><strong>(M1)A0</strong> </em>if only one correct value seen.</p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt to set up an integral to find area between <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math><strong>         <em>(M1)</em></strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><munderover><mo>∫</mo><mrow><mo>-</mo><mn>1</mn></mrow><mn>1</mn></munderover><mfenced><mrow><mfrac><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mn>4</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>-</mo><mn>4</mn></mrow></mfrac></mrow></mfenced><mo>d</mo><mi>x</mi></math><strong>         <em>(A1)</em></strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>0</mn><mo>.</mo><mn>675231</mn><mo>…</mo></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>0</mn><mo>.</mo><mn>675</mn></math><strong>         <em>A1</em></strong></p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">c.ii.</div>
+</div>b:Tdfb,<div class="question" style="padding-left: 20px;">
+<p>Candidates mostly found the first part of this question accessible, with many knowing how to find the equation of both asymptotes. Common errors included transposing the asymptotes, or finding where an asymptote occurred but not giving it as an equation.</p>
+<p>Candidates knew how to start part (b)(i), with most attempting to find the inverse function by firstly interchanging <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math>. However, many struggled with the algebra required to change the subject, and were not awarded all the marks. A common error in this part was for candidates to attempt to find an expression for <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo>'</mo><mo>(</mo><mi>x</mi><mo>)</mo></math>, rather than one for <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>(</mo><mi>x</mi><mo>)</mo></math>. Few candidates were able to answer part (b)(ii). Many appeared not to know that a reflection in the <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math>-axis is given by <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo>(</mo><mo>-</mo><mi>x</mi><mo>)</mo></math>, or that a reflection in the <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math>-axis is given by <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>. Many of those that did, multiplied both the numerator and denominator by <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mn>1</mn></math> when taking the negative of their <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo>(</mo><mo>-</mo><mi>x</mi><mo>)</mo></math> , i.e. <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mfenced><mfrac><mrow><mo>-</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mo>-</mo><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfrac></mfenced></math> was often simplified as <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn>4</mn><mi>x</mi><mo>-</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>-</mo><mn>4</mn></mrow></mfrac></math>. However, the majority of candidates either did not attempt this question part or attempted to describe a graphical approach often involving a specific point, rather than an algebraic approach.</p>
+<p>Those that attempted part (c), and had the correct expression for <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>(</mo><mi>x</mi><mo>)</mo></math>, were usually able to gain all the marks. However, those that had an incorrect expression, or had found <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo>'</mo><mo>(</mo><mi>x</mi><mo>)</mo></math>, often proceeded to find an area, even when there was not an area enclosed by their two curves.</p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"22M.2.SL.TZ1.8"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"22M"}],["$","span",null,{"children":["· ","sl-2-8-reciprocal-and-simple-rational-functions-equations-of-asymptotes, sl-2-5-composite-functions-identity-finding-inverse, sl-2-4-key-features-of-graphs-intersections-using-technology, sl-5-11-definite-integrals-areas-under-curve-onto-x-axis-and-areas-between-curves"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

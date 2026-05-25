@@ -1,0 +1,168 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1200","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1200","d"],{"children":["__PAGE__?{\"id\":\"1200\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1200","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T814,<div class="specification">
+<p><strong>Give your answers to parts (b), (c) and (d) to the nearest whole number.</strong></p>
+<p>Harinder has 14 000 US Dollars (USD) to invest for a period of five years. He has two options of how to invest the money.</p>
+<p><strong>Option A:</strong> Invest the full amount, in USD, in a fixed deposit account in an American bank.</p>
+<p>The account pays a nominal annual interest rate of <em>r </em>% , <strong>compounded yearly</strong>, for the five years. The bank manager says that this will give Harinder a return of 17<em> </em>500 USD.</p>
+</div><div class="specification">
+<p><strong>Option B:</strong> Invest the full amount, in Indian Rupees (INR), in a fixed deposit account in an Indian bank. The money must be converted from USD to INR before it is invested.</p>
+<p>The exchange rate is 1 USD = 66.91 INR.</p>
+</div><div class="specification">
+<p>The account in the Indian bank pays a nominal annual interest rate of 5.2 % <strong>compounded monthly</strong>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the value of <em>r</em>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate 14 000 USD in INR.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the amount of this investment, in INR, in this account after five years.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Harinder chose option B. At the end of five years, Harinder converted this investment back to USD. The exchange rate, at that time, was 1 USD = 67.16 INR.</p>
+<p>Calculate how much <strong>more</strong> money, in USD, Harinder earned by choosing option B instead of option A.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.</div>
+</div>a:T13eb,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="17500 = 14000{\left( {1 + \frac{r}{{100}}} \right)^5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>17500</mn>
+<mo>=</mo>
+<mn>14000</mn>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mfrac>
+<mi>r</mi>
+<mrow>
+<mn>100</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>5</mn>
+</msup>
+</mrow>
+</math></span>     <em><strong>(M1)(A1)</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>(M1)</strong></em> for substitution into the compound interest formula, <em><strong>(A1)</strong></em> for correct substitution. Award at most <em><strong>(M1)(A0)</strong></em> if not equated to 17500.</p>
+<p>OR</p>
+<p><em>N</em> = 5</p>
+<p><em>PV</em> = ±14000</p>
+<p><em>FV</em> = <span class="mjpage"><math alttext=" \mp " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>∓</mo>
+</math></span>17500</p>
+<p><em>P</em>/<em>Y</em> = 1</p>
+<p><em>C</em>/<em>Y</em> = 1     <em><strong>(A1)(M1)</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>(A1)</strong></em> for <em>C</em>/<em>Y</em> = 1 seen, <em><strong>(M1)</strong></em> for <strong>all</strong> other correct entries. <em>FV</em> and <em>PV</em> must have opposite signs.</p>
+<p>= 4.56 (%)  (4.56395… (%))     <em><strong>(A1) (G3)</strong></em></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<p> </p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>14000 × 66.91     <em><strong>(M1)</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>(M1)</strong></em> for multiplying 14000 by 66.91.</p>
+<p>936740 (INR)     <em><strong>(A1) (G2)</strong></em></p>
+<p><strong>Note:</strong> Answer must be given to the nearest whole number.</p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="936740 \times {\left( {1 + \frac{{5.2}}{{12 \times 100}}} \right)^{12 \times 5}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>936740</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mfrac>
+<mrow>
+<mn>5.2</mn>
+</mrow>
+<mrow>
+<mn>12</mn>
+<mo>×</mo>
+<mn>100</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mn>12</mn>
+<mo>×</mo>
+<mn>5</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>     <em><strong>(M1)(A1)</strong></em><strong>(ft)</strong></p>
+<p><strong>Note:</strong> Award <em><strong>(M1)</strong></em> for substitution into the compound interest formula, <em><strong>(A1)</strong></em><strong>(ft)</strong> for their correct substitution.</p>
+<p><strong>OR </strong></p>
+<p><em>N</em> = 60</p>
+<p><em>I</em>% = 5.2</p>
+<p><em>PV</em> = ±936740</p>
+<p><em>P</em>/<em>Y</em>= 12</p>
+<p><em>C</em>/<em>Y</em>= 12    <em><strong>(A1)(M1)</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>(A1)</strong></em> for <em>C</em>/<em>Y </em>= 12 seen, <em><strong>(M1)</strong></em> for <strong>all</strong> other correct entries.</p>
+<p><strong>OR </strong></p>
+<p><em>N</em> = 5</p>
+<p><em>I</em>% = 5.2</p>
+<p><em>PV</em> = ±936740</p>
+<p><em>P</em>/<em>Y</em>= 1</p>
+<p><em>C</em>/<em>Y</em>= 12    <em><strong>(A1)(M1)</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>(A1)</strong></em> for <em>C</em>/<em>Y </em>= 12 seen, <em><strong>(M1)</strong></em> for <strong>all</strong> other correct entries</p>
+<p>= 1214204 (INR)     <em><strong>(A1)</strong></em><strong>(ft)</strong><em><strong> (G3)</strong></em></p>
+<p><strong>Note:</strong> Follow through from part (b). Answer must be given to the nearest whole number.</p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{1214204}}{{67.16}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>1214204</mn>
+</mrow>
+<mrow>
+<mn>67.16</mn>
+</mrow>
+</mfrac>
+</math></span>     <em><strong>(M1)</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>(M1)</strong></em> for dividing their (c) by 67.16.</p>
+<p><span class="mjpage"><math alttext="\left( {\frac{{1214204}}{{67.16}}} \right) - 17500 = 579" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>1214204</mn>
+</mrow>
+<mrow>
+<mn>67.16</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−</mo>
+<mn>17500</mn>
+<mo>=</mo>
+<mn>579</mn>
+</math></span> (USD)     <em><strong>(M1)(A1)</strong></em><strong>(ft)</strong><em><strong> (G3)</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>(M1)</strong></em> for finding the difference between their conversion and 17500. Answer must be given to the nearest whole number. Follow through from part (c).</p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"18M.2.SL.TZ1.T_3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"18M"}],["$","span",null,{"children":["· ","sl-1-4-financial-apps-compound-interest-annual-depreciation"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

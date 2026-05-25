@@ -1,0 +1,414 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","373","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","373","d"],{"children":["__PAGE__?{\"id\":\"373\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","373","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T92c,<div class="specification">
+<p>A water trough which is 10 metres long has a uniform cross-section in the shape of a semicircle with radius 0.5 metres. It is partly filled with water as shown in the following diagram of the cross-section. The centre of the circle is O and the angle KOL is <span class="mjpage"><math alttext="\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ<!-- θ --></mi>
+</math></span> radians.</p>
+<p style="text-align: center;"><img alt="M17/5/MATHL/HP2/ENG/TZ1/08" src="../assets/uploads/tinymce_asset/asset/3515/Schermafbeelding_2017-08-09_om_11.09.30.png"/></p>
+</div><div class="specification">
+<p>The volume of water is increasing at a constant rate of <span class="mjpage"><math alttext="0.0008{\text{ }}{{\text{m}}^3}{{\text{s}}^{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0.0008</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find an expression for the volume of water <span class="mjpage"><math alttext="V{\text{ }}({{\text{m}}^3})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>V</mi>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span> in the trough in terms of <span class="mjpage"><math alttext="\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ</mi>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate <span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</math></span> when <span class="mjpage"><math alttext="\theta = \frac{\pi }{3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ</mi>
+<mo>=</mo>
+<mfrac>
+<mi>π</mi>
+<mn>3</mn>
+</mfrac>
+</math></span>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">b.</div>
+</div>a:T1793,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p>area of segment <span class="mjpage"><math alttext=" = \frac{1}{2} \times {0.5^2} \times (\theta - \sin \theta )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>0.5</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mo stretchy="false">(</mo>
+<mi>θ</mi>
+<mo>−</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext="V = {\text{area of segment}} \times 10" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>V</mi>
+<mo>=</mo>
+<mrow>
+<mtext>area of segment</mtext>
+</mrow>
+<mo>×</mo>
+<mn>10</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="V = \frac{5}{4}(\theta - \sin \theta )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>V</mi>
+<mo>=</mo>
+<mfrac>
+<mn>5</mn>
+<mn>4</mn>
+</mfrac>
+<mo stretchy="false">(</mo>
+<mi>θ</mi>
+<mo>−</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}V}}{{{\text{d}}t}} = \frac{5}{4}(1 - \cos \theta )\frac{{{\text{d}}\theta }}{{{\text{d}}t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>V</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mn>5</mn>
+<mn>4</mn>
+</mfrac>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext="0.0008 = \frac{5}{4}\left( {1 - \cos \frac{\pi }{3}} \right)\frac{{{\text{d}}\theta }}{{{\text{d}}t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0.0008</mn>
+<mo>=</mo>
+<mfrac>
+<mn>5</mn>
+<mn>4</mn>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>π</mi>
+<mn>3</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}} = 0.00128{\text{ }}({\text{rad}}\,{s^{ - 1}})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>0.00128</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>rad</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msup>
+<mi>s</mi>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong>METHOD 2</strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}} = \frac{{{\text{d}}\theta }}{{{\text{d}}V}} \times \frac{{{\text{d}}V}}{{{\text{d}}t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>V</mi>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>V</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}V}}{{{\text{d}}\theta }} = \frac{5}{4}(1 - \cos \theta )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>V</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mn>5</mn>
+<mn>4</mn>
+</mfrac>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}} = \frac{{4 \times 0.0008}}{{5\left( {1 - \cos \frac{\pi }{3}} \right)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mo>×</mo>
+<mn>0.0008</mn>
+</mrow>
+<mrow>
+<mn>5</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>π</mi>
+<mn>3</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}\theta }}{{{\text{d}}t}} = 0.00128\left( {\frac{4}{{3125}}} \right)({\text{rad }}{s^{ - 1}})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>0.00128</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>4</mn>
+<mrow>
+<mn>3125</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>rad </mtext>
+</mrow>
+<mrow>
+<msup>
+<mi>s</mi>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"17M.2.AHL.TZ1.H_8"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-5-3-differentiating-polynomials-n-e-z"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

@@ -1,0 +1,1186 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1202","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1202","d"],{"children":["__PAGE__?{\"id\":\"1202\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1202","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T15db,<div class="specification">
+<p>A Chocolate Shop advertises free gifts to customers that collect three vouchers. The vouchers are placed at random into 10% of all chocolate bars sold at this shop. Kati buys some of these bars and she opens them one at a time to see if they contain a voucher. Let <span class="mjpage"><math alttext="{\text{P}}(X = n)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+</math></span> be the probability that Kati obtains her third voucher on the <span class="mjpage"><math alttext="n{\text{th}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mrow>
+<mtext>th</mtext>
+</mrow>
+</math></span> bar opened.</p>
+<p>(It is assumed that the probability that a chocolate bar contains a voucher stays at 10% throughout the question.)</p>
+</div><div class="specification">
+<p>It is given that <span class="mjpage"><math alttext="{\text{P}}(X = n) = \frac{{{n^2} + an + b}}{{2000}} \times {0.9^{n - 3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>n</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>a</mi>
+<mi>n</mi>
+<mo>+</mo>
+<mi>b</mi>
+</mrow>
+<mrow>
+<mn>2000</mn>
+</mrow>
+</mfrac>
+<mo>×<!-- × --></mo>
+<mrow>
+<msup>
+<mn>0.9</mn>
+<mrow>
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span> for <span class="mjpage"><math alttext="n \geqslant 3,{\text{ }}n \in \mathbb{N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>⩾<!-- ⩾ --></mo>
+<mn>3</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>n</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow>
+<mi mathvariant="double-struck">N</mi>
+</mrow>
+</math></span>.</p>
+</div><div class="specification">
+<p>Kati’s mother goes to the shop and buys <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> chocolate bars. She takes the bars home for Kati to open.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="{\text{P}}(X = 3) = 0.001" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.001</mn>
+</math></span> and <span class="mjpage"><math alttext="{\text{P}}(X = 4) = 0.0027" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mn>4</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.0027</mn>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the values of the constants <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span> and <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+</math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Deduce that <span class="mjpage"><math alttext="\frac{{{\text{P}}(X = n)}}{{{\text{P}}(X = n - 1)}} = \frac{{0.9(n - 1)}}{{n - 3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>0.9</mn>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</mfrac>
+</math></span> for <span class="mjpage"><math alttext="n &gt; 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>&gt;</mo>
+<mn>3</mn>
+</math></span>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>(i)     Hence show that <span class="mjpage"><math alttext="X" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>X</mi>
+</math></span> has two modes <span class="mjpage"><math alttext="{m_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>m</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="{m_2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>m</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</math></span>.</p>
+<p>(ii)     State the values of <span class="mjpage"><math alttext="{m_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>m</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="{m_2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>m</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine the minimum value of <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> such that the probability Kati receives at least one free gift is greater than 0.5.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">e.</div>
+</div>a:T4e2e,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="{\text{P}}(X = 3) = {(0.1)^3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>0.1</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>3</mn>
+</msup>
+</mrow>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = 0.001" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>0.001</mn>
+</math></span>    <strong><em>AG</em></strong></p>
+<p><span class="mjpage"><math alttext="{\text{P}}(X = 4) = {\text{P}}(VV\bar VV) + {\text{P}}(V\bar VVV) + {\text{P}}(\bar VVVV)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mn>4</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>V</mi>
+<mi>V</mi>
+<mrow>
+<mover>
+<mi>V</mi>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>V</mi>
+<mrow>
+<mover>
+<mi>V</mi>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+<mi>V</mi>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mover>
+<mi>V</mi>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+<mi>V</mi>
+<mi>V</mi>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" = 3 \times {(0.1)^3} \times 0.9" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>3</mn>
+<mo>×</mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>0.1</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mn>0.9</mn>
+</math></span> (or equivalent)     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = 0.0027" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>0.0027</mn>
+</math></span>    <strong><em>AG</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p>attempting to form equations in <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span> and <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+</math></span>     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{9 + 3a + b}}{{2000}} = \frac{1}{{1000}}{\text{ }}(3a + b =  - 7)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>9</mn>
+<mo>+</mo>
+<mn>3</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mi>b</mi>
+</mrow>
+<mrow>
+<mn>2000</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>1000</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>3</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mi>b</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>7</mn>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{16 + 4a + b}}{{2000}} \times \frac{9}{{10}} = \frac{{27}}{{10\,000}}{\text{ }}(4a + b =  - 10)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>16</mn>
+<mo>+</mo>
+<mn>4</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mi>b</mi>
+</mrow>
+<mrow>
+<mn>2000</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mn>9</mn>
+<mrow>
+<mn>10</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>27</mn>
+</mrow>
+<mrow>
+<mn>10</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>000</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>4</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mi>b</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>10</mn>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>A1</em></strong></p>
+<p>attempting to solve simultaneously     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="a =  - 3,{\text{ }}b = 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>3</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>b</mi>
+<mo>=</mo>
+<mn>2</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><strong>METHOD 2</strong></p>
+<p><span class="mjpage"><math alttext="{\text{P}}(X = n) = \left( {\begin{array}{*{20}{c}} {n - 1} \\ 2 \end{array}} \right) \times {0.1^3} \times {0.9^{n - 3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>0.1</mn>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>0.9</mn>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>    <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \frac{{(n - 1)(n - 2)}}{{2000}} \times {0.9^{n - 3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mn>2000</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>0.9</mn>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>    <strong><em>(M1)A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \frac{{{n^2} - 3n + 2}}{{2000}} \times {0.9^{n - 3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>n</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mi>n</mi>
+<mo>+</mo>
+<mn>2</mn>
+</mrow>
+<mrow>
+<mn>2000</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>0.9</mn>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="a =  - 3,b = 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>3</mn>
+<mo>,</mo>
+<mi>b</mi>
+<mo>=</mo>
+<mn>2</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Condone the absence of <span class="mjpage"><math alttext="{0.9^{n - 3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mn>0.9</mn>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span> in the determination of the values of <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span> and <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+</math></span>.</p>
+<p> </p>
+<p><strong><em>[5 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p><strong>EITHER</strong></p>
+<p><span class="mjpage"><math alttext="{\text{P}}(X = n) = \frac{{{n^2} - 3n + 2}}{{2000}} \times {0.9^{n - 3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>n</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mi>n</mi>
+<mo>+</mo>
+<mn>2</mn>
+</mrow>
+<mrow>
+<mn>2000</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>0.9</mn>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>    <strong><em>(M1)</em></strong></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="{\text{P}}(X = n) = \left( {\begin{array}{*{20}{c}} {n - 1} \\ 2 \end{array}} \right) \times {0.1^3} \times {0.9^{n - 3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>0.1</mn>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>0.9</mn>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>    <strong><em>(M1)</em></strong></p>
+<p><strong>THEN</strong></p>
+<p><span class="mjpage"><math alttext=" = \frac{{(n - 1)(n - 2)}}{{2000}} \times {0.9^{n - 3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mn>2000</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>0.9</mn>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="{\text{P}}(X = n - 1) = \frac{{(n - 2)(n - 3)}}{{2000}} \times {0.9^{n - 4}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mn>2000</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>0.9</mn>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>4</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{P}}(X = n)}}{{{\text{P}}(X = n - 1)}} = \frac{{(n - 1)(n - 2)}}{{(n - 2)(n - 3)}} \times 0.9" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mn>0.9</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \frac{{0.9(n - 1)}}{{n - 3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>0.9</mn>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</mfrac>
+</math></span>    <strong><em>AG</em></strong></p>
+<p><strong>METHOD 2</strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{P}}(X = n)}}{{{\text{P}}(X = n - 1)}} = \frac{{\frac{{{n^2} - 3n + 2}}{{2000}} \times {{0.9}^{n - 3}}}}{{\frac{{{{(n - 1)}^2} - 3(n - 1) + 2}}{{2000}} \times {{0.9}^{n - 4}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>n</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mi>n</mi>
+<mo>+</mo>
+<mn>2</mn>
+</mrow>
+<mrow>
+<mn>2000</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>0.9</mn>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mn>2</mn>
+</mrow>
+<mrow>
+<mn>2000</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>0.9</mn>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>4</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mfrac>
+</math></span>    <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \frac{{0.9({n^2} - 3n + 2)}}{{({n^2} - 5n + 6)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>0.9</mn>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mi>n</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>3</mn>
+<mi>n</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mi>n</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>5</mn>
+<mi>n</mi>
+<mo>+</mo>
+<mn>6</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</math></span>    <strong><em>A1A1</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Award <strong><em>A1 </em></strong>for a correct numerator and <strong><em>A1 </em></strong>for a correct denominator.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = \frac{{0.9(n - 1)(n - 2)}}{{(n - 2)(n - 3)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>0.9</mn>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \frac{{0.9(n - 1)}}{{n - 3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>0.9</mn>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</mfrac>
+</math></span>    <strong><em>AG</em></strong></p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>(i)     attempting to solve <span class="mjpage"><math alttext="\frac{{0.9(n - 1)}}{{n - 3}} = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>0.9</mn>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>1</mn>
+</math></span> for <span class="mjpage"><math alttext="n" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+</math></span>     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="n = 21" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>=</mo>
+<mn>21</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{0.9(n - 1)}}{{n - 3}} &lt; 1 \Rightarrow n &gt; 21" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>0.9</mn>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</mfrac>
+<mo>&lt;</mo>
+<mn>1</mn>
+<mo stretchy="false">⇒</mo>
+<mi>n</mi>
+<mo>&gt;</mo>
+<mn>21</mn>
+</math></span>    <strong><em>R1</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{0.9(n - 1)}}{{n - 3}} &gt; 1 \Rightarrow n &lt; 21" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>0.9</mn>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</mfrac>
+<mo>&gt;</mo>
+<mn>1</mn>
+<mo stretchy="false">⇒</mo>
+<mi>n</mi>
+<mo>&lt;</mo>
+<mn>21</mn>
+</math></span>    <strong><em>R1</em></strong></p>
+<p><span class="mjpage"><math alttext="X" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>X</mi>
+</math></span> has two modes     <strong><em>AG</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Award <strong><em>R1R1 </em></strong>for a clearly labelled graphical representation of the two inequalities (using <span class="mjpage"><math alttext="\frac{{{\text{P}}(X = n)}}{{{\text{P}}(X = n - 1)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</math></span>).</p>
+<p> </p>
+<p>(ii)     the modes are 20 and 21     <strong><em>A1</em></strong></p>
+<p><strong><em>[5 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p><span class="mjpage"><math alttext="Y \sim {\text{B}}(x,{\text{ }}0.1)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>Y</mi>
+<mo>∼</mo>
+<mrow>
+<mtext>B</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0.1</mn>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(A1)</em></strong></p>
+<p>attempting to solve <span class="mjpage"><math alttext="{\text{P}}(Y \geqslant 3) &gt; 0.5" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>Y</mi>
+<mo>⩾</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+<mo>&gt;</mo>
+<mn>0.5</mn>
+</math></span> (or equivalent <em>eg</em> <span class="mjpage"><math alttext="1 - {\text{P}}(Y \leqslant 2) &gt; 0.5" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>Y</mi>
+<mo>⩽</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+<mo>&gt;</mo>
+<mn>0.5</mn>
+</math></span>) for <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Award <strong><em>(M1) </em></strong>for attempting to solve an equality (obtaining <span class="mjpage"><math alttext="x = 26.4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>26.4</mn>
+</math></span>).</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="x = 27" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>27</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><strong>METHOD 2</strong></p>
+<p><span class="mjpage"><math alttext="\sum\limits_{n = 0}^x {{\text{P}}(X = n) &gt; 0.5} " xmlns="http://www.w3.org/1998/Math/MathML">
+<munderover>
+<mo movablelimits="false">∑</mo>
+<mrow>
+<mi>n</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mrow>
+<mi>x</mi>
+</munderover>
+<mrow>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+<mo>&gt;</mo>
+<mn>0.5</mn>
+</mrow>
+</math></span>    <strong><em>(A1)</em></strong></p>
+<p>attempting to solve for <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="x = 27" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>27</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">e.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"16N.2.AHL.TZ0.H_11"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","sl-4-1-concepts-reliability-and-sampling-techniques"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div>"}}]]}]]}]

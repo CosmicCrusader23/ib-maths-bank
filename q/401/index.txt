@@ -1,0 +1,212 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","401","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","401","d"],{"children":["__PAGE__?{\"id\":\"401\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","401","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T135e,<div class="specification">
+<p>The random variable <span class="mjpage"><math alttext="X" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>X</mi>
+</math></span> has probability density function <span class="mjpage"><math alttext="f" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+</math></span> given by</p>
+<p><span class="mjpage mjpage__block"><math alttext="f\left( x \right) = \left\{ {\begin{array}{*{20}{c}}  {k\left( {\pi - {\text{arcsin}}\,x} \right)}&amp;{0 \leqslant x \leqslant 1} \\   0&amp;{{\text{otherwise}}}  \end{array}} \right.,\,\,{\text{where }}k{\text{ is a positive constant}}{\text{.}}" display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+<mrow>
+<mo>(</mo>
+<mi>x</mi>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>{</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mi>k</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>π<!-- π --></mi>
+<mo>−<!-- − --></mo>
+<mrow>
+<mtext>arcsin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>0</mn>
+<mo>⩽<!-- ⩽ --></mo>
+<mi>x</mi>
+<mo>⩽<!-- ⩽ --></mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mrow>
+<mrow>
+<mtext>otherwise</mtext>
+</mrow>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo fence="true" stretchy="true" symmetric="true"></mo>
+</mrow>
+<mo>,</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>where </mtext>
+</mrow>
+<mi>k</mi>
+<mrow>
+<mtext> is a positive constant</mtext>
+</mrow>
+<mrow>
+<mtext>.</mtext>
+</mrow>
+</math></span></p>
+</div><div class="specification">
+<p>Given that <span class="mjpage"><math alttext="y = \left( {\frac{{{x^2}}}{2}} \right){\text{arcsin}}\,x - \left( {\frac{1}{4}} \right){\text{arcsin}}\,x + \left( {\frac{x}{4}} \right)\sqrt {1 - {x^2}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mtext>arcsin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mo>−<!-- − --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mtext>arcsin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mi>x</mi>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msqrt>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</math></span>, show that</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State the mode of <span class="mjpage"><math alttext="X" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>X</mi> </math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find <span class="mjpage"><math alttext="\int {{\text{arcsin}}\,x\,{\text{d}}x} " xmlns="http://www.w3.org/1998/Math/MathML"> <mo>∫</mo> <mrow> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> <mspace width="thinmathspace"></mspace> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence show that <span class="mjpage"><math alttext="k = \frac{2}{{2 + \pi }}" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>k</mi> <mo>=</mo> <mfrac> <mn>2</mn> <mrow> <mn>2</mn> <mo>+</mo> <mi>π</mi> </mrow> </mfrac> </math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}x}} = x\,{\text{arcsin}}\,x" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mi>x</mi> <mspace width="thinmathspace"></mspace> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> </math></span>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><span class="mjpage"><math alttext="{\text{E}}\left( X \right) = \frac{{3\pi }}{{4\left( {\pi  + 2} \right)}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>E</mtext> </mrow> <mrow> <mo>(</mo> <mi>X</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mrow> <mn>4</mn> <mrow> <mo>(</mo> <mrow> <mi>π</mi> <mo>+</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mfrac> </math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">c.ii.</div>
+</div>a:T3321,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p>
+<p>mode is 0    <em><strong>A1</strong></em></p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt at integration by parts     <em><strong> (M1)</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}u}}{{{\text{d}}x}} = \frac{1}{{\sqrt {1 - {x^2}} }}{\text{,}}\,\,{\text{d}}v = {\text{d}}x" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>u</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mn>1</mn> <mrow> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> <mrow> <mtext>,</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mrow> <mtext>d</mtext> </mrow> <mi>v</mi> <mo>=</mo> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </math></span></p>
+<p><span class="mjpage"><math alttext=" = x\,{\text{arcsin}}\,x - \int {\frac{{x{\text{d}}x}}{{\sqrt {1 - {x^2}} }}} " xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mi>x</mi> <mspace width="thinmathspace"></mspace> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> <mo>−</mo> <mo>∫</mo> <mrow> <mfrac> <mrow> <mi>x</mi> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> <mrow> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> </mrow> </math></span>    <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = x\,{\text{arcsin}}\,x + \sqrt {1 - {x^2}} \left( { + c} \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mi>x</mi> <mspace width="thinmathspace"></mspace> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> <mo>+</mo> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> <mrow> <mo>(</mo> <mrow> <mo>+</mo> <mi>c</mi> </mrow> <mo>)</mo> </mrow> </math></span>    <em><strong>A1</strong></em></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\int\limits_0^1 {\left( {\pi  - {\text{arcsin}}\,x} \right)} \,{\text{d}}x = \left[ {\pi x - x\,{\text{arcsin}}\,x - \sqrt {1 - {x^2}} } \right]_0^1" xmlns="http://www.w3.org/1998/Math/MathML"> <munderover> <mo>∫</mo> <mn>0</mn> <mn>1</mn> </munderover> <mrow> <mrow> <mo>(</mo> <mrow> <mi>π</mi> <mo>−</mo> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> </mrow> <mo>)</mo> </mrow> </mrow> <mspace width="thinmathspace"></mspace> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> <mo>=</mo> <msubsup> <mrow> <mo>[</mo> <mrow> <mi>π</mi> <mi>x</mi> <mo>−</mo> <mi>x</mi> <mspace width="thinmathspace"></mspace> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> <mo>−</mo> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> <mo>]</mo> </mrow> <mn>0</mn> <mn>1</mn> </msubsup> </math></span>   <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \left( {\pi  - \frac{\pi }{2} - 0} \right) - \left( {0 - 0 - 1} \right) = \frac{\pi }{2} + 1" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mrow> <mo>(</mo> <mrow> <mi>π</mi> <mo>−</mo> <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> <mo>−</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> <mo>−</mo> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>−</mo> <mn>0</mn> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> <mo>+</mo> <mn>1</mn> </math></span></p>
+<p><span class="mjpage"><math alttext=" = \frac{{\pi  + 2}}{2}" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mfrac> <mrow> <mi>π</mi> <mo>+</mo> <mn>2</mn> </mrow> <mn>2</mn> </mfrac> </math></span>    <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="\int\limits_0^1 k \left( {\pi  - {\text{arcsin}}\,x} \right){\text{d}}x = 1" xmlns="http://www.w3.org/1998/Math/MathML"> <munderover> <mo>∫</mo> <mn>0</mn> <mn>1</mn> </munderover> <mi>k</mi> <mrow> <mo>(</mo> <mrow> <mi>π</mi> <mo>−</mo> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> </mrow> <mo>)</mo> </mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> <mo>=</mo> <mn>1</mn> </math></span>   <em><strong>(M1)</strong></em></p>
+<p><strong>Note:</strong> This line can be seen (or implied) anywhere.</p>
+<p><strong>Note: </strong>Do not allow <em><strong>FT A</strong></em> marks from bi to bii.</p>
+<p><span class="mjpage"><math alttext="k\left( {\frac{{\pi  + 2}}{2}} \right) = 1" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>k</mi> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <mi>π</mi> <mo>+</mo> <mn>2</mn> </mrow> <mn>2</mn> </mfrac> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mn>1</mn> </math></span></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow k = \frac{2}{{2 + \pi }}" xmlns="http://www.w3.org/1998/Math/MathML"> <mo stretchy="false">⇒</mo> <mi>k</mi> <mo>=</mo> <mfrac> <mn>2</mn> <mrow> <mn>2</mn> <mo>+</mo> <mi>π</mi> </mrow> </mfrac> </math></span>    <em><strong>AG</strong></em></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt to use product rule to differentiate    <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}x}} = x\,{\text{arcsin}}\,x + \frac{{{x^2}}}{{2\sqrt {1 - {x^2}} }} - \frac{1}{{4\sqrt {1 - {x^2}} }} - \frac{{{x^2}}}{{4\sqrt {1 - {x^2}} }} + \frac{{\sqrt {1 - {x^2}} }}{4}" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mi>x</mi> <mspace width="thinmathspace"></mspace> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> <mo>+</mo> <mfrac> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> <mrow> <mn>2</mn> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> <mo>−</mo> <mfrac> <mn>1</mn> <mrow> <mn>4</mn> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> <mo>−</mo> <mfrac> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> <mrow> <mn>4</mn> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> <mn>4</mn> </mfrac> </math></span>  <em><strong>A2</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>A2</strong></em> for all terms correct, <em><strong>A1</strong></em> for 4 correct terms.</p>
+<p><span class="mjpage"><math alttext=" = x\,{\text{arcsin}}\,x + \frac{{2{x^2}}}{{4\sqrt {1 - {x^2}} }} - \frac{1}{{4\sqrt {1 - {x^2}} }} - \frac{{{x^2}}}{{4\sqrt {1 - {x^2}} }} + \frac{{1 - {x^2}}}{{4\sqrt {1 - {x^2}} }}" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mi>x</mi> <mspace width="thinmathspace"></mspace> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> <mo>+</mo> <mfrac> <mrow> <mn>2</mn> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> <mrow> <mn>4</mn> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> <mo>−</mo> <mfrac> <mn>1</mn> <mrow> <mn>4</mn> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> <mo>−</mo> <mfrac> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> <mrow> <mn>4</mn> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> <mrow> <mn>4</mn> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> </math></span>    <em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>A1</strong></em> for equivalent combination of correct terms over a common denominator.</p>
+<p><span class="mjpage"><math alttext=" = x\,{\text{arcsin}}\,x" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mi>x</mi> <mspace width="thinmathspace"></mspace> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> </math></span>    <em><strong>AG</strong></em></p>
+<p><em><strong>[4 marks]</strong></em></p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{\text{E}}\left( X \right) = k\int\limits_0^1 {x\left( {\pi  - {\text{arcsin}}\,x} \right)} \,{\text{d}}x" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>E</mtext> </mrow> <mrow> <mo>(</mo> <mi>X</mi> <mo>)</mo> </mrow> <mo>=</mo> <mi>k</mi> <munderover> <mo>∫</mo> <mn>0</mn> <mn>1</mn> </munderover> <mrow> <mi>x</mi> <mrow> <mo>(</mo> <mrow> <mi>π</mi> <mo>−</mo> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> </mrow> <mo>)</mo> </mrow> </mrow> <mspace width="thinmathspace"></mspace> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </math></span>    <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = k\int\limits_0^1 {\left( {\pi x - x\,{\text{arcsin}}\,x} \right)} \,{\text{d}}x" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mi>k</mi> <munderover> <mo>∫</mo> <mn>0</mn> <mn>1</mn> </munderover> <mrow> <mrow> <mo>(</mo> <mrow> <mi>π</mi> <mi>x</mi> <mo>−</mo> <mi>x</mi> <mspace width="thinmathspace"></mspace> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> </mrow> <mo>)</mo> </mrow> </mrow> <mspace width="thinmathspace"></mspace> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </math></span></p>
+<p><span class="mjpage"><math alttext=" = k\left[ {\frac{{\pi {x^2}}}{2} - \frac{{{x^2}}}{2}{\text{arcsin}}\,x + \frac{1}{4}{\text{arcsin}}\,x - \frac{x}{4}\sqrt {1 - {x^2}} } \right]_0^1" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mi>k</mi> <msubsup> <mrow> <mo>[</mo> <mrow> <mfrac> <mrow> <mi>π</mi> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> <mn>2</mn> </mfrac> <mo>−</mo> <mfrac> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> <mn>2</mn> </mfrac> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> <mo>+</mo> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> <mrow> <mtext>arcsin</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>x</mi> <mo>−</mo> <mfrac> <mi>x</mi> <mn>4</mn> </mfrac> <msqrt> <mn>1</mn> <mo>−</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> <mo>]</mo> </mrow> <mn>0</mn> <mn>1</mn> </msubsup> </math></span>      <em><strong>A1</strong></em><em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>A1</strong></em> for first term, <em><strong>A1</strong></em> for next 3 terms.</p>
+<p><span class="mjpage"><math alttext=" = k\left[ {\left( {\frac{\pi }{2} - \frac{\pi }{4} + \frac{\pi }{8}} \right) - \left( 0 \right)} \right]" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mi>k</mi> <mrow> <mo>[</mo> <mrow> <mrow> <mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> <mo>−</mo> <mfrac> <mi>π</mi> <mn>4</mn> </mfrac> <mo>+</mo> <mfrac> <mi>π</mi> <mn>8</mn> </mfrac> </mrow> <mo>)</mo> </mrow> <mo>−</mo> <mrow> <mo>(</mo> <mn>0</mn> <mo>)</mo> </mrow> </mrow> <mo>]</mo> </mrow> </math></span>      <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \left( {\frac{2}{{2 + \pi }}} \right)\frac{{3\pi }}{8}" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mrow> <mo>(</mo> <mrow> <mfrac> <mn>2</mn> <mrow> <mn>2</mn> <mo>+</mo> <mi>π</mi> </mrow> </mfrac> </mrow> <mo>)</mo> </mrow> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>8</mn> </mfrac> </math></span>      <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = \frac{{3\pi }}{{4\left( {\pi  + 2} \right)}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mrow> <mn>4</mn> <mrow> <mo>(</mo> <mrow> <mi>π</mi> <mo>+</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mfrac> </math></span>    <em><strong>AG</strong></em></p>
+<p><em><strong>[5 marks]</strong></em></p>
+<div class="question_part_label">c.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"19M.1.AHL.TZ2.H_10"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","ahl-4-14-properties-of-discrete-and-continuous-random-variables"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.ii.</div>\n</div>"}}]]}]]}]

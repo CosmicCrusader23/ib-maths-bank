@@ -1,0 +1,298 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","982","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","982","d"],{"children":["__PAGE__?{\"id\":\"982\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","982","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tc08,<div class="specification">
+<p>Let <span class="mjpage"><math alttext="f(x) = {x^2} - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</math></span> and <span class="mjpage"><math alttext="g(x) = {x^2} - 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>g</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</math></span>, for <span class="mjpage"><math alttext="x \in \mathbb{R}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow>
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="(f \circ g)(x) = {x^4} - 4{x^2} + 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>f</mi>
+<mo>∘</mo>
+<mi>g</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>4</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>4</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>3</mn>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>On the following grid, sketch the graph of <span class="mjpage"><math alttext="(f \circ g)(x)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>f</mi>
+<mo>∘</mo>
+<mi>g</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</math></span>, for <span class="mjpage"><math alttext="0 \leqslant x \leqslant 2.25" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0</mn>
+<mo>⩽</mo>
+<mi>x</mi>
+<mo>⩽</mo>
+<mn>2.25</mn>
+</math></span>.</p>
+<p><img alt="M17/5/MATME/SP2/ENG/TZ2/06.b" src="../assets/uploads/tinymce_asset/asset/3560/Schermafbeelding_2017-08-15_om_08.00.33.png"/></p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The equation <span class="mjpage"><math alttext="(f \circ g)(x) = k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>f</mi>
+<mo>∘</mo>
+<mi>g</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>k</mi>
+</math></span> has exactly two solutions, for <span class="mjpage"><math alttext="0 \leqslant x \leqslant 2.25" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0</mn>
+<mo>⩽</mo>
+<mi>x</mi>
+<mo>⩽</mo>
+<mn>2.25</mn>
+</math></span>. Find the possible values of <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div>a:T139a,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p>attempt to form composite in either order     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><span class="mjpage"><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="f({x^2} - 2),{\text{ }}{({x^2} - 1)^2} - 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>1</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>2</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="({x^4} - 4{x^2} + 4) - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>4</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>4</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>4</mn>
+<mo stretchy="false">)</mo>
+<mo>−</mo>
+<mn>1</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="(f \circ g)(x) = {x^4} - 4{x^2} + 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>f</mi>
+<mo>∘</mo>
+<mi>g</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>4</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>4</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>3</mn>
+</math></span>     <strong><em>AG</em></strong>     <strong><em>N0</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><img alt="M17/5/MATME/SP2/ENG/TZ2/06.b/M" src="../assets/uploads/tinymce_asset/asset/3562/Schermafbeelding_2017-08-15_om_08.05.50.png"/>    <strong><em>A1</em></strong></p>
+<p><strong><em>A1A1</em></strong>     <strong><em>N3</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>A1 </em></strong>for approximately correct shape which changes from concave down to concave up. Only if this <strong><em>A1 </em></strong>is awarded, award the following:</p>
+<p><strong><em>A1 </em></strong>for left hand endpoint in circle <strong>and </strong>right hand endpoint in oval,</p>
+<p><strong><em>A1 </em></strong>for minimum in oval.</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>evidence of identifying max/min as relevant points     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><span class="mjpage"><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="x = 0,{\text{ }}1.41421,{\text{ }}y =  - 1,{\text{ }}3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>1.41421</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>y</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>3</mn>
+</math></span></p>
+<p>correct interval (inclusion/exclusion of endpoints must be correct)     <strong><em>A2</em></strong>     <strong><em>N3</em></strong></p>
+<p><em>eg</em><span class="mjpage"><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext=" - 1 &lt; k \leqslant 3,{\text{ }}\left] { - 1,{\text{ 3}}} \right],{\text{ }}( - 1,{\text{ }}3]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>1</mn>
+<mo>&lt;</mo>
+<mi>k</mi>
+<mo>⩽</mo>
+<mn>3</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>]</mo>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mrow>
+<mtext> 3</mtext>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mo>−</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>3</mn>
+<mo stretchy="false">]</mo>
+</math></span></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/2/","children":["← back to topic ","2"]}]}],["$","h1",null,{"children":"17M.2.SL.TZ2.S_6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-2-2-functions-notation-domain-range-and-inverse-as-reflection"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

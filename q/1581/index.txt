@@ -1,0 +1,245 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1581","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1581","d"],{"children":["__PAGE__?{\"id\":\"1581\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1581","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T2946,<div class="specification">
+<p><strong>Alessia is an ecologist working for Mediterranean fishing authorities. She is interested in whether the mackerel population density is likely to fall below <math xmlns="http://www.w3.org/1998/Math/MathML"><mn mathvariant="bold">5000</mn></math> mackerel per <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mtext mathvariant="bold">km</mtext><mn mathvariant="bold">3</mn></msup></math>, as this is the minimum value required for sustainable fishing. She believes that the primary factor affecting the mackerel population is the interaction of mackerel with sharks, their main predator.</strong></p>
+<p>The population densities of mackerel (<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi></math> thousands per <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mtext>km</mtext><mn>3</mn></msup></math>) and sharks (<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi></math> per <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mtext>km</mtext><mn>3</mn></msup></math>) in the Mediterranean Sea are modelled by the coupled differential equations:</p>
+<p style="padding-left: 240px;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>d</mo><mi>M</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>=</mo><mi>α</mi><mi>M</mi><mo>-</mo><mi>β</mi><mi>M</mi><mi>S</mi></math></p>
+<p style="padding-left: 240px;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>d</mo><mi>S</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>=</mo><mi>γ</mi><mi>M</mi><mi>S</mi><mo>-</mo><mi>δ</mi><mi>S</mi></math></p>
+<p>where <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi></math> is measured in years, and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>α</mi><mo>,</mo><mo> </mo><mi>β</mi><mo>,</mo><mo> </mo><mi>γ</mi></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>δ</mi></math> are parameters.</p>
+<p>This model assumes that no other factors affect the mackerel or shark population densities.</p>
+<p>The term <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>α</mi><mi>M</mi></math> models the population growth rate of the mackerel in the absence of sharks.<br/>The term <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>β</mi><mi>M</mi><mi>S</mi></math> models the death rate of the mackerel due to being eaten by sharks.</p>
+</div><div class="specification">
+<p>Suggest similar interpretations for the following terms.</p>
+</div><div class="specification">
+<p>An equilibrium point is a set of values of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi><mo> </mo></math>, such that <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>d</mo><mi>M</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>=</mo><mn>0</mn></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>d</mo><mi>S</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>=</mo><mn>0</mn></math>.</p>
+<p>Given that both species are present at the equilibrium point,</p>
+</div><div class="specification">
+<p>The equilibrium point found in part (b) gives the average values of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi></math> over time.<br/><br/>Use the model to predict how the following events would affect the average value of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi></math>. Justify your answers.</p>
+</div><div class="specification">
+<p>To estimate the value of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>α</mi></math>, Alessia considers a situation where there are no sharks and the initial mackerel population density is <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>M</mi><mn>0</mn></msub></math>.</p>
+</div><div class="specification">
+<p>Based on additional observations, it is believed that</p>
+<p style="padding-left: 240px;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>α</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>549</mn></math>,</p>
+<p style="padding-left: 240px;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>β</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>236</mn></math>,</p>
+<p style="padding-left: 240px;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>γ</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>244</mn></math>,</p>
+<p style="padding-left: 240px;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>δ</mi><mo>=</mo><mn>1</mn><mo>.</mo><mn>39</mn></math>.</p>
+<p>Alessia decides to use Euler’s method to estimate future mackerel and shark population densities. The initial population densities are estimated to be <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>M</mi><mn>0</mn></msub><mo>=</mo><mn>5</mn><mo>.</mo><mn>7</mn></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>S</mi><mn>0</mn></msub><mo>=</mo><mn>2</mn></math>. She uses a step length of <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>.</mo><mn>1</mn></math> years.</p>
+</div><div class="specification">
+<p>Alessia will use her model to estimate whether the mackerel population density is likely to fall below the minimum value required for sustainable fishing, <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>5000</mn></math> per <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mtext>km</mtext><mtext>3</mtext></msup></math>, during the first nine years.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>γ</mi><mi>M</mi><mi>S</mi></math></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>δ</mi><mi>S</mi></math></p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>show that, at the equilibrium point, the value of the mackerel population density is <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>δ</mi><mi>γ</mi></mfrac></math>;</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>find the value of the shark population density at the equilibrium point.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Toxic sewage is added to the Mediterranean Sea. Alessia claims this reduces the shark population growth rate and hence the value of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>γ</mi></math> is halved. No other parameter changes.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Global warming increases the temperature of the Mediterranean Sea. Alessia claims that this promotes the mackerel population growth rate and hence the value of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>α</mi></math> is doubled. No other parameter changes.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the differential equation for <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi></math> that models this situation.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that the expression for the mackerel population density after <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi></math> years is <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi><mo>=</mo><msub><mi>M</mi><mn>0</mn></msub><msup><mtext>e</mtext><mrow><mi>α</mi><mi>t</mi></mrow></msup></math></p>
+<div class="marks">[4]</div>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Alessia estimates that the mackerel population density increases by a factor of three every two years. Show that <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>α</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>549</mn></math> to three significant figures.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.iii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down expressions for <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>M</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>S</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub></math> in terms of <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>M</mi><mi>n</mi></msub></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>S</mi><mi>n</mi></msub></math>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">e.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use Euler’s method to find an estimate for the mackerel population density after one year.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">e.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use Euler’s method to sketch the trajectory of the phase portrait, for <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>4</mn><mo>≤</mo><mi>M</mi><mo>≤</mo><mn>7</mn></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>.</mo><mn>5</mn><mo>≤</mo><mi>S</mi><mo>≤</mo><mn>3</mn></math>, over the first nine years.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">f.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Using your phase portrait, or otherwise, determine whether the mackerel population density would be sufficient to support sustainable fishing during the first nine years.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">f.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State <strong>two</strong> reasons why Alessia’s conclusion, found in part (f)(ii), might not be valid.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">f.iii.</div>
+</div>a:T7337,<div class="question" style="padding-left: 20px;">
+<p>population growth rate / birth rate of sharks (due to eating mackerel)            <em><strong>A1</strong></em></p>
+<p><em><strong><br/>[1 mark]</strong></em></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>(net) death rate of sharks          <em><strong>A1</strong></em></p>
+<p><em><strong><br/>[1 mark]</strong></em></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>γ</mi><mi>M</mi><mi>S</mi><mo>-</mo><mi>δ</mi><mi>S</mi><mo>=</mo><mn>0</mn></math>          <em><strong>A1</strong></em></p>
+<p>since <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi><mo>≠</mo><mn>0</mn></math>          <em><strong>R1</strong></em></p>
+<p><br/><strong>Note:</strong> Accept <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi><mo>&gt;</mo><mn>0</mn></math>.</p>
+<p><br/>getting to given answer without further error by either cancelling or factorizing           <em><strong>A1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi><mo>=</mo><mfrac><mi>δ</mi><mi>γ</mi></mfrac></math>           <em><strong>AG</strong></em></p>
+<p><em><strong><br/>[3 marks]</strong></em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>d</mo><mi>M</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>=</mo><mn>0</mn></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>α</mi><mi>M</mi><mo>-</mo><mi>β</mi><mi>M</mi><mi>S</mi><mo>=</mo><mn>0</mn></math>          <em><strong>(M1)</strong></em></p>
+<p>(since <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi><mo>≠</mo><mn>0</mn></math>)  <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi><mo>=</mo><mfrac><mi>α</mi><mi>β</mi></mfrac></math>          <em><strong>A1</strong></em></p>
+<p><em><strong><br/>[2 marks]</strong></em></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>M</mi><mrow><mi>e</mi><mi>q</mi></mrow></msub><mo>=</mo><mfrac><mi>δ</mi><mi>γ</mi></mfrac><mo>⇒</mo><mfrac><mi>δ</mi><mrow><mstyle displaystyle="true"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle><mi>γ</mi></mrow></mfrac><mo>=</mo><mn>2</mn><msub><mi>M</mi><mrow><mi>e</mi><mi>q</mi></mrow></msub></math>                      <em><strong>M1</strong></em></p>
+<p><strong>Note:</strong> Accept equivalent in words.</p>
+<p><br/>Doubles          <em><strong>A1</strong></em></p>
+<p><br/><strong>Note:</strong> Do not accept “increases”.</p>
+<p><em><strong><br/>[2 marks]</strong></em></p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>M</mi><mrow><mi>e</mi><mi>q</mi></mrow></msub><mo>=</mo><mfrac><mi>δ</mi><mi>γ</mi></mfrac></math> is not dependent on <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>α</mi></math>                      <em><strong>R1</strong></em></p>
+<p><strong><br/>Note:</strong> Award <em><strong>R0</strong></em> for any contextual argument.</p>
+<p><br/>no change         <em><strong>A1</strong></em></p>
+<p><br/><strong>Note:</strong> Do not award <em><strong>R0A1</strong></em>.</p>
+<p><em><strong><br/>[2 marks]</strong></em></p>
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>d</mo><mi>M</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>=</mo><mi>α</mi><mi>M</mi></math>                    <em><strong>A1</strong></em></p>
+<p><em><strong><br/>[1 mark]</strong></em></p>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>∫</mo><mfrac><mn>1</mn><mi>M</mi></mfrac><mo>d</mo><mi>M</mi><mo>=</mo><mo>∫</mo><mi>α</mi><mo> </mo><mtext>d</mtext><mi>t</mi></math>                  <em><strong>M1</strong></em></p>
+<p><br/><strong>Note:</strong> Award <em><strong>M1</strong></em> is for an attempt to separate variables. This means getting to the point <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>∫</mo><mi>f</mi><mfenced><mi>M</mi></mfenced><mo> </mo><mo>d</mo><mi>M</mi><mo>=</mo><mo>∫</mo><mi>g</mi><mfenced><mi>t</mi></mfenced><mo> </mo><mtext>d</mtext><mi>t</mi></math> where the integral can be seen or implied by further work.</p>
+<p><br/><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>ln</mi><mfenced close="|" open="|"><mi>M</mi></mfenced><mo>=</mo><mi>α</mi><mi>t</mi><mo>+</mo><mi>c</mi></math>                  <em><strong>A1</strong></em></p>
+<p><br/><strong>Note:</strong> Accept <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>ln</mi><mo> </mo><mi>M</mi></math>. Condone missing constant of integration for this mark.</p>
+<p><br/><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi><mo>=</mo><mi>k</mi><msup><mtext>e</mtext><mrow><mi>α</mi><mi>t</mi></mrow></msup></math></p>
+<p>when <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>0</mn><mo>,</mo><mo> </mo><msub><mi>M</mi><mn>0</mn></msub><mo>=</mo><mi>k</mi></math>                 <em><strong>M1</strong></em></p>
+<p><br/><strong>Note:</strong> Award <em><strong>M1</strong></em> for a clear attempt at using initial conditions to find a constant of integration. Only possible if the constant of integration exists. <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>0</mn></math> or “initially” or similar must be seen. Substitution may appear earlier, following the integration.</p>
+<p><br/>initial conditions and all other manipulations correct and clearly communicated to get to the final answer                   <em><strong>A1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi><mo>=</mo><msub><mi>M</mi><mn>0</mn></msub><msup><mtext>e</mtext><mrow><mi>α</mi><mi>t</mi></mrow></msup></math>                  <em><strong>AG</strong></em></p>
+<p><em><strong><br/>[4 marks]</strong></em></p>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi><mo>=</mo><mn>3</mn><msub><mi>M</mi><mn>0</mn></msub></math> seen anywhere                <em><strong>(A1)</strong></em></p>
+<p>substituting <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>2</mn><mo>,</mo><mo> </mo><mi>M</mi><mo>=</mo><mn>3</mn><msub><mi>M</mi><mn>0</mn></msub></math> into equation <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi><mo>=</mo><msub><mi>M</mi><mn>0</mn></msub><msup><mtext>e</mtext><mrow><mi>α</mi><mi>t</mi></mrow></msup></math>                <em><strong>(M1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>3</mn><msub><mi>M</mi><mn>0</mn></msub><mo>=</mo><msub><mi>M</mi><mn>0</mn></msub><msup><mtext>e</mtext><mrow><mn>2</mn><mi>α</mi></mrow></msup></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>α</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>ln</mi><mo> </mo><mn>3</mn></math>  <strong>OR  </strong><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>.</mo><mn>549306</mn><mo>…</mo></math>                  <em><strong>A1</strong></em></p>
+<p><br/><strong>Note:</strong> The <em><strong>A1</strong></em> requires either the exact answer or an answer to at least <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>4</mn></math> sf.</p>
+<p><br/><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>≈</mo><mn>0</mn><mo>.</mo><mn>549</mn></math>                 <em><strong>AG</strong></em></p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">d.iii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>an attempt to set up one recursive equation                <em><strong>(M1)</strong></em></p>
+<p><br/><strong>Note:</strong> Must include <strong>two</strong> given parameters <strong>and</strong> <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>M</mi><mi>n</mi></msub></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>S</mi><mi>n</mi></msub></math> <strong>and</strong> <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>M</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub></math> or <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>S</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub></math> for the <em><strong>(M1)</strong></em> to be awarded.</p>
+<p><br/><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>M</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><msub><mi>M</mi><mi>n</mi></msub><mo>+</mo><mn>0</mn><mo>.</mo><mn>1</mn><mfenced><mrow><mn>0</mn><mo>.</mo><mn>549</mn><msub><mi>M</mi><mi>n</mi></msub><mo>-</mo><mn>0</mn><mo>.</mo><mn>236</mn><msub><mi>M</mi><mi>n</mi></msub><msub><mi>S</mi><mi>n</mi></msub></mrow></mfenced></math>                 <em><strong>A1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>S</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><msub><mi>S</mi><mi>n</mi></msub><mo>+</mo><mn>0</mn><mo>.</mo><mn>1</mn><mfenced><mrow><mn>0</mn><mo>.</mo><mn>244</mn><msub><mi>M</mi><mi>n</mi></msub><msub><mi>S</mi><mi>n</mi></msub><mo>-</mo><mn>1</mn><mo>.</mo><mn>39</mn><msub><mi>S</mi><mi>n</mi></msub></mrow></mfenced></math>                 <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">e.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>EITHER<br/></strong><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>6</mn><mo>.</mo><mn>12</mn><mo> </mo><mo> </mo><mo>(</mo><mn>6</mn><mo>.</mo><mn>11609</mn><mo>…</mo><mo>)</mo></math>             <em><strong>A2</strong></em></p>
+<p><strong><br/>OR<br/></strong><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>6120</mn><mo> </mo><mo> </mo><mo>(</mo><mn>6116</mn><mo>.</mo><mn>09</mn><mo>…</mo><mo>)</mo></math> (mackerel per <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mtext>km</mtext><mn>3</mn></msup></math>)             <em><strong>A2</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">e.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><img src="data:image/png;base64,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QAQDNyQYFC0BOcfIZb5kyZKmZKeU8BDQjEtevmeddZbz+L3rrrts9erVvnVgzJgx7uyplkG3bdvmW7s0FBwCiGBwxgJLckBAsR3lzad9pO+++y4HNXGrHwQU7GDs2LFWt25dJ35KTaQZmV9F7Ss7SZ48eaxKlSqmQAyU1CSACKbmuCdlr/WPrE6dOla4cGF76aWXOEwfsFHWrE8xYB9//HE79dRTrXjx4taqVSt78803bc+ePb5Zq/2/2rVru8Dbjz32mMkLlZK6BBDB1B37pOz5zp07TRkncuXKFffAykkJMA6d+vXXX12w61q1arlxUcqj559/3jR797No/1gRhwoVKuS+LK1cudLP5mkroAQQwYAODGbFTkBLXfIwVO43CaKyAFD8JSDmEj9l/VC8V2V7OP300+2pp55KiPOJzv/Jk1jLn3LA0ZclCgREABHkc5C0BIYPH+6EUP/8yAHnzzAr2kr//v3tkksucTMuic6NN95oH374YULGQN6f77//vnO8kRB36NCBdEj+fBRC0woiGJqhwtBYCAwePNgtwWkPaNGiRbFUwT1ZENDxhrffftvat2/vjhpoKVohzu68886EM+/du7ebhcr7VMcuOP+XxWCm4NuIYAoOeip1WTOBqVOnms6A6QyaZgJr165NJQSe9VVLnNpH02FyOR7dfffdVqlSJbfEWK5cOWvWrJn985//tK+//tqd8Yt3hJcjdUxn/XRm9G9/+5ubAWr/UcufibLnSHbyejAIIILBGAesiDMB/QN8/fXX7eSTT3aRQRSJhH+KR4aus5c//vijffbZZ07wNKvTnp5meXrIs/Pqq682zbQVxzUoRUufiimr5Ms33HAD8T+DMjABtgMRDPDgYJr3BHQQWzOEfPny2X333ZeSWQIk/jqSIO/MLVu2uDNykyZNspdfftnuv/9+a9SokRO8/PnzO8GToCiJ7aWXXmrPPfecffnll+5geVCWFtUfjaucoDTbr1mzps2cOROHKO//fJKyRt9FUPsHc+bMSX/o25qWqygQ8IuAPoMtWrRw/+DLlCnjZjt+tR3PduT80717d+cZK+9YPR566CG74447XGg5OQgpHqcOqFerVs1lSihWrFj67C4yyzvllFOsefPm9swzz7jcfd98843J4SWIM+f169e7JW4lv5X9vXr1wvMznh+yJKzbdxGcMGGCO7/V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"/></p>
+<p>spiral or closed loop shape         <em><strong>A1</strong></em></p>
+<p>approximately <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>.</mo><mn>25</mn></math> rotations (can only be awarded if a spiral)         <em><strong>A1</strong></em></p>
+<p>correct shape, in approximately correct position (centred at approx. <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mn>5</mn><mo>.</mo><mn>5</mn><mo>,</mo><mo> </mo><mn>2</mn><mo>.</mo><mn>5</mn><mo>)</mo></math>)         <em><strong>A1</strong></em></p>
+<p><br/><strong>Note:</strong> Award <em><strong>A0A0A0</strong></em> for any plot of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi></math> or <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi></math> against <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi></math>.<br/><br/></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">f.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>EITHER</strong></p>
+<p>approximate minimum is <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mn>5</mn><mo>.</mo><mn>07223</mn><mo>…</mo><mo>)</mo><mo> </mo><mn>5</mn><mo>.</mo><mn>07</mn></math> (which is greater than <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>5</mn></math>)           <em><strong>A1</strong></em></p>
+<p><br/><strong>OR</strong></p>
+<p>the line <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi><mo>=</mo><mn>5</mn></math> clearly labelled on their phase portrait           <em><strong>A1</strong></em></p>
+<p><br/><strong>THEN</strong></p>
+<p>(the density will not fall below <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>5000</mn></math>) hence sufficient for sustainable fishing           <em><strong>A1</strong></em><br/><br/><br/><strong>Note:</strong> Do not award <em><strong>A0A1</strong></em>. Only if the minimum point is labelled on the sketch then a statement here that <em>“the mackerel population is always above <math xmlns="http://www.w3.org/1998/Math/MathML"><mn mathvariant="italic">5000</mn></math>”</em> would be sufficient. Accept the value <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>5</mn><mo>.</mo><mn>07</mn></math> seen within a table of values.<br/><br/></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">f.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Any two from:                           <em><strong>A1A1</strong></em></p>
+<p>• Current values / parameters are only an estimate,</p>
+<p>• The Euler method is only an approximate method / choosing <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>h</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn></math> might be too large.</p>
+<p>• There might be random variation / the model has no stochastic component</p>
+<p>• Conditions / parameters might change over the nine years,</p>
+<p>• A discrete system is being approximated by a continuous system,</p>
+<p>Allow any other sensible critique.</p>
+<p><br/>If a candidate identifies factors which the model ignores, award <em><strong>A1</strong></em> per factor identified. These factors could include:</p>
+<p>• Other predators</p>
+<p>• Seasonality</p>
+<p>• Temperature</p>
+<p>• The effect of fishing</p>
+<p>• Environmental catastrophe</p>
+<p>• Migration</p>
+<p><br/><strong>Note:</strong> Do not allow:<br/>             “You cannot have <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>5</mn><mo>.</mo><mn>07</mn></math> mackerel”.<br/>             It is only a model (as this is too vague).<br/>             Some factors have been ignored (without specifically identifying the factors).<br/>             Values do not always follow the equation / model. (as this is too vague).</p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">f.iii.</div>
+</div>b:T5e4,<div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d.iii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">e.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">e.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">f.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">f.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">f.iii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"21M.3.AHL.TZ2.2"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"21M"}],["$","span",null,{"children":["· ","ahl-5-17-phase-portrait, ahl-5-14-setting-up-a-de-solve-by-separating-variables, ahl-5-16-eulers-method-for-1st-order-des"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

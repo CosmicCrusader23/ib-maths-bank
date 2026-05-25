@@ -1,0 +1,520 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1360","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1360","d"],{"children":["__PAGE__?{\"id\":\"1360\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1360","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T8d1,<div class="specification">
+<p>A farmer owns a plot of land in the shape of a quadrilateral ABCD.</p>
+<p><span class="mjpage"><math alttext="{\text{AB}} = 105{\text{ m, BC}} = 95{\text{ m, CD}} = 40{\text{ m, DA}} = 70{\text{ m}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>AB</mtext>
+</mrow>
+<mo>=</mo>
+<mn>105</mn>
+<mrow>
+<mtext> m, BC</mtext>
+</mrow>
+<mo>=</mo>
+<mn>95</mn>
+<mrow>
+<mtext> m, CD</mtext>
+</mrow>
+<mo>=</mo>
+<mn>40</mn>
+<mrow>
+<mtext> m, DA</mtext>
+</mrow>
+<mo>=</mo>
+<mn>70</mn>
+<mrow>
+<mtext> m</mtext>
+</mrow>
+</math></span> and angle <span class="mjpage"><math alttext="{\text{DCB}} = 90^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>DCB</mtext>
+</mrow>
+<mo>=</mo>
+<msup>
+<mn>90</mn>
+<mo>∘<!-- ∘ --></mo>
+</msup>
+</math></span>.</p>
+<p style="text-align: center;"><img alt="N16/5/MATSD/SP2/ENG/TZ0/05" src="../assets/uploads/tinymce_asset/asset/3341/Schermafbeelding_2017-03-07_om_08.23.38.png"/></p>
+<p>The farmer wants to divide the land into two equal areas. He builds a fence in a straight line from point B to point P on AD, so that the area of PAB is equal to the area of PBCD.</p>
+<p>Calculate</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>the length of BD;</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>the size of angle DAB;</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>the area of triangle ABD;</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>the area of quadrilateral ABCD;</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>the length of AP;</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>the length of the fence, BP.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">f.</div>
+</div>a:T2b25,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="({\text{BD}} = ){\text{ }}\sqrt {{{95}^2} + {{40}^2}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>BD</mtext>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<msqrt>
+<mrow>
+<msup>
+<mrow>
+<mn>95</mn>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>40</mn>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</math></span>    <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for correct substitution into Pythagoras’ theorem.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 103{\text{ }}({\text{m}}){\text{ }}\left( {103.077 \ldots ,{\text{ }}25\sqrt {17} } \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>103</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>103.077</mn>
+<mo>…</mo>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>25</mn>
+<msqrt>
+<mn>17</mn>
+</msqrt>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>    <strong><em>(A1)(G2)</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\cos {\rm{B\hat AD}} = \frac{{{{105}^2} + {{70}^2} - {{(103.077 \ldots )}^2}}}{{2 \times 105 \times 70}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>cos</mi>
+<mo>⁡</mo>
+<mrow>
+<mrow>
+<mi mathvariant="normal">B</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">D</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mrow>
+<mn>105</mn>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>70</mn>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>103.077</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mo>×</mo>
+<mn>105</mn>
+<mo>×</mo>
+<mn>70</mn>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(M1)(A1)</em>(ft)</strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for substitution into cosine rule, <strong><em>(A1)</em>(ft) </strong>for their correct substitutions. Follow through from part (a).</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="({\rm{B\hat AD}}) = 68.9^\circ {\text{ }}(68.8663 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mrow>
+<mrow>
+<mi mathvariant="normal">B</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">D</mi>
+</mrow>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msup>
+<mn>68.9</mn>
+<mo>∘</mo>
+</msup>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>68.8663</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>If their 103 used, the answer is <span class="mjpage"><math alttext="68.7995 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>68.7995</mn>
+<mo>…</mo>
+</math></span></p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="({\text{Area of ABD}} = )\frac{1}{2} \times 105 \times 70 \times \sin (68.8663 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>Area of ABD</mtext>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo>×</mo>
+<mn>105</mn>
+<mo>×</mo>
+<mn>70</mn>
+<mo>×</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mn>68.8663</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(M1)(A1)</em>(ft)</strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Award <strong><em>(M1) </em></strong>for substitution into the trig form of the area of a triangle formula.</p>
+<p>Award <strong><em>(A1)</em>(ft) </strong>for their correct substitutions.</p>
+<p>Follow through from part (b).</p>
+<p>If 68.8° is used the area <span class="mjpage"><math alttext=" = 3426.28 \ldots {\text{ }}{{\text{m}}^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>3426.28</mn>
+<mo>…</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span>.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 3430{\text{ }}{{\text{m}}^2}{\text{ }}(3427.82 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>3430</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>3427.82</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{\text{area of ABCD}} = \frac{1}{2} \times 40 \times 95 + 3427.82 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>area of ABCD</mtext>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo>×</mo>
+<mn>40</mn>
+<mo>×</mo>
+<mn>95</mn>
+<mo>+</mo>
+<mn>3427.82</mn>
+<mo>…</mo>
+</math></span>    <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for correctly substituted area of triangle formula <strong>added </strong>to their answer to part (c).</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 5330{\text{ }}{{\text{m}}^2}{\text{ }}(5327.83 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>5330</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>5327.83</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{1}{2} \times 105 \times {\text{AP}} \times \sin (68.8663 \ldots ) = 0.5 \times 5327.82 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo>×</mo>
+<mn>105</mn>
+<mo>×</mo>
+<mrow>
+<mtext>AP</mtext>
+</mrow>
+<mo>×</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mn>68.8663</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.5</mn>
+<mo>×</mo>
+<mn>5327.82</mn>
+<mo>…</mo>
+</math></span>    <strong><em>(M1)(M1)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Award <strong><em>(M1) </em></strong>for the correct substitution into triangle formula.</p>
+<p>Award <strong><em>(M1) </em></strong>for equating their triangle area to half their part (d).</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="({\text{AP}} = ){\text{ }}54.4{\text{ }}({\text{m}}){\text{ }}(54.4000 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>AP</mtext>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>54.4</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>54.4000</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Follow through from parts (b) and (d).</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{\text{B}}{{\text{P}}^2} = {105^2} + {(54.4000 \ldots )^2} - 2 \times 105 \times (54.4000 \ldots ) \times \cos (68.8663 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>B</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>P</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mn>105</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>54.4000</mn>
+<mo>…</mo>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>2</mn>
+<mo>×</mo>
+<mn>105</mn>
+<mo>×</mo>
+<mo stretchy="false">(</mo>
+<mn>54.4000</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+<mo>×</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mn>68.8663</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(M1)(A1)</em>(ft)</strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>Award <strong><em>(M1) </em></strong>for substituted cosine rule formula.</p>
+<p>Award <strong><em>(A1)</em>(ft) </strong>for their correct substitutions. Accept the exact fraction <span class="mjpage"><math alttext="\frac{{53}}{{147}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>53</mn>
+</mrow>
+<mrow>
+<mn>147</mn>
+</mrow>
+</mfrac>
+</math></span> in place of <span class="mjpage"><math alttext="\cos (68.8663 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>cos</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mn>68.8663</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>.</p>
+<p>Follow through from parts (b) and (e).</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="({\text{BP}} = ){\text{ }}99.3{\text{ }}({\text{m}}){\text{ }}(99.3252 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>BP</mtext>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>99.3</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>99.3252</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p> </p>
+<p><strong>Notes:     </strong>If 54.4 and <span class="mjpage"><math alttext="\cos (68.9)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>cos</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mn>68.9</mn>
+<mo stretchy="false">)</mo>
+</math></span> are used the answer is <span class="mjpage"><math alttext="99.3567 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>99.3567</mn>
+<mo>…</mo>
+</math></span></p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">f.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"16N.2.SL.TZ0.T_5"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","sl-3-2-2d-and-3d-trig"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">f.</div>\n</div>"}}]]}]]}]

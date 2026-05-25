@@ -1,0 +1,358 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","250","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","250","d"],{"children":["__PAGE__?{\"id\":\"250\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","250","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T848,<div class="specification">
+<p>A set of data comprises of five numbers <span class="mjpage"><math alttext="{x_{1\,}}{\text{,}}\,\,{x_2}{\text{,}}\,\,{x_3}{\text{,}}\,\,{x_4}{\text{,}}\,\,{x_5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>x</mi>
+<mrow>
+<mn>1</mn>
+<mspace width="thinmathspace"></mspace>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>3</mn>
+</msub>
+</mrow>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>5</mn>
+</msub>
+</mrow>
+</math></span> which have been placed in ascending order.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Recalling definitions, such as the Lower Quartile is the <span class="mjpage"><math alttext="\frac{{n + 1}}{4}th" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+<mn>4</mn>
+</mfrac>
+<mi>t</mi>
+<mi>h</mi>
+</math></span> piece of data with the data placed in order, find an expression for the Interquartile Range.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence, show that a data set with only 5 numbers in it cannot have any outliers.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Give an example of a set of data with 7 numbers in it that does have an outlier, justify this fact by stating the Interquartile Range.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div>a:T1220,<div class="question" style="padding-left: 20px;">
+<p><span style="font-size: 10.5pt;font-family: 'Verdana',sans-serif;color: black;"><span class="mjpage"><math alttext="LQ = \frac{{{x_1} + {x_2}}}{2}{\text{,}}\,\,UQ = \frac{{{x_4} + {x_5}}}{2}{\text{,}}\,\,IQR = \frac{{{x_4} + {x_5} - {x_1} - {x_2}}}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>L</mi>
+<mi>Q</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>U</mi>
+<mi>Q</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>5</mn>
+</msub>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>I</mi>
+<mi>Q</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>5</mn>
+</msub>
+</mrow>
+<mo>−</mo>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>−</mo>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</math></span>       <strong><em><span style="font-family: 'Verdana',sans-serif;">M1A1</span></em></strong></span></p>
+<p style="text-align: start;"><strong><em><span style="font-size: 10.5pt;font-family: 'Verdana',sans-serif;color: black;">[2 marks]</span></em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="UQ + 1.5IQR = 1.25{x_4} + 1.25{x_5} - 0.75{x_1} - 0.75{x_2} \geqslant {x_5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>U</mi>
+<mi>Q</mi>
+<mo>+</mo>
+<mn>1.5</mn>
+<mi>I</mi>
+<mi>Q</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mn>1.25</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mn>1.25</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>5</mn>
+</msub>
+</mrow>
+<mo>−</mo>
+<mn>0.75</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>−</mo>
+<mn>0.75</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>⩾</mo>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>5</mn>
+</msub>
+</mrow>
+</math></span>      <strong><em>M1A1</em></strong></p>
+<p>Since <span class="mjpage"><math alttext="1.25{x_4} + 0.25{x_5} \geqslant 0.75{x_1} + 0.75{x_2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1.25</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mn>0.25</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>5</mn>
+</msub>
+</mrow>
+<mo>⩾</mo>
+<mn>0.75</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mn>0.75</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</math></span> due to the ascending order. <strong>     <em>R1</em></strong></p>
+<p>Similarly <span class="mjpage"><math alttext="LQ - 1.5IQR = 1.25{x_1} + 1.25{x_2} - 0.75{x_4} - 0.75{x_5} \leqslant {x_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>L</mi>
+<mi>Q</mi>
+<mo>−</mo>
+<mn>1.5</mn>
+<mi>I</mi>
+<mi>Q</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mn>1.25</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mn>1.25</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>−</mo>
+<mn>0.75</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+<mo>−</mo>
+<mn>0.75</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>5</mn>
+</msub>
+</mrow>
+<mo>⩽</mo>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span>      <strong><em>M1A1</em></strong></p>
+<p>Since <span class="mjpage"><math alttext="0.25{x_1} + 1.25{x_2} \leqslant 0.75{x_3} + 0.75{x_4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0.25</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mn>1.25</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>⩽</mo>
+<mn>0.75</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>3</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mn>0.75</mn>
+<mrow>
+<msub>
+<mi>x</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+</math></span> due to the ascending order.</p>
+<p>So there are no outliers for a data set of 5 numbers.      <strong><em>AG</em></strong></p>
+<p><strong><em>[5 marks]</em></strong></p>
+<p> </p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>For example 1, 2, 3, 4, 5, 6, 100 where <span class="mjpage"><math alttext="IQR = 4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>I</mi>
+<mi>Q</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mn>4</mn>
+</math></span>     <strong><em>A1A1</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"EXM.1.SL.TZ0.2"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"EXM"}],["$","span",null,{"children":["· ","sl-4-1-concepts-reliability-and-sampling-techniques"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

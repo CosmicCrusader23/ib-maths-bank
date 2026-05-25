@@ -1,0 +1,150 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1241","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1241","d"],{"children":["__PAGE__?{\"id\":\"1241\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1241","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Td0a,<div class="specification">
+<p>Consider the points A(−3, 4, 2) and B(8, −1, 5).</p>
+</div><div class="specification">
+<p>A line <em>L</em> has vector equation <span class="mjpage"><math alttext="r = \left( {\begin{array}{*{20}{c}}  2 \\   0 \\   { - 5}  \end{array}} \right) + t\left( {\begin{array}{*{20}{c}}  1 \\   { - 2} \\   2  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>5</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mi>t</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>. The point C (5, <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span>, 1) lies on line <em>L</em>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find <span class="mjpage"><math alttext="\left| {\overrightarrow {{\text{AB}}} } \right|" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mo>|</mo> <mrow> <mover> <mrow> <mtext>AB</mtext> </mrow> <mo>→</mo> </mover> </mrow> <mo>|</mo> </mrow> </math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>y</mi> </math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="\overrightarrow {{\text{AC}}} = \left( {\begin{array}{*{20}{c}}  8 \\   { - 10} \\   { - 1}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mover> <mrow> <mtext>AC</mtext> </mrow> <mo>→</mo> </mover> <mo>=</mo> <mrow> <mo>(</mo> <mrow> <mtable columnspacing="1em" rowspacing="4pt"> <mtr> <mtd> <mn>8</mn> </mtd> </mtr> <mtr> <mtd> <mrow> <mo>−</mo> <mn>10</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mo>−</mo> <mn>1</mn> </mrow> </mtd> </mtr> </mtable> </mrow> <mo>)</mo> </mrow> </math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the angle between <span class="mjpage"><math alttext="\overrightarrow {{\text{AB}}} " xmlns="http://www.w3.org/1998/Math/MathML"> <mover> <mrow> <mtext>AB</mtext> </mrow> <mo>→</mo> </mover> </math></span> and <span class="mjpage"><math alttext="\overrightarrow {{\text{AC}}} " xmlns="http://www.w3.org/1998/Math/MathML"> <mover> <mrow> <mtext>AC</mtext> </mrow> <mo>→</mo> </mover> </math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the area of triangle ABC.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div>a:T39ed,<div class="question" style="padding-left: 20px;">
+<p><strong>Note:</strong> There may be slight differences in answers, depending on which combination of unrounded values and previous correct 3 sf values the candidates carry through in subsequent parts. Accept answers that are consistent with their working.</p>
+<p> </p>
+<p>correct substitution into formula      <em><strong>(A1)</strong></em></p>
+<p><em>eg</em>    <span class="mjpage"><math alttext="\sqrt {{{11}^2} + {{\left( { - 5} \right)}^2} + {3^2}} " xmlns="http://www.w3.org/1998/Math/MathML"> <msqrt> <mrow> <msup> <mrow> <mn>11</mn> </mrow> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>5</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <msup> <mn>3</mn> <mn>2</mn> </msup> </mrow> </msqrt> </math></span></p>
+<p>12.4498 </p>
+<p><span class="mjpage"><math alttext="\left| {\overrightarrow {{\text{AB}}} } \right| = \sqrt {155} " xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mo>|</mo> <mrow> <mover> <mrow> <mtext>AB</mtext> </mrow> <mo>→</mo> </mover> </mrow> <mo>|</mo> </mrow> <mo>=</mo> <msqrt> <mn>155</mn> </msqrt> </math></span>  (exact), 12.4     <em><strong>A</strong><strong>1 N2</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>Note:</strong> There may be slight differences in answers, depending on which combination of unrounded values and previous correct 3 sf values the candidates carry through in subsequent parts. Accept answers that are consistent with their working.</p>
+<p> </p>
+<p>valid approach to find <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>t</mi> </math></span>      <em><strong>(M1)</strong></em></p>
+<p><em>eg</em>     <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  5 \\   y \\   1  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  2 \\   0 \\   { - 5}  \end{array}} \right) + t\left( {\begin{array}{*{20}{c}}  1 \\   { - 2} \\   2  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mo>(</mo> <mrow> <mtable columnspacing="1em" rowspacing="4pt"> <mtr> <mtd> <mn>5</mn> </mtd> </mtr> <mtr> <mtd> <mi>y</mi> </mtd> </mtr> <mtr> <mtd> <mn>1</mn> </mtd> </mtr> </mtable> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mrow> <mo>(</mo> <mrow> <mtable columnspacing="1em" rowspacing="4pt"> <mtr> <mtd> <mn>2</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mrow> <mo>−</mo> <mn>5</mn> </mrow> </mtd> </mtr> </mtable> </mrow> <mo>)</mo> </mrow> <mo>+</mo> <mi>t</mi> <mrow> <mo>(</mo> <mrow> <mtable columnspacing="1em" rowspacing="4pt"> <mtr> <mtd> <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <mrow> <mo>−</mo> <mn>2</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mn>2</mn> </mtd> </mtr> </mtable> </mrow> <mo>)</mo> </mrow> </math></span>,  <span class="mjpage"><math alttext="5 = 2 + t" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>5</mn> <mo>=</mo> <mn>2</mn> <mo>+</mo> <mi>t</mi> </math></span>,   <span class="mjpage"><math alttext="1 =  - 5 + 2t" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>1</mn> <mo>=</mo> <mo>−</mo> <mn>5</mn> <mo>+</mo> <mn>2</mn> <mi>t</mi> </math></span></p>
+<p><span class="mjpage"><math alttext="t = 3" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>t</mi> <mo>=</mo> <mn>3</mn> </math></span>     (seen anywhere)      <em><strong>(A1)</strong></em></p>
+<p>attempt to substitute <strong>their</strong> parameter into the vector equation      <em><strong>(M1)</strong></em></p>
+<p><em>eg</em>     <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  5 \\   y \\   1  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  2 \\   0 \\   { - 5}  \end{array}} \right) + 3\left( {\begin{array}{*{20}{c}}  1 \\   { - 2} \\   2  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mo>(</mo> <mrow> <mtable columnspacing="1em" rowspacing="4pt"> <mtr> <mtd> <mn>5</mn> </mtd> </mtr> <mtr> <mtd> <mi>y</mi> </mtd> </mtr> <mtr> <mtd> <mn>1</mn> </mtd> </mtr> </mtable> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mrow> <mo>(</mo> <mrow> <mtable columnspacing="1em" rowspacing="4pt"> <mtr> <mtd> <mn>2</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mrow> <mo>−</mo> <mn>5</mn> </mrow> </mtd> </mtr> </mtable> </mrow> <mo>)</mo> </mrow> <mo>+</mo> <mn>3</mn> <mrow> <mo>(</mo> <mrow> <mtable columnspacing="1em" rowspacing="4pt"> <mtr> <mtd> <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <mrow> <mo>−</mo> <mn>2</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mn>2</mn> </mtd> </mtr> </mtable> </mrow> <mo>)</mo> </mrow> </math></span>,  <span class="mjpage"><math alttext="3 \cdot \left( { - 2} \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>3</mn> <mo>⋅</mo> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </math></span></p>
+<p><span class="mjpage"><math alttext="y =  - 6" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>y</mi> <mo>=</mo> <mo>−</mo> <mn>6</mn> </math></span>     <em><strong>A1 N2</strong></em></p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>Note:</strong> There may be slight differences in answers, depending on which combination of unrounded values and previous correct 3 sf values the candidates carry through in subsequent parts. Accept answers that are consistent with their working.</p>
+<p> </p>
+<p>correct approach      <em><strong>A1</strong></em></p>
+<p><em>eg</em>     <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  5 \\   { - 6} \\   1  \end{array}} \right) - \left( {\begin{array}{*{20}{c}}  { - 3} \\   4 \\   2  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mo>(</mo> <mrow> <mtable columnspacing="1em" rowspacing="4pt"> <mtr> <mtd> <mn>5</mn> </mtd> </mtr> <mtr> <mtd> <mrow> <mo>−</mo> <mn>6</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mn>1</mn> </mtd> </mtr> </mtable> </mrow> <mo>)</mo> </mrow> <mo>−</mo> <mrow> <mo>(</mo> <mrow> <mtable columnspacing="1em" rowspacing="4pt"> <mtr> <mtd> <mrow> <mo>−</mo> <mn>3</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mn>4</mn> </mtd> </mtr> <mtr> <mtd> <mn>2</mn> </mtd> </mtr> </mtable> </mrow> <mo>)</mo> </mrow> </math></span>,  AO + OC,  <span class="mjpage"><math alttext="c - a" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>c</mi> <mo>−</mo> <mi>a</mi> </math></span></p>
+<p><span class="mjpage"><math alttext="\overrightarrow {{\text{AC}}} = \left( {\begin{array}{*{20}{c}} 8 \\  { - 10} \\  { - 1}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mover> <mrow> <mtext>AC</mtext> </mrow> <mo>→</mo> </mover> <mo>=</mo> <mrow> <mo>(</mo> <mrow> <mtable columnspacing="1em" rowspacing="4pt"> <mtr> <mtd> <mn>8</mn> </mtd> </mtr> <mtr> <mtd> <mrow> <mo>−</mo> <mn>10</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mo>−</mo> <mn>1</mn> </mrow> </mtd> </mtr> </mtable> </mrow> <mo>)</mo> </mrow> </math></span>     <em><strong>AG N0</strong></em></p>
+<p><strong>Note:</strong> Do not award <em><strong>A1</strong></em> in part (ii) unless answer in part (i) is correct and does not result from working backwards.</p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>Note:</strong> There may be slight differences in answers, depending on which combination of unrounded values and previous correct 3 sf values the candidates carry through in subsequent parts. Accept answers that are consistent with their working.</p>
+<p> </p>
+<p>finding scalar product and magnitude      <em><strong>(A1)(A1)</strong></em></p>
+<p>scalar product = 11 × 8 + −5 × −10 + 3 × −1  (=135)</p>
+<p><span class="mjpage"><math alttext="\overrightarrow {\left| {{\text{AC}}} \right|}  = \sqrt {{8^2} + {{\left( { - 10} \right)}^2} + {{\left( { - 1} \right)}^2}} \,\,\left( { = \sqrt {165} ,\,\,12.8452} \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mover> <mrow> <mo>|</mo> <mrow> <mrow> <mtext>AC</mtext> </mrow> </mrow> <mo>|</mo> </mrow> <mo>→</mo> </mover> <mo>=</mo> <msqrt> <mrow> <msup> <mn>8</mn> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>10</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> </mrow> </msqrt> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mrow> <mo>(</mo> <mrow> <mo>=</mo> <msqrt> <mn>165</mn> </msqrt> <mo>,</mo> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mn>12.8452</mn> </mrow> <mo>)</mo> </mrow> </math></span></p>
+<p>evidence of substitution into formula      <em><strong>(M1)</strong></em></p>
+<p><em>eg</em>  <span class="mjpage"><math alttext="{\text{cos}}{\mkern 1mu} \theta  = \frac{{11 \times 8 +  - 5 \times  - 10 + 3 \times  - 1}}{{\left| {\overrightarrow {{\text{AB}}} } \right| \times \sqrt {{8^2} + {{\left( { - 10} \right)}^2} + {{\left( { - 1} \right)}^2}} }}{\text{,}}\,\,{\text{cos}}{\mkern 1mu} \theta  = \frac{{\overrightarrow {{\text{AB}}}  \bullet \overrightarrow {{\text{AC}}} }}{{\sqrt {155}  \times \sqrt {{8^2} + {{\left( { - 10} \right)}^2} + {{\left( { - 1} \right)}^2}} }}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>cos</mtext> </mrow> <mrow> <mspace width="0.056em"></mspace> </mrow> <mi>θ</mi> <mo>=</mo> <mfrac> <mrow> <mn>11</mn> <mo>×</mo> <mn>8</mn> <mo>+</mo> <mo>−</mo> <mn>5</mn> <mo>×</mo> <mo>−</mo> <mn>10</mn> <mo>+</mo> <mn>3</mn> <mo>×</mo> <mo>−</mo> <mn>1</mn> </mrow> <mrow> <mrow> <mo>|</mo> <mrow> <mover> <mrow> <mtext>AB</mtext> </mrow> <mo>→</mo> </mover> </mrow> <mo>|</mo> </mrow> <mo>×</mo> <msqrt> <mrow> <msup> <mn>8</mn> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>10</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> <mrow> <mtext>,</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mrow> <mtext>cos</mtext> </mrow> <mrow> <mspace width="0.056em"></mspace> </mrow> <mi>θ</mi> <mo>=</mo> <mfrac> <mrow> <mover> <mrow> <mtext>AB</mtext> </mrow> <mo>→</mo> </mover> <mo>∙</mo> <mover> <mrow> <mtext>AC</mtext> </mrow> <mo>→</mo> </mover> </mrow> <mrow> <msqrt> <mn>155</mn> </msqrt> <mo>×</mo> <msqrt> <mrow> <msup> <mn>8</mn> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>10</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> </math></span></p>
+<p>correct substitution      <em><strong>(A1)</strong></em></p>
+<p><em>eg</em>    <span class="mjpage"><math alttext="{\text{cos}}\,\theta  = \frac{{11 \times 8 +  - 5 \times  - 10 + 3 \times  - 1}}{{\sqrt {155}  \times \sqrt {{8^2} + {{\left( { - 10} \right)}^2} + {{\left( { - 1} \right)}^2}} }}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>cos</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>θ</mi> <mo>=</mo> <mfrac> <mrow> <mn>11</mn> <mo>×</mo> <mn>8</mn> <mo>+</mo> <mo>−</mo> <mn>5</mn> <mo>×</mo> <mo>−</mo> <mn>10</mn> <mo>+</mo> <mn>3</mn> <mo>×</mo> <mo>−</mo> <mn>1</mn> </mrow> <mrow> <msqrt> <mn>155</mn> </msqrt> <mo>×</mo> <msqrt> <mrow> <msup> <mn>8</mn> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>10</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> </math></span>,   <span class="mjpage"><math alttext="{\text{cos}}\,\theta  = \frac{{135}}{{159.921 \ldots }}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>cos</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>θ</mi> <mo>=</mo> <mfrac> <mrow> <mn>135</mn> </mrow> <mrow> <mn>159.921</mn> <mo>…</mo> </mrow> </mfrac> </math></span>,</p>
+<p><span class="mjpage"><math alttext="{\text{cos}}\,\theta  = 0.844162 \ldots " xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>cos</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>θ</mi> <mo>=</mo> <mn>0.844162</mn> <mo>…</mo> </math></span></p>
+<p>0.565795,  32.4177°</p>
+<p><span class="mjpage"><math alttext="{\hat A}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mrow> <mover> <mi>A</mi> <mo stretchy="false">^</mo> </mover> </mrow> </mrow> </math></span> = 0.566,  32.4°     <em><strong>A1 N3</strong></em></p>
+<p> </p>
+<p><em><strong>[5 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>Note:</strong> There may be slight differences in answers, depending on which combination of unrounded values and previous correct 3 sf values the candidates carry through in subsequent parts. Accept answers that are consistent with their working.</p>
+<p> </p>
+<p>correct substitution into area formula      <em><strong>(A1)</strong></em></p>
+<p><em>eg</em>    <span class="mjpage"><math alttext="\frac{1}{2} \times \sqrt {155}  \times \sqrt {165}  \times {\text{sin}}\left( {0.566 \ldots } \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>×</mo> <msqrt> <mn>155</mn> </msqrt> <mo>×</mo> <msqrt> <mn>165</mn> </msqrt> <mo>×</mo> <mrow> <mtext>sin</mtext> </mrow> <mrow> <mo>(</mo> <mrow> <mn>0.566</mn> <mo>…</mo> </mrow> <mo>)</mo> </mrow> </math></span>,  <span class="mjpage"><math alttext="\frac{1}{2} \times \sqrt {155 \times 165}  \times {\text{sin}}\left( {32.4} \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>×</mo> <msqrt> <mn>155</mn> <mo>×</mo> <mn>165</mn> </msqrt> <mo>×</mo> <mrow> <mtext>sin</mtext> </mrow> <mrow> <mo>(</mo> <mrow> <mn>32.4</mn> </mrow> <mo>)</mo> </mrow> </math></span></p>
+<p>42.8660</p>
+<p>area = 42.9      <em><strong>A1 N2</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"18N.2.SL.TZ0.S_8"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"18N"}],["$","span",null,{"children":["· ","ahl-3-11-vector-equation-of-a-line-in-2d-and-3d"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

@@ -1,0 +1,794 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1150","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1150","d"],{"children":["__PAGE__?{\"id\":\"1150\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1150","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tb2e,<div class="question">
+<p>The matrices <strong><em>A</em></strong>, <strong><em>B</em></strong>, <strong><em>X</em></strong> are given by</p>
+<p><em><strong>A</strong></em> = <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  3&amp;1 \\   { - 5}&amp;6  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>6</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>, <em><strong>B</strong></em> = <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  4&amp;8 \\   0&amp;{ - 3}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mn>8</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>, <em><strong>X</strong></em> = <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  a&amp;b \\   c&amp;d  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>a</mi>
+</mtd>
+<mtd>
+<mi>b</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>c</mi>
+</mtd>
+<mtd>
+<mi>d</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>, <span style="background-color: #ffffff;"><span class="mjpage"><math alttext="{\text{where}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>where</mtext>
+</mrow>
+</math></span></span> <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span>, <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+</math></span>, <span class="mjpage"><math alttext="c" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>c</mi>
+</math></span>, <span class="mjpage"><math alttext="d \in \mathbb{Q}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+<mo>∈</mo>
+<mrow>
+<mi mathvariant="double-struck">Q</mi>
+</mrow>
+</math></span>.</p>
+<p>Given that <strong><em>AX</em></strong> + <strong><em>X</em></strong> = <strong><em>Β</em></strong>, find the <strong>exact</strong> values of <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span><em>,</em> <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+</math></span><em>,</em> <span class="mjpage"><math alttext="c" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>c</mi>
+</math></span> and <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+</math></span><em>.</em></p>
+</div>a:T2cb0,<div class="question">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p>
+<p><span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  3&amp;1 \\   { - 5}&amp;6  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>6</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span><strong><em>X</em></strong> + <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  1&amp;0 \\   0&amp;1  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span><strong><em>X</em></strong> = <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  4&amp;8 \\   0&amp;{ - 3}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mn>8</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span></p>
+<p><span style="background-color: #ffffff;"><span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}   4&amp;1 \\    { - 5}&amp;7  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>7</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span><strong><em>X</em></strong> = <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}   4&amp;8 \\    0&amp;{ - 3}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mn>8</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span></span>        <em><strong>(M1)</strong></em></p>
+<p>Pre-multiply by inverse of <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  4&amp;1 \\   { - 5}&amp;7  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>7</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>        <em><strong>(M1)</strong></em></p>
+<p><strong><em>X</em></strong> = <span class="mjpage"><math alttext="\frac{1}{{33}}\left( {\begin{array}{*{20}{c}}  7&amp;{ - 1} \\   5&amp;4  \end{array}} \right)\left( {\begin{array}{*{20}{c}}  4&amp;8 \\   0&amp;{ - 3}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>33</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>7</mn>
+</mtd>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>5</mn>
+</mtd>
+<mtd>
+<mn>4</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mn>8</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>        <em><strong>(A1)(A1)</strong></em></p>
+<p><strong>Note:</strong><em>   </em>Award <em><strong>(A1)</strong></em> for determinant, <em><strong>(A1)</strong></em> for matrix <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  7&amp;{ - 1} \\   5&amp;4  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>7</mn>
+</mtd>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>5</mn>
+</mtd>
+<mtd>
+<mn>4</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>.</p>
+<p><span class="mjpage"><math alttext=" = \frac{1}{{33}}\left( {\begin{array}{*{20}{c}}  {28}&amp;{59} \\   {20}&amp;{28}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>33</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>28</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>59</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>20</mn>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>28</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>        <em><strong>(A1)(A1)</strong></em><em><strong>(A1)(A1)</strong></em></p>
+<p><span class="mjpage"><math alttext="\left( { \Rightarrow a = \frac{{28}}{{33}}{\text{,}}\,\,b = \frac{{59}}{{33}}{\text{,}}\,\,c = \frac{{20}}{{33}}{\text{,}}\,\,d = \frac{{28}}{{33}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo stretchy="false">⇒</mo>
+<mi>a</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>28</mn>
+</mrow>
+<mrow>
+<mn>33</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>b</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>59</mn>
+</mrow>
+<mrow>
+<mn>33</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>c</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>20</mn>
+</mrow>
+<mrow>
+<mn>33</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>28</mn>
+</mrow>
+<mrow>
+<mn>33</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span></p>
+<p> </p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  3&amp;1 \\   { - 5}&amp;6  \end{array}} \right)\left( {\begin{array}{*{20}{c}}  a&amp;b \\   c&amp;d  \end{array}} \right) + \left( {\begin{array}{*{20}{c}}  a&amp;b \\   c&amp;d  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  4&amp;8 \\   0&amp;{ - 3}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</mtd>
+<mtd>
+<mn>6</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>a</mi>
+</mtd>
+<mtd>
+<mi>b</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>c</mi>
+</mtd>
+<mtd>
+<mi>d</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>a</mi>
+</mtd>
+<mtd>
+<mi>b</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>c</mi>
+</mtd>
+<mtd>
+<mi>d</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mn>8</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>        <em><strong>(A1)</strong></em></p>
+<p><span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  {3a + c}&amp;{3b + d} \\   { - 5a + 6c}&amp;{ - 5b + 6d}  \end{array}} \right) + \left( {\begin{array}{*{20}{c}}  a&amp;b \\   c&amp;d  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  4&amp;8 \\   0&amp;{ - 3}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>3</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mi>c</mi>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mn>3</mn>
+<mi>b</mi>
+<mo>+</mo>
+<mi>d</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mn>6</mn>
+<mi>c</mi>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+<mi>b</mi>
+<mo>+</mo>
+<mn>6</mn>
+<mi>d</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>a</mi>
+</mtd>
+<mtd>
+<mi>b</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>c</mi>
+</mtd>
+<mtd>
+<mi>d</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+<mtd>
+<mn>8</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>        <em><strong>(A1)</strong></em></p>
+<p><span class="mjpage"><math alttext="4a + c = 4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>4</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mo>=</mo>
+<mn>4</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" - 5a + 7c = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>5</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mn>7</mn>
+<mi>c</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>        <em><strong>(A1)</strong></em></p>
+<p><span class="mjpage"><math alttext="4b + d = 8" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>4</mn>
+<mi>b</mi>
+<mo>+</mo>
+<mi>d</mi>
+<mo>=</mo>
+<mn>8</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" - 5b + 7d =  - 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>5</mn>
+<mi>b</mi>
+<mo>+</mo>
+<mn>7</mn>
+<mi>d</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>3</mn>
+</math></span>        <em><strong>(A1)</strong></em></p>
+<p><strong>Notes:</strong> Award <em><strong>(A1)</strong></em> for each pair of equations. <br/>Allow <strong>ft</strong> from their equations.</p>
+<p><span class="mjpage"><math alttext="{a = \frac{{28}}{{33}}{\text{,}}\,\,b = \frac{{59}}{{33}}{\text{,}}\,\,c = \frac{{20}}{{33}}{\text{,}}\,\,d = \frac{{28}}{{33}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>a</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>28</mn>
+</mrow>
+<mrow>
+<mn>33</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>b</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>59</mn>
+</mrow>
+<mrow>
+<mn>33</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>c</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>20</mn>
+</mrow>
+<mrow>
+<mn>33</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>28</mn>
+</mrow>
+<mrow>
+<mn>33</mn>
+</mrow>
+</mfrac>
+</mrow>
+</math></span>        <em><strong>(A1)(A1)</strong></em><em><strong>(A1)(A1)</strong></em></p>
+<p><strong>Note:</strong><em> </em>Award <em><strong>(A0)(A0)(A1)(A1)</strong></em> if the final answers are given as decimals <em>ie</em> 0.848, 1.79, 0.606, 0.848.</p>
+<p><em><strong>[8 marks]</strong></em></p>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"EXM.2.AHL.TZ0.4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"EXM"}],["$","span",null,{"children":["· ","ahl-1-14-introduction-to-matrices"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n[N/A]\n</div>"}}]]}]]}]

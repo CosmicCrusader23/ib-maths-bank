@@ -1,0 +1,241 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1292","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1292","d"],{"children":["__PAGE__?{\"id\":\"1292\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1292","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T35f5,<div class="specification">
+<p>The rates of change of the area covered by two types of fungi, X and Y, on a particular tree are given by the following equations, where <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> is the area covered by X and <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> is the area covered by Y.</p>
+<p><span class="mjpage mjpage__block"><math alttext="\frac{{{\text{d}}x}}{{{\text{d}}t}} = 3x - 2y" display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mi>y</mi>
+</math></span></p>
+<p><span class="mjpage mjpage__block"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}t}} = 2x - 2y" display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mi>y</mi>
+</math></span></p>
+<p>The matrix <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  3&amp;{ - 2} \\   2&amp;{ - 2}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>3</mn>
+</mtd>
+<mtd>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> has eigenvalues of 2 and −1 with corresponding eigenvectors <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  2 \\   1  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  1 \\   2  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>.</p>
+<p>Initially <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> = 8 cm<sup>2</sup> and <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> = 10 cm<sup>2</sup>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}x}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</math></span> when <span class="mjpage"><math alttext="t = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>On the following axes, sketch a possible trajectory for the growth of the two fungi, making clear any asymptotic behaviour.</p>
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAxUAAAFjCAYAAABL+Sb/AAAdb0lEQVR4Ae3df4jf90HH8fe3VlsYtGlx2G5jCdg/5qZtWnQoVJpa1yEMWhkrgmWkk7ExkATZ/hJsOhDBX01x+0P/SrU42DqTyAQFaVrcwFpXksJU0EqiY1MLXVqLWMxy8jkXSa8X2ua+lzzvPo+Dkt5d7vN9fR6vBO6Vz+f7vcXKysrK8EaAAAECBAgQIECAAIGLFLjiIr/OlxEgQIAAAQIECBAgQGBVwKjwB4EAAQIECBAgQIAAgQ0JXHn+Vy8Wi/Pf9f8ECBAgQIAAAQIECBB4ncDaZ1C8ZlRMv3vtb3jdEXyAAAECBAgQIECAAIHZCqx3IcLtT7P94+DECRAgQIAAAQIECCxHwKhYjqOjECBAgAABAgQIEJitgFEx2+qdOAECBAgQIECAAIHlCBgVy3F0FAIECBAgQIAAAQKzFTAqZlu9EydAgAABAgQIECCwHAGjYjmOjkKAAAECBAgQIEBgtgJGxWyrd+IECBAgQIAAAQIEliNgVCzH0VEIECBAgAABAgQIzFbAqJht9U6cAAECBAgQIECAwHIEjIrlODoKAQIECBAgQIAAgdkKGBWzrd6JEyBAgAABAgQIEFiOgFGxHEdHIUCAAAECBAgQIDBbAaNittU7cQIECBAgQIAAAQLLETAqluPoKAQIECBAgAABAgRmK2BUzLZ6J06AAAECBAgQIEBgOQJGxXIcHYUAAQIECBAgQIDAbAWMitlW78QJECBAgAABAgQILEfAqFiOo6MQIECAAAECBAgQmK2AUTHb6p04AQIECBAgQIAAgeUIGBXLcXQUApdY4Nnx5fuvHovFYiwWHxr3PX36e4///Hji09eO7/+lPxnPnb3EkTwcAQIECBAgMFsBo2K21TvxrS1w2/jwY/89vvv3nxp3j2fHV5/7t3Fm9YRuGO+5+/Zx3d+8OF7c2icoPQECBAgQILCFBIyKLVSWqATWClxx057xgR/+9njxO6+M765+8m3jhnffNG78yI+O9/nbvZbL+wQIECBAgMAmCfi2Y5NgHZbAJRG44vpx/a4rx6vf+JfxT9MDnn1mPP6LL4+f/9ht4+2XJIAHIUCAAAECBAiMcSUEAgS2sMAV141rb/i+753A2fHKM78//uAzD44/f9cPbOGTEp0AAQIECBDYagKuVGy1xuQl8BqBa8d1N1w1xtf+efz7qc+Nj//qB8fv3rfLvxa8xsg7BAgQIECAwGYLGBWbLez4BDZV4JpxzQ9eNcZ/fW388oHT46cfvWfc7G/1poo7OAECBAgQIPB6Ad9+vN7ERwhsIYGrxjXXXTPGuH7s+cy+8al3uu1pC5UnKgECBAgQ2DYCRsW2qdKJzFVg5X9uHHc9+tnxyHuvnSuB8yZAgAABAgQus4BRcZkL8PAELl7gzHjl6V8Zn1z5/PjCB9657vMoTp8+Pfbu3TuOHz9+8Q/jKwkQIECAAAECbyDg1Z/eAMinCbQEpiHx0fFzt7993P34y+OJr39ifPGzN1/w5WP3798/Hn300XHy5Mnx5JNPtk5FGgIECBAgQGDbCLhSsW2qdCJzETj78n+M58/8w3jiW58YnzvwkxccFNOImAbF9PbUU0+NgwcPzoXIeRIgQIAAAQKXWGCxsrKycu4xF4vFOO/dcx/2KwECW0xguu1p9+7dq6lPnTo17rjjjtVboKbboHbt2rXFzkZcAgQIECBAoCSw3mZwpaLUkCwEliQwXZWYxsShQ4dWj3ju1+l2KG8ECBAgQIAAgWULGBXLFnU8ApdZYLoa8dBDD419+/aNPXv2rKaZrk4cOHBgHD16dBw5cuQyJ/TwBAgQIECAwHYTcPvTdmvU+cxeYLrtaXpi9vTfjh07xvmXKNd+bvZYAAgQIECAAIG3LHD+9xbnvtiVinMSfiWwDQSm255OnDixetvTNCjWvk23Qb300kurVy3Wfs77BAgQIECAAIGLFXCl4mLlfB2BmMB0ZWK6EjHd8nT+LU5r/zVhug1quj3q2LFj/397VOxUxCFAgAABAgTCAmu/t5ii+jkV4cJEI/BWBaZR8UYvHTs9WXt63sX0ClHeCBAgQIAAAQLLEHClYhmKjkEgLLDevyaE44pGgAABAgQIxAXW+97CcyripYlHgAABAgQIECBAoC5gVNQbko8AAQIECBAgQIBAXMCoiBckHgECBAgQIECAAIG6gFFRb0g+AgQIECBAgAABAnEBoyJekHgECBAgQIAAAQIE6gJGRb0h+QgQIECAAAECBAjEBYyKeEHiESBAgAABAgQIEKgLGBX1huQjQIAAAQIECBAgEBcwKuIFiUeAAAECBAgQIECgLmBU1BuSjwABAgQIECBAgEBcwKiIFyQeAQIECBAgQIAAgbqAUVFvSD4CBAgQIECAAAECcQGjIl6QeAQIECBAgAABAgTqAkZFvSH5CBAgQIAAAQIECMQFjIp4QeIRIECAAAECBAgQqAsYFfWG5CNAgAABAgQIECAQFzAq4gWJR4AAAQIECBAgQKAuYFTUG5KPAAECBAgQIECAQFzAqIgXJB4BAgQIECBAgACBuoBRUW9IPgIECBAgQIAAAQJxAaMiXpB4BAgQIECAAAECBOoCRkW9IfkIECBAgAABAgQIxAWMinhB4hEgQIAAAQIECBCoCxgV9YbkI0CAAAECBAgQIBAXMCriBYlHgAABAgQIECBAoC5gVNQbko8AAQIECBAgQIBAXMCoiBckHgECBAgQIECAAIG6gFFRb0g+AgQIECBAgAABAnEBoyJekHgECBAgQIAAAQIE6gJGRb0h+QgQIECAAAECBAjEBYyKeEHiESBAgAABAgQIEKgLGBX1huQjQIAAAQIECBAgEBcwKuIFiUeAAAECBAgQIECgLmBU1BuSjwABAgQIECBAgEBcwKiIFyQeAQIECBAgQIAAgbqAUVFvSD4CBAgQIECAAAECcQGjIl6QeAQIECBAgAABAgTqAkZFvSH5CBAgQIAAAQIECMQFjIp4QeIRIECAAAECBAgQqAsYFfWG5CNAgAABAgQIECAQFzAq4gWJR4AAAQIECBAgQKAuYFTUG5KPAAECBAgQIECAQFzAqIgXJB4BAgQIECBAgACBuoBRUW9IPgIECBAgQIAAAQJxAaMiXpB4BAgQIECAAAECBOoCRkW9IfkIECBAgAABAgQIxAWMinhB4hEgQIAAAQIECBCoCxgV9YbkI0CAAAECBAgQIBAXMCriBYlHgAABAgQIECBAoC5gVNQbko8AAQIECBAgQIBAXMCoiBckHgECBAgQIECAAIG6gFFRb0g+AgQIECBAgAABAnEBoyJekHgECBAgQIAAAQIE6gJGRb0h+QgQIECAAAECBAjEBYyKeEHiESBAgAABAgQIEKgLGBX1huQjQIAAAQIECBAgEBcwKuIFiUeAAAECBAgQIECgLmBU1BuSjwABAgQIECBAgEBcwKiIFyQeAQIECBAgQIAAgbqAUVFvSD4CBAgQIECAAAECcQGjIl6QeAQIECBAgAABAgTqAkZFvSH5CBAgQIAAAQIECMQFjIp4QeIRIECAAAECBAgQqAsYFfWG5CNAgAABAgQIECAQFzAq4gWJR4AAAQIECBAgQKAuYFTUG5KPAAECBAgQIECAQFzAqIgXJB4BAgQIECBAgACBuoBRUW9IPgIECBAgQIAAAQJxAaMiXpB4BAgQIECAAAECBOoCRkW9IfkIECBAgAABAgQIxAWMinhB4hEgQIAAAQIECBCoCxgV9YbkI0CAAAECBAgQIBAXMCriBYlHgAABAgQIECBAoC5gVNQbko8AAQIECBAgQIBAXMCoiBckHgECBAgQIECAAIG6gFFRb0g+AgQIECBAgAABAnEBoyJekHgECBAgQIAAAQIE6gJGRb0h+QgQIECAAAECBAjEBYyKeEHiESBAgAABAgQIEKgLGBX1huQjQIAAAQIECBAgEBcwKuIFiUeAAAECBAgQIECgLmBU1BuSjwABAgQIECBAgEBcwKiIFyQeAQIECBAgQIAAgbqAUVFvSD4CBAgQIECAAAECcQGjIl6QeAQIECBAgAABAgTqAkZFvSH5CBAgQIAAAQIECMQFjIp4QeIRIECAAAECBAgQqAsYFfWG5CNAgAABAgQIECAQFzAq4gWJR4AAAQIECBAgQKAuYFTUG5KPAAECBAgQIECAQFzAqIgXJB4BAgQIECBAgACBuoBRUW9IPgIECBAgQIAAAQJxAaMiXpB4BAgQIECAAAECBOoCRkW9IfkIECBAgAABAgQIxAWMinhB4hEgQIAAAQIECBCoCxgV9YbkI0CAAAECBAgQIBAXMCriBYlHgAABAgQIECBAoC5gVNQbko8AAQIECBAgQIBAXMCoiBckHgECBAgQIECAAIG6gFFRb0g+AgQIECBAgAABAnEBoyJekHgECBAgQIAAAQIE6gJGRb0h+QgQIECAAAECBAjEBYyKeEHiESBAgAABAgQIEKgLGBX1huQjQIAAAQIECBAgEBcwKuIFiUeAAAECBAgQIECgLmBU1BuSjwABAgQIECBAgEBcwKiIFyQeAQIECBAgQIAAgbqAUVFvSD4CBAgQIECAAAECcQGjIl6QeAQIECBAgAABAgTqAkZFvSH5CBAgQIAAAQIECMQFjIp4QeIRIECAAAECBAgQqAsYFfWG5CNAgAABAgQIECAQFzAq4gWJR4AAAQIECBAgQKAuYFTUG5KPAAECBAgQIECAQFzAqIgXJB4BAgQIECBAgACBuoBRUW9IPgIECBAgQIAAAQJxAaMiXpB4BAgQIECAAAECBOoCRkW9IfkIECBAgAABAgQIxAWMinhB4hEgQIAAAQIECBCoCxgV9YbkI0CAAAECBAgQIBAXMCriBYlHgAABAgQIECBAoC5gVNQbko8AAQIECBAgQIBAXMCoiBckHgECBAgQIECAAIG6gFFRb0g+AgQIECBAgAABAnEBoyJekHgECBAgQIAAAQIE6gJGRb0h+QgQIECAAAECBAjEBYyKeEHiESBAgAABAgQIEKgLGBX1huQjQIAAAQIECBAgEBcwKuIFiUeAAAECBAgQIECgLmBU1BuSjwABAgQIECBAgEBcwKiIFyQeAQIECBAgQIAAgbqAUVFvSD4CBAgQIECAAAECcQGjIl6QeAQIECBAgAABAgTqAkZFvSH5CBAgQIAAAQIECMQFjIp4QeIRIECAAAECBAgQqAsYFfWG5CNAgAABAgQIECAQFzAq4gWJR4AAAQIECBAgQKAuYFTUG5KPAAECBAgQIECAQFzAqIgXJB4BAgQIECBAgACBuoBRUW9IPgIECBAgQIAAAQJxAaMiXpB4BAgQIECAAAECBOoCRkW9IfkIECBAgAABAgQIxAWMinhB4hEgQIAAAQIECBCoCxgV9YbkI0CAAAECBAgQIBAXMCriBYlHgAABAgQIECBAoC5gVNQbko8AAQIECBAgQIBAXMCoiBckHgECBAgQIECAAIG6gFFRb0g+AgQIECBAgAABAnEBoyJekHgECBAgQIAAAQIE6gJGRb0h+QgQIECAAAECBAjEBYyKeEHiESBAgAABAgQIEKgLGBX1huQjQIAAAQIECBAgEBcwKuIFiUeAAAECBAgQIECgLmBU1BuSjwABAgQIECBAgEBcwKiIFyQeAQIECBAgQIAAgbqAUVFvSD4CBAgQIECAAAECcQGjIl6QeAQIECBAgAABAgTqAkZFvSH5CBAgQIAAAQIECMQFjIp4QeIRIECAAAECBAgQqAsYFfWG5CNAgAABAgQIECAQFzAq4gWJR4AAAQIECBAgQKAuYFTUG5KPAAECBAgQIECAQFzAqIgXJB4BAgQIECBAgACBuoBRUW9IPgIECBAgQIAAAQJxAaMiXpB4BAgQIECAAAECBOoCRkW9IfkIECBAgAABAgQIxAWMinhB4hEgQIAAAQIECBCoCxgV9YbkI0CAAAECBAgQIBAXMCriBYlHgAABAgQIECBAoC5gVNQbko8AAQIECBAgQIBAXMCoiBckHgECBAgQIECAAIG6gFFRb0g+AgQIECBAgAABAnEBoyJekHgECBAgQIAAAQIE6gJGRb0h+QgQIECAAAECBAjEBYyKeEHiESBAgAABAgQIEKgLGBX1huQjQIAAAQIECBAgEBcwKuIFiUeAAAECBAgQIECgLmBU1BuSjwABAgQIECBAgEBcwKiIFyQeAQIECBAgQIAAgbqAUVFvSD4CBAgQIECAAAECcQGjIl6QeAQIECBAgAABAgTqAkZFvSH5CBAgQIAAAQIECMQFjIp4QeIRIECAAAECBAgQqAsYFfWG5CNAgAABAgQIECAQFzAq4gWJR4AAAQIECBAgQKAuYFTUG5KPAAECBAgQIECAQFzAqIgXJB4BAgQIECBAgACBuoBRUW9IPgIECBAgQIAAAQJxAaMiXpB4BAgQIECAAAECBOoCRkW9IfkIECBAgAABAgQIxAWMinhB4hEgQIAAAQIECBCoCxgV9YbkI0CAAAECBAgQIBAXMCriBYlHgAABAgQIECBAoC5gVNQbko8AAQIECBAgQIBAXMCoiBckHgECBAgQIECAAIG6gFFRb0g+AgQIECBAgAABAnEBoyJekHgECBAgQIAAAQIE6gJGRb0h+QgQIECAAAECBAjEBYyKeEHiESBAgAABAgQIEKgLGBX1huQjQIAAAQIECBAgEBcwKuIFiUeAAAECBAgQIECgLmBU1BuSjwABAgQIECBAgEBcwKiIFyQeAQIECBAgQIAAgbqAUVFvSD4CBAgQIECAAAECcQGjIl6QeAQIECBAgAABAgTqAkZFvSH5CBAgQIAAAQIECMQFjIp4QeIRIECAAAECBAgQqAsYFfWG5CNAgAABAgQIECAQFzAq4gWJR4AAAQIECBAgQKAuYFTUG5KPAAECBAgQIECAQFzAqIgXJB4BAgQIECBAgACBuoBRUW9IPgIECBAgQIAAAQJxAaMiXpB4BAgQIECAAAECBOoCRkW9IfkIECBAgAABAgQIxAWMinhB4hEgQIAAAQIECBCoCxgV9YbkI0CAAAECBAgQIBAXMCriBYlHgAABAgQIECBAoC5gVNQbko8AAQIECBAgQIBAXMCoiBckHgECBAgQIECAAIG6gFFRb0g+AgQIECBAgAABAnEBoyJekHgECBAgQIAAAQIE6gJGRb0h+QgQIECAAAECBAjEBYyKeEHiESBAgAABAgQIEKgLGBX1huQjQIAAAQIECBAgEBcwKuIFiUeAAAECBAgQIECgLmBU1BuSjwABAgQIECBAgEBcwKiIFyQeAQIECBAgQIAAgbqAUVFvSD4CBAgQIECAAAECcQGjIl6QeAQIECBAgAABAgTqAkZFvSH5CBAgQIAAAQIECMQFjIp4QeIRIECAAAECBAgQqAsYFfWG5CNAgAABAgQIECAQFzAq4gWJR4AAAQIECBAgQKAuYFTUG5KPAAECBAgQIECAQFzAqIgXJB4BAgQIECBAgACBuoBRUW9IPgIECBAgQIAAAQJxAaMiXpB4BAgQIECAAAECBOoCRkW9IfkIECBAgAABAgQIxAWMinhB4hEgQIAAAQIECBCoCxgV9YbkI0CAAAECBAgQIBAXMCriBYlHgAABAgQIECBAoC5gVNQbko8AAQIECBAgQIBAXMCoiBckHgECBAgQIECAAIG6gFFRb0g+AgQIECBAgAABAnEBoyJekHgECBAgQIAAAQIE6gJGRb0h+QgQIECAAAECBAjEBYyKeEHiESBAgAABAgQIEKgLGBX1huQjQIAAAQIECBAgEBcwKuIFiUeAAAECBAgQIECgLmBU1BuSjwABAgQIECBAgEBcwKiIFyQeAQIECBAgQIAAgbqAUVFvSD4CBAgQIECAAAECcQGjIl6QeAQIECBAgAABAgTqAkZFvSH5CBAgQIAAAQIECMQFjIp4QeIRIECAAAECBAgQqAsYFfWG5CNAgAABAgQIECAQFzAq4gWJR4AAAQIECBAgQKAuYFTUG5KPAAECBAgQIECAQFzAqIgXJB4BAgQIECBAgACBuoBRUW9IPgIECBAgQIAAAQJxAaMiXpB4BAgQIECAAAECBOoCRkW9IfkIECBAgAABAgQIxAWMinhB4hEgQIAAAQIECBCoCxgV9YbkI0CAAAECBAgQIBAXMCriBYlHgAABAgQIECBAoC5gVNQbko8AAQIECBAgQIBAXMCoiBckHgECBAgQIECAAIG6gFFRb0g+AgQIECBAgAABAnEBoyJekHgECBAgQIAAAQIE6gJGRb0h+QgQIECAAAECBAjEBYyKeEHiESBAgACBksDp06fHnj17xqFDh0qxZCFA4DILGBWXuQAPT4AAAQIEtpLAjh07VuM+8MADq+Pi5MmTWym+rAQIbJKAUbFJsA5LgAABAgS2q8CTTz45Hn744XH8+PGxe/fuceDAge16qs6LAIE3KbBYWVlZOfd7F4vFOO/dcx/2KwECW1jA3+stXJ7oBOIC061Qe/fuHUePHh233HLL6i1R08jwRoDA9hZY73sLVyq2d+fOjgABAgQIbJrAdCvUkSNHxuHDh8c0MG699daxf//+1f/ftAd1YAIEkgKuVCRrEYrA8gTW+9eE5R3dkQgQIPB/AtOomG6DeuSRR8bOnTvHdIvUrl278BAgsA0F1vve4spteJ5OiQCBNQLTX35vBAgQuFQC08DwRoDAvASMinn17WxnKOB5UjMs3SkTuMQC0xO2p+dWnDhxYtxzzz2rz6049ypRlziKhyNA4DIJeE7FZYL3sAQIECBAYKsLTFckpudQTM+lmP5/em7F9BwLg2KrNys/gbcu4ErFWzfzFQQIECBAYPYC03MmpqsTp06dGvv27Vt9PoUxMfs/FgBmLOBKxYzLd+oECBAgQOBiBO69995x5513rl6ROHbs2Dh48KCrExcD6WsIbCMBo2IblelUCBAgQIDAZgtMP0F7utXpwQcfXP3hd3v27Nnsh3R8AgS2gIBRsQVKEpEAAQIECFQEppeJnW59Wv+naD87vnz/1WN6xbnF4kPjvqdPj3H2G+Ovf+N94x2Lxbj6N/92vFo5ETkIEFiqgJ9TsVROByNAgAABAgTOfvPA+Pj7Hxp/eP8Xxp9e8UfjKx/94/H5914LhgCBbSKw3s+pMCq2SblOgwABAgQIdASeH098+rZx1++8e9z8xa+Mr39k5/DKMJ12JCGwUYH1RoXbnzaq6usJECBAgACBNQI7x49/8CfGjeNHxu0/9kMGxRod7xLYjgJGxXZs1TkRIECAAIHLKvDq+M/vvDzG+Oo4/Fcnx5nLmsWDEyBwKQSMikuh7DEIECBAgMCMBM5+87fGx379PeMXbn9hvPCP3xovzOjcnSqBuQoYFXNt3nkTIECAAIHNEDj7zHj8nlPjp/7s98Yn7985zjz2l+Pwv/7F+LWf/dJ47uxmPKBjEiBQEDAqCi3IQIAAAQIEtrrAmS+N375pMRZ3HR5/99jBceBdbxvv2P3+sefbh8aBh18ZP3P4w+Nm33Vs9ZblJ3BBAa/+dEEanyBAgAABAgQIECBAYK2AV39aK+J9AgQIECBAgAABAgQ2LOBC5IYJHYAAAQIECBAgQIDAvAWMinn37+wJECBAgAABAgQIbFjAqNgwoQMQIECAAAECBAgQmLeAUTHv/p09AQIECBAgQIAAgQ0LGBUbJnQAAgQIECBAgAABAvMWMCrm3b+zJ0CAAAECBAgQILBhAaNiw4QOQIAAAQIECBAgQGDeAkbFvPt39gQIECBAgAABAgQ2LGBUbJjQAQgQIECAAAECBAjMW8ComHf/zp4AAQIECBAgQIDAhgWMig0TOgABAgQIECBAgACBeQsYFfPu39kTIECAAAECBAgQ2LCAUbFhQgcgQIAAAQIECBAgMG8Bo2Le/Tt7AgQIECBAgAABAhsWuHLtERaLxdoPeZ8AAQIECBAgQIAAAQIXFHjNqFhZWbngb/QJAgQIECBAgAABAgQIrCfg9qf1VHyMAAECBAgQIECAAIE3LWBUvGkqv5EAAQIECBAgQIAAgfUEjIr1VHyMAAECBAgQIECAAIE3LfC/uRvfnQy2F3EAAAAASUVORK5CYII="/></p>
+<div class="marks">[4]</div>
+<div class="question_part_label">b.</div>
+</div>a:T707,<div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}x}} = \frac{{16 - 20}}{{24 - 20}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>16</mn>
+<mo>−</mo>
+<mn>20</mn>
+</mrow>
+<mrow>
+<mn>24</mn>
+<mo>−</mo>
+<mn>20</mn>
+</mrow>
+</mfrac>
+</math></span>     <em><strong>M1</strong></em></p>
+<p>= −1    <em><strong> A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>asymptote of trajectory along <em><strong>r </strong></em><span class="mjpage"><math alttext=" = k\left( {\begin{array}{*{20}{c}}  2 \\   1  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mi>k</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>   <em><strong>M1A1</strong></em></p>
+<p><strong>Note:</strong> Award <em><strong>M1A0</strong></em> if asymptote along <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  1 \\   2  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>.</p>
+<p>trajectory begins at (8, 10) with negative gradient   <em><strong> A1A1</strong></em></p>
+<p><em><strong>[4 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"SPM.1.AHL.TZ0.13"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"SPM"}],["$","span",null,{"children":["· ","ahl-5-17-phase-portrait"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

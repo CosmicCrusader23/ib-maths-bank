@@ -1,0 +1,315 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","650","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","650","d"],{"children":["__PAGE__?{\"id\":\"650\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","650","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tc6e,<div class="specification">
+<p>Adam is a beekeeper who collected data about monthly honey production in his bee hives. The data for six of his hives is shown in the following table.</p>
+<p style="text-align: center;"><img alt="N17/5/MATME/SP2/ENG/TZ0/08" src="../assets/uploads/tinymce_asset/asset/4160/Schermafbeelding_2018-02-12_om_10.46.13.png"/></p>
+<p>The relationship between the variables is modelled by the regression line with equation <span class="mjpage"><math alttext="P = aN + b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>P</mi>
+<mo>=</mo>
+<mi>a</mi>
+<mi>N</mi>
+<mo>+</mo>
+<mi>b</mi>
+</math></span>.</p>
+</div><div class="specification">
+<p>Adam has 200 hives in total. He collects data on the monthly honey production of all the hives. This data is shown in the following cumulative frequency graph.</p>
+<p style="text-align: center;"><img alt="N17/5/MATME/SP2/ENG/TZ0/08.c.d.e" src="../assets/uploads/tinymce_asset/asset/4161/Schermafbeelding_2018-02-12_om_10.49.33.png"/></p>
+<p>Adam’s hives are labelled as low, regular or high production, as defined in the following table.</p>
+<p style="text-align: center;"><img alt="N17/5/MATME/SP2/ENG/TZ0/08.c.d.e_02" src="../assets/uploads/tinymce_asset/asset/4162/Schermafbeelding_2018-02-12_om_10.51.25.png"/></p>
+</div><div class="specification">
+<p>Adam knows that 128 of his hives have a regular production.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the value of <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span> and of <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use this regression line to estimate the monthly honey production from a hive that has 270 bees.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the number of low production hives.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span>;</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the number of hives that have a high production.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Adam decides to increase the number of bees in each low production hive. Research suggests that there is a probability of 0.75 that a low production hive becomes a regular production hive. Calculate the probability that 30 low production hives become regular production hives.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">e.</div>
+</div>a:T1e49,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p>evidence of setup     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><span class="mjpage"><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span>correct value for <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span> or <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+</math></span></p>
+<p><span class="mjpage"><math alttext="a = 6.96103,{\text{ }}b =  - 454.805" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>=</mo>
+<mn>6.96103</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>b</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>454.805</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="a = 6.96,{\text{ }}b =  - 455{\text{ (accept }}6.96x - 455)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>=</mo>
+<mn>6.96</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>b</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>455</mn>
+<mrow>
+<mtext> (accept </mtext>
+</mrow>
+<mn>6.96</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>455</mn>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1A1     N3</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>substituting <span class="mjpage"><math alttext="N = 270" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>N</mi>
+<mo>=</mo>
+<mn>270</mn>
+</math></span> into <strong>their</strong> equation     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><span class="mjpage"><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="6.96(270) - 455" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>6.96</mn>
+<mo stretchy="false">(</mo>
+<mn>270</mn>
+<mo stretchy="false">)</mo>
+<mo>−</mo>
+<mn>455</mn>
+</math></span></p>
+<p>1424.67</p>
+<p><span class="mjpage"><math alttext="P = 1420{\text{ (g)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>P</mi>
+<mo>=</mo>
+<mn>1420</mn>
+<mrow>
+<mtext> (g)</mtext>
+</mrow>
+</math></span>     <strong><em>A1     N2</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>40 (hives)     <strong><em>A1     N1</em></strong></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>valid approach     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><span class="mjpage"><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="128 + 40" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>128</mn>
+<mo>+</mo>
+<mn>40</mn>
+</math></span></p>
+<p>168 hives have a production less than <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext="k = 1640" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+<mo>=</mo>
+<mn>1640</mn>
+</math></span>     <strong><em>A1     N3</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>valid approach     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><span class="mjpage"><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="200 - 168" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>200</mn>
+<mo>−</mo>
+<mn>168</mn>
+</math></span></p>
+<p>32 (hives)     <strong><em>A1     N2</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>recognize binomial distribution (seen anywhere)     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><span class="mjpage"><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="X \sim {\text{B}}(n,{\text{ }}p),{\text{ }}\left( {\begin{array}{*{20}{c}} n \\ r \end{array}} \right){p^r}{(1 - p)^{n - r}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>X</mi>
+<mo>∼</mo>
+<mrow>
+<mtext>B</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>n</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>r</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<msup>
+<mi>p</mi>
+<mi>r</mi>
+</msup>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mi>p</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mi>r</mi>
+</mrow>
+</msup>
+</mrow>
+</math></span></p>
+<p>correct values     <strong><em>(A1)</em></strong></p>
+<p><em>eg</em><span class="mjpage"><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="n = 40" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>=</mo>
+<mn>40</mn>
+</math></span> (check <em><strong>FT</strong></em>) and <span class="mjpage"><math alttext="p = 0.75" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+<mo>=</mo>
+<mn>0.75</mn>
+</math></span> and <span class="mjpage"><math alttext="r = 30,{\text{ }}\left( {\begin{array}{*{20}{c}} {40} \\ {30} \end{array}} \right){0.75^{30}}{(1 - 0.75)^{10}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+<mo>=</mo>
+<mn>30</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mn>40</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>30</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<msup>
+<mn>0.75</mn>
+<mrow>
+<mn>30</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mn>0.75</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow>
+<mn>10</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span></p>
+<p>0.144364</p>
+<p>0.144     <strong><em>A1     N2</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">e.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"17N.2.SL.TZ0.S_8"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17N"}],["$","span",null,{"children":["· ","sl-4-2-histograms-cf-graphs-box-plots"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div>"}}]]}]]}]

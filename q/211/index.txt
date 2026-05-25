@@ -1,0 +1,2045 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","211","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","211","d"],{"children":["__PAGE__?{\"id\":\"211\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","211","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T2268,<div class="specification">
+<p>This question will investigate methods for finding definite integrals of powers of trigonometrical functions.</p>
+<p>Let <span class="mjpage"><math alttext="{I_n} = \int\limits_0^{\tfrac{\pi }{2}} {{\text{si}}{{\text{n}}^n}} x\,dx{\text{,}}\,\,n \in \mathbb{N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>I</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<munderover>
+<mo>∫<!-- ∫ --></mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π<!-- π --></mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>si</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mi>n</mi>
+</msup>
+</mrow>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>n</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow>
+<mi mathvariant="double-struck">N</mi>
+</mrow>
+</math></span>.</p>
+<p> </p>
+</div><div class="specification">
+<p>Let <span class="mjpage"><math alttext="{J_n} = \int\limits_0^{\tfrac{\pi }{2}} {{\text{co}}{{\text{s}}^n}} x\,dx{\text{,}}\,\,n \in \mathbb{N}." xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>J</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<munderover>
+<mo>∫<!-- ∫ --></mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π<!-- π --></mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>co</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mi>n</mi>
+</msup>
+</mrow>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>n</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow>
+<mi mathvariant="double-struck">N</mi>
+</mrow>
+<mo>.</mo>
+</math></span></p>
+</div><div class="specification">
+<p>Let <span class="mjpage"><math alttext="{T_n} = \int\limits_0^{\tfrac{\pi }{4}} {{\text{ta}}{{\text{n}}^n}} x\,dx{\text{,}}\,\,n \in \mathbb{N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>T</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<munderover>
+<mo>∫<!-- ∫ --></mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π<!-- π --></mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mi>n</mi>
+</msup>
+</mrow>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>n</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow>
+<mi mathvariant="double-struck">N</mi>
+</mrow>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the exact values of <span class="mjpage"><math alttext="{I_0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>0</mn>
+</msub>
+</mrow>
+</math></span>, <span class="mjpage"><math alttext="{I_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="{I_2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</math></span>.</p>
+<div class="marks">[6]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use integration by parts to show that <span class="mjpage"><math alttext="{I_n} = \frac{{n - 1}}{n}{I_{n - 2}}{\text{,}}\,\,n \geqslant 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>I</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mi>n</mi>
+</mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>n</mi>
+<mo>⩾</mo>
+<mn>2</mn>
+</math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Explain where the condition <span class="mjpage"><math alttext="n \geqslant 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>⩾</mo>
+<mn>2</mn>
+</math></span> was used in your proof.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence, find the exact values of <span class="mjpage"><math alttext="{I_3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>3</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="{I_4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use the substitution <span class="mjpage"><math alttext="x = \frac{\pi }{2} - u" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mi>u</mi>
+</math></span> to show that <span class="mjpage"><math alttext="{J_n} = {I_n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>J</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msub>
+<mi>I</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+</math></span>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence, find the exact values of <span class="mjpage"><math alttext="{J_{5}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>J</mi>
+<mrow>
+<mn>5</mn>
+</mrow>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="{J_{6}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>J</mi>
+<mrow>
+<mn>6</mn>
+</mrow>
+</msub>
+</mrow>
+</math></span></p>
+<div class="marks">[2]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the exact values of <span class="mjpage"><math alttext="{T_{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow>
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="{T_{1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow>
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use the fact that <span class="mjpage"><math alttext="{\text{ta}}{{\text{n}}^2}x = {\text{se}}{{\text{c}}^2}x - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mo>=</mo>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mo>−</mo>
+<mn>1</mn>
+</math></span> to show that <span class="mjpage"><math alttext="{T_n} = \frac{1}{{n - 1}} - {T_{n - 2}}{\text{,}}\,\,n \geqslant 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>T</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>n</mi>
+<mo>⩾</mo>
+<mn>2</mn>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">g.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Explain where the condition <span class="mjpage"><math alttext="n \geqslant 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>⩾</mo>
+<mn>2</mn>
+</math></span> was used in your proof.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">g.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence, find the exact values of <span class="mjpage"><math alttext="{T_{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow>
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="{T_{3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow>
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">h.</div>
+</div>a:T66b9,<div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{I_0} = \int\limits_0^{\tfrac{\pi }{2}} 1 \,dx = \left[ x \right]_0^{\tfrac{\pi }{2}} = \frac{\pi }{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>0</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mn>1</mn>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo>=</mo>
+<msubsup>
+<mrow>
+<mo>[</mo>
+<mi>x</mi>
+<mo>]</mo>
+</mrow>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</math></span>      <em><strong>M1A1</strong></em></p>
+<p><span class="mjpage"><math alttext="{I_1} = \int\limits_0^{\tfrac{\pi }{2}} {{\text{sin}}\,x} \,dx = \left[ { - {\text{cos}}\,x} \right]_0^{\tfrac{\pi }{2}} = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo>=</mo>
+<msubsup>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mo>−</mo>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>      <em><strong>M1A1</strong></em></p>
+<p><span class="mjpage"><math alttext="{I_2} = \int\limits_0^{\tfrac{\pi }{2}} {{\text{si}}{{\text{n}}^2}x} \,dx = \int\limits_0^{\tfrac{\pi }{2}} {\frac{{1 - {\text{cos}}\,2x}}{2}} \,dx = \left[ {\frac{x}{2} - \frac{{{\text{sin}}\,2x}}{4}} \right]_0^{\tfrac{\pi }{2}} = \frac{\pi }{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>si</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo>=</mo>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>x</mi>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo>=</mo>
+<msubsup>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mfrac>
+<mi>x</mi>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mi>x</mi>
+</mrow>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</math></span>      <em><strong>M1A1</strong></em></p>
+<p><em><strong>[6 marks]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{u = {\text{si}}{{\text{n}}^{n - 1}}x}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>u</mi>
+<mo>=</mo>
+<mrow>
+<mtext>si</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mi>x</mi>
+</mrow>
+</math></span>                               <span class="mjpage"><math alttext="{v =  - \cos x}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>v</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+</mrow>
+</math></span></p>
+<p><span class="mjpage"><math alttext="{\frac{{du}}{{dx}} = \left( {n - 1} \right){\text{si}}{{\text{n}}^{n - 2}}x\,{\text{cos}}\,x}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>u</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mtext>si</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</math></span>     <span class="mjpage"><math alttext="{\frac{{dv}}{{dx}} = {\text{sin}}\,x}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>v</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mrow>
+<mtext>sin</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+</math></span></p>
+<p><span class="mjpage"><math alttext="{I_n} = \left[ { - {\text{si}}{{\text{n}}^{n - 1}}x\,{\text{cos}}\,x} \right]_0^{\tfrac{\pi }{2}} + \int\limits_0^{\tfrac{\pi }{2}} {\left( {n - 1} \right){\text{si}}{{\text{n}}^{n - 2}}x\,{\text{cos}}{\,^2}x} \,dx" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>I</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<msubsup>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mo>−</mo>
+<mrow>
+<mtext>si</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mtext>si</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mrow>
+<msup>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+</math></span>      <em><strong>M1A1A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" = 0 + \int\limits_0^{\tfrac{\pi }{2}} {\left( {n - 1} \right){\text{si}}{{\text{n}}^{n - 2}}x\left( {1 - {\text{si}}{{\text{n}}^2}x} \right)} \,dx = \left( {n - 1} \right)\left( {{I_{n - 2}} - {I_n}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>0</mn>
+<mo>+</mo>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mtext>si</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mi>x</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<mtext>si</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mo>−</mo>
+<mrow>
+<msub>
+<mi>I</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>M1A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow n{I_n} = \left( {n - 1} \right){I_{n - 2}} \Rightarrow {I_n} = \frac{{\left( {n - 1} \right)}}{n}{I_{n - 2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mi>n</mi>
+<mrow>
+<msub>
+<mi>I</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mrow>
+<msub>
+<mi>I</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mi>n</mi>
+</mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</math></span>        <em><strong>AG</strong></em></p>
+<p><em><strong>[6 marks]</strong></em></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>need <span class="mjpage"><math alttext="n \geqslant 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>⩾</mo>
+<mn>2</mn>
+</math></span> so that <span class="mjpage"><math alttext="{\text{si}}{{\text{n}}^{n - 1}}\tfrac{\pi }{2} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>si</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+<mo>=</mo>
+<mn>0</mn>
+</math></span> in <span class="mjpage"><math alttext="\left[ { - {\text{si}}{{\text{n}}^{n - 1}}\,x\,{\text{cos}}\,x} \right]_0^{\tfrac{\pi }{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mo>−</mo>
+<mrow>
+<mtext>si</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</msubsup>
+</math></span>       <em><strong>R1</strong></em></p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{I_3} = \frac{2}{3}{I_1} = \frac{2}{3}\,\,\,\,\,\,\,\,\,\,\,\,\,{I_4} = \frac{3}{4}{I_2} = \frac{{3\pi }}{{16}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>3</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>2</mn>
+<mn>3</mn>
+</mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>2</mn>
+<mn>3</mn>
+</mfrac>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>3</mn>
+<mn>4</mn>
+</mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>3</mn>
+<mi>π</mi>
+</mrow>
+<mrow>
+<mn>16</mn>
+</mrow>
+</mfrac>
+</math></span>      <em><strong>A1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="x = \frac{\pi }{2} - u \Rightarrow \frac{{dx}}{{du}} =  - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mi>u</mi>
+<mo stretchy="false">⇒</mo>
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>u</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo>−</mo>
+<mn>1</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="{J_n} = \int\limits_0^{\tfrac{\pi }{2}} {{\text{co}}{{\text{s}}^n}} x\,dx\,\, = \int\limits_{\tfrac{\pi }{2}}^0 { - {\text{co}}{{\text{s}}^n}} \left( {\frac{\pi }{2} - u} \right)\,du =  - \int\limits_{\tfrac{\pi }{2}}^0 {{\text{si}}{{\text{n}}^n}} u\,du\, = \int\limits_0^{\tfrac{\pi }{2}} {{\text{si}}{{\text{n}}^n}} u\,du\, = {I_n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>J</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>co</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mi>n</mi>
+</msup>
+</mrow>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<munderover>
+<mo>∫</mo>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+<mn>0</mn>
+</munderover>
+<mrow>
+<mo>−</mo>
+<mrow>
+<mtext>co</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>s</mtext>
+</mrow>
+<mi>n</mi>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mi>u</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>u</mi>
+<mo>=</mo>
+<mo>−</mo>
+<munderover>
+<mo>∫</mo>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+<mn>0</mn>
+</munderover>
+<mrow>
+<mrow>
+<mtext>si</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mi>n</mi>
+</msup>
+</mrow>
+</mrow>
+<mi>u</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>u</mi>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>si</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mi>n</mi>
+</msup>
+</mrow>
+</mrow>
+<mi>u</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>u</mi>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<mrow>
+<msub>
+<mi>I</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+</math></span>      <em><strong>M1A1A1AG</strong></em></p>
+<p><em><strong>[4 marks]</strong></em></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{J_5} = {I_5} = \frac{4}{5}{I_3} = \frac{4}{5} \times \frac{2}{3} = \frac{8}{{15}}\,\,\,\,\,\,\,\,\,\,{J_6} = {I_6} = \frac{5}{6}{I_4} = \frac{5}{6} \times \frac{{3\pi }}{{16}} = \frac{{5\pi }}{{32}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>J</mi>
+<mn>5</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>5</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>4</mn>
+<mn>5</mn>
+</mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>3</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>4</mn>
+<mn>5</mn>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mn>2</mn>
+<mn>3</mn>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mn>8</mn>
+<mrow>
+<mn>15</mn>
+</mrow>
+</mfrac>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msub>
+<mi>J</mi>
+<mn>6</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>6</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>5</mn>
+<mn>6</mn>
+</mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>5</mn>
+<mn>6</mn>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mrow>
+<mn>3</mn>
+<mi>π</mi>
+</mrow>
+<mrow>
+<mn>16</mn>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>5</mn>
+<mi>π</mi>
+</mrow>
+<mrow>
+<mn>32</mn>
+</mrow>
+</mfrac>
+</math></span>     <em><strong>A1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{T_{0\,}}{\text{ = }}\int\limits_0^{\tfrac{\pi }{4}} {1\,dx}  = \left[ x \right]_0^{\tfrac{\pi }{4}} = \frac{\pi }{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mtext> = </mtext>
+</mrow>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mn>1</mn>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+</mrow>
+<mo>=</mo>
+<msubsup>
+<mrow>
+<mo>[</mo>
+<mi>x</mi>
+<mo>]</mo>
+</mrow>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><span class="mjpage"><math alttext="{T_{1\,}}{\text{ = }}\int\limits_0^{\tfrac{\pi }{4}} {{\text{tan}}\,dx}  = \left[ { - \ln \left| {{\text{cos}}\,x} \right|} \right]_0^{\tfrac{\pi }{4}} =  - {\text{ln}}\frac{1}{{\sqrt 2 }} = {\text{ln}}\sqrt 2 " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow>
+<mn>1</mn>
+<mspace width="thinmathspace"></mspace>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mtext> = </mtext>
+</mrow>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>tan</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+</mrow>
+<mo>=</mo>
+<msubsup>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mo>−</mo>
+<mi>ln</mi>
+<mo>⁡</mo>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mrow>
+<mtext>cos</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+</mrow>
+<mo>|</mo>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mo>−</mo>
+<mrow>
+<mtext>ln</mtext>
+</mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mrow>
+<mtext>ln</mtext>
+</mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</math></span>       <em><strong>M1A1</strong></em></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{T_n} = \int\limits_0^{\tfrac{\pi }{4}} {{\text{ta}}{{\text{n}}^n}} x\,dx\, = \int\limits_0^{\tfrac{\pi }{4}} {{\text{ta}}{{\text{n}}^{n - 2}}} x\,{\text{ta}}{{\text{n}}^2}x\,dx\, = \,\int\limits_0^{\tfrac{\pi }{4}} {{\text{ta}}{{\text{n}}^{n - 2}}} x\left( {{\text{se}}{{\text{c}}^2}x - 1} \right)\,dx" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>T</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo>=</mo>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mi>n</mi>
+</msup>
+</mrow>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mi>x</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+</math></span>         <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="\int\limits_0^{\tfrac{\pi }{4}} {{\text{ta}}{{\text{n}}^{n - 2}}} x\,{\text{se}}{{\text{c}}^2}x\,dx - \int\limits_0^{\tfrac{\pi }{4}} {{\text{ta}}{{\text{n}}^{n - 2}}} x\,dx = \left[ {\frac{{{\text{ta}}{{\text{n}}^{n - 1}}x}}{{n - 1}}} \right]_0^{\tfrac{\pi }{4}} - {T_{n - 2}} = \frac{1}{{n - 1}} - {T_{n - 2}}\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo>−</mo>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo>=</mo>
+<msubsup>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</msubsup>
+<mo>−</mo>
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span>        <em><strong>A1A1AG</strong></em></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">g.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>need <span class="mjpage"><math alttext="n \geqslant 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>⩾</mo>
+<mn>2</mn>
+</math></span> so that the powers of tan in <span class="mjpage"><math alttext="\int\limits_0^{\tfrac{\pi }{4}} {{\text{ta}}{{\text{n}}^{n - 2}}} x\,{\text{se}}{{\text{c}}^2}x\,dx - \int\limits_0^{\tfrac{\pi }{4}} {{\text{ta}}{{\text{n}}^{n - 2}}} x\,dx" xmlns="http://www.w3.org/1998/Math/MathML">
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>se</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>c</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo>−</mo>
+<munderover>
+<mo>∫</mo>
+<mn>0</mn>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</munderover>
+<mrow>
+<mrow>
+<mtext>ta</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>n</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+</math></span> are not negative         <em><strong>R1</strong></em>   </p>
+<p> </p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">g.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{T_2} = 1 - {T_0} = 1 - \frac{\pi }{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>T</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<msub>
+<mi>T</mi>
+<mn>0</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mfrac>
+<mi>π</mi>
+<mn>4</mn>
+</mfrac>
+</math></span>         <em><strong>A1</strong></em> </p>
+<p><span class="mjpage"><math alttext="{T_3} = \frac{1}{2} - {T_1} = \frac{1}{2} - \ln \sqrt 2 " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>T</mi>
+<mn>3</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mrow>
+<msub>
+<mi>T</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mi>ln</mi>
+<mo>⁡</mo>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</math></span>         <em><strong>A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">h.</div>
+</div>b:T424,<div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">g.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">g.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">h.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"EXM.3.AHL.TZ0.3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"EXM"}],["$","span",null,{"children":["· ","ahl-5-16-integration-by-substitution-parts-and-repeated-parts"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

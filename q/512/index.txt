@@ -1,0 +1,698 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","512","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","512","d"],{"children":["__PAGE__?{\"id\":\"512\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","512","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T113d,<div class="specification">
+<p>The points A, B and C have the following position vectors with respect to an origin O.</p>
+<p style="text-align: center;"><span class="mjpage"><math alttext="\overrightarrow {{\rm{OA}}} = 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mrow>
+<mi mathvariant="normal">O</mi>
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+<mo>→<!-- → --></mo>
+</mover>
+<mo>=</mo>
+<mn>2</mn>
+</math></span><strong><em>i</em></strong> + <strong><em>j</em></strong> – 2<strong><em>k</em></strong></p>
+<p style="text-align: center;"><span class="mjpage"><math alttext="\overrightarrow {{\rm{OB}}} = 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mrow>
+<mi mathvariant="normal">O</mi>
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+<mo>→<!-- → --></mo>
+</mover>
+<mo>=</mo>
+<mn>2</mn>
+</math></span><strong><em>i</em></strong> – <strong><em>j</em></strong> + 2<strong><em>k</em></strong></p>
+<p style="text-align: center;"><span class="mjpage"><math alttext="\overrightarrow {{\rm{OC}}} = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mrow>
+<mi mathvariant="normal">O</mi>
+<mi mathvariant="normal">C</mi>
+</mrow>
+</mrow>
+<mo>→<!-- → --></mo>
+</mover>
+<mo>=</mo>
+</math></span> <strong><em>i</em></strong> + 3<strong><em>j</em></strong> + 3<strong><em>k</em></strong></p>
+</div><div class="specification">
+<p>The plane <em>Π</em><span class="mjpage"><math alttext="_2" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>2</mn>
+</msub>
+</math></span> contains the points O, A and B and the plane <em>Π</em><span class="mjpage"><math alttext="_3" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>3</mn>
+</msub>
+</math></span> contains the points O, A and C.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the vector equation of the line (BC).</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine whether or not the lines (OA) and (BC) intersect.</p>
+<div class="marks">[6]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the Cartesian equation of the plane <em>Π</em><span class="mjpage"><math alttext="_1" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>1</mn>
+</msub>
+</math></span>, which passes through C and is perpendicular to <span class="mjpage"><math alttext="\overrightarrow {{\rm{OA}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mrow>
+<mi mathvariant="normal">O</mi>
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+<mo>→</mo>
+</mover>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that the line (BC) lies in the plane <em>Π</em><span class="mjpage"><math alttext="_1" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>1</mn>
+</msub>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Verify that 2<strong><em>j </em></strong>+ <strong><em>k </em></strong>is perpendicular to the plane <em>Π</em><span class="mjpage"><math alttext="_2" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>2</mn>
+</msub>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find a vector perpendicular to the plane <em>Π</em><span class="mjpage"><math alttext="_3" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>3</mn>
+</msub>
+</math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the acute angle between the planes <em>Π</em><span class="mjpage"><math alttext="_2" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>2</mn>
+</msub>
+</math></span> and <em>Π</em><span class="mjpage"><math alttext="_3" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>3</mn>
+</msub>
+</math></span>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">g.</div>
+</div>a:T4701,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="\overrightarrow {{\rm{BC}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mrow>
+<mi mathvariant="normal">B</mi>
+<mi mathvariant="normal">C</mi>
+</mrow>
+</mrow>
+<mo>→</mo>
+</mover>
+</math></span> = (<strong><em>i</em></strong> + 3<strong><em>j</em></strong> + 3<strong><em>k</em></strong>) <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span> (2<strong><em>i</em></strong> <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span> <strong><em>j</em></strong> + 2<strong><em>k</em></strong>) = <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span><strong><em>i</em></strong> + 4<strong><em>j</em></strong> + <strong><em>k</em></strong>    <strong><em>(A1)</em></strong></p>
+<p><strong><em>r</em></strong> = (2<strong><em>i</em></strong> <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span> <strong><em>j</em></strong> + 2<strong><em>k</em></strong>) + <span class="mjpage"><math alttext="\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+</math></span>(<span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span><strong><em>i</em></strong> + 4<strong><em>j</em></strong> + <strong><em>k</em></strong>)</p>
+<p>(or <strong><em>r</em></strong> = (<strong><em>i</em></strong> + 3<strong><em>j</em></strong> + 3<strong><em>k</em></strong>) + <span class="mjpage"><math alttext="\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+</math></span>(<span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span><strong><em>i</em></strong> + 4<strong><em>j </em></strong>+ <strong><em>k</em></strong>)     <strong><em>(M1)A1</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Do not award <strong><em>A1 </em></strong>unless <strong><em>r </em></strong>= or equivalent correct notation seen.</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt to write in parametric form using two different parameters <strong>AND </strong>equate     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="2\mu = 2 - \lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>μ</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mo>−</mo>
+<mi>λ</mi>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\mu = - 1 + 4\lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>μ</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mn>4</mn>
+<mi>λ</mi>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" - 2\mu = 2 + \lambda " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mn>2</mn>
+<mi>μ</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mo>+</mo>
+<mi>λ</mi>
+</math></span>     <strong><em>A1</em></strong></p>
+<p>attempt to solve first pair of simultaneous equations for two parameters     <strong><em>M1</em></strong></p>
+<p>solving first two equations gives <span class="mjpage"><math alttext="\lambda = \frac{4}{9},{\text{ }}\mu = \frac{7}{9}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+<mo>=</mo>
+<mfrac>
+<mn>4</mn>
+<mn>9</mn>
+</mfrac>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>μ</mi>
+<mo>=</mo>
+<mfrac>
+<mn>7</mn>
+<mn>9</mn>
+</mfrac>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p>substitution of these two values in third equation     <strong><em>(M1)</em></strong></p>
+<p>since the values do not fit, the lines do not intersect     <strong><em>R1</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Candidates may note that adding the first and third equations immediately leads to a contradiction and hence they can immediately deduce that the lines do not intersect.</p>
+<p> </p>
+<p><strong><em>[6 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p>plane is of the form <strong><em>r</em></strong> <span class="mjpage"><math alttext=" \bullet " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>∙</mo>
+</math></span> (2<strong><em>i</em></strong> + <strong><em>j</em></strong> <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span> 2<strong><em>k</em></strong>) = <em>d</em>     <strong><em>(A1)</em></strong></p>
+<p><em>d </em>= (<strong><em>i</em></strong> + 3<strong><em>j</em></strong> + 3<strong><em>k</em></strong>) <span class="mjpage"><math alttext=" \bullet " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>∙</mo>
+</math></span> (2<strong><em>i</em></strong> + <strong><em>j</em></strong> <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span> 2<strong><em>k</em></strong>) = <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span>1     <strong><em>(M1)</em></strong></p>
+<p>hence Cartesian form of plane is <span class="mjpage"><math alttext="2x + y - 2z = - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mi>y</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mi>z</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>1</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong>METHOD 2</strong></p>
+<p>plane is of the form <span class="mjpage"><math alttext="2x + y - 2z = d" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mi>y</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mi>z</mi>
+<mo>=</mo>
+<mi>d</mi>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p>substituting <span class="mjpage"><math alttext="(1,{\text{ }}3,{\text{ }}3)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>3</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+</math></span> (to find gives <span class="mjpage"><math alttext="2 + 3 - 6 = - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mo>+</mo>
+<mn>3</mn>
+<mo>−</mo>
+<mn>6</mn>
+<mo>=</mo>
+<mo>−</mo>
+<mn>1</mn>
+</math></span>)     <strong><em>(M1)</em></strong></p>
+<p>hence Cartesian form of plane is <span class="mjpage"><math alttext="2x + y - 2z = - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mi>y</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mi>z</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>1</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p>attempt scalar product of direction vector BC with normal to plane     <strong><em>M1</em></strong></p>
+<p>(<span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span><strong><em>i</em></strong> + 4<strong><em>j</em></strong> + <strong><em>k</em></strong>) <span class="mjpage"><math alttext=" \bullet " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>∙</mo>
+</math></span> (2<strong><em>i</em></strong> + <strong><em>j</em></strong> <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span> 2<strong><em>k</em></strong>) <span class="mjpage"><math alttext=" = - 2 + 4 - 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mo>−</mo>
+<mn>2</mn>
+<mo>+</mo>
+<mn>4</mn>
+<mo>−</mo>
+<mn>2</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p>hence BC lies in <em>Π</em><span class="mjpage"><math alttext="_1" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>1</mn>
+</msub>
+</math></span>     <strong><em>AG</em></strong></p>
+<p><strong>METHOD 2</strong></p>
+<p>substitute eqn of line into plane     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="{\text{line }}r = \left( {\begin{array}{*{20}{c}} 2 \\ { - 1} \\ 2 \end{array}} \right) + \lambda \left( {\begin{array}{*{20}{c}} { - 1} \\ 4 \\ 1 \end{array}} \right).{\text{ Plane }}{\pi _1}:2x + y - 2z = - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>line </mtext>
+</mrow>
+<mi>r</mi>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mi>λ</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>4</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+<mrow>
+<mtext> Plane </mtext>
+</mrow>
+<mrow>
+<msub>
+<mi>π</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>:</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mi>y</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mi>z</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>1</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="2(2 - \lambda ) + ( - 1 + 4\lambda ) - 2(2 + \lambda )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mo>−</mo>
+<mi>λ</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mo>−</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mn>4</mn>
+<mi>λ</mi>
+<mo stretchy="false">)</mo>
+<mo>−</mo>
+<mn>2</mn>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mo>+</mo>
+<mi>λ</mi>
+<mo stretchy="false">)</mo>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" = - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mo>−</mo>
+<mn>1</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p>hence BC lies in <em>Π</em><span class="mjpage"><math alttext="_1" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>1</mn>
+</msub>
+</math></span>     <strong><em>AG</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Candidates may also just substitute <span class="mjpage"><math alttext="2i - j + 2k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>i</mi>
+<mo>−</mo>
+<mi>j</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>k</mi>
+</math></span> into the plane since they are told C lies on <span class="mjpage"><math alttext="{\pi _1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>π</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span>.</p>
+<p> </p>
+<p><strong>Note:</strong>     Do not award <strong><em>A1FT</em></strong>.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p>applying scalar product to <span class="mjpage"><math alttext="\overrightarrow {{\rm{OA}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mrow>
+<mi mathvariant="normal">O</mi>
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+<mo>→</mo>
+</mover>
+</math></span> and <span class="mjpage"><math alttext="\overrightarrow {{\rm{OB}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mrow>
+<mi mathvariant="normal">O</mi>
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+<mo>→</mo>
+</mover>
+</math></span>     <strong><em>M1</em></strong></p>
+<p>(2<strong><em>j</em></strong> + <strong><em>k</em></strong>) <span class="mjpage"><math alttext=" \bullet " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>∙</mo>
+</math></span> (2<strong><em>i</em></strong> + <strong><em>j </em></strong><span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span> 2<strong><em>k</em></strong>) = 0     <strong><em>A1</em></strong></p>
+<p>(2<strong><em>j</em></strong> + <strong><em>k</em></strong>) <span class="mjpage"><math alttext=" \bullet " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>∙</mo>
+</math></span> (2<strong><em>i</em></strong> <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span> <strong><em>j</em></strong> + 2<strong><em>k</em></strong>) =0     <strong><em>A1</em></strong></p>
+<p><strong>METHOD 2</strong></p>
+<p>attempt to find cross product of <span class="mjpage"><math alttext="\overrightarrow {{\rm{OA}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mrow>
+<mi mathvariant="normal">O</mi>
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+<mo>→</mo>
+</mover>
+</math></span> and <span class="mjpage"><math alttext="\overrightarrow {{\rm{OB}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mrow>
+<mi mathvariant="normal">O</mi>
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+<mo>→</mo>
+</mover>
+</math></span>     <strong><em>M1</em></strong></p>
+<p>plane <em>Π</em><span class="mjpage"><math alttext="_2" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>2</mn>
+</msub>
+</math></span> has normal <span class="mjpage"><math alttext="\overrightarrow {{\text{OA}}} \times \overrightarrow {{\text{OB}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mtext>OA</mtext>
+</mrow>
+<mo>→</mo>
+</mover>
+<mo>×</mo>
+<mover>
+<mrow>
+<mtext>OB</mtext>
+</mrow>
+<mo>→</mo>
+</mover>
+</math></span> = <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span> 8<strong><em>j </em></strong><span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span> 4<strong><em>k</em></strong>     <strong><em>A1</em></strong></p>
+<p>since <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span>8<strong><em>j </em></strong><span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span> 4<strong><em>k </em></strong>= <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span>4(2<strong><em>j</em></strong> + <strong><em>k</em></strong>), 2<strong><em>j </em></strong>+ <strong><em>k </em></strong>is perpendicular to the plane <em>Π</em><span class="mjpage"><math alttext="_2" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>2</mn>
+</msub>
+</math></span>     <strong><em>R1</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>plane <em>Π</em><span class="mjpage"><math alttext="_3" xmlns="http://www.w3.org/1998/Math/MathML">
+<msub>
+<mi></mi>
+<mn>3</mn>
+</msub>
+</math></span> has normal <span class="mjpage"><math alttext="\overrightarrow {{\text{OA}}} \times \overrightarrow {{\text{OC}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mover>
+<mrow>
+<mtext>OA</mtext>
+</mrow>
+<mo>→</mo>
+</mover>
+<mo>×</mo>
+<mover>
+<mrow>
+<mtext>OC</mtext>
+</mrow>
+<mo>→</mo>
+</mover>
+</math></span> = 9<strong><em>i</em></strong> <span class="mjpage"><math alttext=" - " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+</math></span> 8<strong><em>j</em></strong> + 5<strong><em>k</em></strong>     <strong><em>A1</em></strong></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt to use dot product of normal vectors     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="\cos \theta = \frac{{(2j + k) \bullet (9i - 8j + 5k)}}{{\left| {2j + k} \right|\left| {9i - 8j + 5k} \right|}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mi>j</mi>
+<mo>+</mo>
+<mi>k</mi>
+<mo stretchy="false">)</mo>
+<mo>∙</mo>
+<mo stretchy="false">(</mo>
+<mn>9</mn>
+<mi>i</mi>
+<mo>−</mo>
+<mn>8</mn>
+<mi>j</mi>
+<mo>+</mo>
+<mn>5</mn>
+<mi>k</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mn>2</mn>
+<mi>j</mi>
+<mo>+</mo>
+<mi>k</mi>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mn>9</mn>
+<mi>i</mi>
+<mo>−</mo>
+<mn>8</mn>
+<mi>j</mi>
+<mo>+</mo>
+<mn>5</mn>
+<mi>k</mi>
+</mrow>
+<mo>|</mo>
+</mrow>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \frac{{ - 11}}{{\sqrt 5 \sqrt {170} }}\,\,\,( = - 0.377 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>11</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>5</mn>
+</msqrt>
+<msqrt>
+<mn>170</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mo stretchy="false">(</mo>
+<mo>=</mo>
+<mo>−</mo>
+<mn>0.377</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Accept <span class="mjpage"><math alttext="\frac{{11}}{{\sqrt 5 \sqrt {170} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>11</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>5</mn>
+</msqrt>
+<msqrt>
+<mn>170</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</math></span>.   acute angle between planes <span class="mjpage"><math alttext=" = 67.8^\circ \,\,\,{\text{(}} = 1.18^\circ )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<msup>
+<mn>67.8</mn>
+<mo>∘</mo>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>(</mtext>
+</mrow>
+<mo>=</mo>
+<msup>
+<mn>1.18</mn>
+<mo>∘</mo>
+</msup>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1</em></strong></p>
+<p> </p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">g.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"17M.2.AHL.TZ2.H_9"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","ahl-3-13-scalar-(dot)-product"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">f.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">g.</div>\n</div>"}}]]}]]}]

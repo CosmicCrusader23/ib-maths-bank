@@ -1,0 +1,359 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","400","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","400","d"],{"children":["__PAGE__?{\"id\":\"400\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","400","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T10b9,<div class="specification">
+<p>The manager of a folder factory recorded the number of folders produced by the factory (in thousands) and the production costs (in thousand Euros), for six consecutive months.</p>
+<p style="text-align: center;"><img alt="M17/5/MATSD/SP2/ENG/TZ2/03" src="../assets/uploads/tinymce_asset/asset/3608/Schermafbeelding_2017-08-16_om_17.30.09.png"/></p>
+</div><div class="specification">
+<p>Every month the factory sells all the folders produced. Each folder is sold for 2.99 Euros.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Draw a scatter diagram for this data. Use a scale of 2 cm for 5000 folders on the horizontal axis and 2 cm for 10 000 Euros on the vertical axis.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down, for this set of data the mean number of folders produced, <span class="mjpage"><math alttext="\bar x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>x</mi>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+</math></span>;</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down, for this set of data the mean production cost, <span class="mjpage"><math alttext="\bar C" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>C</mi>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+</math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Label the point <span class="mjpage"><math alttext="{\text{M}}(\bar x,{\text{ }}\bar C)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>M</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow>
+<mover>
+<mi>x</mi>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mover>
+<mi>C</mi>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span> on the scatter diagram.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use your graphic display calculator to find the Pearson’s product–moment correlation coefficient, <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State a reason why the regression line <span class="mjpage"><math alttext="C" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>C</mi>
+</math></span> on <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> is appropriate to model the relationship between these variables.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use your graphic display calculator to find the equation of the regression line <span class="mjpage"><math alttext="C" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>C</mi>
+</math></span> on <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Draw the regression line <span class="mjpage"><math alttext="C" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>C</mi>
+</math></span> on <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> on the scatter diagram.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use the equation of the regression line to estimate the least number of folders that the factory needs to sell in a month to exceed its production cost for that month.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">h.</div>
+</div>a:T298e,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><img alt="M17/5/MATSD/SP2/ENG/TZ2/03.a/M" src="../assets/uploads/tinymce_asset/asset/3616/Schermafbeelding_2017-08-17_om_06.54.04.png"/>     <strong><em>(A4)</em></strong></p>
+<p> </p>
+<p><strong>Notes:</strong>     Award <strong><em>(A1) </em></strong>for correct scales and labels. Award <strong><em>(A0) </em></strong>if axes are reversed and follow through for their points.</p>
+<p>Award <strong><em>(A3) </em></strong>for all six points correctly plotted, <strong><em>(A2) </em></strong>for four or five points correctly plotted, <strong><em>(A1) </em></strong>for two or three points correctly plotted.</p>
+<p>If graph paper has not been used, award at most <strong><em>(A1)(A0)(A0)(A0)</em></strong>. If accuracy cannot be determined award <strong><em>(A0)(A0)(A0)(A0)</em></strong>.</p>
+<p> </p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="(\bar x = ){\text{ }}21" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mrow>
+<mover>
+<mi>x</mi>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>21</mn>
+</math></span>     <strong><em>(A1)(G1)</em></strong></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="(\bar C = ){\text{ }}55" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mrow>
+<mover>
+<mi>C</mi>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>55</mn>
+</math></span>     <strong><em>(A1)(G1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Accept (i) 21000 and (ii) 55000 seen.</p>
+<p> </p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>their mean point M labelled on diagram     <strong><em>(A1)</em>(ft)<em>(G1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Follow through from part (b).</p>
+<p>Award <strong><em>(A1)</em>(ft) </strong>if their part (b) is correct and their attempt at plotting <span class="mjpage"><math alttext="(21,{\text{ }}55)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mn>21</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>55</mn>
+<mo stretchy="false">)</mo>
+</math></span> in part (a) is labelled M.</p>
+<p>If graph paper not used, award <strong><em>(A1) </em></strong>if <span class="mjpage"><math alttext="(21,{\text{ }}55)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mn>21</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>55</mn>
+<mo stretchy="false">)</mo>
+</math></span> is labelled. If their answer from part (b) is incorrect and accuracy cannot be determined, award <strong><em>(A0)</em></strong>.</p>
+<p> </p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="(r = ){\text{ }}0.990{\text{ }}(0.989568 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0.990</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>0.989568</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(G2) </em></strong>for 0.99 seen. Award <strong><em>(G1) </em></strong>for 0.98 or 0.989. Do not accept 1.00.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>the correlation coefficient/<em>r </em>is (very) close to 1     <strong><em>(R1)</em>(ft)</strong></p>
+<p><strong>OR</strong></p>
+<p>the correlation is (very) strong     <strong><em>(R1)</em>(ft)</strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Follow through from their answer to part (d).</p>
+<p> </p>
+<p><strong>OR</strong></p>
+<p>the position of the data points on the scatter graphs suggests that the tendency is linear     <strong><em>(R1)</em>(ft)</strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Follow through from their scatter graph in part (a).</p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="C = 1.94x + 14.2{\text{ }}(C = 1.94097 \ldots x + 14.2395 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>C</mi>
+<mo>=</mo>
+<mn>1.94</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>14.2</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>C</mi>
+<mo>=</mo>
+<mn>1.94097</mn>
+<mo>…</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mn>14.2395</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(G2)</em></strong></p>
+<p> </p>
+<p><strong>Notes:</strong>     Award <strong><em>(G1) </em></strong>for <span class="mjpage"><math alttext="1.94x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1.94</mn>
+<mi>x</mi>
+</math></span>, <strong><em>(G1) </em></strong>for 14.2.</p>
+<p>Award a maximum of <strong><em>(G0)(G1) </em></strong>if the answer is not an equation.</p>
+<p>Award <strong><em>(G0)(G1)</em>(ft) </strong>if gradient and <span class="mjpage"><math alttext="C" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>C</mi>
+</math></span>-intercept are swapped in the equation.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>straight line through their <span class="mjpage"><math alttext="{\text{M}}(21,{\text{ }}55)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>M</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>21</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>55</mn>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)</em>(ft)</strong></p>
+<p><span class="mjpage"><math alttext="C" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>C</mi>
+</math></span>-intercept of the line (or extension of line) passing through <span class="mjpage"><math alttext="14.2{\text{ }}( \pm 1)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>14.2</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mo>±</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)</em>(ft)</strong></p>
+<p> </p>
+<p><strong>Notes:</strong>     Follow through from part (f). In the event that the regression line is not straight (ruler not used), award <strong><em>(A0)(A1)</em>(ft) </strong>if line passes through both their <span class="mjpage"><math alttext="(21,{\text{ }}55)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mn>21</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>55</mn>
+<mo stretchy="false">)</mo>
+</math></span> and <span class="mjpage"><math alttext="(0,{\text{ }}14.2)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>14.2</mn>
+<mo stretchy="false">)</mo>
+</math></span>, otherwise award <strong><em>(A0)(A0)</em></strong>. The line must pass <em>through </em>the midpoint, not <em>near </em>this point. If it is not clear award <strong><em>(A0)</em></strong>.</p>
+<p>If graph paper is not used, award at most (A1)(ft)(A0).</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="2.99x = 1.94097 \ldots x + 14.2395 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2.99</mn>
+<mi>x</mi>
+<mo>=</mo>
+<mn>1.94097</mn>
+<mo>…</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mn>14.2395</mn>
+<mo>…</mo>
+</math></span>     <strong><em>(M1)(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for <span class="mjpage"><math alttext="2.99x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2.99</mn>
+<mi>x</mi>
+</math></span> seen and <strong><em>(M1) </em></strong>for equating to their equation of the regression line. Accept an inequality sign.</p>
+<p>Accept a correct graphical method involving their part (f) and <span class="mjpage"><math alttext="2.99x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2.99</mn>
+<mi>x</mi>
+</math></span>.</p>
+<p>Accept <span class="mjpage"><math alttext="C = 2.99x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>C</mi>
+<mo>=</mo>
+<mn>2.99</mn>
+<mi>x</mi>
+</math></span> drawn on their scatter graph.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="x = 13.5739 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>13.5739</mn>
+<mo>…</mo>
+</math></span> (this step may be implied by their final answer)     <strong><em>(A1)</em>(ft)(G2)</strong></p>
+<p><span class="mjpage"><math alttext="13\,600{\text{ }}(13\,574)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>13</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>600</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>13</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>574</mn>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)</em>(ft)<em>(G3)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Follow through from their answer to (f). Use of 3 sf gives an answer of <span class="mjpage"><math alttext="13\,524" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>13</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>524</mn>
+</math></span>.</p>
+<p>Award <strong><em>(G2) </em></strong>for <span class="mjpage"><math alttext="{\text{13.5739}} \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>13.5739</mtext>
+</mrow>
+<mo>…</mo>
+</math></span> or 13.524 or a value which rounds to 13500 seen without workings.</p>
+<p>Award the last <strong><em>(A1)</em>(ft) </strong>for correct multiplication by 1000 <strong>and </strong>an answer satisfying revenue &gt; <strong>their </strong>production cost.</p>
+<p>Accept 13.6 thousand (folders).</p>
+<p> </p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">h.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"17M.2.SL.TZ2.T_3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-4-4-pearsons-scatter-diagrams-eqn-of-y-on-x"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">f.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">g.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">h.</div>\n</div>"}}]]}]]}]

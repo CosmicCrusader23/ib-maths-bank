@@ -1,0 +1,185 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1489","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1489","d"],{"children":["__PAGE__?{\"id\":\"1489\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1489","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T1e2a,<div class="specification">
+<p>An estate manager is responsible for stocking a small lake with fish. He begins by introducing <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1000</mn></math> fish into the lake and monitors their population growth to determine the likely carrying capacity of the lake.</p>
+<p>After one year an accurate assessment of the number of fish in the lake is taken and it is found to be <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1200</mn></math>.</p>
+<p>Let <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi></math> be the number of fish <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi></math> years after the fish have been introduced to the lake.</p>
+<p>Initially it is assumed that the rate of increase of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi></math> will be constant.</p>
+</div><div class="specification">
+<p>When <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>8</mn></math> the estate manager again decides to estimate the number of fish in the lake. To do this he first catches <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>300</mn></math> fish and marks them, so they can be recognized if caught again. These fish are then released back into the lake. A few days later he catches another <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>300</mn></math> fish, releasing each fish after it has been checked, and finds <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>45</mn></math> of them are marked.</p>
+</div><div class="specification">
+<p>Let <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>X</mi></math> be the number of marked fish caught in the second sample, where <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>X</mi></math> is considered to be distributed as <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>B</mtext><mfenced><mrow><mi>n</mi><mo>,</mo><mo> </mo><mi>p</mi></mrow></mfenced></math>. Assume the number of fish in the lake is <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2000</mn></math>.</p>
+</div><div class="specification">
+<p>The estate manager decides that he needs bounds for the total number of fish in the lake.</p>
+</div><div class="specification">
+<p>The estate manager feels confident that the proportion of marked fish in the lake will be within <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>.</mo><mn>5</mn></math> standard deviations of the proportion of marked fish in the sample and decides these will form the upper and lower bounds of his estimate.</p>
+</div><div class="specification">
+<p>The estate manager now believes the population of fish will follow the logistic model <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfrac><mi>L</mi><mrow><mn>1</mn><mo>+</mo><mi>C</mi><msup><mi>e</mi><mrow><mo>-</mo><mi>k</mi><mi>t</mi></mrow></msup></mrow></mfrac></math> where <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>L</mi></math> is the carrying capacity and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>C</mi><mo>,</mo><mo> </mo><mi>k</mi><mo>&gt;</mo><mn>0</mn></math>.</p>
+<p>The estate manager would like to know if the population of fish in the lake will eventually reach <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>5000</mn></math>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use this model to predict the number of fish in the lake when <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>8</mn></math>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Assuming the proportion of marked fish in the second sample is equal to the proportion of marked fish in the lake, show that the estate manager will estimate there are now <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2000</mn></math> fish in the lake.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the value of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi></math> and the value of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State an assumption that is being made for <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>X</mi></math> to be considered as following a binomial distribution.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that an estimate for <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Var</mtext><mo>(</mo><mi>X</mi><mo>)</mo></math> is <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>38</mn><mo>.</mo><mn>25</mn></math>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence show that the variance of the proportion of marked fish in the sample, <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Var</mtext><mfenced><mfrac><mi>X</mi><mn>300</mn></mfrac></mfenced></math>, is <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>.</mo><mn>000425</mn></math>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Taking the value for the variance given in (d) (ii) as a good approximation for the true variance, find the upper and lower bounds for the proportion of marked fish in the lake.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">e.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence find upper and lower bounds for the number of fish in the lake when <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>8</mn></math>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">e.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Given this result, comment on the validity of the linear model used in part (a).</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Assuming a carrying capacity of <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>5000</mn></math> use the given values of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi><mfenced><mn>0</mn></mfenced></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi><mfenced><mn>1</mn></mfenced></math> to calculate the parameters <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>C</mi></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">g.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use these parameters to calculate the value of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi><mfenced><mn>8</mn></mfenced></math> predicted by this model.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">g.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Comment on the likelihood of the fish population reaching <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>5000</mn></math>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">h.</div>
+</div>a:T1dfc,<div class="question" style="padding-left: 20px;">
+<p style="color:#999;font-size:90%;font-style:italic;">* This sample question was produced by experienced DP mathematics senior examiners to aid teachers in preparing for external assessment in the new MAA course. There may be minor differences in formatting compared to formal exam papers.</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi><mfenced><mn>8</mn></mfenced><mo>=</mo><mn>1000</mn><mo>+</mo><mn>200</mn><mo>×</mo><mn>8</mn></math>        <em><strong>M1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>2600</mn></math>        <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>45</mn><mn>300</mn></mfrac><mo>=</mo><mfrac><mn>300</mn><mi>N</mi></mfrac></math><strong>        <em>M1A1</em></strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi><mo>=</mo><mn>2000</mn></math>        <em><strong>AG</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi><mo>=</mo><mn>300</mn><mo>,</mo><mo> </mo><mi>p</mi><mo>=</mo><mfrac><mn>300</mn><mn>2000</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>15</mn></math>  <strong>   <em>A1A1</em></strong></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Any valid reason for example:          <em><strong>R1</strong></em></p>
+<p>Marked fish are randomly distributed, so <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math> constant.</p>
+<p>Each fish caught is independent of previous fish caught</p>
+<p> </p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Var</mtext><mo>(</mo><mi>X</mi><mo>)</mo><mo>=</mo><mi>n</mi><mi>p</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mi>p</mi></mrow></mfenced></math>          <em><strong>M1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>300</mn><mo>×</mo><mfrac><mn>300</mn><mn>2000</mn></mfrac><mo>×</mo><mfrac><mn>1700</mn><mn>2000</mn></mfrac></math>          <em><strong>A1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>38</mn><mo>.</mo><mn>25</mn></math>          <em><strong>AG</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Var</mtext><mfenced><mfrac><mi>X</mi><mn>300</mn></mfrac></mfenced><mi mathvariant="normal">=</mi><mfrac><mrow><mtext>Var</mtext><mo>(</mo><mi>X</mi><mo>)</mo></mrow><msup><mn>300</mn><mn>2</mn></msup></mfrac></math>          <em><strong>M1A1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>0</mn><mo>.</mo><mn>000425</mn></math>             <em><strong>AG</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>.</mo><mn>15</mn><mo>±</mo><mn>1</mn><mo>.</mo><mn>5</mn><msqrt><mn>0</mn><mo>.</mo><mn>000425</mn></msqrt></math>          <em><strong>(M1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>.</mo><mn>181</mn></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>.</mo><mn>119</mn></math>             <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">e.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>300</mn><mi>N</mi></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>181</mn><mo>…</mo><mo>,</mo><mo> </mo><mo> </mo><mfrac><mn>300</mn><mi>N</mi></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>119</mn><mo>…</mo></math>            <em><strong>M1</strong></em></p>
+<p>Lower bound <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1658</mn></math> upper bound <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2519</mn></math>             <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">e.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Linear model prediction falls outside this range so unlikely to be a good model            <em><strong>R1A1</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1000</mn><mo>=</mo><mfrac><mn>5000</mn><mrow><mn>1</mn><mo>+</mo><mi>C</mi></mrow></mfrac></math>            <em><strong>M1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>C</mi><mo>=</mo><mn>4</mn></math>            <em><strong>A1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1200</mn><mo>=</mo><mfrac><mn>5000</mn><mrow><mn>1</mn><mo>+</mo><mn>4</mn><msup><mi>e</mi><mrow><mo>-</mo><mi>k</mi></mrow></msup></mrow></mfrac></math>            <em><strong>M1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>e</mi><mrow><mo>-</mo><mi>k</mi></mrow></msup><mo>=</mo><mfrac><mn>3800</mn><mrow><mn>4</mn><mo>×</mo><mn>1200</mn></mrow></mfrac></math>            <em><strong>(M1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mo>=</mo><mo>-</mo><mi>ln</mi><mfenced><mrow><mn>0</mn><mo>.</mo><mn>7916</mn><mo>…</mo></mrow></mfenced><mo>=</mo><mn>0</mn><mo>.</mo><mn>2336</mn><mo>…</mo></math>         <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[5 marks]</strong></em></p>
+<div class="question_part_label">g.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi><mfenced><mn>8</mn></mfenced><mo>=</mo><mfrac><mn>5000</mn><mrow><mn>1</mn><mo>+</mo><mn>4</mn><msup><mi>e</mi><mrow><mo>-</mo><mn>0</mn><mo>.</mo><mn>2336</mn><mo>×</mo><mn>8</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>3090</mn></math>         <em><strong>M1</strong></em><em><strong>A1</strong></em></p>
+<p> </p>
+<p><strong>Note:</strong> Accept any answer that rounds to <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>3000</mn></math>.</p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">g.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>This is much higher than the calculated upper bound for <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi><mo>(</mo><mn>8</mn><mo>)</mo></math> so the rate of growth of the fish is unlikely to be sufficient to reach a carrying capacity of <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>5000</mn></math>.        <strong><em>M</em></strong><em><strong>1R</strong></em><em><strong>1</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">h.</div>
+</div>b:T500,<div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">e.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">e.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">g.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">g.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">h.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/2/","children":["← back to topic ","2"]}]}],["$","h1",null,{"children":"EXN.3.AHL.TZ0.1"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"EXN"}],["$","span",null,{"children":["· ","sl-2-5-modelling-functions, sl-4-8-binomial-distribution, ahl-4-14-linear-transformation-of-a-single-rv-e(x)-and-var(x)-unbiased-estimators, ahl-2-9-hl-modelling-functions"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

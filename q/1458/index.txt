@@ -1,0 +1,346 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1458","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1458","d"],{"children":["__PAGE__?{\"id\":\"1458\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1458","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tec7,<div class="specification">
+<p>On her first day in a hospital, Kiri receives <span class="mjpage"><math alttext="{u_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> milligrams (mg) of a therapeutic drug. The amount of the drug Kiri receives increases by the same amount, <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+</math></span>, each day. On the seventh day, she receives 21 mg of the drug, and on the eleventh day she receives 29 mg.</p>
+</div><div class="specification">
+<p>Kiri receives the drug for 30 days.</p>
+</div><div class="specification">
+<p>Ted is also in a hospital and on his first day he receives a 20 mg antibiotic injection. The amount of the antibiotic Ted receives decreases by 50 % each day. On the second day, Ted receives a 10 mg antibiotic injection, on the third day he receives 5 mg, and so on.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down an equation, in terms of <span class="mjpage"><math alttext="{u_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+</math></span>, for the amount of the drug that she receives on the seventh day.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down an equation, in terms of <span class="mjpage"><math alttext="{u_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+</math></span>, for the amount of the drug that she receives on the eleventh day.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the value of <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+</math></span> and the value of <span class="mjpage"><math alttext="{u_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the total amount of the drug, in mg, that she receives.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the amount of antibiotic, in mg, that Ted receives on the fifth day.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The daily amount of antibiotic Ted receives will first be less than 0.06 mg on the <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span> th day. Find the value of <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence find the total amount of antibiotic, in mg, that Ted receives during the first <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span> days.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.iii.</div>
+</div>a:T1ed5,<div class="question" style="padding-left: 20px;">
+<p>(amount taken in the 7th day): <span class="mjpage"><math alttext="{u_1} + 6d = 21" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mn>6</mn>
+<mi>d</mi>
+<mo>=</mo>
+<mn>21</mn>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><strong>Note:</strong> Accept <span class="mjpage"><math alttext="{u_1} + \left( {7 - 1} \right)d = 21" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>7</mn>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>d</mi>
+<mo>=</mo>
+<mn>21</mn>
+</math></span>. The equations do not need to be simplified. They should be given in terms of <span class="mjpage"><math alttext="{u_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+</math></span> for the marks to be awarded.</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>(amount taken in the 11th day): <span class="mjpage"><math alttext="{u_1} + 10d = 29" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mn>10</mn>
+<mi>d</mi>
+<mo>=</mo>
+<mn>29</mn>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><strong>Note:</strong> Accept <span class="mjpage"><math alttext="{u_1} + \left( {11 - 1} \right)d = 29" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>11</mn>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>d</mi>
+<mo>=</mo>
+<mn>29</mn>
+</math></span>. The equations do not need to be simplified. They should be given in terms of <span class="mjpage"><math alttext="{u_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+</math></span> for the marks to be awarded.</p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>(<span class="mjpage"><math alttext="{u_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> =) 9     <strong><em>(A1)</em>(ft)</strong></p>
+<p>(<span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+</math></span> =) 2     <strong><em>(A1)</em>(ft)</strong></p>
+<p><strong>Note:</strong> Follow through from part (a), but only if values are positive and <span class="mjpage"><math alttext="{u_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> &lt; 21.</p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\left( {{S_{30}} = } \right)\frac{{30}}{2}\left( {2 \times 9 + \left( {30 - 1} \right) \times 2} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow>
+<msub>
+<mi>S</mi>
+<mrow>
+<mn>30</mn>
+</mrow>
+</msub>
+</mrow>
+<mo>=</mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mfrac>
+<mrow>
+<mn>30</mn>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>2</mn>
+<mo>×</mo>
+<mn>9</mn>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>30</mn>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>×</mo>
+<mn>2</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <strong><em>(M1)</em></strong><strong><em>(A1)</em>(ft)</strong></p>
+<p><strong>Note:</strong> Award <strong><em>(M1)</em></strong> for substitution in the sum of an arithmetic sequence formula; <strong><em>(A1)</em>(ft)</strong> for their correct substitution.</p>
+<p>1140  (mg)       <strong><em>(A1)</em>(ft)<em>(G3)</em></strong></p>
+<p><strong>Note:</strong> Follow through from their <span class="mjpage"><math alttext="{u_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>d</mi>
+</math></span> from part (b).</p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>20 × (0.5)<sup>4</sup>      <strong><em>(M1)</em></strong><strong><em>(A1)</em></strong></p>
+<p><strong>Note:</strong> Award <strong><em>(M1)</em></strong> for substitution into the geometric sequence formula, <strong><em>(A1)</em></strong> for correct substitution.</p>
+<p>1.25  (mg)       <strong><em>(A1)</em><em>(G3)</em></strong></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="20 \times {\left( {0.5} \right)^{k - 1}} &lt; 0.06" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>20</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>0.5</mn>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mi>k</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>&lt;</mo>
+<mn>0.06</mn>
+</math></span>      <strong><em>(M1)(M1)</em></strong></p>
+<p><strong>Note:</strong> Award <strong><em>(M1)</em></strong> for correct substitution into the geometric sequence formula; <strong><em>(M1)</em></strong> for comparing their expression to 0.06. Accept an equation instead of inequality.</p>
+<p>(<span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span> =) 10  (10th day)       <strong><em>(A1)</em>(ft)<em>(G3)</em></strong></p>
+<p><strong>Note:</strong> Follow through from part (d)(i), if 0 &lt; <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+</math></span> &lt; 1. Follow through answers must be rounded up for final mark.</p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{20\left( {1 - {{0.5}^{10}}} \right)}}{{1 - 0.5}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>20</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>0.5</mn>
+</mrow>
+<mrow>
+<mn>10</mn>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mn>0.5</mn>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(M1)(A1)(ft)</em></strong></p>
+<p><strong>Note:</strong> Award <strong><em>(M1)</em></strong> for substitution into sum of a geometric sequence formula, <strong><em>(A1)(ft)</em></strong> for correct substitution.<br/> Follow through from their <span class="mjpage"><math alttext="{u_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>u</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+</math></span> in part (d)(i), if 0 &lt; <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+</math></span> &lt; 1. Follow through from their <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span> in part (d)(ii) but only if <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>k</mi>
+</math></span> is a positive integer.</p>
+<p>40.0  (39.9609…) (mg)       <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">d.iii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"19M.2.SL.TZ2.T_4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","sl-1-2-arithmetic-sequences-and-series"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.iii.</div>\n</div>"}}]]}]]}]

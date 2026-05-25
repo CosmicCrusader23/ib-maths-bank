@@ -1,0 +1,382 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","240","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","240","d"],{"children":["__PAGE__?{\"id\":\"240\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","240","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tccf,<div class="specification">
+<p>A pan, in which to cook a pizza, is in the shape of a cylinder. The pan has a diameter of 35 cm and a height of 0.5 cm.</p>
+<p style="text-align: center;"><img alt="M17/5/MATSD/SP2/ENG/TZ1/04" src="../assets/uploads/tinymce_asset/asset/3600/Schermafbeelding_2017-08-16_om_11.14.51.png"/></p>
+</div><div class="specification">
+<p>A chef had enough pizza dough to exactly fill the pan. The dough was in the shape of a sphere.</p>
+</div><div class="specification">
+<p>The pizza was cooked in a hot oven. Once taken out of the oven, the pizza was placed in a dining room.</p>
+<p>The temperature, <span class="mjpage"><math alttext="P" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>P</mi>
+</math></span>, of the pizza, in degrees Celsius, °C, can be modelled by</p>
+<p><span class="mjpage mjpage__block"><math alttext="P(t) = a{(2.06)^{ - t}} + 19,{\text{ }}t \geqslant 0" display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>a</mi>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>2.06</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow>
+<mo>−<!-- − --></mo>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>19</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>t</mi>
+<mo>⩾<!-- ⩾ --></mo>
+<mn>0</mn>
+</math></span></p>
+<p>where <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span> is a constant and <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+</math></span> is the time, in minutes, since the pizza was taken out of the oven.</p>
+<p>When the pizza was taken out of the oven its temperature was 230 °C.</p>
+</div><div class="specification">
+<p>The pizza can be eaten once its temperature drops to 45 °C.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the volume of this pan.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the radius of the sphere in cm, correct to one decimal place.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the temperature that the pizza will be 5 minutes after it is taken out of the oven.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate, to the nearest second, the time since the pizza was taken out of the oven until it can be eaten.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>In the context of this model, state what the value of 19 represents.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">f.</div>
+</div>a:T21a9,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="(V = ){\text{ }}\pi  \times {{\text{(17.5)}}^2} \times 0.5" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>V</mi>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>π</mi>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mtext>(17.5)</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>×</mo>
+<mn>0.5</mn>
+</math></span>     <strong><em>(A1)(M1)</em></strong></p>
+<p> </p>
+<p><strong>Notes:</strong>     Award <strong><em>(A1) </em></strong>for 17.5 (or equivalent) seen.</p>
+<p>Award <strong><em>(M1) </em></strong>for correct substitutions into volume of a cylinder formula.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 481{\text{ c}}{{\text{m}}^3}{\text{ }}(481.056 \ldots {\text{ c}}{{\text{m}}^3},{\text{ }}153.125\pi {\text{ c}}{{\text{m}}^3})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>481</mn>
+<mrow>
+<mtext> c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>481.056</mn>
+<mo>…</mo>
+<mrow>
+<mtext> c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>153.125</mn>
+<mi>π</mi>
+<mrow>
+<mtext> c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)(G2)</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{4}{3} \times \pi  \times {r^3} = 481.056 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>4</mn>
+<mn>3</mn>
+</mfrac>
+<mo>×</mo>
+<mi>π</mi>
+<mo>×</mo>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>481.056</mn>
+<mo>…</mo>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for equating <strong>their </strong>answer to part (a) to the volume of sphere.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="{r^3} = \frac{{3 \times 481.056 \ldots }}{{4\pi }}{\text{ }}( = 114.843 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>3</mn>
+<mo>×</mo>
+<mn>481.056</mn>
+<mo>…</mo>
+</mrow>
+<mrow>
+<mn>4</mn>
+<mi>π</mi>
+</mrow>
+</mfrac>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mo>=</mo>
+<mn>114.843</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for correctly rearranging so <span class="mjpage"><math alttext="{r^3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>3</mn>
+</msup>
+</mrow>
+</math></span> is the subject.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="r = 4.86074 \ldots {\text{ (cm)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+<mo>=</mo>
+<mn>4.86074</mn>
+<mo>…</mo>
+<mrow>
+<mtext> (cm)</mtext>
+</mrow>
+</math></span>     <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(A1) </em></strong>for correct unrounded answer seen. Follow through from part (a).</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 4.9{\text{ (cm)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>4.9</mn>
+<mrow>
+<mtext> (cm)</mtext>
+</mrow>
+</math></span>     <strong><em>(A1)</em>(ft)<em>(G3)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     The final <strong><em>(A1)</em>(ft) </strong>is awarded for rounding their unrounded answer to one decimal place.</p>
+<p> </p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="230 = a{(2.06)^0} + 19" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>230</mn>
+<mo>=</mo>
+<mi>a</mi>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>2.06</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>0</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>19</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for correct substitution.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="a = 211" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>=</mo>
+<mn>211</mn>
+</math></span>     <strong><em>(A1)(G2)</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="(P = ){\text{ }}211 \times {(2.06)^{ - 5}} + 19" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>P</mi>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>211</mn>
+<mo>×</mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>2.06</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>19</mn>
+</math></span>      <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for correct substitution into the function, <span class="mjpage"><math alttext="P(t)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</math></span>. Follow through from part (c). The negative sign in the exponent is required for correct substitution.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" = 24.7" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>24.7</mn>
+</math></span> (°C) <span class="mjpage"><math alttext="(24.6878 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mn>24.6878</mn>
+<mo>…</mo>
+</math></span> (°C))     <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="45 = 211 \times {(2.06)^{ - t}} + 19" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>45</mn>
+<mo>=</mo>
+<mn>211</mn>
+<mo>×</mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>2.06</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow>
+<mo>−</mo>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>19</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for equating 45 to the exponential equation and for correct substitution (follow through for their <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span> in part (c)).</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="(t = ){\text{ }}2.89711 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>2.89711</mn>
+<mo>…</mo>
+</math></span>     <strong><em>(A1)</em>(ft)<em>(G1)</em></strong></p>
+<p><span class="mjpage"><math alttext="174{\text{ (seconds) }}\left( {173.826 \ldots {\text{ (seconds)}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>174</mn>
+<mrow>
+<mtext> (seconds) </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>173.826</mn>
+<mo>…</mo>
+<mrow>
+<mtext> (seconds)</mtext>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>(A1)</em>(ft)<em>(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award final <strong><em>(A1)</em>(ft) </strong>for converting their <span class="mjpage"><math alttext="{\text{2.89711}} \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>2.89711</mtext>
+</mrow>
+<mo>…</mo>
+</math></span> minutes into seconds.</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>the temperature of the (dining) room     <strong><em>(A1)</em></strong></p>
+<p><strong>OR</strong></p>
+<p>the lowest final temperature to which the pizza will cool     <strong><em>(A1)</em></strong></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">f.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"17M.2.SL.TZ1.T_4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-3-1-3d-space-volume-angles-distance-midpoints"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">f.</div>\n</div>"}}]]}]]}]

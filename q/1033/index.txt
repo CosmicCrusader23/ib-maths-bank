@@ -1,0 +1,141 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1033","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1033","d"],{"children":["__PAGE__?{\"id\":\"1033\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1033","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T92a,<div class="specification">
+<p>Sejah placed a baking tin, that contained cake mix, in a preheated oven in order to bake a cake. The temperature in the centre of the cake mix, <span class="mjpage"><math alttext="T" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>T</mi>
+</math></span>, in degrees Celsius (°C) is given by</p>
+<p><span class="mjpage mjpage__block"><math alttext="T(t) = 150 - a \times {(1.1)^{ - t}}" display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>T</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>150</mn>
+<mo>−<!-- − --></mo>
+<mi>a</mi>
+<mo>×<!-- × --></mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>1.1</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow>
+<mo>−<!-- − --></mo>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+</math></span></p>
+<p>where <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+</math></span> is the time, in minutes, since the baking tin was placed in the oven. The graph of <span class="mjpage"><math alttext="T" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>T</mi>
+</math></span> is shown in the following diagram.</p>
+<p style="text-align: center;"><img alt="N17/5/MATSD/SP1/ENG/TZ0/12" src="../assets/uploads/tinymce_asset/asset/4173/Schermafbeelding_2018-02-12_om_18.27.39.png"/></p>
+</div><div class="specification">
+<p>The temperature in the centre of the cake mix was 18 °C when placed in the oven.</p>
+</div><div class="specification">
+<p>The baking tin is removed from the oven 15 minutes after the temperature in the centre of the cake mix has reached 130 °C.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down what the value of 150 represents in the context of the question.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the total time that the baking tin is in the oven.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div>a:Tc6a,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p>the temperature in the oven     <strong><em>(A1)</em></strong></p>
+<p><strong>OR</strong></p>
+<p>the maximum possible temperature of the cake mix     <strong><em>(A1)     (C1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(A0) </em></strong>for “the maximum temperature”.</p>
+<p> </p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="18 = 150 - a( \times 1.1^\circ )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>18</mn>
+<mo>=</mo>
+<mn>150</mn>
+<mo>−</mo>
+<mi>a</mi>
+<mo stretchy="false">(</mo>
+<mo>×</mo>
+<msup>
+<mn>1.1</mn>
+<mo>∘</mo>
+</msup>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for correct substitution of 18 and 0. Substitution of 0 can be implied.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="(a) = 132" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mi>a</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>132</mn>
+</math></span>     <strong><em>(A1)     (C2)</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="150-132 \times {1.1^{ - t}} = 130" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>150</mn>
+<mo>−</mo>
+<mn>132</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>1.1</mn>
+<mrow>
+<mo>−</mo>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>130</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award <strong><em>(M1) </em></strong>for substituting their <em>a </em>and equating to 130. Accept an inequality.</p>
+<p>Award <strong><em>(M1) </em></strong>for a sketch of the horizontal line on the graph.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="t = 19.8{\text{ }}(19.7992 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mn>19.8</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>19.7992</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)</em>(ft)</strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Follow through from part (b).</p>
+<p> </p>
+<p>34.8 (minutes) (34.7992…, 34 minutes 48 seconds)     <strong><em>(A1)</em>(ft)     <em>(C3)</em></strong></p>
+<p> </p>
+<p><strong>Note:     </strong>Award the final <strong><em>(A1) </em></strong>for adding 15 minutes to their <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+</math></span> value.</p>
+<p>In part (c), award <strong><em>(C2) </em></strong>for a final answer of 19.8 with no working.</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/2/","children":["← back to topic ","2"]}]}],["$","h1",null,{"children":"17N.1.SL.TZ0.T_12"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"17N"}],["$","span",null,{"children":["· ","sl-2-5-modelling-functions"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

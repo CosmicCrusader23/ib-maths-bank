@@ -1,0 +1,149 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1729","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1729","d"],{"children":["__PAGE__?{\"id\":\"1729\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1729","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T1069,<div class="specification">
+<p>At an archery tournament, a particular competition sees a ball launched into the air while an archer attempts to hit it with an arrow.</p>
+<p>The path of the ball is modelled by the equation</p>
+<p style="text-align: center;"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mtable><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mi>y</mi></mtd></mtr></mtable></mfenced><mo>=</mo><mfenced><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd></mtr></mtable></mfenced><mo>+</mo><mi>t</mi><mfenced><mtable><mtr><mtd><msub><mi>u</mi><mi>x</mi></msub></mtd></mtr><mtr><mtd><msub><mi>u</mi><mi>y</mi></msub><mo>-</mo><mn>5</mn><mi>t</mi></mtd></mtr></mtable></mfenced></math></p>
+<p>where <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math> is the horizontal displacement from the archer and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math> is the vertical displacement from the ground, both measured in metres, and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi></math> is the time, in seconds, since the ball was launched.</p>
+<ul>
+<li><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>u</mi><mi>x</mi></msub></math> is the horizontal component of the initial velocity</li>
+<li><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>u</mi><mi>y</mi></msub></math> is the vertical component of the initial velocity.</li>
+</ul>
+<p>In this question both the ball and the arrow are modelled as single points. The ball is launched with an initial velocity such that <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>u</mi><mi>x</mi></msub><mo>=</mo><mn>8</mn></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>u</mi><mi>y</mi></msub><mo>=</mo><mn>10</mn></math>.</p>
+</div><div class="specification">
+<p>An archer releases an arrow from the point <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mn>0</mn><mo>,</mo><mo> </mo><mn>2</mn><mo>)</mo></math>. The arrow is modelled as travelling in a straight line, in the same plane as the ball, with speed <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>60</mn><mo> </mo><msup><mtext>m s</mtext><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> and an angle of elevation of <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>10</mn><mo>°</mo></math>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the initial speed of the ball.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the angle of elevation of the ball as it is launched.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the maximum height reached by the ball.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Assuming that the ground is horizontal and the ball is not hit by the arrow, find the <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math> coordinate of the point where the ball lands.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>For the path of the ball, find an expression for <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math> in terms of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine the two positions where the path of the arrow intersects the path of the ball.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Determine the time when the arrow should be released to hit the ball before the ball reaches its maximum height.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">f.</div>
+</div>a:T32d0,<div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><msup><mn>10</mn><mn>2</mn></msup><mo>+</mo><msup><mn>8</mn><mn>2</mn></msup></msqrt></math>           <em><strong>(M1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>12</mn><mo>.</mo><mn>8</mn><mo> </mo><mo> </mo><mo> </mo><mfenced><mrow><mn>12</mn><mo>.</mo><mn>8062</mn><mo>…</mo><mo>,</mo><mo> </mo><msqrt><mn>164</mn></msqrt></mrow></mfenced><mo> </mo><mfenced><mrow><mtext>m</mtext><mo> </mo><msup><mtext>s</mtext><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfenced></math>          <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mfrac><mn>10</mn><mn>8</mn></mfrac></mfenced></math>           <em><strong>(M1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>0</mn><mo>.</mo><mn>896</mn></math>   <strong>OR   </strong><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>51</mn><mo>.</mo><mn>3</mn></math>   (<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>.</mo><mn>896055</mn><mo>…</mo></math>   <strong>OR   </strong><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>51</mn><mo>.</mo><mn>3401</mn><mo>…</mo><mo>°</mo></math>)           <em><strong>A1</strong></em></p>
+<p><strong><br/>Note:</strong> Accept <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>.</mo><mn>897</mn></math> or <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>51</mn><mo>.</mo><mn>4</mn></math> from use of <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>arcsin</mtext><mfenced><mfrac><mn>10</mn><mrow><mn>12</mn><mo>.</mo><mn>8</mn></mrow></mfrac></mfenced></math>.</p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>t</mi><mfenced><mrow><mn>10</mn><mo>-</mo><mn>5</mn><mi>t</mi></mrow></mfenced></math>           <em><strong>(M1)</strong></em></p>
+<p><br/><strong>Note:</strong> The <em><strong>M1</strong> </em>might be implied by a correct graph or use of the correct equation.</p>
+<p> </p>
+<p><strong>METHOD 1 – graphical Method</strong></p>
+<p>sketch graph           <em><strong>(M1)</strong></em></p>
+<p><br/><strong>Note:</strong> The <em><strong>M1</strong> </em>might be implied by correct graph or correct maximum (eg <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>1</mn></math>).</p>
+<p><br/>max occurs when <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>5</mn><mo> </mo><mtext>m</mtext></math>           <em><strong>A1</strong></em><br/><br/></p>
+<p><strong>METHOD 2 – calculus</strong><br/><br/>differentiating and equating to zero           <em><strong>(M1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>d</mo><mi>y</mi></mrow><mrow><mo>d</mo><mi>t</mi></mrow></mfrac><mo>=</mo><mn>10</mn><mo>-</mo><mn>10</mn><mi>t</mi><mo>=</mo><mn>0</mn></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>1</mn></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mfenced><mrow><mo>=</mo><mn>1</mn><mfenced><mrow><mn>10</mn><mo>-</mo><mn>5</mn></mrow></mfenced></mrow></mfenced><mo>=</mo><mn>5</mn><mo> </mo><mtext>m</mtext></math>           <em><strong>A1</strong></em></p>
+<p> </p>
+<p><strong>METHOD 3 – symmetry</strong></p>
+<p>line of symmetry is <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>1</mn></math>           <em><strong>(M1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mfenced><mrow><mo>=</mo><mn>1</mn><mfenced><mrow><mn>10</mn><mo>-</mo><mn>5</mn></mrow></mfenced></mrow></mfenced><mo>=</mo><mn>5</mn><mo> </mo><mtext>m</mtext></math>           <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt to solve <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mfenced><mrow><mn>10</mn><mo>-</mo><mn>5</mn><mi>t</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math>           <em><strong>(M1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>2</mn></math>  (or <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>0</mn></math>)          <em><strong>(A1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo> </mo><mfenced><mrow><mo>=</mo><mn>5</mn><mo>+</mo><mn>8</mn><mo>×</mo><mn>2</mn></mrow></mfenced><mo>=</mo><mo> </mo><mn>21</mn><mo> </mo><mtext>m</mtext></math>           <em><strong>A1</strong></em><br/><br/></p>
+<p><strong>Note:</strong> Do not award the final <em><strong>A1</strong> </em>if <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>5</mn></math> is also seen.</p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow><mn>8</mn></mfrac></math>            <em><strong>M1A1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mfenced><mfrac><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow><mn>8</mn></mfrac></mfenced><mfenced><mrow><mn>10</mn><mo>-</mo><mn>5</mn><mo>×</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow><mn>8</mn></mfrac></mrow></mfenced></math>           <em><strong>A1</strong></em></p>
+<p><br/><strong>METHOD 2</strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>k</mi><mfenced><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><mn>21</mn></mrow></mfenced></math>           <em><strong>A1</strong></em></p>
+<p>when <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>13</mn><mo>,</mo><mo> </mo><mi>y</mi><mo>=</mo><mn>5</mn></math> so <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mo>=</mo><mfrac><mn>5</mn><mrow><mfenced><mrow><mn>13</mn><mo>-</mo><mn>5</mn></mrow></mfenced><mfenced><mrow><mn>13</mn><mo>-</mo><mn>21</mn></mrow></mfenced></mrow></mfrac><mo>=</mo><mo>-</mo><mfrac><mn>5</mn><mn>64</mn></mfrac></math>            <em><strong>M1A1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>5</mn><mn>64</mn></mfrac><mfenced><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><mn>21</mn></mrow></mfenced></mrow></mfenced></math></p>
+<p> </p>
+<p><strong>METHOD 3</strong></p>
+<p>if <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi><mo>+</mo><mi>c</mi></math></p>
+<p> <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>=</mo><mn>25</mn><mi>a</mi><mo>+</mo><mn>5</mn><mi>b</mi><mo>+</mo><mi>c</mi></math><br/> <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>5</mn><mo>=</mo><mn>169</mn><mi>a</mi><mo>+</mo><mn>13</mn><mi>b</mi><mo>+</mo><mi>c</mi></math><br/> <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>=</mo><mn>441</mn><mi>a</mi><mo>+</mo><mn>21</mn><mi>b</mi><mo>+</mo><mi>c</mi></math>            <em><strong>M1A1</strong></em></p>
+<p>solving simultaneously, <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mo>-</mo><mfrac><mn>5</mn><mn>64</mn></mfrac><mo>,</mo><mo> </mo><mi>b</mi><mo>=</mo><mfrac><mn>130</mn><mn>64</mn></mfrac><mo>,</mo><mo> </mo><mi>c</mi><mo>=</mo><mo>-</mo><mfrac><mn>525</mn><mn>64</mn></mfrac></math>           <em><strong>A1</strong></em></p>
+<p>(<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>5</mn><mn>64</mn></mfrac><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>130</mn><mn>64</mn></mfrac><mi>x</mi><mo>-</mo><mfrac><mn>525</mn><mn>64</mn></mfrac></math>)</p>
+<p> </p>
+<p><strong>METHOD 4</strong><br/><br/>use quadratic regression on <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mn>5</mn><mo>,</mo><mo> </mo><mn>0</mn><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mn>13</mn><mo>,</mo><mo> </mo><mn>5</mn><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mn>21</mn><mo>,</mo><mo> </mo><mn>0</mn><mo>)</mo></math>            <em><strong>M1A1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>5</mn><mn>64</mn></mfrac><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>130</mn><mn>64</mn></mfrac><mi>x</mi><mo>-</mo><mfrac><mn>525</mn><mn>64</mn></mfrac></math>           <em><strong>A1</strong></em></p>
+<p><br/><strong>Note:</strong> Question asks for expression; condone omission of "<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo></math>".</p>
+<p> </p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>trajectory of arrow is <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>x</mi><mo> </mo><mi>tan</mi><mo> </mo><mn>10</mn><mo>+</mo><mn>2</mn></math>             <em><strong>(A1)</strong></em></p>
+<p>intersecting <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>x</mi><mo> </mo><mi>tan</mi><mo> </mo><mn>10</mn><mo>+</mo><mn>2</mn></math> and their answer to (d)             <em><strong>(M1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mn>8</mn><mo>.</mo><mn>66</mn><mo>,</mo><mo> </mo><mn>3</mn><mo>.</mo><mn>53</mn></mrow></mfenced><mo> </mo><mo> </mo><mfenced><mfenced><mrow><mn>8</mn><mo>.</mo><mn>65705</mn><mo>…</mo><mo>,</mo><mo> </mo><mn>3</mn><mo>.</mo><mn>52647</mn><mo>…</mo></mrow></mfenced></mfenced></math>           <em><strong>A1</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mn>15</mn><mo>.</mo><mn>1</mn><mo>,</mo><mo> </mo><mn>4</mn><mo>.</mo><mn>66</mn></mrow></mfenced><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mfenced><mfenced><mrow><mn>15</mn><mo>.</mo><mn>0859</mn><mo>…</mo><mo>,</mo><mo> </mo><mn>4</mn><mo>.</mo><mn>66006</mn><mo>…</mo></mrow></mfenced></mfenced></math>           <em><strong>A1</strong></em></p>
+<p> </p>
+<p><em><strong>[4 marks]</strong></em></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>when <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>x</mi><mtext>target</mtext></msub><mo>=</mo><mn>8</mn><mo>.</mo><mn>65705</mn><mo>…</mo><mo>,</mo><mo> </mo><mo> </mo><msub><mi>t</mi><mtext>target</mtext></msub><mo>=</mo><mfrac><mrow><mn>8</mn><mo>.</mo><mn>65705</mn><mo>…</mo><mo>-</mo><mn>5</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>457132</mn><mo>…</mo><mo> </mo><mtext>s</mtext></math>             <em><strong>(A1)</strong></em></p>
+<p>attempt to find the distance from point of release to intersection             <em><strong>(M1)</strong></em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>8</mn><mo>.</mo><mn>65705</mn><msup><mo>…</mo><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><mn>3</mn><mo>.</mo><mn>52647</mn><mo>…</mo><mo>-</mo><mn>2</mn></mrow></mfenced><mn>2</mn></msup></msqrt><mo> </mo><mo> </mo><mfenced><mrow><mo>=</mo><mn>8</mn><mo>.</mo><mn>79060</mn><mo>…</mo><mo> </mo><mtext>m</mtext></mrow></mfenced></math></p>
+<p>time for arrow to get there is <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn>8</mn><mo>.</mo><mn>79060</mn><mo>…</mo></mrow><mn>60</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>146510</mn><mo>…</mo><mtext>s</mtext></math>             <em><strong>(A1)</strong></em></p>
+<p>so the arrow should be released when</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>311</mn><mo> </mo><mfenced><mtext>s</mtext></mfenced><mo> </mo><mo> </mo><mfenced><mrow><mn>0</mn><mo>.</mo><mn>310622</mn><mo>…</mo><mo> </mo><mfenced><mtext>s</mtext></mfenced></mrow></mfenced></math>           <em><strong>A1</strong></em> </p>
+<p> </p>
+<p><em><strong>[4 marks]</strong></em></p>
+<div class="question_part_label">f.</div>
+</div>b:T486,<div class="question" style="padding-left: 20px;">
+<p>This question was found to be the most difficult on the paper. There were a good number of good solutions to parts (a) and part (b), frequently with answers just written down with no working. Part (c) caused some difficulties with confusing variables. The most significant difficulties started with part (d) and became greater to the end of the question. Few candidates were able to work through the final two parts.</p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">f.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"22M.2.AHL.TZ2.6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"22M"}],["$","span",null,{"children":["· ","ahl-3-12-vector-applications-to-kinematics, sl-5-6-stationary-points-local-max-and-min, sl-2-5-modelling-functions, sl-2-4-key-features-of-graphs-intersections-using-technology"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

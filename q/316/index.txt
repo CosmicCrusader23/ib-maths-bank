@@ -1,0 +1,455 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","316","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","316","d"],{"children":["__PAGE__?{\"id\":\"316\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","316","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T7ce,<div class="question">
+<p>An earth satellite moves in a path that can be described by the curve <span class="mjpage"><math alttext="72.5{x^2} + 71.5{y^2} = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>72.5</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>71.5</mn>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>1</mn>
+</math></span> where <span class="mjpage"><math alttext="x = x(t)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mi>x</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</math></span> and <span class="mjpage"><math alttext="y = y(t)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mi>y</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</math></span> are in thousands of kilometres and <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+</math></span> is time in seconds.</p>
+<p>Given that <span class="mjpage"><math alttext="\frac{{{\text{d}}x}}{{{\text{d}}t}} = 7.75 \times {10^{ - 5}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>7.75</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span> when <span class="mjpage"><math alttext="x = 3.2 \times {10^{ - 3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>3.2</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>, find the possible values of <span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</math></span>.</p>
+<p>Give your answers in standard form.</p>
+</div>a:T1952,<div class="question">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><strong>METHOD 1</strong></p>
+<p>substituting for <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> and attempting to solve for <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> (or vice versa)     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="y = ( \pm )0.11821 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mo>±</mo>
+<mo stretchy="false">)</mo>
+<mn>0.11821</mn>
+<mo>…</mo>
+</math></span>    <strong><em>(A1)</em></strong></p>
+<p><strong>EITHER</strong></p>
+<p><span class="mjpage"><math alttext="145x + 143y\frac{{{\text{d}}y}}{{{\text{d}}x}} = 0{\text{ }}\left( {\frac{{{\text{d}}y}}{{{\text{d}}x}} =  - \frac{{145x}}{{143y}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>145</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>143</mn>
+<mi>y</mi>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>0</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mn>145</mn>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mn>143</mn>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>    <strong><em>M1A1</em></strong></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="145x\frac{{{\text{d}}x}}{{{\text{d}}t}} + 143y\frac{{{\text{d}}y}}{{{\text{d}}t}} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>145</mn>
+<mi>x</mi>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>+</mo>
+<mn>143</mn>
+<mi>y</mi>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>    <strong><em>M1A1</em></strong></p>
+<p><strong>THEN</strong></p>
+<p>attempting to find <span class="mjpage"><math alttext="\frac{{{\text{d}}x}}{{{\text{d}}t}}{\text{ }}\left( {\frac{{{\text{d}}y}}{{{\text{d}}t}} =  - \frac{{145(3.2 \times {{10}^{ - 3}})}}{{143\left( {( \pm )0.11821 \ldots } \right)}} \times (7.75 \times {{10}^{ - 5}})} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mn>145</mn>
+<mo stretchy="false">(</mo>
+<mn>3.2</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mn>143</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mo>±</mo>
+<mo stretchy="false">)</mo>
+<mn>0.11821</mn>
+<mo>…</mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mo stretchy="false">(</mo>
+<mn>7.75</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}t}} =  \pm 2.13 \times {10^{ - 6}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo>±</mo>
+<mn>2.13</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow>
+<mo>−</mo>
+<mn>6</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>    <strong><em>A1</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Award all marks except the final <strong><em>A1 </em></strong>to candidates who do not consider ±.</p>
+<p> </p>
+<p><strong>METHOD 2</strong></p>
+<p><span class="mjpage"><math alttext="y = ( \pm )\sqrt {\frac{{1 - 72.5{x^2}}}{{71.5}}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mo>±</mo>
+<mo stretchy="false">)</mo>
+<msqrt>
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mn>72.5</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mrow>
+<mn>71.5</mn>
+</mrow>
+</mfrac>
+</msqrt>
+</math></span>    <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}x}} = ( \pm )0.0274 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mo>±</mo>
+<mo stretchy="false">)</mo>
+<mn>0.0274</mn>
+<mo>…</mo>
+</math></span>    <strong><em>(M1)(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}t}} = ( \pm )0.0274 \ldots  \times 7.75 \times {10^{ - 5}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mo>±</mo>
+<mo stretchy="false">)</mo>
+<mn>0.0274</mn>
+<mo>…</mo>
+<mo>×</mo>
+<mn>7.75</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow>
+<mo>−</mo>
+<mn>5</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>    <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}t}} =  \pm 2.13 \times {10^{ - 6}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mo>±</mo>
+<mn>2.13</mn>
+<mo>×</mo>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow>
+<mo>−</mo>
+<mn>6</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>    <strong><em>A1</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Award all marks except the final <strong><em>A1 </em></strong>to candidates who do not consider ±.</p>
+<p> </p>
+<p><strong><em>[6 marks]</em></strong></p>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"16N.2.AHL.TZ0.H_6"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","sl-5-3-differentiating-polynomials-n-e-z"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n[N/A]\n</div>"}}]]}]]}]

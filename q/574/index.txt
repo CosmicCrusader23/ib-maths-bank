@@ -1,0 +1,148 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","574","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","574","d"],{"children":["__PAGE__?{\"id\":\"574\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","574","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Td6d,<div class="specification">
+<p>At Grande Anse Beach the height of the water in metres is modelled by the function <span class="mjpage"><math alttext="h(t) = p\cos (q \times t) + r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>h</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>p</mi>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>q</mi>
+<mo>×<!-- × --></mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi>r</mi>
+</math></span>, where <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+</math></span> is the number of hours after 21:00 hours on 10 December 2017. The following diagram shows the graph of <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>h</mi>
+</math></span> , for <span class="mjpage"><math alttext="0 \leqslant t \leqslant 72" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0</mn>
+<mo>⩽<!-- ⩽ --></mo>
+<mi>t</mi>
+<mo>⩽<!-- ⩽ --></mo>
+<mn>72</mn>
+</math></span>.</p>
+<p style="text-align: center;"><img alt="M17/5/MATME/SP2/ENG/TZ1/08" src="../assets/uploads/tinymce_asset/asset/3544/Schermafbeelding_2017-08-14_om_10.10.26.png"/></p>
+<p>The point <span class="mjpage"><math alttext="{\text{A}}(6.25,{\text{ }}0.6)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>6.25</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0.6</mn>
+<mo stretchy="false">)</mo>
+</math></span> represents the first low tide and <span class="mjpage"><math alttext="{\text{B}}(12.5,{\text{ }}1.5)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>B</mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>12.5</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>1.5</mn>
+<mo stretchy="false">)</mo>
+</math></span> represents the next high tide.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>How much time is there between the first low tide and the next high tide?</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the difference in height between low tide and high tide.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <span class="mjpage"><math alttext="p" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>p</mi> </math></span>;</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <span class="mjpage"><math alttext="q" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>q</mi> </math></span>;</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the value of <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>r</mi> </math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.iii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>There are two high tides on 12 December 2017. At what time does the second high tide occur?</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div>a:T35fb,<div class="question" style="padding-left: 20px;">
+<p>attempt to find the difference of <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> </math></span>-values of A and B     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="6.25 - 12.5{\text{ }}" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>6.25</mn> <mo>−</mo> <mn>12.5</mn> <mrow> <mtext> </mtext> </mrow> </math></span></p>
+<p>6.25 (hours), (6 hours 15 minutes)     <strong><em>A1</em></strong>     <strong><em>N2</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt to find the difference of <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>y</mi> </math></span>-values of A and B     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="1.5 - 0.6" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>1.5</mn> <mo>−</mo> <mn>0.6</mn> </math></span></p>
+<p><span class="mjpage"><math alttext="0.9{\text{ (m)}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>0.9</mn> <mrow> <mtext> (m)</mtext> </mrow> </math></span>     <strong><em>A1</em></strong>     <strong><em>N2</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>valid approach     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="\frac{{{\text{max}} - {\text{min}}}}{2},{\text{ }}0.9 \div 2" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <mtext>max</mtext> </mrow> <mo>−</mo> <mrow> <mtext>min</mtext> </mrow> </mrow> <mn>2</mn> </mfrac> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mn>0.9</mn> <mo>÷</mo> <mn>2</mn> </math></span></p>
+<p><span class="mjpage"><math alttext="p = 0.45" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>p</mi> <mo>=</mo> <mn>0.45</mn> </math></span>     <strong><em>A1</em></strong>     <strong><em>N2</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p>period <span class="mjpage"><math alttext=" = 12.5" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>=</mo> <mn>12.5</mn> </math></span> (seen anywhere)     <strong><em>(A1)</em></strong></p>
+<p>valid approach (seen anywhere)     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="{\text{period}} = \frac{{2\pi }}{b},{\text{ }}q = \frac{{2\pi }}{{{\text{period}}}},{\text{ }}\frac{{2\pi }}{{12.5}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>period</mtext> </mrow> <mo>=</mo> <mfrac> <mrow> <mn>2</mn> <mi>π</mi> </mrow> <mi>b</mi> </mfrac> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mi>q</mi> <mo>=</mo> <mfrac> <mrow> <mn>2</mn> <mi>π</mi> </mrow> <mrow> <mrow> <mtext>period</mtext> </mrow> </mrow> </mfrac> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mfrac> <mrow> <mn>2</mn> <mi>π</mi> </mrow> <mrow> <mn>12.5</mn> </mrow> </mfrac> </math></span></p>
+<p>0.502654</p>
+<p><span class="mjpage"><math alttext="q = \frac{{4\pi }}{{25}},{\text{ 0.503 }}\left( {{\text{or }} - \frac{{4\pi }}{{25}},{\text{ }} - 0.503} \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>q</mi> <mo>=</mo> <mfrac> <mrow> <mn>4</mn> <mi>π</mi> </mrow> <mrow> <mn>25</mn> </mrow> </mfrac> <mo>,</mo> <mrow> <mtext> 0.503 </mtext> </mrow> <mrow> <mo>(</mo> <mrow> <mrow> <mtext>or </mtext> </mrow> <mo>−</mo> <mfrac> <mrow> <mn>4</mn> <mi>π</mi> </mrow> <mrow> <mn>25</mn> </mrow> </mfrac> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mo>−</mo> <mn>0.503</mn> </mrow> <mo>)</mo> </mrow> </math></span>     <strong><em>A1</em></strong>     <strong><em>N2</em></strong></p>
+<p><strong>METHOD 2</strong></p>
+<p>attempt to use a coordinate to make an equation     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="p\cos (6.25q) + r = 0.6,{\text{ }}p\cos (12.5q) + r = 1.5" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>p</mi> <mi>cos</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>6.25</mn> <mi>q</mi> <mo stretchy="false">)</mo> <mo>+</mo> <mi>r</mi> <mo>=</mo> <mn>0.6</mn> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mi>p</mi> <mi>cos</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>12.5</mn> <mi>q</mi> <mo stretchy="false">)</mo> <mo>+</mo> <mi>r</mi> <mo>=</mo> <mn>1.5</mn> </math></span></p>
+<p>correct substitution     <strong><em>(A1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="0.45\cos (6.25q) + 1.05 = 0.6,{\text{ }}0.45\cos (12.5q) + 1.05 = 1.5" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>0.45</mn> <mi>cos</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>6.25</mn> <mi>q</mi> <mo stretchy="false">)</mo> <mo>+</mo> <mn>1.05</mn> <mo>=</mo> <mn>0.6</mn> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mn>0.45</mn> <mi>cos</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>12.5</mn> <mi>q</mi> <mo stretchy="false">)</mo> <mo>+</mo> <mn>1.05</mn> <mo>=</mo> <mn>1.5</mn> </math></span></p>
+<p>0.502654</p>
+<p><span class="mjpage"><math alttext="q = \frac{{4\pi }}{{25}},{\text{ }}0.503{\text{ }}\left( {{\text{or }} - \frac{{4\pi }}{{25}},{\text{ }} - 0.503} \right)" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>q</mi> <mo>=</mo> <mfrac> <mrow> <mn>4</mn> <mi>π</mi> </mrow> <mrow> <mn>25</mn> </mrow> </mfrac> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mn>0.503</mn> <mrow> <mtext> </mtext> </mrow> <mrow> <mo>(</mo> <mrow> <mrow> <mtext>or </mtext> </mrow> <mo>−</mo> <mfrac> <mrow> <mn>4</mn> <mi>π</mi> </mrow> <mrow> <mn>25</mn> </mrow> </mfrac> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mo>−</mo> <mn>0.503</mn> </mrow> <mo>)</mo> </mrow> </math></span>     <strong><em>A1</em></strong>     <strong><em>N2</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>valid method to find <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>r</mi> </math></span>     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="\frac{{{\text{max}} + {\text{min}}}}{2},{\text{ }}0.6 + 0.45" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <mtext>max</mtext> </mrow> <mo>+</mo> <mrow> <mtext>min</mtext> </mrow> </mrow> <mn>2</mn> </mfrac> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mn>0.6</mn> <mo>+</mo> <mn>0.45</mn> </math></span></p>
+<p><span class="mjpage"><math alttext="r = 1.05" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>r</mi> <mo>=</mo> <mn>1.05</mn> </math></span>     <strong><em>A1</em></strong>     <strong><em>N2</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.iii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p>attempt to find start or end <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>t</mi> </math></span>-values for 12 December     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="3 + 24,{\text{ }}t = 27,{\text{ }}t = 51" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>3</mn> <mo>+</mo> <mn>24</mn> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mi>t</mi> <mo>=</mo> <mn>27</mn> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mi>t</mi> <mo>=</mo> <mn>51</mn> </math></span></p>
+<p>finds <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>t</mi> </math></span>-value for second max     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext="t = 50" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>t</mi> <mo>=</mo> <mn>50</mn> </math></span></p>
+<p>23:00 (or 11 pm)     <strong><em>A1</em></strong>     <strong><em>N3</em></strong></p>
+<p><strong>METHOD 2 </strong></p>
+<p>valid approach to list either the times of high tides after 21:00 or the <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>t</mi> </math></span>-values of high tides after 21:00, showing at least two times     <strong><em>(M1) </em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="{\text{21:00}} + 12.5,{\text{ 21:00}} + 25,{\text{ }}12.5 + 12.5,{\text{ }}25 + 12.5" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>21:00</mtext> </mrow> <mo>+</mo> <mn>12.5</mn> <mo>,</mo> <mrow> <mtext> 21:00</mtext> </mrow> <mo>+</mo> <mn>25</mn> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mn>12.5</mn> <mo>+</mo> <mn>12.5</mn> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mn>25</mn> <mo>+</mo> <mn>12.5</mn> </math></span></p>
+<p>correct time of first high tide on 12 December     <strong><em>(A1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math>10:30 (or 10:30 am) </p>
+<p>time of second high tide = 23:00     <strong><em>A1</em></strong>     <strong><em>N3</em></strong></p>
+<p><strong>METHOD 3</strong></p>
+<p>attempt to set <strong>their</strong> <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> </math></span> equal to 1.5     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="h(t) = 1.5,{\text{ }}0.45\cos \left( {\frac{{4\pi }}{{25}}t} \right) + 1.05 = 1.5" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> <mo stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo> <mo>=</mo> <mn>1.5</mn> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mn>0.45</mn> <mi>cos</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <mn>4</mn> <mi>π</mi> </mrow> <mrow> <mn>25</mn> </mrow> </mfrac> <mi>t</mi> </mrow> <mo>)</mo> </mrow> <mo>+</mo> <mn>1.05</mn> <mo>=</mo> <mn>1.5</mn> </math></span></p>
+<p>correct working to find second max     <strong><em>(A1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="0.503t = 8\pi ,{\text{ }}t = 50" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>0.503</mn> <mi>t</mi> <mo>=</mo> <mn>8</mn> <mi>π</mi> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mi>t</mi> <mo>=</mo> <mn>50</mn> </math></span></p>
+<p>23:00 (or 11 pm)     <strong><em>A1</em></strong>     <strong><em>N3</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"17M.2.SL.TZ1.S_8"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-3-7-circular-functions-graphs-composites-transformations"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.iii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

@@ -1,0 +1,476 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1428","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1428","d"],{"children":["__PAGE__?{\"id\":\"1428\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1428","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Te10,<div class="specification">
+<p>In a school, all Mathematical Studies SL students were given a test. The test contained four questions, each one on a different topic from the syllabus. The quality of each response was classified as satisfactory or not satisfactory. Each student answered only three of the four questions, each on a separate answer sheet.</p>
+<p>The table below shows the number of satisfactory and not satisfactory responses for each question.</p>
+<p style="text-align: center;"><img alt="M17/5/MATSD/SP2/ENG/TZ2/01" src="../assets/uploads/tinymce_asset/asset/3605/Schermafbeelding_2017-08-16_om_17.16.22.png"/></p>
+</div><div class="specification">
+<p>A <span class="mjpage"><math alttext="{\chi ^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>χ<!-- χ --></mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span> test is carried out at the 5% significance level for the data in the table.</p>
+</div><div class="specification">
+<p>The critical value for this test is 7.815.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>If the teacher chooses a response at random, find the probability that it is a response to the Calculus question;</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>If the teacher chooses a response at random, find the probability that it is a satisfactory response to the Calculus question;</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>If the teacher chooses a response at random, find the probability that it is a satisfactory response, given that it is a response to the Calculus question.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.iii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>The teacher groups the responses by topic, and chooses two responses to the Logic question. Find the probability that both are not satisfactory.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State the null hypothesis for this test.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that the expected frequency of satisfactory Calculus responses is 12.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the number of degrees of freedom for this test.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use your graphic display calculator to find the <span class="mjpage"><math alttext="{\chi ^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>χ</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span> statistic for this data.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State the conclusion of this <span class="mjpage"><math alttext="{\chi ^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>χ</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span> test. Give a reason for your answer.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">g.</div>
+</div>a:T29bf,<div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{1}{5}{\text{ }}\left( {\frac{{18}}{{90}};{\text{ }}0.2;{\text{ }}20\% } \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>5</mn>
+</mfrac>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>18</mn>
+</mrow>
+<mrow>
+<mn>90</mn>
+</mrow>
+</mfrac>
+<mo>;</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0.2</mn>
+<mo>;</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>20</mn>
+<mi mathvariant="normal">%</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>(A1)(A1)(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(A1) </em></strong>for correct numerator, <strong><em>(A1) </em></strong>for correct denominator.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{1}{9}{\text{ }}\left( {\frac{{10}}{{90}};{\text{ }}0{\text{.}}\bar 1;{\text{ }}0.111111 \ldots ;{\text{ }}11.1\% } \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>9</mn>
+</mfrac>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mn>90</mn>
+</mrow>
+</mfrac>
+<mo>;</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0</mn>
+<mrow>
+<mtext>.</mtext>
+</mrow>
+<mrow>
+<mover>
+<mn>1</mn>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+<mo>;</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0.111111</mn>
+<mo>…</mo>
+<mo>;</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>11.1</mn>
+<mi mathvariant="normal">%</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>(A1)(A1)(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(A1) </em></strong>for correct numerator, <strong><em>(A1) </em></strong>for correct denominator.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{5}{9}{\text{ }}\left( {\frac{{10}}{{18}};{\text{ }}0.\bar 5;{\text{ }}0.555556 \ldots ;{\text{ }}55.6\% } \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>5</mn>
+<mn>9</mn>
+</mfrac>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>10</mn>
+</mrow>
+<mrow>
+<mn>18</mn>
+</mrow>
+</mfrac>
+<mo>;</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0.</mn>
+<mrow>
+<mover>
+<mn>5</mn>
+<mo stretchy="false">¯</mo>
+</mover>
+</mrow>
+<mo>;</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0.555556</mn>
+<mo>…</mo>
+<mo>;</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>55.6</mn>
+<mi mathvariant="normal">%</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>(A1)(A1)(G2)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(A1) </em></strong>for correct numerator, <strong><em>(A1) </em></strong>for correct denominator.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.iii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{6}{{20}} \times \frac{5}{{19}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>6</mn>
+<mrow>
+<mn>20</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mn>5</mn>
+<mrow>
+<mn>19</mn>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(A1)(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(A1) </em></strong>for two correct fractions seen, <strong><em>(M1) </em></strong>for multiplying their two fractions.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="\frac{3}{{38}}{\text{ }}\left( {\frac{{30}}{{380}};{\text{ }}0.0789473 \ldots ;{\text{ }}7.89\% } \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>3</mn>
+<mrow>
+<mn>38</mn>
+</mrow>
+</mfrac>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>30</mn>
+</mrow>
+<mrow>
+<mn>380</mn>
+</mrow>
+</mfrac>
+<mo>;</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0.0789473</mn>
+<mo>…</mo>
+<mo>;</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>7.89</mn>
+<mi mathvariant="normal">%</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>(A1)(G2)</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{{\text{H}}_0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>H</mtext>
+</mrow>
+<mn>0</mn>
+</msub>
+</mrow>
+</math></span>: quality (of response) and topic (from the syllabus) are independent     <strong><em>(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Accept there is no association between quality (of response) and topic (from the syllabus). Do not accept “not related” or “not correlated” or “influenced”.</p>
+<p> </p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{{18}}{{90}} \times \frac{{60}}{{90}} \times 90" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>18</mn>
+</mrow>
+<mrow>
+<mn>90</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mrow>
+<mn>60</mn>
+</mrow>
+<mrow>
+<mn>90</mn>
+</mrow>
+</mfrac>
+<mo>×</mo>
+<mn>90</mn>
+</math></span><span class="mjpage"><math alttext="\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><strong>OR</strong><span class="mjpage"><math alttext="\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="\frac{{18 \times 60}}{{90}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mrow>
+<mn>18</mn>
+<mo>×</mo>
+<mn>60</mn>
+</mrow>
+<mrow>
+<mn>90</mn>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for correct substitution in expected value formula.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="( = ){\text{ }}12" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>12</mn>
+</math></span>     <strong><em>(AG)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     The conclusion, <span class="mjpage"><math alttext="( = ){\text{ }}12" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>12</mn>
+</math></span>, must be seen for the <strong><em>(A1) </em></strong>to be awarded.</p>
+<p> </p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>3     <strong><em>(A1)</em></strong></p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">e.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="(\chi _{calc}^2 = ){\text{ }}1.46{\text{ }}(1.46\overline {36} ;{\text{ }}1.46363 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>χ</mi>
+<mrow>
+<mi>c</mi>
+<mi>a</mi>
+<mi>l</mi>
+<mi>c</mi>
+</mrow>
+<mn>2</mn>
+</msubsup>
+<mo>=</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>1.46</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>1.46</mn>
+<mover>
+<mn>36</mn>
+<mo accent="false">¯</mo>
+</mover>
+<mo>;</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>1.46363</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(G2)</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="1.46 &lt; 7.815" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1.46</mn>
+<mo>&lt;</mo>
+<mn>7.815</mn>
+</math></span><span class="mjpage"><math alttext="\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><strong>OR</strong><span class="mjpage"><math alttext="\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="0.690688 \ldots  &gt; 0.05" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0.690688</mn>
+<mo>…</mo>
+<mo>&gt;</mo>
+<mn>0.05</mn>
+</math></span>     <strong><em>(R1)</em></strong></p>
+<p>the null hypothesis is not rejected     <strong><em>(A1)</em>(ft)</strong></p>
+<p><strong>OR</strong></p>
+<p>the quality of the response and the topic are independent     <strong><em>(A1)</em>(ft)</strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(R1) </em></strong>for a correct comparison of either their <span class="mjpage"><math alttext="{\chi ^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>χ</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span> statistic to the <span class="mjpage"><math alttext="{\chi ^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>χ</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span> critical value or the correct <span class="mjpage"><math alttext="p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>p</mi>
+</math></span>-value 0.690688… to the test level, award <strong><em>(A1)</em>(ft) </strong>for the correct result from that comparison. Accept “<span class="mjpage"><math alttext="\chi _{{\text{calc}}}^2 &lt; \chi _{{\text{crit}}}^2" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mi>χ</mi>
+<mrow>
+<mrow>
+<mtext>calc</mtext>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msubsup>
+<mo>&lt;</mo>
+<msubsup>
+<mi>χ</mi>
+<mrow>
+<mrow>
+<mtext>crit</mtext>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msubsup>
+</math></span>” for the comparison, but only if their <span class="mjpage"><math alttext="\chi _{{\text{calc}}}^2" xmlns="http://www.w3.org/1998/Math/MathML">
+<msubsup>
+<mi>χ</mi>
+<mrow>
+<mrow>
+<mtext>calc</mtext>
+</mrow>
+</mrow>
+<mn>2</mn>
+</msubsup>
+</math></span> value is explicitly seen in part (f). Follow through from their answers to part (f) and part (c). Do not award <strong><em>(R0)(A1)</em></strong>.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">g.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/4/","children":["← back to topic ","4"]}]}],["$","h1",null,{"children":"17M.2.SL.TZ2.T_1"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-4-11-expected-observed-hypotheses-chi-squared-gof-t-test"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.iii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">f.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">g.</div>\n</div>"}}]]}]]}]

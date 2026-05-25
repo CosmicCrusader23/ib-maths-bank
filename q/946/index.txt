@@ -1,0 +1,790 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","946","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","946","d"],{"children":["__PAGE__?{\"id\":\"946\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","946","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T127e,<div class="specification">
+<p>The simple, complete graph <span class="mjpage"><math alttext="{\kappa _n}(n &gt; 2)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>κ<!-- κ --></mi>
+<mi>n</mi>
+</msub>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>&gt;</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+</math></span> has vertices <span class="mjpage"><math alttext="{{\text{A}}_1},{\text{ }}{{\text{A}}_2},{\text{ }}{{\text{A}}_3},{\text{ }} \ldots ,{\text{ }}{{\text{A}}_n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>3</mn>
+</msub>
+</mrow>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>n</mi>
+</msub>
+</mrow>
+</math></span>. The weight of the edge from <span class="mjpage"><math alttext="{{\text{A}}_i}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>i</mi>
+</msub>
+</mrow>
+</math></span> to <span class="mjpage"><math alttext="{{\text{A}}_j}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>j</mi>
+</msub>
+</mrow>
+</math></span> is given by the number <span class="mjpage"><math alttext="i + j" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>i</mi>
+<mo>+</mo>
+<mi>j</mi>
+</math></span>.</p>
+</div><div class="specification">
+<p>Consider the general graph <span class="mjpage"><math alttext="{\kappa _n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>κ<!-- κ --></mi>
+<mi>n</mi>
+</msub>
+</mrow>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>(i)     Draw the graph <span class="mjpage"><math alttext="{\kappa _4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>κ</mi>
+<mn>4</mn>
+</msub>
+</mrow>
+</math></span> including the weights of all the edges.</p>
+<p>(ii)     Use the nearest-neighbour algorithm, starting at vertex <span class="mjpage"><math alttext="{{\text{A}}_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span>, to find a Hamiltonian cycle.</p>
+<p>(iii)     Hence, find an upper bound to the travelling salesman problem for this weighted graph.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Consider the graph <span class="mjpage"><math alttext="{\kappa _5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>κ</mi>
+<mn>5</mn>
+</msub>
+</mrow>
+</math></span>. Use the deleted vertex algorithm, with <span class="mjpage"><math alttext="{{\text{A}}_5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>5</mn>
+</msub>
+</mrow>
+</math></span> as the deleted vertex, to find a lower bound to the travelling salesman problem for this weighted graph.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>(i)     Use the nearest-neighbour algorithm, starting at vertex <span class="mjpage"><math alttext="{{\text{A}}_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span>, to find a Hamiltonian cycle.</p>
+<p>(ii)    Hence find and simplify an expression in <span class="mjpage"><math alttext="n" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+</math></span>, for an upper bound to the travelling salesman problem for this weighted graph.</p>
+<div class="marks">[7]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>By splitting the weight of the edge <span class="mjpage"><math alttext="{{\text{A}}_i}{{\text{A}}_j}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>i</mi>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>j</mi>
+</msub>
+</mrow>
+</math></span> into two parts or otherwise, show that all Hamiltonian cycles of <span class="mjpage"><math alttext="{\kappa _n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>κ</mi>
+<mi>n</mi>
+</msub>
+</mrow>
+</math></span> have the same total weight, equal to the answer found in (c)(ii).</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.</div>
+</div>a:T3017,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p>(i)     <img alt="N16/5/MATHL/HP3/ENG/TZ/DM/M/04.a" src="../assets/uploads/tinymce_asset/asset/3301/Schermafbeelding_2017-03-02_om_08.49.36.png"/>     <strong><em>A1A1</em></strong></p>
+<p> </p>
+<p><strong>Note: <em>A1 </em></strong>for the graph, <strong><em>A1 </em></strong>for the weights.</p>
+<p> </p>
+<p>(ii)     cycle is <span class="mjpage"><math alttext="{{\text{A}}_1}{{\text{A}}_2}{{\text{A}}_3}{{\text{A}}_4}{{\text{A}}_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>3</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>4</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span>     <strong><em>A1</em></strong></p>
+<p>(iii)     upper bound is <span class="mjpage"><math alttext="3 + 5 + 7 + 5 = 20" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mo>+</mo>
+<mn>5</mn>
+<mo>+</mo>
+<mn>7</mn>
+<mo>+</mo>
+<mn>5</mn>
+<mo>=</mo>
+<mn>20</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>with <span class="mjpage"><math alttext="{{\text{A}}_5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>5</mn>
+</msub>
+</mrow>
+</math></span> deleted, (applying Kruskal’s Algorithm) the minimum spanning tree will consist of the edges <span class="mjpage"><math alttext="{{\text{A}}_1}{{\text{A}}_2},{\text{ }}{{\text{A}}_1}{{\text{A}}_3}{\text{, }}{{\text{A}}_1}{{\text{A}}_4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>3</mn>
+</msub>
+</mrow>
+<mrow>
+<mtext>, </mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>4</mn>
+</msub>
+</mrow>
+</math></span>, of weights 3, 4, 5     <strong><em>(M1)A1</em></strong></p>
+<p>the two edges of smallest weight from <span class="mjpage"><math alttext="{{\text{A}}_5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>5</mn>
+</msub>
+</mrow>
+</math></span> are <span class="mjpage"><math alttext="{{\text{A}}_5}{{\text{A}}_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>5</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="{{\text{A}}_5}{{\text{A}}_2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>5</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+</math></span> of weights 6 and 7     <strong><em>(M1)A1</em></strong></p>
+<p>so lower bound is <span class="mjpage"><math alttext="3 + 4 + 5 + 6 + 7 = 25" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mo>+</mo>
+<mn>4</mn>
+<mo>+</mo>
+<mn>5</mn>
+<mo>+</mo>
+<mn>6</mn>
+<mo>+</mo>
+<mn>7</mn>
+<mo>=</mo>
+<mn>25</mn>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[5 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>(i)     starting at <span class="mjpage"><math alttext="{{\text{A}}_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> we go <span class="mjpage"><math alttext="{{\text{A}}_2},{\text{ }}{{\text{A}}_3}{\text{ }} \ldots {\text{ }}{{\text{A}}_n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>3</mn>
+</msub>
+</mrow>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo>…</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>n</mi>
+</msub>
+</mrow>
+</math></span></p>
+<p>we now have to take <span class="mjpage"><math alttext="{{\text{A}}_n}{{\text{A}}_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>n</mi>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span></p>
+<p>thus the cycle is <span class="mjpage"><math alttext="{{\text{A}}_1}{{\text{A}}_2}{{\text{A}}_3} \ldots {{\text{A}}_{n - 1}}{{\text{A}}_n}{{\text{A}}_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>3</mn>
+</msub>
+</mrow>
+<mo>…</mo>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>n</mi>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span>     <strong><em>A1A1</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Final <strong><em>A1 </em></strong>is for <span class="mjpage"><math alttext="{{\text{A}}_n}{{\text{A}}_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>n</mi>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span>.</p>
+<p>(ii)     smallest edge from <span class="mjpage"><math alttext="{{\text{A}}_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> is <span class="mjpage"><math alttext="{{\text{A}}_1}{{\text{A}}_2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+</math></span> of weight 3, smallest edge from <span class="mjpage"><math alttext="{{\text{A}}_2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+</math></span> (to a new vertex) is <span class="mjpage"><math alttext="{{\text{A}}_2}{{\text{A}}_3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>2</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>3</mn>
+</msub>
+</mrow>
+</math></span> of weight 5, smallest edge from <span class="mjpage"><math alttext="{{\text{A}}_{n - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</math></span> (to a new vertex) is <span class="mjpage"><math alttext="{{\text{A}}_{n - 1}}{{\text{A}}_n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>n</mi>
+</msub>
+</mrow>
+</math></span> of weight <span class="mjpage"><math alttext="2n - 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p>weight of <span class="mjpage"><math alttext="{{\text{A}}_n}{{\text{A}}_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>n</mi>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> is <span class="mjpage"><math alttext="n + 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+</math></span></p>
+<p>weight is <span class="mjpage"><math alttext="3 + 5 + 7 +  \ldots  + (2n - 1) + (n + 1)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mo>+</mo>
+<mn>5</mn>
+<mo>+</mo>
+<mn>7</mn>
+<mo>+</mo>
+<mo>…</mo>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \frac{{(n - 1)}}{2}(2n + 2) + (n + 1)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mi>n</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</math></span>    <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = n(n + 1)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mi>n</mi>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</math></span> (which is an upper bound)     <strong><em>A1</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Follow through is not applicable.</p>
+<p> </p>
+<p><strong><em>[7 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>put a marker on each edge <span class="mjpage"><math alttext="{{\text{A}}_i}{{\text{A}}_j}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>i</mi>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>j</mi>
+</msub>
+</mrow>
+</math></span> so that <span class="mjpage"><math alttext="i" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>i</mi>
+</math></span> of the weight belongs to vertex <span class="mjpage"><math alttext="{{\text{A}}_i}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>i</mi>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="j" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>j</mi>
+</math></span> of the weight belongs to vertex <span class="mjpage"><math alttext="{{\text{A}}_j}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>j</mi>
+</msub>
+</mrow>
+</math></span>     <strong><em>M1</em></strong></p>
+<p>the Hamiltonian cycle visits each vertex once and only once and for vertex <span class="mjpage"><math alttext="{{\text{A}}_i}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>i</mi>
+</msub>
+</mrow>
+</math></span> there will be weight <span class="mjpage"><math alttext="i" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>i</mi>
+</math></span> (belonging to vertex <span class="mjpage"><math alttext="{{\text{A}}_i}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mtext>A</mtext>
+</mrow>
+<mi>i</mi>
+</msub>
+</mrow>
+</math></span>) both going in and coming out     <strong><em>R1</em></strong></p>
+<p>so the total weight will be <span class="mjpage"><math alttext="\sum\limits_{i = 1}^n {2i = 2\frac{n}{2}(n + 1) = n(n + 1)} " xmlns="http://www.w3.org/1998/Math/MathML">
+<munderover>
+<mo movablelimits="false">∑</mo>
+<mrow>
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mi>n</mi>
+</munderover>
+<mrow>
+<mn>2</mn>
+<mi>i</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mfrac>
+<mi>n</mi>
+<mn>2</mn>
+</mfrac>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>n</mi>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</math></span>     <strong><em>A1AG</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Accept other methods for example induction.</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"16N.3.AHL.TZ0.HDM_4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","ahl-3-16-tree-and-cycle-algorithms-chinese-postman-travelling-salesman"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div>"}}]]}]]}]

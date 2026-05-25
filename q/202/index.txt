@@ -1,0 +1,216 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","202","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","202","d"],{"children":["__PAGE__?{\"id\":\"202\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","202","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T1b81,<div class="specification">
+<p>Let <span class="mjpage"><math alttext="f(x) = \ln x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>x</mi>
+</math></span> and <span class="mjpage"><math alttext="g(x) = 3 + \ln \left( {\frac{x}{2}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>g</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>3</mn>
+<mo>+</mo>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mi>x</mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>, for <span class="mjpage"><math alttext="x &gt; 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>&gt;</mo>
+<mn>0</mn>
+</math></span>.</p>
+<p>The graph of <span class="mjpage"><math alttext="g" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>g</mi>
+</math></span> can be obtained from the graph of <span class="mjpage"><math alttext="f" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+</math></span> by two transformations:</p>
+<p><span class="mjpage mjpage__block"><math alttext="\begin{array}{*{20}{l}} {{\text{a horizontal stretch of scale factor }}q{\text{ followed by}}} \\ {{\text{a translation of }}\left( {\begin{array}{*{20}{c}} h \\ k \end{array}} \right).} \end{array}" display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mtext>a horizontal stretch of scale factor </mtext>
+</mrow>
+<mi>q</mi>
+<mrow>
+<mtext> followed by</mtext>
+</mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mtext>a translation of </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>h</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>k</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</math></span></p>
+</div><div class="specification">
+<p>Let <span class="mjpage"><math alttext="h(x) = g(x) \times \cos (0.1x)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>h</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>g</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>×<!-- × --></mo>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mn>0.1</mn>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</math></span>, for <span class="mjpage"><math alttext="0 &lt; x &lt; 4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>0</mn>
+<mo>&lt;</mo>
+<mi>x</mi>
+<mo>&lt;</mo>
+<mn>4</mn>
+</math></span>. The following diagram shows the graph of <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>h</mi>
+</math></span> and the line <span class="mjpage"><math alttext="y = x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mi>x</mi>
+</math></span>.</p>
+<p style="text-align: center;"><img alt="M17/5/MATME/SP2/ENG/TZ1/10.b.c" src="../assets/uploads/tinymce_asset/asset/3546/Schermafbeelding_2017-08-14_om_10.34.27.png"/></p>
+<p>The graph of <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>h</mi>
+</math></span> intersects the graph of <span class="mjpage"><math alttext="{h^{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>h</mi>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span> at two points. These points have <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> coordinates 0.111 and 3.31 correct to three significant figures.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the value of <span class="mjpage"><math alttext="q" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>q</mi> </math></span>;</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the value of <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> </math></span>;</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the value of <span class="mjpage"><math alttext="k" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>k</mi> </math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.iii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find <span class="mjpage"><math alttext="\int_{0.111}^{3.31} {\left( {h(x) - x} \right){\text{d}}x} " xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mo>∫</mo> <mrow> <mn>0.111</mn> </mrow> <mrow> <mn>3.31</mn> </mrow> </msubsup> <mrow> <mrow> <mo>(</mo> <mrow> <mi>h</mi> <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo> <mo>−</mo> <mi>x</mi> </mrow> <mo>)</mo> </mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence, find the area of the region enclosed by the graphs of <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> </math></span> and <span class="mjpage"><math alttext="{h^{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msup> <mi>h</mi> <mrow> <mo>−</mo> <mn>1</mn> </mrow> </msup> </mrow> </math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Let <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>d</mi> </math></span> be the vertical distance from a point on the graph of <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> </math></span> to the line <span class="mjpage"><math alttext="y = x" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>y</mi> <mo>=</mo> <mi>x</mi> </math></span>. There is a point <span class="mjpage"><math alttext="{\text{P}}(a,{\text{ }}b)" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>P</mtext> </mrow> <mo stretchy="false">(</mo> <mi>a</mi> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mi>b</mi> <mo stretchy="false">)</mo> </math></span> on the graph of <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> </math></span> where <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>d</mi> </math></span> is a maximum.</p>
+<p>Find the coordinates of P, where <span class="mjpage"><math alttext="0.111 &lt; a &lt; 3.31" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>0.111</mn> <mo>&lt;</mo> <mi>a</mi> <mo>&lt;</mo> <mn>3.31</mn> </math></span>.</p>
+<div class="marks">[7]</div>
+<div class="question_part_label">c.</div>
+</div>a:T2c58,<div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="q = 2" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>q</mi> <mo>=</mo> <mn>2</mn> </math></span>     <strong><em>A1</em></strong>     <strong><em>N1</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Accept <span class="mjpage"><math alttext="q = 1" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>q</mi> <mo>=</mo> <mn>1</mn> </math></span>, <span class="mjpage"><math alttext="h = 0" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> <mo>=</mo> <mn>0</mn> </math></span>, and <span class="mjpage"><math alttext="k = 3 - \ln (2)" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>k</mi> <mo>=</mo> <mn>3</mn> <mo>−</mo> <mi>ln</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn> <mo stretchy="false">)</mo> </math></span>, 2.31 as candidate may have rewritten <span class="mjpage"><math alttext="g(x)" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>g</mi> <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo> </math></span> as equal to <span class="mjpage"><math alttext="3 + \ln (x) - \ln (2)" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>3</mn> <mo>+</mo> <mi>ln</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo> <mo>−</mo> <mi>ln</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn> <mo stretchy="false">)</mo> </math></span>.</p>
+<p> </p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="h = 0" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> <mo>=</mo> <mn>0</mn> </math></span>     <strong><em>A1</em></strong>     <strong><em>N1</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Accept <span class="mjpage"><math alttext="q = 1" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>q</mi> <mo>=</mo> <mn>1</mn> </math></span>, <span class="mjpage"><math alttext="h = 0" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> <mo>=</mo> <mn>0</mn> </math></span>, and <span class="mjpage"><math alttext="k = 3 - \ln (2)" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>k</mi> <mo>=</mo> <mn>3</mn> <mo>−</mo> <mi>ln</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn> <mo stretchy="false">)</mo> </math></span>, 2.31 as candidate may have rewritten <span class="mjpage"><math alttext="g(x)" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>g</mi> <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo> </math></span> as equal to <span class="mjpage"><math alttext="3 + \ln (x) - \ln (2)" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>3</mn> <mo>+</mo> <mi>ln</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo> <mo>−</mo> <mi>ln</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn> <mo stretchy="false">)</mo> </math></span>.</p>
+<p> </p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="k = 3" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>k</mi> <mo>=</mo> <mn>3</mn> </math></span>     <strong><em>A1</em></strong>     <strong><em>N1</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Accept <span class="mjpage"><math alttext="q = 1" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>q</mi> <mo>=</mo> <mn>1</mn> </math></span>, <span class="mjpage"><math alttext="h = 0" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> <mo>=</mo> <mn>0</mn> </math></span>, and <span class="mjpage"><math alttext="k = 3 - \ln (2)" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>k</mi> <mo>=</mo> <mn>3</mn> <mo>−</mo> <mi>ln</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn> <mo stretchy="false">)</mo> </math></span>, 2.31 as candidate may have rewritten <span class="mjpage"><math alttext="g(x)" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>g</mi> <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo> </math></span> as equal to <span class="mjpage"><math alttext="3 + \ln (x) - \ln (2)" xmlns="http://www.w3.org/1998/Math/MathML"> <mn>3</mn> <mo>+</mo> <mi>ln</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo> <mo>−</mo> <mi>ln</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn> <mo stretchy="false">)</mo> </math></span>.</p>
+<p> </p>
+<p><strong><em>[1 mark]</em></strong></p>
+<div class="question_part_label">a.iii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>2.72409</p>
+<p>2.72     <strong><em>A2</em></strong>     <strong><em>N2</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>recognizing area between <span class="mjpage"><math alttext="y = x" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>y</mi> <mo>=</mo> <mi>x</mi> </math></span> and <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> </math></span> equals 2.72     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><img alt="M17/5/MATME/SP2/ENG/TZ1/10.b.ii/M" src="../assets/uploads/tinymce_asset/asset/3552/Schermafbeelding_2017-08-14_om_17.00.04.png"/></p>
+<p>recognizing graphs of <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> </math></span> and <span class="mjpage"><math alttext="{h^{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msup> <mi>h</mi> <mrow> <mo>−</mo> <mn>1</mn> </mrow> </msup> </mrow> </math></span> are reflections of each other in <span class="mjpage"><math alttext="y = x" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>y</mi> <mo>=</mo> <mi>x</mi> </math></span>     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math>area between <span class="mjpage"><math alttext="y = x" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>y</mi> <mo>=</mo> <mi>x</mi> </math></span> and <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> </math></span> equals between <span class="mjpage"><math alttext="y = x" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>y</mi> <mo>=</mo> <mi>x</mi> </math></span> and <span class="mjpage"><math alttext="{h^{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msup> <mi>h</mi> <mrow> <mo>−</mo> <mn>1</mn> </mrow> </msup> </mrow> </math></span></p>
+<p><span class="mjpage"><math alttext="2 \times 2.72\int_{0.111}^{3.31} {\left( {x - {h^{ - 1}}(x)} \right){\text{d}}x = 2.72} " xmlns="http://www.w3.org/1998/Math/MathML"> <mn>2</mn> <mo>×</mo> <mn>2.72</mn> <msubsup> <mo>∫</mo> <mrow> <mn>0.111</mn> </mrow> <mrow> <mn>3.31</mn> </mrow> </msubsup> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>−</mo> <mrow> <msup> <mi>h</mi> <mrow> <mo>−</mo> <mn>1</mn> </mrow> </msup> </mrow> <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo> </mrow> <mo>)</mo> </mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> <mo>=</mo> <mn>2.72</mn> </mrow> </math></span></p>
+<p>5.44819</p>
+<p>5.45     <strong><em>A1</em></strong>     <strong><em>N3</em></strong></p>
+<p><strong><em>[??? marks]</em></strong></p>
+<div class="question_part_label">b.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>valid attempt to find <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>d</mi> </math></span>     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math>difference in <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>y</mi> </math></span>-coordinates, <span class="mjpage"><math alttext="d = h(x) - x" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>d</mi> <mo>=</mo> <mi>h</mi> <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo> <mo>−</mo> <mi>x</mi> </math></span></p>
+<p>correct expression for <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>d</mi> </math></span>     <strong><em>(A1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="\left( {\ln \frac{1}{2}x + 3} \right)(\cos 0.1x) - x" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mo>(</mo> <mrow> <mi>ln</mi> <mo>⁡</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mi>x</mi> <mo>+</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> <mo stretchy="false">(</mo> <mi>cos</mi> <mo>⁡</mo> <mn>0.1</mn> <mi>x</mi> <mo stretchy="false">)</mo> <mo>−</mo> <mi>x</mi> </math></span></p>
+<p>valid approach to find when <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>d</mi> </math></span> is a maximum     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math>max on sketch of <span class="mjpage"><math alttext="d" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>d</mi> </math></span>, attempt to solve <span class="mjpage"><math alttext="d’ = 0" xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mi>d</mi> <mo>′</mo> </msup> <mo>=</mo> <mn>0</mn> </math></span></p>
+<p>0.973679</p>
+<p><span class="mjpage"><math alttext="x = 0.974" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> <mo>=</mo> <mn>0.974</mn> </math></span>     <strong><em>A2     N4 </em></strong></p>
+<p>substituting <strong>their</strong> <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> </math></span> value into <span class="mjpage"><math alttext="h(x)" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>h</mi> <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo> </math></span>     <strong><em>(M1)</em></strong></p>
+<p>2.26938</p>
+<p><span class="mjpage"><math alttext="y = 2.27" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>y</mi> <mo>=</mo> <mn>2.27</mn> </math></span>     <strong><em>A1</em></strong>     <strong><em>N2</em></strong></p>
+<p><strong><em>[7 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"17M.2.SL.TZ1.S_10"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-5-5-integration-introduction-areas-between-curve-and-x-axis, sl-2-2-functions-notation-domain-range-and-inverse-as-reflection"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.iii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

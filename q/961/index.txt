@@ -1,0 +1,1128 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","961","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","961","d"],{"children":["__PAGE__?{\"id\":\"961\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","961","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tb9a,<div class="specification">
+<p>Let <span class="mjpage"><math alttext="z = 1 - \cos 2\theta - {\text{i}}\sin 2\theta ,{\text{ }}z \in \mathbb{C},{\text{ }}0 \leqslant \theta \leqslant \pi " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>z</mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mn>2</mn>
+<mi>θ<!-- θ --></mi>
+<mo>−<!-- − --></mo>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mn>2</mn>
+<mi>θ<!-- θ --></mi>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mi>z</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow>
+<mi mathvariant="double-struck">C</mi>
+</mrow>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0</mn>
+<mo>⩽<!-- ⩽ --></mo>
+<mi>θ<!-- θ --></mi>
+<mo>⩽<!-- ⩽ --></mo>
+<mi>π<!-- π --></mi>
+</math></span>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Solve <span class="mjpage"><math alttext="2\sin (x + 60^\circ ) = \cos (x + 30^\circ ),{\text{ }}0^\circ \leqslant x \leqslant 180^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<msup>
+<mn>60</mn>
+<mo>∘</mo>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<msup>
+<mn>30</mn>
+<mo>∘</mo>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<msup>
+<mn>0</mn>
+<mo>∘</mo>
+</msup>
+<mo>⩽</mo>
+<mi>x</mi>
+<mo>⩽</mo>
+<msup>
+<mn>180</mn>
+<mo>∘</mo>
+</msup>
+</math></span>.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="\sin 105^\circ + \cos 105^\circ = \frac{1}{{\sqrt 2 }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mo>+</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the modulus and argument of <span class="mjpage"><math alttext="z" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>z</mi>
+</math></span> in terms of <span class="mjpage"><math alttext="\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ</mi>
+</math></span>. Express each answer in its simplest form.</p>
+<div class="marks">[9]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence find the cube roots of <span class="mjpage"><math alttext="z" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>z</mi>
+</math></span> in modulus-argument form.</p>
+<div class="marks">[5]</div>
+<div class="question_part_label">c.ii.</div>
+</div>a:T496c,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="2\sin (x + 60^\circ ) = \cos (x + 30^\circ )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<msup>
+<mn>60</mn>
+<mo>∘</mo>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<msup>
+<mn>30</mn>
+<mo>∘</mo>
+</msup>
+<mo stretchy="false">)</mo>
+</math></span></p>
+<p><span class="mjpage"><math alttext="2(\sin x\cos 60^\circ + \cos x\sin 60^\circ ) = \cos x\cos 30^\circ - \sin x\sin 30^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mo stretchy="false">(</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>60</mn>
+<mo>∘</mo>
+</msup>
+<mo>+</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>60</mn>
+<mo>∘</mo>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>30</mn>
+<mo>∘</mo>
+</msup>
+<mo>−</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>30</mn>
+<mo>∘</mo>
+</msup>
+</math></span>     <strong><em>(M1)(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext="2\sin x \times \frac{1}{2} + 2\cos x \times \frac{{\sqrt 3 }}{2} = \cos x \times \frac{{\sqrt 3 }}{2} - \sin x \times \frac{1}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+<mo>×</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo>+</mo>
+<mn>2</mn>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+<mo>×</mo>
+<mfrac>
+<mrow>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mo>=</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+<mo>×</mo>
+<mfrac>
+<mrow>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+<mo>×</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow \frac{3}{2}\sin x = - \frac{{\sqrt 3 }}{2}\cos x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mfrac>
+<mn>3</mn>
+<mn>2</mn>
+</mfrac>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow \tan x = - \frac{1}{{\sqrt 3 }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mi>tan</mi>
+<mo>⁡</mo>
+<mi>x</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow x = 150^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mi>x</mi>
+<mo>=</mo>
+<msup>
+<mn>150</mn>
+<mo>∘</mo>
+</msup>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[5 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>EITHER</strong></p>
+<p>choosing two appropriate angles, for example 60° and 45°     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="\sin 105^\circ = \sin 60^\circ \cos 45^\circ + \cos 60^\circ \sin 45^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mo>=</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>60</mn>
+<mo>∘</mo>
+</msup>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>45</mn>
+<mo>∘</mo>
+</msup>
+<mo>+</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>60</mn>
+<mo>∘</mo>
+</msup>
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>45</mn>
+<mo>∘</mo>
+</msup>
+</math></span> and</p>
+<p><span class="mjpage"><math alttext="\cos 105^\circ = \cos 60^\circ \cos 45^\circ - \sin 60^\circ \sin 45^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mo>=</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>60</mn>
+<mo>∘</mo>
+</msup>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>45</mn>
+<mo>∘</mo>
+</msup>
+<mo>−</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>60</mn>
+<mo>∘</mo>
+</msup>
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>45</mn>
+<mo>∘</mo>
+</msup>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext="\sin 105^\circ + \cos 105^\circ = \frac{{\sqrt 3 }}{2} \times \frac{1}{{\sqrt 2 }} + \frac{1}{2} \times \frac{1}{{\sqrt 2 }} + \frac{1}{2} \times \frac{1}{{\sqrt 2 }} - \frac{{\sqrt 3 }}{2} \times \frac{1}{{\sqrt 2 }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mo>+</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mo>×</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \frac{1}{{\sqrt 2 }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>AG</em></strong></p>
+<p><strong>OR</strong></p>
+<p>attempt to square the expression     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="{(\sin 105^\circ + \cos 105^\circ )^2} = {\sin ^2}105^\circ + 2\sin 105^\circ \cos 105^\circ + {\cos ^2}105^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mo>+</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mi>sin</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mo>+</mo>
+<mn>2</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>cos</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+</math></span></p>
+<p><span class="mjpage"><math alttext="{(\sin 105^\circ + \cos 105^\circ )^2} = 1 + \sin 210^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mo>+</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>210</mn>
+<mo>∘</mo>
+</msup>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \frac{1}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\sin 105^\circ + \cos 105^\circ = \frac{1}{{\sqrt 2 }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mo>+</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>105</mn>
+<mo>∘</mo>
+</msup>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</math></span>   <strong><em>AG</em></strong></p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>EITHER</strong></p>
+<p><span class="mjpage"><math alttext="z = (1 - \cos 2\theta ) - {\text{i}}\sin 2\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>z</mi>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+<mo>−</mo>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>θ</mi>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\left| z \right| = \sqrt {{{(1 - \cos 2\theta )}^2} + {{(\sin 2\theta )}^2}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mi>z</mi>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<msqrt>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+</math></span>     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="\left| z \right| = \sqrt {1 - 2\cos 2\theta + {{\cos }^2}2\theta + {{\sin }^2}2\theta } " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mi>z</mi>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<msqrt>
+<mn>1</mn>
+<mo>−</mo>
+<mn>2</mn>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>θ</mi>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mi>cos</mi>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mn>2</mn>
+<mi>θ</mi>
+<mo>+</mo>
+<mrow>
+<msup>
+<mrow>
+<mi>sin</mi>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mn>2</mn>
+<mi>θ</mi>
+</msqrt>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \sqrt 2 \sqrt {(1 - \cos 2\theta )} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+<msqrt>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+</msqrt>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \sqrt {2(2{{\sin }^2}\theta )} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<msqrt>
+<mn>2</mn>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mrow>
+<msup>
+<mrow>
+<mi>sin</mi>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+</msqrt>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" = 2\sin \theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>2</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+</math></span>     <strong><em>A1</em></strong></p>
+<p>let <span class="mjpage"><math alttext="\arg (z) = \alpha " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>arg</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>α</mi>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\tan \alpha = - \frac{{\sin 2\theta }}{{1 - \cos 2\theta }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>tan</mi>
+<mo>⁡</mo>
+<mi>α</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \frac{{ - 2\sin \theta \cos \theta }}{{2{{\sin }^2}\theta }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>2</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mrow>
+<msup>
+<mrow>
+<mi>sin</mi>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>θ</mi>
+</mrow>
+</mfrac>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" = - \cot \theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mo>−</mo>
+<mi>cot</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\arg (z) = \alpha = - \arctan \left( {\tan \left( {\frac{\pi }{2} - \theta } \right)} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>arg</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>α</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mi>arctan</mi>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>tan</mi>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mi>θ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = \theta - \frac{\pi }{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mi>θ</mi>
+<mo>−</mo>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="z = (1 - \cos 2\theta ) - {\text{i}}\sin 2\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>z</mi>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+<mo>−</mo>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>θ</mi>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" = 2{\sin ^2}\theta - 2{\text{i}}\sin \theta \cos \theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>2</mn>
+<mrow>
+<msup>
+<mi>sin</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mi>θ</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+</math></span>     <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = 2\sin \theta (\sin \theta - {\text{i}}\cos \theta )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>2</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo stretchy="false">(</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo>−</mo>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" = - 2{\text{i}}\sin \theta (\cos \theta + {\text{i}}\sin \theta )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mo>−</mo>
+<mn>2</mn>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo stretchy="false">(</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo>+</mo>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext=" = 2\sin \theta \left( {\cos \left( {\theta - \frac{\pi }{2}} \right) + {\text{i}}\sin \left( {\theta - \frac{\pi }{2}} \right)} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>2</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>θ</mi>
+<mo>−</mo>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>θ</mi>
+<mo>−</mo>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>M1A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\left| z \right| = 2\sin \theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mi>z</mi>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<mn>2</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\arg (z) = \theta - \frac{\pi }{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>arg</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>θ</mi>
+<mo>−</mo>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+</math></span>     <strong><em>A1</em></strong></p>
+<p><strong><em>[9 marks]</em></strong></p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt to apply De Moivre’s theorem     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="{(1 - \cos 2\theta - {\text{i}}\sin 2\theta )^{\frac{1}{3}}} = {2^{\frac{1}{3}}}{(\sin \theta )^{\frac{1}{3}}}\left[ {\cos \left( {\frac{{\theta - \frac{\pi }{2} + 2n\pi }}{3}} \right) + {\text{i}}\sin \left( {\frac{{\theta - \frac{\pi }{2} + 2n\pi }}{3}} \right)} \right]" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>θ</mi>
+<mo>−</mo>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mn>2</mn>
+<mi>θ</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mn>2</mn>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mi>θ</mi>
+<mo>−</mo>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+<mo>+</mo>
+<mn>2</mn>
+<mi>n</mi>
+<mi>π</mi>
+</mrow>
+<mn>3</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mtext>i</mtext>
+</mrow>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mi>θ</mi>
+<mo>−</mo>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+<mo>+</mo>
+<mn>2</mn>
+<mi>n</mi>
+<mi>π</mi>
+</mrow>
+<mn>3</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+</math></span>     <strong><em>A1A1A1</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     <strong><em>A1 </em></strong>for modulus, <strong><em>A1 </em></strong>for dividing argument of <span class="mjpage"><math alttext="z" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>z</mi>
+</math></span> by 3 and <strong><em>A1 </em></strong>for <span class="mjpage"><math alttext="2n\pi " xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>n</mi>
+<mi>π</mi>
+</math></span>.</p>
+<p> </p>
+<p>Hence cube roots are the above expression when <span class="mjpage"><math alttext="n = - 1,{\text{ }}0,{\text{ }}1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>n</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>0</mn>
+<mo>,</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>1</mn>
+</math></span>. Equivalent forms are acceptable.     <strong><em>A1</em></strong></p>
+<p><strong><em>[5 marks]</em></strong></p>
+<div class="question_part_label">c.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"17M.1.AHL.TZ2.H_11"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","ahl-1-13-polar-and-euler-form"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.ii.</div>\n</div>"}}]]}]]}]

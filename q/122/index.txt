@@ -1,0 +1,479 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","122","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","122","d"],{"children":["__PAGE__?{\"id\":\"122\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","122","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T8cb,<div class="specification">
+<p>The diagram shows two circles with centres at the points A and B and radii <span class="mjpage"><math alttext="2r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mi>r</mi>
+</math></span> and <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+</math></span>, respectively. The point B lies on the circle with centre A. The circles intersect at the points C and D.</p>
+<p style="text-align: center;"><img alt="N16/5/MATHL/HP2/ENG/TZ0/09" src="../assets/uploads/tinymce_asset/asset/3295/Schermafbeelding_2017-02-28_om_17.29.37.png"/></p>
+<p>Let <span class="mjpage"><math alttext="\alpha " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α<!-- α --></mi>
+</math></span> be the measure of the angle CAD and <span class="mjpage"><math alttext="\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ<!-- θ --></mi>
+</math></span> be the measure of the angle CBD in radians.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find an expression for the shaded area in terms of <span class="mjpage"><math alttext="\alpha " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+</math></span>, <span class="mjpage"><math alttext="\theta " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ</mi>
+</math></span> and <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="\alpha  = 4\arcsin \frac{1}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+<mo>=</mo>
+<mn>4</mn>
+<mi>arcsin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence find the value of <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+</math></span> given that the shaded area is equal to 4.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div>a:T2398,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p><p><span class="mjpage"><math alttext="A = 2(\alpha  - \sin \alpha ){r^2} + \frac{1}{2}(\theta  - \sin \theta ){r^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>A</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mo stretchy="false">(</mo>
+<mi>α</mi>
+<mo>−</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>α</mi>
+<mo stretchy="false">)</mo>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo stretchy="false">(</mo>
+<mi>θ</mi>
+<mo>−</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span>    <strong><em>M1A1A1</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Award <strong><em>M1A1A1 </em></strong>for alternative correct expressions <em>eg</em>. <span class="mjpage"><math alttext="A = 4\left( {\frac{\alpha }{2} - \sin \frac{\alpha }{2}} \right){r^2} + \frac{1}{2}\theta {r^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>A</mi>
+<mo>=</mo>
+<mn>4</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mi>α</mi>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>α</mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mi>θ</mi>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span>.</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><strong>METHOD 1</strong></p>
+<p>consider for example triangle ADM where M is the midpoint of BD     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="\sin \frac{\alpha }{4} = \frac{1}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>sin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>α</mi>
+<mn>4</mn>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{\alpha }{4} = \arcsin \frac{1}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mi>α</mi>
+<mn>4</mn>
+</mfrac>
+<mo>=</mo>
+<mi>arcsin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\alpha  = 4\arcsin \frac{1}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+<mo>=</mo>
+<mn>4</mn>
+<mi>arcsin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</math></span>    <strong><em>AG</em></strong></p>
+<p><strong>METHOD 2</strong></p>
+<p>attempting to use the cosine rule (to obtain <span class="mjpage"><math alttext="1 - \cos \frac{\alpha }{2} = \frac{1}{8}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>1</mn>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>α</mi>
+<mn>2</mn>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>8</mn>
+</mfrac>
+</math></span>)     <strong><em>M1</em></strong></p>
+<p><span class="mjpage"><math alttext="\sin \frac{\alpha }{4} = \frac{1}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>sin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>α</mi>
+<mn>4</mn>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</math></span> (obtained from <span class="mjpage"><math alttext="\sin \frac{\alpha }{4} = \sqrt {\frac{{1 - \cos \frac{\alpha }{2}}}{2}} " xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>sin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>α</mi>
+<mn>4</mn>
+</mfrac>
+<mo>=</mo>
+<msqrt>
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>α</mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</msqrt>
+</math></span>)     <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{\alpha }{4} = \arcsin \frac{1}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mi>α</mi>
+<mn>4</mn>
+</mfrac>
+<mo>=</mo>
+<mi>arcsin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\alpha  = 4\arcsin \frac{1}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+<mo>=</mo>
+<mn>4</mn>
+<mi>arcsin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</math></span>    <strong><em>AG</em></strong></p>
+<p><strong>METHOD 3</strong></p>
+<p><span class="mjpage"><math alttext="\sin \left( {\frac{\pi }{2} - \frac{\alpha }{4}} \right) = 2\sin \frac{\alpha }{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>sin</mi>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mi>α</mi>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>2</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>α</mi>
+<mn>2</mn>
+</mfrac>
+</math></span> where <span class="mjpage"><math alttext="\frac{\theta }{2} = \frac{\pi }{2} - \frac{\alpha }{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mi>θ</mi>
+<mn>2</mn>
+</mfrac>
+<mo>=</mo>
+<mfrac>
+<mi>π</mi>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mfrac>
+<mi>α</mi>
+<mn>4</mn>
+</mfrac>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\cos \frac{\alpha }{4} = 4\sin \frac{\alpha }{4}\cos \frac{\alpha }{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>cos</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>α</mi>
+<mn>4</mn>
+</mfrac>
+<mo>=</mo>
+<mn>4</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>α</mi>
+<mn>4</mn>
+</mfrac>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>α</mi>
+<mn>4</mn>
+</mfrac>
+</math></span>    <strong><em>M1</em></strong></p>
+<p> </p>
+<p><strong>Note: </strong>Award <strong><em>M1 </em></strong>either for use of the double angle formula or the conversion from sine to cosine.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="\frac{1}{4} = \sin \frac{\alpha }{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+<mo>=</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mi>α</mi>
+<mn>4</mn>
+</mfrac>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><span class="mjpage"><math alttext="\frac{\alpha }{4} = \arcsin \frac{1}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mi>α</mi>
+<mn>4</mn>
+</mfrac>
+<mo>=</mo>
+<mi>arcsin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\alpha  = 4\arcsin \frac{1}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+<mo>=</mo>
+<mn>4</mn>
+<mi>arcsin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</math></span>    <strong><em>AG</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>(from triangle ADM), <span class="mjpage"><math alttext="\theta  = \pi  - \frac{\alpha }{2}{\text{ }}\left( { = \pi  - 2\arcsin \frac{1}{4} = 2\arcsin \frac{1}{4} = 2.6362 \ldots } \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ</mi>
+<mo>=</mo>
+<mi>π</mi>
+<mo>−</mo>
+<mfrac>
+<mi>α</mi>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<mi>π</mi>
+<mo>−</mo>
+<mn>2</mn>
+<mi>arcsin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+<mo>=</mo>
+<mn>2</mn>
+<mi>arcsin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+<mo>=</mo>
+<mn>2.6362</mn>
+<mo>…</mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>A1</em></strong></p>
+<p>attempting to solve <span class="mjpage"><math alttext="2(\alpha  - \sin \alpha ){r^2} + \frac{1}{2}(\theta  - \sin \theta ){r^2} = 4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<mo stretchy="false">(</mo>
+<mi>α</mi>
+<mo>−</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>α</mi>
+<mo stretchy="false">)</mo>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo stretchy="false">(</mo>
+<mi>θ</mi>
+<mo>−</mo>
+<mi>sin</mi>
+<mo>⁡</mo>
+<mi>θ</mi>
+<mo stretchy="false">)</mo>
+<mrow>
+<msup>
+<mi>r</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>4</mn>
+</math></span></p>
+<p>with <span class="mjpage"><math alttext="\alpha  = 4\arcsin \frac{1}{4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>α</mi>
+<mo>=</mo>
+<mn>4</mn>
+<mi>arcsin</mi>
+<mo>⁡</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</math></span> and <span class="mjpage"><math alttext="\theta  = \pi  - \frac{\alpha }{2}{\text{ }}\left( { = 2\arccos \frac{1}{4}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>θ</mi>
+<mo>=</mo>
+<mi>π</mi>
+<mo>−</mo>
+<mfrac>
+<mi>α</mi>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>=</mo>
+<mn>2</mn>
+<mi>arccos</mi>
+<mo>⁡</mo>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> for <span class="mjpage"><math alttext="r" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="r = 1.69" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>r</mi>
+<mo>=</mo>
+<mn>1.69</mn>
+</math></span>    <strong><em>A1</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"16N.2.AHL.TZ0.H_9"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"16N"}],["$","span",null,{"children":["· ","sl-3-4-circle-radians-arcs-sectors"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

@@ -1,0 +1,821 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","1434","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","1434","d"],{"children":["__PAGE__?{\"id\":\"1434\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","1434","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tf55,<div class="specification">
+<p>The base of an electric iron can be modelled as a pentagon ABCDE, where:</p>
+<p><span class="mjpage mjpage__block"><math alttext="\begin{array}{*{20}{l}} {{\text{BCDE is a rectangle with sides of length }}(x + 3){\text{ cm and }}(x + 5){\text{ cm;}}} \\ {{\text{ABE is an isosceles triangle, with AB}} = {\text{AE and a height of }}x{\text{ cm;}}} \\ {{\text{the area of ABCDE is 222 c}}{{\text{m}}^{\text{2}}}{\text{.}}} \end{array}" display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mtext>BCDE is a rectangle with sides of length </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> cm and </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mn>5</mn>
+<mo stretchy="false">)</mo>
+<mrow>
+<mtext> cm;</mtext>
+</mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mtext>ABE is an isosceles triangle, with AB</mtext>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mtext>AE and a height of </mtext>
+</mrow>
+<mi>x</mi>
+<mrow>
+<mtext> cm;</mtext>
+</mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mrow>
+<mtext>the area of ABCDE is 222 c</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>m</mtext>
+</mrow>
+<mrow>
+<mtext>2</mtext>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mtext>.</mtext>
+</mrow>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</math></span></p>
+<p style="text-align: center;"><img alt="M17/5/MATSD/SP2/ENG/TZ1/02" src="../assets/uploads/tinymce_asset/asset/3599/Schermafbeelding_2017-08-16_om_11.05.55.png"/></p>
+</div><div class="specification">
+<p>Insulation tape is wrapped around the perimeter of the base of the iron, ABCDE.</p>
+</div><div class="specification">
+<p>F is the point on AB such that <span class="mjpage"><math alttext="{\text{BF}} = {\text{8 cm}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>BF</mtext>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mtext>8 cm</mtext>
+</mrow>
+</math></span>. A heating element in the iron runs in a straight line, from C to F.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down an <strong>equation </strong>for the area of ABCDE using the above information.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that the equation in part (a)(i) simplifies to <span class="mjpage"><math alttext="3{x^2} + 19x - 414 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>19</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>414</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the length of CD.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that angle <span class="mjpage"><math alttext="{\rm{B\hat AE}} = 67.4^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="normal">B</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">E</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<msup>
+<mn>67.4</mn>
+<mo>∘</mo>
+</msup>
+</math></span>, correct to one decimal place.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the length of the perimeter of ABCDE.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Calculate the length of CF.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">e.</div>
+</div>a:T3f81,<div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="222 = \frac{1}{2}x(x + 3) + (x + 3)(x + 5)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>222</mn>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mi>x</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mn>5</mn>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(M1)(M1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for correct area of triangle, <strong><em>(M1) </em></strong>for correct area of rectangle, <strong><em>(A1) </em></strong>for equating the sum to 222.</p>
+<p> </p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="222 = (x + 3)(2x + 5) - 2\left( {\frac{1}{4}} \right)x(x + 3)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>222</mn>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>5</mn>
+<mo stretchy="false">)</mo>
+<mo>−</mo>
+<mn>2</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>x</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(M1)(M1)(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for area of bounding rectangle, <strong><em>(M1) </em></strong>for area of triangle, <strong><em>(A1) </em></strong>for equating the difference to 222.</p>
+<p> </p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="222 = \frac{1}{2}{x^2} + \frac{3}{2}x + {x^2} + 3x + 5x + 15" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>222</mn>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mfrac>
+<mn>3</mn>
+<mn>2</mn>
+</mfrac>
+<mi>x</mi>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>3</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>5</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>15</mn>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for complete expansion of the brackets, leading to the final answer, with no incorrect working seen. The final answer must be seen to award <strong><em>(M1)</em></strong>.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="3{x^2} + 19x - 414 = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>19</mn>
+<mi>x</mi>
+<mo>−</mo>
+<mn>414</mn>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>     <strong><em>(AG)</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="x = 9{\text{ }}\left( {{\text{and }}x =  - \frac{{46}}{3}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>=</mo>
+<mn>9</mn>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow>
+<mtext>and </mtext>
+</mrow>
+<mi>x</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mn>46</mn>
+</mrow>
+<mn>3</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext="{\text{CD}} = 12{\text{ (cm)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>CD</mtext>
+</mrow>
+<mo>=</mo>
+<mn>12</mn>
+<mrow>
+<mtext> (cm)</mtext>
+</mrow>
+</math></span>     <strong><em>(A1)(G2)</em></strong></p>
+<p><strong><em>[2 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{1}{2}({\text{their }}x + 3) = 6" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>their </mtext>
+</mrow>
+<mi>x</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>6</mn>
+</math></span>     <strong><em>(A1)</em>(ft)</strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Follow through from part (b).</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="\tan \left( {\frac{{{\rm{B\hat AE}}}}{2}} \right) = \frac{6}{9}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>tan</mi>
+<mo>⁡</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mrow>
+<mrow>
+<mi mathvariant="normal">B</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">E</mi>
+</mrow>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>6</mn>
+<mn>9</mn>
+</mfrac>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for their correct substitutions in tangent ratio.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="{\rm{B\hat AE}} = 67.3801 \ldots ^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="normal">B</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">E</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mn>67.3801</mn>
+<msup>
+<mo>…</mo>
+<mo>∘</mo>
+</msup>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" = 67.4^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<msup>
+<mn>67.4</mn>
+<mo>∘</mo>
+</msup>
+</math></span>     <strong><em>(AG)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Do not award the final <strong><em>(A1) </em></strong>unless both the correct unrounded and rounded answers are seen.</p>
+<p> </p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="\frac{1}{2}({\text{their }}x + 3) = 6" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo stretchy="false">(</mo>
+<mrow>
+<mtext>their </mtext>
+</mrow>
+<mi>x</mi>
+<mo>+</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>6</mn>
+</math></span>     <strong><em>(A1)</em>(ft)</strong></p>
+<p><span class="mjpage"><math alttext="\tan ({\rm{A\hat BE}}) = \frac{9}{6}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>tan</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<mrow>
+<mrow>
+<mi mathvariant="normal">A</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">B</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">E</mi>
+</mrow>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mfrac>
+<mn>9</mn>
+<mn>6</mn>
+</mfrac>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for their correct substitutions in tangent ratio.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="{\rm{B\hat AE}} = 180^\circ  - 2({\rm{A\hat BE}})" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="normal">B</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">E</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<msup>
+<mn>180</mn>
+<mo>∘</mo>
+</msup>
+<mo>−</mo>
+<mn>2</mn>
+<mo stretchy="false">(</mo>
+<mrow>
+<mrow>
+<mi mathvariant="normal">A</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">B</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">E</mi>
+</mrow>
+</mrow>
+<mo stretchy="false">)</mo>
+</math></span></p>
+<p><span class="mjpage"><math alttext="{\rm{B\hat AE}} = 67.3801 \ldots ^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="normal">B</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">E</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mn>67.3801</mn>
+<msup>
+<mo>…</mo>
+<mo>∘</mo>
+</msup>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p><span class="mjpage"><math alttext=" = 67.4^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<msup>
+<mn>67.4</mn>
+<mo>∘</mo>
+</msup>
+</math></span>     <strong><em>(AG)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Do not award the final <strong><em>(A1) </em></strong>unless both the correct unrounded and rounded answers are seen.</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="2\sqrt {{9^2} + {6^2}}  + 12 + 2(14)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>2</mn>
+<msqrt>
+<mrow>
+<msup>
+<mn>9</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mn>6</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+</msqrt>
+<mo>+</mo>
+<mn>12</mn>
+<mo>+</mo>
+<mn>2</mn>
+<mo stretchy="false">(</mo>
+<mn>14</mn>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(M1)(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for correct substitution into Pythagoras. Award <strong><em>(M1) </em></strong>for the addition of 5 sides of the pentagon, consistent with their <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span>.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="61.6{\text{ (cm) }}\left( {61.6333 \ldots {\text{ (cm)}}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>61.6</mn>
+<mrow>
+<mtext> (cm) </mtext>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>61.6333</mn>
+<mo>…</mo>
+<mrow>
+<mtext> (cm)</mtext>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>     <strong><em>(A1)</em>(ft)<em>(G3)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Follow through from part (b).</p>
+<p> </p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">d.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{\rm{F\hat BC}} = 90 + \left( {\frac{{180 - 67.4}}{2}} \right){\text{ }}( = 146.3^\circ )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="normal">F</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">B</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">C</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mn>90</mn>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>180</mn>
+<mo>−</mo>
+<mn>67.4</mn>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mo>=</mo>
+<msup>
+<mn>146.3</mn>
+<mo>∘</mo>
+</msup>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="180 - \frac{{67.4}}{2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>180</mn>
+<mo>−</mo>
+<mfrac>
+<mrow>
+<mn>67.4</mn>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p><span class="mjpage"><math alttext="{\rm{C}}{{\text{F}}^2} = {8^2} + {14^2} - 2(8)(14)\cos (146.3^\circ )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="normal">C</mi>
+</mrow>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>F</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mn>8</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mn>14</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mn>2</mn>
+<mo stretchy="false">(</mo>
+<mn>8</mn>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mn>14</mn>
+<mo stretchy="false">)</mo>
+<mi>cos</mi>
+<mo>⁡</mo>
+<mo stretchy="false">(</mo>
+<msup>
+<mn>146.3</mn>
+<mo>∘</mo>
+</msup>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(M1)(A1)</em>(ft)</strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for substituted cosine rule formula and <strong><em>(A1) </em></strong>for correct substitutions. Follow through from part (b).</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="{\text{CF}} = 21.1{\text{ (cm) }}(21.1271 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>CF</mtext>
+</mrow>
+<mo>=</mo>
+<mn>21.1</mn>
+<mrow>
+<mtext> (cm) </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>21.1271</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)</em>(ft)<em>(G3)</em></strong></p>
+<p><strong>OR</strong></p>
+<p><span class="mjpage"><math alttext="{\rm{G\hat BF}} = \frac{{67.4}}{2} = 33.7^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="normal">G</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">B</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">F</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>67.4</mn>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mo>=</mo>
+<msup>
+<mn>33.7</mn>
+<mo>∘</mo>
+</msup>
+</math></span>     <strong><em>(A1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(A1) </em></strong>for angle <span class="mjpage"><math alttext="{\rm{G\hat BF}} = 33.7^\circ " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="normal">G</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">B</mi>
+<mo stretchy="false">^</mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">F</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<msup>
+<mn>33.7</mn>
+<mo>∘</mo>
+</msup>
+</math></span>, where G is the point such that CG is a projection/extension of CB and triangles BGF and CGF are right-angled triangles. The candidate may use another variable.</p>
+<p><img alt="M17/5/MATSD/SP2/ENG/TZ1/02.e/M" src="../assets/uploads/tinymce_asset/asset/3602/Schermafbeelding_2017-08-16_om_13.44.50.png"/></p>
+<p> </p>
+<p><span class="mjpage"><math alttext="{\text{GF}} = 8\sin 33.7^\circ  = 4.4387 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>GF</mtext>
+</mrow>
+<mo>=</mo>
+<mn>8</mn>
+<mi>sin</mi>
+<mo>⁡</mo>
+<msup>
+<mn>33.7</mn>
+<mo>∘</mo>
+</msup>
+<mo>=</mo>
+<mn>4.4387</mn>
+<mo>…</mo>
+</math></span><span class="mjpage"><math alttext="\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><strong>AND</strong><span class="mjpage"><math alttext="\,\,\," xmlns="http://www.w3.org/1998/Math/MathML">
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+</math></span><span class="mjpage"><math alttext="{\text{BG}} = 8\cos 33.7^\circ  = 6.6556 \ldots " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>BG</mtext>
+</mrow>
+<mo>=</mo>
+<mn>8</mn>
+<mi>cos</mi>
+<mo>⁡</mo>
+<msup>
+<mn>33.7</mn>
+<mo>∘</mo>
+</msup>
+<mo>=</mo>
+<mn>6.6556</mn>
+<mo>…</mo>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for correct substitution into trig formulas to find both GF and BG.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="{\text{C}}{{\text{F}}^2} = {(14 + 6.6556 \ldots )^2} + {(4.4387 \ldots )^2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>C</mtext>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mtext>F</mtext>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>14</mn>
+<mo>+</mo>
+<mn>6.6556</mn>
+<mo>…</mo>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>4.4387</mn>
+<mo>…</mo>
+<msup>
+<mo stretchy="false">)</mo>
+<mn>2</mn>
+</msup>
+</mrow>
+</math></span>     <strong><em>(M1)</em></strong></p>
+<p> </p>
+<p><strong>Note:</strong>     Award <strong><em>(M1) </em></strong>for correct substitution into Pythagoras formula to find CF.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext="{\text{CF}} = 21.1{\text{ (cm) }}(21.1271 \ldots )" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>CF</mtext>
+</mrow>
+<mo>=</mo>
+<mn>21.1</mn>
+<mrow>
+<mtext> (cm) </mtext>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>21.1271</mn>
+<mo>…</mo>
+<mo stretchy="false">)</mo>
+</math></span>     <strong><em>(A1)</em>(ft)<em>(G3)</em></strong></p>
+<p><strong><em>[4 marks]</em></strong></p>
+<div class="question_part_label">e.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"17M.2.SL.TZ1.T_2"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","sl-3-2-2d-and-3d-trig"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div>"}}]]}]]}]

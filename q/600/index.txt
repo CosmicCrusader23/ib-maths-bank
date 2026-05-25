@@ -1,0 +1,76 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","600","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","600","d"],{"children":["__PAGE__?{\"id\":\"600\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","600","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T5a9,<div class="specification">
+<p>The following diagram shows a triangle ABC.</p>
+<p style="text-align: center;"><img alt="N17/5/MATME/SP2/ENG/TZ0/01" src="../assets/uploads/tinymce_asset/asset/4158/Schermafbeelding_2018-02-12_om_10.20.56.png"/></p>
+<p style="text-align: center;"><span class="mjpage"><math alttext="{\text{AB}} = 5{\rm{ cm, C\hat AB}} = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mtext>AB</mtext>
+</mrow>
+<mo>=</mo>
+<mn>5</mn>
+<mrow>
+<mrow>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">m</mi>
+<mo>,</mo>
+<mi mathvariant="normal">C</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+</math></span> 50° and <span class="mjpage"><math alttext="{\rm{A\hat CB}} = " xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="normal">A</mi>
+<mrow>
+<mover>
+<mi mathvariant="normal">C</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+</math></span> 112°</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find BC.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the area of triangle ABC.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div>a:T1245,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p>
+<p>evidence of choosing sine rule     <strong><em>(M1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="\frac{{\sin A}}{a} = \frac{{\sin B}}{b}" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mi>sin</mi> <mo>⁡</mo> <mi>A</mi> </mrow> <mi>a</mi> </mfrac> <mo>=</mo> <mfrac> <mrow> <mi>sin</mi> <mo>⁡</mo> <mi>B</mi> </mrow> <mi>b</mi> </mfrac> </math></span></p>
+<p>correct substitution     <strong><em>(A1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="\frac{{{\text{BC}}}}{{\sin 50}} = \frac{5}{{\sin 112}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <mtext>BC</mtext> </mrow> </mrow> <mrow> <mi>sin</mi> <mo>⁡</mo> <mn>50</mn> </mrow> </mfrac> <mo>=</mo> <mfrac> <mn>5</mn> <mrow> <mi>sin</mi> <mo>⁡</mo> <mn>112</mn> </mrow> </mfrac> </math></span></p>
+<p>4.13102</p>
+<p><span class="mjpage"><math alttext="{\text{BC}} = 4.13{\text{ (cm)}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>BC</mtext> </mrow> <mo>=</mo> <mn>4.13</mn> <mrow> <mtext> (cm)</mtext> </mrow> </math></span>     <strong><em>A1     N2</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>correct working     <strong><em>(A1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="{\rm{\hat B}} = 180 - 50 - 112" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mrow> <mrow> <mover> <mi mathvariant="normal">B</mi> <mo stretchy="false">^</mo> </mover> </mrow> </mrow> </mrow> <mo>=</mo> <mn>180</mn> <mo>−</mo> <mn>50</mn> <mo>−</mo> <mn>112</mn> </math></span>, 18°, <span class="mjpage"><math alttext="{\text{AC}} = 1.66642" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>AC</mtext> </mrow> <mo>=</mo> <mn>1.66642</mn> </math></span></p>
+<p>correct substitution into area formula     <strong><em>(A1)</em></strong></p>
+<p><em>eg</em><math alttext="\,\,\,\,\," xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> <mspace width="thinmathspace"></mspace> </math><span class="mjpage"><math alttext="\frac{1}{2} \times 5 \times 4.13 \times \sin 18,{\text{ }}0.5(5)(1.66642)\sin 50,{\text{ }}\frac{1}{2}(4.13)(1.66642)\sin 112" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>×</mo> <mn>5</mn> <mo>×</mo> <mn>4.13</mn> <mo>×</mo> <mi>sin</mi> <mo>⁡</mo> <mn>18</mn> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mn>0.5</mn> <mo stretchy="false">(</mo> <mn>5</mn> <mo stretchy="false">)</mo> <mo stretchy="false">(</mo> <mn>1.66642</mn> <mo stretchy="false">)</mo> <mi>sin</mi> <mo>⁡</mo> <mn>50</mn> <mo>,</mo> <mrow> <mtext> </mtext> </mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo stretchy="false">(</mo> <mn>4.13</mn> <mo stretchy="false">)</mo> <mo stretchy="false">(</mo> <mn>1.66642</mn> <mo stretchy="false">)</mo> <mi>sin</mi> <mo>⁡</mo> <mn>112</mn> </math></span></p>
+<p>3.19139</p>
+<p><span class="mjpage"><math alttext="{\text{area}} = 3.19{\text{ (c}}{{\text{m}}^2}{\text{)}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mtext>area</mtext> </mrow> <mo>=</mo> <mn>3.19</mn> <mrow> <mtext> (c</mtext> </mrow> <mrow> <msup> <mrow> <mtext>m</mtext> </mrow> <mn>2</mn> </msup> </mrow> <mrow> <mtext>)</mtext> </mrow> </math></span>     <strong><em>A1     N2</em></strong></p>
+<p><strong><em>[3 marks]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"17N.2.SL.TZ0.S_1"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17N"}],["$","span",null,{"children":["· ","sl-3-2-2d-and-3d-trig-sine-rule-cosine-rule-area"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

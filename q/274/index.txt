@@ -1,0 +1,163 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","274","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","274","d"],{"children":["__PAGE__?{\"id\":\"274\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","274","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Tb04,<div class="question">
+<p>attempt to integrate     <em><strong>(M1)</strong></em></p>
+<p><span class="mjpage"><math alttext="u = 2{x^2} + 1 \Rightarrow \frac{{{\text{d}}u}}{{{\text{d}}x}} = 4x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>u</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">⇒</mo>
+<mfrac>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>u</mi>
+</mrow>
+<mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mn>4</mn>
+<mi>x</mi>
+</math></span></p>
+<p><span class="mjpage"><math alttext="\int {\frac{{8x}}{{\sqrt {2{x^2} + 1} }}} {\text{d}}x = \int {\frac{2}{{\sqrt u }}} {\text{d}}u" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>∫</mo>
+<mrow>
+<mfrac>
+<mrow>
+<mn>8</mn>
+<mi>x</mi>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>1</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>x</mi>
+<mo>=</mo>
+<mo>∫</mo>
+<mrow>
+<mfrac>
+<mn>2</mn>
+<mrow>
+<msqrt>
+<mi>u</mi>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mtext>d</mtext>
+</mrow>
+<mi>u</mi>
+</math></span>      <em><strong>(A1)</strong></em></p>
+<p><em><strong>EITHER</strong></em></p>
+<p><span class="mjpage"><math alttext=" = 4\sqrt u \left( { + C} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>4</mn>
+<msqrt>
+<mi>u</mi>
+</msqrt>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>+</mo>
+<mi>C</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><em><strong>OR</strong></em></p>
+<p><span class="mjpage"><math alttext=" = 4\sqrt {2{x^2} + 1} \left( { + C} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>=</mo>
+<mn>4</mn>
+<msqrt>
+<mn>2</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>1</mn>
+</msqrt>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>+</mo>
+<mi>C</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><em><strong>THEN</strong></em></p>
+<p>correct substitution into <strong>their</strong> integrated function (must have <em>C</em>)       <em><strong>(M1)</strong></em></p>
+<p><span class="mjpage"><math alttext="5 = 4 + C \Rightarrow C = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>5</mn>
+<mo>=</mo>
+<mn>4</mn>
+<mo>+</mo>
+<mi>C</mi>
+<mo stretchy="false">⇒</mo>
+<mi>C</mi>
+<mo>=</mo>
+<mn>1</mn>
+</math></span></p>
+<p><span class="mjpage"><math alttext="f\left( x \right) = 4\sqrt {2{x^2} + 1}  + 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>f</mi>
+<mrow>
+<mo>(</mo>
+<mi>x</mi>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>4</mn>
+<msqrt>
+<mn>2</mn>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>1</mn>
+</msqrt>
+<mo>+</mo>
+<mn>1</mn>
+</math></span>      <em><strong>A1</strong></em></p>
+<p><em><strong>[5 marks]</strong></em></p>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"SPM.1.SL.TZ0.4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"SPM"}],["$","span",null,{"children":["· ","sl-5-10-indefinite-integration-reverse-chain-by-substitution"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n<p>Let <span class=\"mjpage\"><math alttext=\"f'\\left( x \\right) = \\frac{{8x}}{{\\sqrt {2{x^2} + 1} }}\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<msup>\n<mi>f</mi>\n<mo>′</mo>\n</msup>\n<mrow>\n<mo>(</mo>\n<mi>x</mi>\n<mo>)</mo>\n</mrow>\n<mo>=</mo>\n<mfrac>\n<mrow>\n<mn>8</mn>\n<mi>x</mi>\n</mrow>\n<mrow>\n<msqrt>\n<mn>2</mn>\n<mrow>\n<msup>\n<mi>x</mi>\n<mn>2</mn>\n</msup>\n</mrow>\n<mo>+</mo>\n<mn>1</mn>\n</msqrt>\n</mrow>\n</mfrac>\n</math></span>. Given that <span class=\"mjpage\"><math alttext=\"f\\left( 0 \\right) = 5\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<mi>f</mi>\n<mrow>\n<mo>(</mo>\n<mn>0</mn>\n<mo>)</mo>\n</mrow>\n<mo>=</mo>\n<mn>5</mn>\n</math></span>, find <span class=\"mjpage\"><math alttext=\"f\\left( x \\right)\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<mi>f</mi>\n<mrow>\n<mo>(</mo>\n<mi>x</mi>\n<mo>)</mo>\n</mrow>\n</math></span>.</p>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n[N/A]\n</div>"}}]]}]]}]

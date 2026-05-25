@@ -1,0 +1,105 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","169","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","169","d"],{"children":["__PAGE__?{\"id\":\"169\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","169","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Td5a,<div class="specification">
+<p>The points <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>A</mtext><mfenced><mrow><mn>5</mn><mo>,</mo><mo> </mo><mo>-</mo><mn>2</mn><mo>,</mo><mo> </mo><mn>5</mn></mrow></mfenced></math>, <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>B</mtext><mfenced><mrow><mn>5</mn><mo>,</mo><mo> </mo><mn>4</mn><mo>,</mo><mo> </mo><mo>-</mo><mn>1</mn></mrow></mfenced></math>, <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>C</mtext><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mo> </mo><mo>-</mo><mn>2</mn><mo>,</mo><mo> </mo><mo>-</mo><mn>1</mn></mrow></mfenced></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>D</mtext><mfenced><mrow><mn>7</mn><mo>,</mo><mo> </mo><mo>-</mo><mn>4</mn><mo>,</mo><mo> </mo><mo>-</mo><mn>3</mn></mrow></mfenced></math> are the vertices of a right-pyramid.</p>
+</div><div class="specification">
+<p>The line <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>L</mi></math> passes through the point <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>D</mtext></math> and is perpendicular to <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Π</mi></math>.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the vectors <math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mtext>AB</mtext><mo>→</mo></mover></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mtext>AC</mtext><mo>→</mo></mover></math>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Use a vector method to show that <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>B</mtext><mover><mtext>A</mtext><mo>^</mo></mover><mtext>C</mtext><mo>=</mo><mn>60</mn><mo>°</mo></math>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that the Cartesian equation of the plane <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Π</mi></math> that contains the triangle <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>ABC</mtext></math> is <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mo>-</mo><mn>2</mn></math>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find a vector equation of the line <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>L</mi></math>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence determine the minimum distance, <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>d</mi><mtext>min</mtext></msub></math>, from <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>D</mtext></math> to <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Π</mi></math>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the volume of right-pyramid <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>ABCD</mtext></math>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">e.</div>
+</div>a:T300c,<div class="question" style="padding-left: 20px;">
+<p style="color:#999;font-size:90%;font-style:italic;">* This sample question was produced by experienced DP mathematics senior examiners to aid teachers in preparing for external assessment in the new MAA course. There may be minor differences in formatting compared to formal exam papers.</p>
+<p style="color:#999;font-size:90%;font-style:italic;"> </p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mtext>AB</mtext><mo>→</mo></mover><mo>=</mo><mfenced><mtable><mtr><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>6</mn></mtd></mtr></mtable></mfenced><mo> </mo><mfenced><mrow><mo>=</mo><mn>6</mn><mfenced><mtable><mtr><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>1</mn></mtd></mtr></mtable></mfenced></mrow></mfenced></math>        <strong>A1</strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mtext>AC</mtext><mo>→</mo></mover><mo>=</mo><mfenced><mtable><mtr><mtd><mo>-</mo><mn>6</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>6</mn></mtd></mtr></mtable></mfenced><mo> </mo><mfenced><mrow><mo>=</mo><mn>6</mn><mfenced><mtable><mtr><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>1</mn></mtd></mtr></mtable></mfenced></mrow></mfenced></math>        <strong>A1</strong></p>
+<p> </p>
+<p><strong>[2 marks]</strong></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempts to use  <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>cos</mi><mo> </mo><mtext>B</mtext><mover><mtext>A</mtext><mo>^</mo></mover><mtext>C</mtext><mo>=</mo><mfrac><mrow><mover><mtext>AB</mtext><mo>→</mo></mover><mo>·</mo><mover><mtext>AC</mtext><mo>→</mo></mover></mrow><mrow><mfenced close="|" open="|"><mover><mtext>AB</mtext><mo>→</mo></mover></mfenced><mfenced close="|" open="|"><mover><mtext>AC</mtext><mo>→</mo></mover></mfenced></mrow></mfrac></math>        <strong>(M1)</strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mfrac><mrow><mfenced><mtable><mtr><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>6</mn></mtd></mtr></mtable></mfenced><mo>·</mo><mfenced><mtable><mtr><mtd><mo>-</mo><mn>6</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>6</mn></mtd></mtr></mtable></mfenced></mrow><mrow><msqrt><mn>72</mn></msqrt><mo>×</mo><msqrt><mn>72</mn></msqrt></mrow></mfrac></math>        <strong>A1</strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>        <strong>A1</strong></p>
+<p>so <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>B</mtext><mover><mtext>A</mtext><mo>^</mo></mover><mtext>C</mtext><mo>=</mo><mn>60</mn><mo>°</mo></math>        <strong>AG</strong></p>
+<p> </p>
+<p><strong>[3 marks]</strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempts to find a vector normal to <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Π</mi></math>        <strong>M1</strong></p>
+<p>for example, <math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mtext>AB</mtext><mo>→</mo></mover><mo>×</mo><mover><mtext>AC</mtext><mo>→</mo></mover><mo>=</mo><mfenced><mtable><mtr><mtd><mo>-</mo><mn>36</mn></mtd></mtr><mtr><mtd><mn>36</mn></mtd></mtr><mtr><mtd><mn>36</mn></mtd></mtr></mtable></mfenced><mo> </mo><mfenced><mrow><mo>=</mo><mn>36</mn><mfenced><mtable><mtr><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mfenced></mrow></mfenced></math> leading to        <strong>A1</strong></p>
+<p>a vector normal to <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Π</mi></math> is <math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="bold-italic">n</mi><mo>=</mo><mfenced><mtable><mtr><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mfenced></math></p>
+<p> </p>
+<p><strong>EITHER</strong></p>
+<p>substitutes <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mn>5</mn><mo>,</mo><mo> </mo><mo>-</mo><mn>2</mn><mo>,</mo><mo> </mo><mo>-</mo><mn>5</mn></mrow></mfenced></math> (or <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mn>5</mn><mo>,</mo><mo> </mo><mn>4</mn><mo>,</mo><mo> </mo><mo>-</mo><mn>1</mn></mrow></mfenced></math> or <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mo> </mo><mo>-</mo><mn>2</mn><mo>,</mo><mo> </mo><mo>-</mo><mn>1</mn></mrow></mfenced></math>) into <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mi>d</mi></math> and attempts to find the value of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>d</mi></math></p>
+<p>for example, <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>d</mi><mo>=</mo><mo>-</mo><mn>5</mn><mo>-</mo><mn>2</mn><mo>+</mo><mn>5</mn><mo> </mo><mfenced><mrow><mo>=</mo><mo>-</mo><mn>2</mn></mrow></mfenced></math>        <strong>M1</strong></p>
+<p> </p>
+<p><strong>OR</strong></p>
+<p>attempts to use <math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="bold-italic">r</mi><mo mathvariant="bold">·</mo><mi mathvariant="bold-italic">n</mi><mo>=</mo><mi mathvariant="bold-italic">a</mi><mo mathvariant="bold">·</mo><mi mathvariant="bold-italic">n</mi></math>        <strong>M1</strong></p>
+<p>for example, <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mtable><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mi>y</mi></mtd></mtr><mtr><mtd><mi>z</mi></mtd></mtr></mtable></mfenced><mo>·</mo><mfenced><mtable><mtr><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mfenced><mo>=</mo><mfenced><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>2</mn></mtd></mtr><mtr><mtd><mn>5</mn></mtd></mtr></mtable></mfenced><mo>·</mo><mfenced><mtable><mtr><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mfenced></math></p>
+<p> </p>
+<p><strong>THEN</strong></p>
+<p>leading to the Cartesian equation of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Π</mi></math> as <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mo>-</mo><mn>2</mn></math>        <strong>AG</strong></p>
+<p> </p>
+<p><strong>[3 marks]</strong></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="bold-italic">r</mi><mo>=</mo><mfenced><mtable><mtr><mtd><mn>7</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>4</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>3</mn></mtd></mtr></mtable></mfenced><mo>+</mo><mi>λ</mi><mfenced><mtable><mtr><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mfenced><mo> </mo><mfenced><mrow><mi>λ</mi><mo>∈</mo><mi mathvariant="normal">ℝ</mi></mrow></mfenced></math>        <strong>A1</strong></p>
+<p> </p>
+<p><strong>[1 mark]</strong></p>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>substitutes <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>7</mn><mo>-</mo><mi>λ</mi><mo>,</mo><mo> </mo><mi>y</mi><mo>=</mo><mo>-</mo><mn>4</mn><mo>+</mo><mi>λ</mi><mo>,</mo><mo> </mo><mi>z</mi><mo>=</mo><mo>-</mo><mn>3</mn><mo>+</mo><mi>λ</mi></math> into <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mo>-</mo><mn>2</mn></math>        <strong>(M1)</strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mfenced><mrow><mn>7</mn><mo>-</mo><mi>λ</mi></mrow></mfenced><mo>+</mo><mfenced><mrow><mo>-</mo><mn>4</mn><mo>+</mo><mi>λ</mi></mrow></mfenced><mo>+</mo><mfenced><mrow><mo>-</mo><mn>3</mn><mo>+</mo><mi>λ</mi></mrow></mfenced><mo>=</mo><mo>-</mo><mn>2</mn><mo> </mo><mfenced><mrow><mn>3</mn><mi>λ</mi><mo>=</mo><mn>12</mn></mrow></mfenced></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>λ</mi><mo>=</mo><mn>4</mn></math>        <strong>A1</strong></p>
+<p>shows a correct calculation for finding <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>d</mi><mtext>min</mtext></msub></math>, for example, attempts to find</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced close="|" open="|"><mrow><mn>4</mn><mfenced><mtable><mtr><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mfenced></mrow></mfenced></math>        <strong>M1</strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>d</mi><mtext>min</mtext></msub><mo>=</mo><mn>4</mn><msqrt><mn>3</mn></msqrt><mo> </mo><mfenced><mrow><mo>=</mo><mn>6</mn><mo>.</mo><mn>93</mn></mrow></mfenced></math>        <strong>A1</strong></p>
+<p> </p>
+<p><strong>[4 marks]</strong></p>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>let the area of triangle <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>ABC</mtext></math> be <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi></math></p>
+<p> </p>
+<p><strong>EITHER</strong></p>
+<p>attempts to find <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced close="|" open="|"><mrow><mover><mtext>AB</mtext><mo>→</mo></mover><mo>×</mo><mover><mtext>AC</mtext><mo>→</mo></mover></mrow></mfenced></math>, for example       <strong>M1</strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced close="|" open="|"><mfenced><mtable><mtr><mtd><mo>-</mo><mn>36</mn></mtd></mtr><mtr><mtd><mn>36</mn></mtd></mtr><mtr><mtd><mn>36</mn></mtd></mtr></mtable></mfenced></mfenced></math></p>
+<p> </p>
+<p><strong>OR</strong></p>
+<p>attempts to find <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced close="|" open="|"><mover><mtext>AB</mtext><mo>→</mo></mover></mfenced><mfenced close="|" open="|"><mover><mtext>AC</mtext><mo>→</mo></mover></mfenced><mi>sin</mi><mo> </mo><mi>θ</mi></math>, for example       <strong>M1</strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>×</mo><mn>6</mn><msqrt><mn>2</mn></msqrt><mo>×</mo><mn>6</mn><msqrt><mn>2</mn></msqrt><mo>×</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac></math>  (where <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>sin</mi><mfrac><mi mathvariant="normal">π</mi><mn>3</mn></mfrac><mo>=</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac></math>)</p>
+<p> </p>
+<p><strong>THEN</strong></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>=</mo><mn>18</mn><msqrt><mn>3</mn></msqrt><mo> </mo><mfenced><mrow><mo>=</mo><mn>31</mn><mo>.</mo><mn>2</mn></mrow></mfenced></math>       <strong>A1</strong></p>
+<p>uses <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>V</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>A</mi><mi>h</mi></math> where <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi></math> is the area of triangle <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>ABC</mtext></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>h</mi><mo>=</mo><msub><mi>d</mi><mtext>min</mtext></msub></math>       <strong>M1</strong></p>
+<p> <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>V</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>×</mo><mn>18</mn><msqrt><mn>3</mn></msqrt><mo>×</mo><mn>4</mn><msqrt><mn>3</mn></msqrt></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>72</mn></math>       <strong>A1</strong></p>
+<p> </p>
+<p><strong>[4 marks]</strong></p>
+<div class="question_part_label">e.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/3/","children":["← back to topic ","3"]}]}],["$","h1",null,{"children":"EXN.2.AHL.TZ0.11"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"EXN"}],["$","span",null,{"children":["· ","ahl-3-12-vector-definitions"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.ii.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">e.</div>\n</div>"}}]]}]]}]

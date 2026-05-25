@@ -1,0 +1,2928 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","900","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","900","d"],{"children":["__PAGE__?{\"id\":\"900\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","900","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T39fa,<div class="specification">
+<p>This question will diagonalize a matrix and apply this to the transformation of a curve.</p>
+<p>Let the matrix <span class="mjpage"><math alttext="M = \left( {\begin{array}{*{20}{c}}  {\tfrac{5}{2}}&amp;{\tfrac{1}{2}} \\   {\tfrac{1}{2}}&amp;{\tfrac{5}{2}}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>M</mi>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>.</p>
+</div><div class="specification">
+<p>Let <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  {\begin{array}{*{20}{c}}  {\tfrac{1}{{\sqrt 2 }}}&amp;{\tfrac{1}{{\sqrt 2 }}}  \end{array}} \\   {\begin{array}{*{20}{c}}  {\tfrac{{ - 1}}{{\sqrt 2 }}}&amp;{\tfrac{1}{{\sqrt 2 }}}  \end{array}}  \end{array}} \right) = {{\mathbf{R}}^{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>.</p>
+</div><div class="specification">
+<p>Let <span class="mjpage"><math alttext="{\mathbf{R}}\left( {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  X \\   Y  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>X</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>Y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>.</p>
+</div><div class="specification">
+<p>Let <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  {\tfrac{1}{{\sqrt 3 }}}&amp;0 \\   0&amp;{\tfrac{1}{{\sqrt 2 }}}  \end{array}} \right)\left( {\begin{array}{*{20}{c}}  X \\   Y  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  u \\   v  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>X</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>Y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>u</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>v</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>.</p>
+</div><div class="specification">
+<p>Hence state the geometrical shape represented by</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the eigenvalues for <span class="mjpage"><math alttext="M" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>M</mi>
+</math></span>. For each eigenvalue find the set of associated eigenvectors.</p>
+<div class="marks">[8]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that the matrix equation <span class="mjpage"><math alttext="\left( {x\,\,\,y} \right){\mathbf{M}}\left( {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right) = \left( 6 \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mrow>
+<mi mathvariant="bold">M</mi>
+</mrow>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mn>6</mn>
+<mo>)</mo>
+</mrow>
+</math></span> is equivalent to the Cartesian equation <span class="mjpage"><math alttext="\frac{5}{2}{x^2} + xy + \frac{5}{2}{y^2} = 6" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>x</mi>
+<mi>y</mi>
+<mo>+</mo>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>6</mn>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  {\frac{1}{{\sqrt 2 }}} \\   {\frac{{ - 1}}{{\sqrt 2 }}}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  {\frac{1}{{\sqrt 2 }}} \\   {\frac{1}{{\sqrt 2 }}}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> are unit eigenvectors and that they correspond to different eigenvalues.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence, show that <span class="mjpage"><math alttext="M\left( {\begin{array}{*{20}{c}} {\begin{array}{*{20}{c}} {\frac{1}{{\sqrt 2 }}}&amp;{\frac{1}{{\sqrt 2 }}}  \end{array}} \\  {\begin{array}{*{20}{c}} {\frac{{ - 1}}{{\sqrt 2 }}}&amp;{\frac{1}{{\sqrt 2 }}}  \end{array}}  \end{array}} \right) = \left( {\begin{array}{*{20}{c}} {\begin{array}{*{20}{c}} {\frac{1}{{\sqrt 2 }}}&amp;{\frac{1}{{\sqrt 2 }}}  \end{array}} \\  {\begin{array}{*{20}{c}} {\frac{{ - 1}}{{\sqrt 2 }}}&amp;{\frac{1}{{\sqrt 2 }}}  \end{array}}  \end{array}} \right)\left( {\begin{array}{*{20}{c}} 2&amp;0 \\  0&amp;3  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>M</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find matrix <strong>R</strong>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="{\mathbf{M}} = {{\mathbf{R}}^{ - 1}}\left( {\begin{array}{*{20}{c}}  2&amp;0 \\   0&amp;3  \end{array}} \right){\mathbf{R}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="bold">M</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+</math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Verify that <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  X&amp;Y  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  x&amp;y  \end{array}} \right){{\mathbf{R}}^{ - 1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>X</mi>
+</mtd>
+<mtd>
+<mi>Y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">e.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Hence, find the Cartesian equation satisfied by <span class="mjpage"><math alttext="X" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>X</mi>
+</math></span> and <span class="mjpage"><math alttext="Y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>Y</mi>
+</math></span>.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">e.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Find the Cartesian equation satisfied by <span class="mjpage"><math alttext="u" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>u</mi>
+</math></span> and <span class="mjpage"><math alttext="v" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>v</mi>
+</math></span> and state the geometric shape that this curve represents.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>State geometrically what transformation the matrix <span class="mjpage"><math alttext="{\mathbf{R}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+</math></span> represents.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>the curve in <span class="mjpage"><math alttext="X" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>X</mi>
+</math></span> and <span class="mjpage"><math alttext="Y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>Y</mi>
+</math></span> in part (e) (ii), giving a reason.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">h.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>the curve in <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> and <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> in part (b).</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">h.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down the equations of two lines of symmetry for the curve in <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+</math></span> and <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+</math></span> in part (b).</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">i.</div>
+</div>a:T7f3f,<div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\left| {\begin{array}{*{20}{c}} {\frac{5}{2} - \lambda }&amp;{\frac{1}{2}} \\  {\frac{1}{2}}&amp;{\frac{5}{2} - \lambda }  \end{array}} \right| = 0 \Rightarrow {\left( {\frac{5}{2} - \lambda } \right)^2} - {\left( {\frac{1}{2}} \right)^2} = 0 \Rightarrow \frac{5}{2} - \lambda = \pm \frac{1}{2} \Rightarrow \lambda = 2\,\,{\text{or}}\,\,{\text{3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>|</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+<mo stretchy="false">⇒</mo>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mi>λ</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−</mo>
+<mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+<mo stretchy="false">⇒</mo>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+<mo>−</mo>
+<mi>λ</mi>
+<mo>=</mo>
+<mo>±</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mo stretchy="false">⇒</mo>
+<mi>λ</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>or</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>3</mtext>
+</mrow>
+</math></span>      <em><strong> M1M1A1A1</strong></em></p>
+<p><span class="mjpage"><math alttext="\lambda  = 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+<mo>=</mo>
+<mn>2</mn>
+</math></span>     <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}} {\frac{1}{2}}&amp;{\frac{1}{2}} \\  {\frac{1}{2}}&amp;{\frac{1}{2}}  \end{array}} \right)\left( {\begin{array}{*{20}{c}} p \\  q  \end{array}} \right) = \left( {\begin{array}{*{20}{c}} 0 \\  0  \end{array}} \right) \Rightarrow q = - p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>p</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>q</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mi>q</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mi>p</mi>
+</math></span>      eigenvalues are of the form <span class="mjpage"><math alttext="t\left( {\begin{array}{*{20}{c}} 1 \\  { - 1}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong> M1A1</strong></em></p>
+<p><span class="mjpage"><math alttext="\lambda  = 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+<mo>=</mo>
+<mn>3</mn>
+</math></span>     <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}} { - \frac{1}{2}}&amp;{\frac{1}{2}} \\  {\frac{1}{2}}&amp;{ - \frac{1}{2}}  \end{array}} \right)\left( {\begin{array}{*{20}{c}} p \\  q  \end{array}} \right) = \left( {\begin{array}{*{20}{c}} 0 \\  0  \end{array}} \right) \Rightarrow q = p" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>p</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>q</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mi>q</mi>
+<mo>=</mo>
+<mi>p</mi>
+</math></span>     eigenvalues are of the form <span class="mjpage"><math alttext="t\left( {\begin{array}{*{20}{c}} 1 \\  {1}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong> M1A1</strong></em></p>
+<p><em><strong>[8 marks]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\left( {x\,\,\,y} \right)\left( {\begin{array}{*{20}{c}}  {\frac{5}{2}}&amp;{\frac{1}{2}} \\   {\frac{1}{2}}&amp;{\frac{5}{2}}  \end{array}} \right)\left( {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right) = \left( 6 \right) \Rightarrow \left( {\begin{array}{*{20}{c}}  {\frac{5}{2}x + \frac{1}{2}y}&amp;{\frac{1}{2}x + \frac{5}{2}y}  \end{array}} \right)\left( {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right) = \left( 6 \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>y</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mn>6</mn>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+<mi>x</mi>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mi>y</mi>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mi>x</mi>
+<mo>+</mo>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+<mi>y</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mn>6</mn>
+<mo>)</mo>
+</mrow>
+</math></span>      <em><strong>M1A1</strong></em></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow \left( {\frac{5}{2}{x^2} + \frac{1}{2}xy + \frac{1}{2}xy + \frac{5}{2}{y^2}} \right) = \left( 6 \right) \Rightarrow \frac{5}{2}{x^2} + xy + \frac{5}{2}{y^2} = 6." xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mi>x</mi>
+<mi>y</mi>
+<mo>+</mo>
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+<mi>x</mi>
+<mi>y</mi>
+<mo>+</mo>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mn>6</mn>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>x</mi>
+<mi>y</mi>
+<mo>+</mo>
+<mfrac>
+<mn>5</mn>
+<mn>2</mn>
+</mfrac>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>6.</mn>
+</math></span>       <em><strong>AG</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  {\frac{1}{{\sqrt 2 }}} \\   {\frac{{ - 1}}{{\sqrt 2 }}}  \end{array}} \right) = \frac{1}{{\sqrt 2 }}\left( {\begin{array}{*{20}{c}}  1 \\   { - 1}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> corresponding to <span class="mjpage"><math alttext="\lambda  = 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+<mo>=</mo>
+<mn>2</mn>
+</math></span>,     <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  {\frac{1}{{\sqrt 2 }}} \\   {\frac{1}{{\sqrt 2 }}}  \end{array}} \right) = \frac{1}{{\sqrt 2 }}\left( {\begin{array}{*{20}{c}}  1 \\   1  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> corresponding to <span class="mjpage"><math alttext="\lambda  = 3" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>λ</mi>
+<mo>=</mo>
+<mn>3</mn>
+</math></span>      <em><strong>R1R1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span style="font-size: 10.5pt;font-family: 'Verdana',sans-serif;color: black;"><span class="mjpage"><math alttext="M\left( {\begin{array}{*{20}{c}}  {\frac{1}{{\sqrt 2 }}} \\   {\frac{{ - 1}}{{\sqrt 2 }}}   \end{array}} \right) = 2\left( {\begin{array}{*{20}{c}}  {\frac{1}{{\sqrt 2 }}} \\   {\frac{{ - 1}}{{\sqrt 2 }}}   \end{array}} \right)\,\,{\text{and}}\,\,M\left( {\begin{array}{*{20}{c}}  {\frac{1}{{\sqrt 2 }}} \\   {\frac{1}{{\sqrt 2 }}}   \end{array}} \right) = 3\left( {\begin{array}{*{20}{c}}  {\frac{1}{{\sqrt 2 }}} \\   {\frac{1}{{\sqrt 2 }}}   \end{array}} \right) \Rightarrow M\left( {\begin{array}{*{20}{c}}  {\begin{array}{*{20}{c}}  {\frac{1}{{\sqrt 2 }}}&amp;{\frac{1}{{\sqrt 2 }}}   \end{array}} \\   {\begin{array}{*{20}{c}}  {\frac{{ - 1}}{{\sqrt 2 }}}&amp;{\frac{1}{{\sqrt 2 }}}   \end{array}}   \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  {\begin{array}{*{20}{c}}  {\frac{1}{{\sqrt 2 }}}&amp;{\frac{1}{{\sqrt 2 }}}   \end{array}} \\   {\begin{array}{*{20}{c}}  {\frac{{ - 1}}{{\sqrt 2 }}}&amp;{\frac{1}{{\sqrt 2 }}}   \end{array}}   \end{array}} \right)\left( {\begin{array}{*{20}{c}}  2&amp;0 \\   0&amp;3   \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>M</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>2</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>and</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>M</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>3</mn>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mi>M</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>      <strong><em><span style="font-family: 'Verdana',sans-serif;">A1AG</span></em></strong></span></p>
+<p><strong><em><span style="font-size: 10.5pt;font-family: 'Verdana',sans-serif;color: black;">[1 mark]</span></em></strong></p>
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Determinant is 1.   <span class="mjpage"><math alttext="{\mathbf{R}} = \left( {\begin{array}{*{20}{c}}  {\begin{array}{*{20}{c}}  {\tfrac{1}{{\sqrt 2 }}}&amp;{\tfrac{{ - 1}}{{\sqrt 2 }}}  \end{array}} \\   {\begin{array}{*{20}{c}}  {\tfrac{1}{{\sqrt 2 }}}&amp;{\tfrac{1}{{\sqrt 2 }}}  \end{array}}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>        <em><strong>M1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="{\mathbf{M}}{{\mathbf{R}}^{ - 1}} = {{\mathbf{R}}^{ - 1}}\left( {\begin{array}{*{20}{c}}  2&amp;0 \\   0&amp;3  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="bold">M</mi>
+</mrow>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> so post multiplying by <span class="mjpage"><math alttext="{\mathbf{R}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+</math></span> gives <span class="mjpage"><math alttext="{\mathbf{M}} = {{\mathbf{R}}^{ - 1}}\left( {\begin{array}{*{20}{c}}  2&amp;0 \\   0&amp;3  \end{array}} \right){\mathbf{R}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mrow>
+<mi mathvariant="bold">M</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+</math></span>       <em><strong>M1AG</strong></em></p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  {\begin{array}{*{20}{c}}  {\tfrac{1}{{\sqrt 2 }}}&amp;{\tfrac{{ - 1}}{{\sqrt 2 }}}  \end{array}} \\   {\begin{array}{*{20}{c}}  {\tfrac{1}{{\sqrt 2 }}}&amp;{\tfrac{1}{{\sqrt 2 }}}  \end{array}}  \end{array}} \right)\left( {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  X \\   Y  \end{array}} \right) \Rightarrow \left( {\begin{array}{*{20}{c}}  {\tfrac{1}{{\sqrt 2 }}x - \tfrac{1}{{\sqrt 2 }}y} \\   {\tfrac{1}{{\sqrt 2 }}x + \tfrac{1}{{\sqrt 2 }}y}  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  X \\   Y  \end{array}} \right) \Rightarrow \left( {\begin{array}{*{20}{c}}  X&amp;Y  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  {\tfrac{1}{{\sqrt 2 }}x - \tfrac{1}{{\sqrt 2 }}y}&amp;{\tfrac{1}{{\sqrt 2 }}x + \tfrac{1}{{\sqrt 2 }}y}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>X</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>Y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+<mi>x</mi>
+<mo>−</mo>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+<mi>y</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+<mi>x</mi>
+<mo>+</mo>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+<mi>y</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>X</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>Y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>X</mi>
+</mtd>
+<mtd>
+<mi>Y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+<mi>x</mi>
+<mo>−</mo>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+<mi>y</mi>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+<mi>x</mi>
+<mo>+</mo>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+<mi>y</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span>         <em><strong>M1A1</strong></em></p>
+<p>and <span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  x&amp;y  \end{array}} \right)\left( {\begin{array}{*{20}{c}}  {\begin{array}{*{20}{c}}  {\tfrac{1}{{\sqrt 2 }}}&amp;{\tfrac{1}{{\sqrt 2 }}}  \end{array}} \\   {\begin{array}{*{20}{c}}  {\tfrac{{ - 1}}{{\sqrt 2 }}}&amp;{\tfrac{1}{{\sqrt 2 }}}  \end{array}}  \end{array}} \right) = \left( {\begin{array}{*{20}{c}}  {\tfrac{1}{{\sqrt 2 }}x - \tfrac{1}{{\sqrt 2 }}y}&amp;{\tfrac{1}{{\sqrt 2 }}x + \tfrac{1}{{\sqrt 2 }}y}  \end{array}} \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+<mi>x</mi>
+<mo>−</mo>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+<mi>y</mi>
+</mrow>
+</mtd>
+<mtd>
+<mrow>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+<mi>x</mi>
+<mo>+</mo>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+</mstyle>
+<mi>y</mi>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+</math></span> completing the proof       <em><strong>A1AG</strong></em></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">e.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\left( {\begin{array}{*{20}{c}}  x&amp;y  \end{array}} \right){\mathbf{M}}\left( {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right) = \left( 6 \right) \Rightarrow \left( {\begin{array}{*{20}{c}}  x&amp;y  \end{array}} \right){{\mathbf{R}}^{ - 1}}\left( {\begin{array}{*{20}{c}}  2&amp;0 \\   0&amp;3  \end{array}} \right){\mathbf{R}}\left( {\begin{array}{*{20}{c}}  x \\   y  \end{array}} \right) = \left( 6 \right) \Rightarrow \left( {\begin{array}{*{20}{c}}  X&amp;Y  \end{array}} \right)\left( {\begin{array}{*{20}{c}}  2&amp;0 \\   0&amp;3  \end{array}} \right)\left( {\begin{array}{*{20}{c}}  X \\   Y  \end{array}} \right) = \left( 6 \right)" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mrow>
+<mi mathvariant="bold">M</mi>
+</mrow>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mn>6</mn>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<msup>
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+<mrow>
+<mo>−</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mrow>
+<mi mathvariant="bold">R</mi>
+</mrow>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>x</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mn>6</mn>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>X</mi>
+</mtd>
+<mtd>
+<mi>Y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>2</mn>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>X</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>Y</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mn>6</mn>
+<mo>)</mo>
+</mrow>
+</math></span></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow \left( {2{X^2} + 3{Y^2}} \right) = \left( 6 \right) \Rightarrow \frac{{{X^2}}}{3} + \frac{{{Y^2}}}{2} = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>2</mn>
+<mrow>
+<msup>
+<mi>X</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>3</mn>
+<mrow>
+<msup>
+<mi>Y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mn>6</mn>
+<mo>)</mo>
+</mrow>
+<mo stretchy="false">⇒</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>X</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mn>3</mn>
+</mfrac>
+<mo>+</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msup>
+<mi>Y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>       <em><strong>M1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">e.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="\frac{X}{{\sqrt 3 }} = u{\text{,}}\,\,\frac{Y}{{\sqrt 2 }} = v \Rightarrow {u^2} + {v^2} = 1" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mi>X</mi>
+<mrow>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mi>u</mi>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mfrac>
+<mi>Y</mi>
+<mrow>
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mfrac>
+<mo>=</mo>
+<mi>v</mi>
+<mo stretchy="false">⇒</mo>
+<mrow>
+<msup>
+<mi>u</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mrow>
+<msup>
+<mi>v</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>1</mn>
+</math></span>, a circle (centre at the origin radius of 1)     <em><strong>A1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>A rotation about the origin through an angle of 45° anticlockwise.    <em><strong>A1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>an ellipse, since the matrix represents a vertical and a horizontal stretch    <em><strong>R1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">h.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>an ellipse      <em><strong>A1</strong></em></p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">h.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="y = x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mi>x</mi>
+</math></span>, <span class="mjpage"><math alttext="y = - x" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>y</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mi>x</mi>
+</math></span>      <em><strong>A1A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">i.</div>
+</div>b:T569,<div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">c.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">d.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">e.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">e.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">f.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">g.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">h.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">h.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+[N/A]
+<div class="question_part_label">i.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/1/","children":["← back to topic ","1"]}]}],["$","h1",null,{"children":"EXM.3.AHL.TZ0.5"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"EXM"}],["$","span",null,{"children":["· ","ahl-1-15-eigenvalues-and-eigenvectors"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}]]}]

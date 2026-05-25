@@ -1,0 +1,110 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","302","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","302","d"],{"children":["__PAGE__?{\"id\":\"302\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","302","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:Td39,<div class="specification">
+<p>Consider the curves <span class="mjpage"><math alttext="{C_1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>C</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</math></span> and <span class="mjpage"><math alttext="{C_2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>C</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</math></span> defined as follows</p>
+<p style="text-align: center;"><span class="mjpage"><math alttext="{C_1}\,{\text{:}}\,xy = 4" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>C</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>:</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mi>y</mi>
+<mo>=</mo>
+<mn>4</mn>
+</math></span>,  <span class="mjpage"><math alttext="x &gt; 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>&gt;</mo>
+<mn>0</mn>
+</math></span></p>
+<p style="text-align: center;"><span class="mjpage"><math alttext="{C_2}\,{\text{:}}\,{y^2} - {x^2} = 2" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>C</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<mtext>:</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow>
+<msup>
+<mi>y</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow>
+<msup>
+<mi>x</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>=</mo>
+<mn>2</mn>
+</math></span>,  <span class="mjpage"><math alttext="x &gt; 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>x</mi>
+<mo>&gt;</mo>
+<mn>0</mn>
+</math></span></p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Using implicit differentiation, or otherwise, find <span class="mjpage"><math alttext="\frac{{{\text{d}}y}}{{{\text{d}}x}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mfrac> </math></span> for each curve in terms of <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> </math></span> and <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>y</mi> </math></span>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Let P(<span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>a</mi> </math></span>, <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>b</mi> </math></span>) be the unique point where the curves <span class="mjpage"><math alttext="{C_1}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>C</mi> <mn>1</mn> </msub> </mrow> </math></span> and <span class="mjpage"><math alttext="{C_2}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>C</mi> <mn>2</mn> </msub> </mrow> </math></span> intersect.</p>
+<p>Show that the tangent to <span class="mjpage"><math alttext="{C_1}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>C</mi> <mn>1</mn> </msub> </mrow> </math></span> at P is perpendicular to the tangent to <span class="mjpage"><math alttext="{C_2}" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>C</mi> <mn>2</mn> </msub> </mrow> </math></span> at P.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">b.</div>
+</div>a:T113c,<div class="question" style="padding-left: 20px;">
+<p style="color: #999;font-size: 90%;font-style: italic;">* This question is from an exam for a previous syllabus, and may contain minor differences in marking or structure.</p>
+<p><span class="mjpage"><math alttext="{C_1}\,{\text{:}}\,y + x\frac{{{\text{d}}y}}{{{\text{d}}x}} = 0" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>C</mi> <mn>1</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mrow> <mtext>:</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mi>y</mi> <mo>+</mo> <mi>x</mi> <mfrac> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mn>0</mn> </math></span>      <em><strong>(M1)</strong></em></p>
+<p><strong>Note:</strong> <em><strong>M1</strong> </em>is for use of both product rule and implicit differentiation.</p>
+<p> </p>
+<p><span class="mjpage"><math alttext=" \Rightarrow \frac{{{\text{d}}y}}{{{\text{d}}x}} =  - \frac{y}{x}" xmlns="http://www.w3.org/1998/Math/MathML"> <mo stretchy="false">⇒</mo> <mfrac> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mo>−</mo> <mfrac> <mi>y</mi> <mi>x</mi> </mfrac> </math></span>      <em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> Accept <span class="mjpage"><math alttext=" - \frac{4}{{{x^2}}}" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>−</mo> <mfrac> <mn>4</mn> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </mfrac> </math></span></p>
+<p> </p>
+<p><span class="mjpage"><math alttext="{C_2}\,{\text{:}}\,2y\frac{{{\text{d}}y}}{{{\text{d}}x}} - 2x = 0" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <msub> <mi>C</mi> <mn>2</mn> </msub> </mrow> <mspace width="thinmathspace"></mspace> <mrow> <mtext>:</mtext> </mrow> <mspace width="thinmathspace"></mspace> <mn>2</mn> <mi>y</mi> <mfrac> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mfrac> <mo>−</mo> <mn>2</mn> <mi>x</mi> <mo>=</mo> <mn>0</mn> </math></span>      <em><strong>(M1)</strong></em></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow \frac{{{\text{d}}y}}{{{\text{d}}x}} = \frac{x}{y}" xmlns="http://www.w3.org/1998/Math/MathML"> <mo stretchy="false">⇒</mo> <mfrac> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>y</mi> </mrow> <mrow> <mrow> <mtext>d</mtext> </mrow> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mi>x</mi> <mi>y</mi> </mfrac> </math></span>      <em><strong>A1</strong></em></p>
+<p><strong>Note:</strong> Accept <span class="mjpage"><math alttext=" \pm \frac{x}{{\sqrt {2 + {x^2}} }}" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>±</mo> <mfrac> <mi>x</mi> <mrow> <msqrt> <mn>2</mn> <mo>+</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> </math></span></p>
+<p> </p>
+<p><em><strong>[4 marks]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>substituting <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>a</mi> </math></span> and <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>b</mi> </math></span> for <span class="mjpage"><math alttext="x" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>x</mi> </math></span> and <span class="mjpage"><math alttext="y" xmlns="http://www.w3.org/1998/Math/MathML"> <mi>y</mi> </math></span>      <em><strong>M1</strong></em></p>
+<p>product of gradients at P is <span class="mjpage"><math alttext="\left( { - \frac{b}{a}} \right)\left( {\frac{a}{b}} \right) =  - 1" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mfrac> <mi>b</mi> <mi>a</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mrow> <mo>(</mo> <mrow> <mfrac> <mi>a</mi> <mi>b</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mo>−</mo> <mn>1</mn> </math></span> or equivalent reasoning       <em><strong>R1</strong></em></p>
+<p><strong>Note:</strong> The <em><strong>R1</strong> </em>is dependent on the previous <em><strong>M1</strong></em>. </p>
+<p> </p>
+<p>so tangents are perpendicular       <em><strong>AG</strong></em></p>
+<p> </p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/5/","children":["← back to topic ","5"]}]}],["$","h1",null,{"children":"18N.1.AHL.TZ0.H_7"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AA"}],["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"18N"}],["$","span",null,{"children":["· ","ahl-5-14-implicit-functions-related-rates-optimisation"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

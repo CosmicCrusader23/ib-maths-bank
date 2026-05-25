@@ -1,0 +1,248 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d218828f1f4aa80d.js","878","static/chunks/app/q/%5Bid%5D/page-87de74e6aace3b54.js"],""]
+7:I[9896,["234","static/chunks/234-d218828f1f4aa80d.js","185","static/chunks/app/layout-de62fc915ba2f962.js"],"MathJax"]
+4:["id","878","d"]
+0:["RzKK9m21d0OrV9Pb3yC8x",[[["",{"children":["q",{"children":[["id","878","d"],{"children":["__PAGE__?{\"id\":\"878\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","878","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ib-maths-bank/_next/static/css/5092c46a7d88bc97.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":"IB Maths Bank"}],["$","nav",null,{"children":[["$","$L6",null,{"href":"/","children":"Topics"}],["$","$L6",null,{"href":"/about","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L7",null,{}]]}]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Maths Bank"}],["$","meta","3",{"name":"description","content":"Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic."}]]
+1:null
+9:T1ef3,<div class="specification">
+<p>Urvashi wants to model the height of a moving object. She collects the following data showing the height, <span class="mjpage"><math alttext="h" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>h</mi>
+</math></span>  metres, of the object at time <span class="mjpage"><math alttext="t" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+</math></span> seconds.</p>
+<p style="text-align: center;"><img src="data:image/png;base64,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"/></p>
+<p style="text-align: left;">She believes the height can be modeled by a quadratic function, <span class="mjpage"><math alttext="h\left( t \right) = a{t^2} + bt + c" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>h</mi>
+<mrow>
+<mo>(</mo>
+<mi>t</mi>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mi>a</mi>
+<mrow>
+<msup>
+<mi>t</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mi>b</mi>
+<mi>t</mi>
+<mo>+</mo>
+<mi>c</mi>
+</math></span>, where <span class="mjpage"><math alttext="a{\text{,}}\,\,b{\text{,}}\,\,c \in \mathbb{R}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>b</mi>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>c</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow>
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+</math></span>.</p>
+</div><div class="specification">
+<p>Hence find</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Show that <span class="mjpage"><math alttext="4a + 2b + c = 34" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>4</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>b</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mo>=</mo>
+<mn>34</mn>
+</math></span>.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Write down two more equations for <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span>, <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+</math></span> and <span class="mjpage"><math alttext="c" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>c</mi>
+</math></span>.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Solve this system of three equations to find the value of <span class="mjpage"><math alttext="a" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+</math></span>, <span class="mjpage"><math alttext="b" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>b</mi>
+</math></span> and <span class="mjpage"><math alttext="c" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>c</mi>
+</math></span>.</p>
+<div class="marks">[4]</div>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>when the height of the object is zero.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>the maximum height of the object.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">d.ii.</div>
+</div>a:Tf11,<div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="t = 2{\text{,}}\,\,h = 34 \Rightarrow \,\,34 = a{2^2} + 2b + c" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>h</mi>
+<mo>=</mo>
+<mn>34</mn>
+<mo stretchy="false">⇒</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mn>34</mn>
+<mo>=</mo>
+<mi>a</mi>
+<mrow>
+<msup>
+<mn>2</mn>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>2</mn>
+<mi>b</mi>
+<mo>+</mo>
+<mi>c</mi>
+</math></span>     <em><strong>M1 </strong></em></p>
+<p><span class="mjpage"><math alttext=" \Rightarrow {\text{ }}34 = 4a + 2b + c" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo stretchy="false">⇒</mo>
+<mrow>
+<mtext> </mtext>
+</mrow>
+<mn>34</mn>
+<mo>=</mo>
+<mn>4</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>b</mi>
+<mo>+</mo>
+<mi>c</mi>
+</math></span>     <em><strong>AG</strong></em></p>
+<p><em><strong>[1 mark]</strong></em></p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt to substitute either (5, 38) or (7, 24)      <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="25a + 5b + c = 38" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>25</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mn>5</mn>
+<mi>b</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mo>=</mo>
+<mn>38</mn>
+</math></span>      <em><strong>A</strong><strong>1</strong></em></p>
+<p><span class="mjpage"><math alttext="49a + 7b + c = 24" xmlns="http://www.w3.org/1998/Math/MathML">
+<mn>49</mn>
+<mi>a</mi>
+<mo>+</mo>
+<mn>7</mn>
+<mi>b</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mo>=</mo>
+<mn>24</mn>
+</math></span>      <em><strong>A</strong><strong>1 </strong></em></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext="a =  - \frac{5}{3}{\text{,}}\,\,b = 13{\text{,}}\,\,c = \frac{{44}}{3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>a</mi>
+<mo>=</mo>
+<mo>−</mo>
+<mfrac>
+<mn>5</mn>
+<mn>3</mn>
+</mfrac>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>b</mi>
+<mo>=</mo>
+<mn>13</mn>
+<mrow>
+<mtext>,</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>c</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>44</mn>
+</mrow>
+<mn>3</mn>
+</mfrac>
+</math></span>     <em><strong>M1A1A1A1</strong></em></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">c.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><span class="mjpage"><math alttext=" - \frac{5}{3}{t^2} + 13t + \frac{{44}}{3} = 0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mo>−</mo>
+<mfrac>
+<mn>5</mn>
+<mn>3</mn>
+</mfrac>
+<mrow>
+<msup>
+<mi>t</mi>
+<mn>2</mn>
+</msup>
+</mrow>
+<mo>+</mo>
+<mn>13</mn>
+<mi>t</mi>
+<mo>+</mo>
+<mfrac>
+<mrow>
+<mn>44</mn>
+</mrow>
+<mn>3</mn>
+</mfrac>
+<mo>=</mo>
+<mn>0</mn>
+</math></span>      <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="t = 8.8" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>t</mi>
+<mo>=</mo>
+<mn>8.8</mn>
+</math></span> seconds    <em><strong>M1A1</strong></em></p>
+<p><em><strong>[3 marks]</strong></em></p>
+<div class="question_part_label">d.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>attempt to find maximum height, e.g. sketch of graph     <em><strong>M1</strong></em></p>
+<p><span class="mjpage"><math alttext="h = 40.0" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>h</mi>
+<mo>=</mo>
+<mn>40.0</mn>
+</math></span> metres    <em><strong>A1</strong></em></p>
+<p><em><strong>[2 marks]</strong></em></p>
+<div class="question_part_label">d.ii.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/topic/2/","children":["← back to topic ","2"]}]}],["$","h1",null,{"children":"EXM.2.SL.TZ0.3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"AI"}],["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"EXM"}],["$","span",null,{"children":["· ","sl-2-6-modelling-skills"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.i.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">d.ii.</div>\n</div>"}}]]}]]}]
