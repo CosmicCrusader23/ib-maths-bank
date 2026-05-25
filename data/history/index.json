@@ -1,0 +1,40 @@
+{
+  "subject": "history",
+  "label": "History",
+  "topics": [
+    {
+      "id": "1",
+      "name": "Prescribed subjects",
+      "count": 165
+    },
+    {
+      "id": "2",
+      "name": "World history topics",
+      "count": 365
+    },
+    {
+      "id": "3",
+      "name": "HL option — Africa and the Middle East",
+      "count": 384
+    },
+    {
+      "id": "4",
+      "name": "HL option — Americas",
+      "count": 384
+    },
+    {
+      "id": "5",
+      "name": "HL option — Asia and Oceania",
+      "count": 384
+    },
+    {
+      "id": "6",
+      "name": "HL option — Europe",
+      "count": 384
+    }
+  ],
+  "sources": {
+    "pestle": 2066
+  },
+  "total": 2066
+}

@@ -1,0 +1,76 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d28401d6af3ccf77.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5926,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-18620e7c1f8c07d8.js"],"default"]
+8:I[5262,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-18620e7c1f8c07d8.js"],"SearchBar"]
+9:I[1495,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-18620e7c1f8c07d8.js"],"MathJax"]
+4:["id","31146","d"]
+0:["aCx8O8eB6rqtmgGJdkGl0",[[["",{"children":["q",{"children":[["id","31146","d"],{"children":["__PAGE__?{\"id\":\"31146\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","31146","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c321de3e7e9e447c.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":[["$","$L7",null,{"iconNode":[["path",{"d":"M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z","key":"1s2grr"}],["path",{"d":"M20 2v4","key":"1rf3ol"}],["path",{"d":"M22 4h-4","key":"gwowj6"}],["circle",{"cx":"4","cy":"20","r":"2","key":"6kqj1y"}]],"className":"lucide-sparkles","size":18,"strokeWidth":2.25,"aria-hidden":"true"}],["$","span",null,{"children":"IB Revision Bank"}]]}],["$","div",null,{"className":"topbar-tools","children":[["$","$L8",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":[["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}],["$","p",null,{"className":"footer-credit","children":["Made by ",["$","a",null,{"href":"https://github.com/CosmicCrusader23","target":"_blank","rel":"noopener noreferrer","children":"Cosmic Crusader"}]]}]]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Free, curated IB question bank covering Mathematics (AA & AI), Physics, Chemistry, Biology, Economics, ESS, Psychology and History — every question grouped by syllabus topic and pulled from public revision sources."}],["$","link","4",{"rel":"icon","href":"/icon.svg?eecb57bc422eb7d2","type":"image/svg+xml","sizes":"any"}]]
+1:null
+b:Tbe5,<div class="specification">
+<p>The stimulus material below describes a study on the influence of knowledge of stereotype threat on women’s math performance. Stereotype threat means that people believe a negative stereotype about themselves.</p>
+<p>Previous research on stereotype threat and math suggests that women who are reminded of their gender before taking a math test will underperform compared to women who are not reminded of their gender.</p>
+<p>The aim of this study was to test if teaching about the potential effect of stereotype threat before a math multiple-choice test helps women to perform better.</p>
+<p>A convenience sample of 80 female university students taking a course of introductory statistics (N=80) and with a mean age of 19.5 years was selected. Participants received extra credit for participation. The female experimenter informed participants about the study and before the participants signed an informed consent form, she informed them about their rights to confidentiality and anonymity and about their rights to withdraw themselves or their data at any time. They were not fully informed about the purpose of the study until debriefing.</p>
+<p>The participants were randomly allocated to one of two conditions:</p>
+<ul>
+<li>Condition 1 (math-test): participants were told that they would take an easy standardized math test for a study on gender and mathematical performance.<br/><br/></li>
+<li>Condition 2 (math-test and teaching intervention): participants received the same instructions as in condition 1, but the researcher also gave a brief lecture on the stereotype threat and said that women could experience anxiety due to the negative stereotypes of women and math. However, a stereotype had nothing to do with them and how well they might do on the test.</li>
+</ul>
+<p>All participants were asked to write their gender on the tests, and then they had 30 minutes to complete the math test.</p>
+<p>The results showed that participants in condition 1 scored lower than participants in condition 2.<br/>The researcher concluded that knowledge of the stereotype threat had resulted in the better performance in condition 2. They suggested that teaching about stereotype threat could help other women to attribute anxiety about math to the stereotype and not to themselves.</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Identify the research method used and outline<strong> two</strong> characteristics of the method.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Describe the sampling method used in the study.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Suggest an alternative or additional research method giving <strong>one</strong> reason for your choice.</p>
+<div class="marks">[3]</div>
+<div class="question_part_label">c.</div>
+</div>c:T1348,<div class="question" style="padding-left: 20px;">
+<p>Award <strong>[1]</strong> for stating lab experiment (or true experiment). Stating ‘experiment’ without specification is acceptable.</p>
+<p>Answers related to characteristics of the method may include two of the following characteristics: <strong>[1]</strong> per relevant point. Maximum of <strong>[2]</strong>.</p>
+<p>Answers that outline characteristics such as controls, cause effect relationship, IV and DV may be awarded marks for this even if they have not identified the research method as a lab experiment.</p>
+<ul>
+<li>A lab experiment involves random allocation of participants to the experimental groups (alternative: to the exposure of the independent variable).</li>
+<li>An experiment involves at least two conditions. In this study condition 1 was the “math-test” condition alone, and condition 2 was the “math-test and teaching intervention”.</li>
+<li>The IV was whether participants were exposed to the teaching intervention or not, and the DV was the score on the math test.</li>
+<li>An experiment has a hypothesis: the hypothesis was that female participants in condition 2 (with the teaching intervention) would score higher on the math test than female participants in condition 1 (without the teaching intervention).</li>
+<li>A lab experiment is characterized by rigorous control to avoid confounding variables, for example, participant variables. The participants were randomly allocated into the two groups.</li>
+<li>The lab experiment can establish a cause-effect relationship between manipulation of the IV and its effect on the DV. In this study there was a causal relationship between the IV (learning about stereotype threat) and the DV (scores on the math test).</li>
+</ul>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Award <strong>[1]</strong> for stating convenience (or opportunity) sampling.</p>
+<p>Description of the sampling method may include two of the following characteristics: <strong>[1]</strong> per relevant point. Maximum of <strong>[2]</strong>.</p>
+<ul>
+<li>A convenience/opportunity sample consists of participants representing the population of interest. In the case of the study in the stimulus material, the population is female university students and the topic is of general interest (stereotype threat related to math performance).</li>
+<li>A convenience/opportunity sample consists of participants based on availability and willingness to participate. It is an easy and quick way to get a sample and often used in research at universities as in this study.</li>
+<li>Convenience (or opportunity) sampling is a non-probability sampling method, which means that participants are not chosen randomly.</li>
+<li>A convenience/opportunity sample suffers from selection bias and is therefore not necessarily representative of the population being studied (may lack population validity)</li>
+<li>Any other relevant point(s).</li>
+</ul>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Award <strong>[1]</strong> for naming an alternative or additional research method and <strong>[2]</strong> for rationale.</p>
+<p>Alternative or additional research methods include, but are not limited to:</p>
+<p><strong>Focus group interviews</strong></p>
+<p>Rationales for using focus group interviews could include, but are not limited to:</p>
+<ul>
+<li>The female students' own perception of stereotype threat in relation to math and test anxiety could be explored. The facilitator would encourage the participants to share their views and experiences of anxiety and lack of confidence in math.</li>
+<li>This qualitative approach would give a subjective view on each participant’s experiences with stereotypes, and how this might have affected their performance.</li>
+<li>The qualitative data could supplement the experimental data and give the researchers insight into aspects of the stereotype threat that they had not thought of themselves or, initiate further experimental research based on the findings of the focus group interviews.</li>
+</ul>
+<p><strong>Semi-structured interviews</strong></p>
+<p>Rationales for using semi-structured interviews could include, but are not limited to:</p>
+<ul>
+<li>Semi-structured interviews could make a valuable contribution to an overall understanding of issues involved in gender stereotypes and math. The use of semi-structured interviews gives the participants the possibility to provide in-depth answers and to elaborate on specific points.</li>
+<li>The inductive content analysis of the semi-structured interview may reveal themes related to everyday stereotyping or negative expectations in relation to women and math that could contribute to a deeper understanding of the problem than that found in an experiment.</li>
+</ul>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/psychology/topic/4/","children":["← back to ","Psychology"," topic ","4"]}]}],["$","h1",null,{"children":"19N.3.HL.TZ0.1"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Psychology"}],null,["$","span",null,{"children":"HL"}],["$","span",null,{"children":["Paper ","3"]}],["$","span",null,{"children":"19N"}],["$","span",null,{"children":["· ","research-methods-(hl-p3-only), elements-of-researching-behavior-(hl-p3-only)"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$b"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n[N/A]\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

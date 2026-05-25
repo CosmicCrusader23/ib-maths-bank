@@ -1,0 +1,50 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d28401d6af3ccf77.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5926,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-18620e7c1f8c07d8.js"],"default"]
+8:I[5262,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-18620e7c1f8c07d8.js"],"SearchBar"]
+9:I[1495,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-18620e7c1f8c07d8.js"],"MathJax"]
+4:["id","31162","d"]
+0:["aCx8O8eB6rqtmgGJdkGl0",[[["",{"children":["q",{"children":[["id","31162","d"],{"children":["__PAGE__?{\"id\":\"31162\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","31162","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c321de3e7e9e447c.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":[["$","$L7",null,{"iconNode":[["path",{"d":"M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z","key":"1s2grr"}],["path",{"d":"M20 2v4","key":"1rf3ol"}],["path",{"d":"M22 4h-4","key":"gwowj6"}],["circle",{"cx":"4","cy":"20","r":"2","key":"6kqj1y"}]],"className":"lucide-sparkles","size":18,"strokeWidth":2.25,"aria-hidden":"true"}],["$","span",null,{"children":"IB Revision Bank"}]]}],["$","div",null,{"className":"topbar-tools","children":[["$","$L8",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":[["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}],["$","p",null,{"className":"footer-credit","children":["Made by ",["$","a",null,{"href":"https://github.com/CosmicCrusader23","target":"_blank","rel":"noopener noreferrer","children":"Cosmic Crusader"}]]}]]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Free, curated IB question bank covering Mathematics (AA & AI), Physics, Chemistry, Biology, Economics, ESS, Psychology and History — every question grouped by syllabus topic and pulled from public revision sources."}],["$","link","4",{"rel":"icon","href":"/icon.svg?eecb57bc422eb7d2","type":"image/svg+xml","sizes":"any"}]]
+1:null
+b:T8f0,<div class="question">
+<p><em>Refer to the paper 2 assessment criteria when awarding marks</em>. <em>These can be found under the “Your tests” tab &gt; supplemental materials.</em></p>
+<p>The command term “discuss” requires candidates to offer a considered review of the use of one or more psychological treatments in relation to one psychological disorder. Psychological treatments employ psychological theory to improve or eliminate symptoms of psychological disorders.</p>
+<p>The disorder chosen is likely to come from those presented in the guide:</p>
+<ul>
+<li>anxiety disorders</li>
+<li>depressive disorders</li>
+<li>obsessive compulsive disorders</li>
+<li>trauma and stress-related disorders</li>
+<li>eating disorders.</li>
+</ul>
+<p>Psychological treatments chosen may include, but are not limited to:</p>
+<ul>
+<li>Interpersonal Therapy (IPT)</li>
+<li>Cognitive Behavioural Therapy (CBT)</li>
+<li>Exposure and Systematic desensitization</li>
+<li>Virtual Reality Therapy (VRT)</li>
+<li>Mindfulness-based Cognitive Therapy (MBCT)</li>
+<li>Group CBT.</li>
+</ul>
+<p>Descriptions of biological treatments can only be credited if they form part of the critical discussion of psychological ones.</p>
+<p>Relevant research may include, but is not limited to:</p>
+<ul>
+<li>Mason and Hargreaves’ (2011) qualitative investigation into the effectiveness of MBCT</li>
+<li>Butler <em>et al</em>.’s (2006) review of meta-analysis related to CBT efficacy</li>
+<li>Hodges and Oei’s (2007) discussion of the applicability of CBT to Chinese culture</li>
+<li>McLay <em>et al</em>.’s (2011) assessment of the effectiveness of VRT for post-traumatic stress disorder.</li>
+</ul>
+<p>Critical discussion in relation to the use of the chosen treatment may include, but is not limited to:</p>
+<ul>
+<li>assumptions and biases</li>
+<li>areas of uncertainty</li>
+<li>comparison with alternative treatments</li>
+<li>link to etiological considerations</li>
+<li>advantages and disadvantages of its use</li>
+<li>effectiveness based on empirical research</li>
+<li>ethical considerations in its use.</li>
+</ul>
+<p>If a candidate discusses treatment for more than one psychological disorder, credit should be given only to the part of the response related to the first psychological disorder.</p>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/psychology/topic/5/","children":["← back to ","Psychology"," topic ","5"]}]}],["$","h1",null,{"children":"20N.2.BP.TZ0.3"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"Psychology"}],null,null,null,null,["$","span",null,{"children":["· ","treatment-of-disorders"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n<p>Discuss the use of <strong>one or more</strong> psychological treatments for <strong>one</strong> psychological disorder.</p>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\">\n<p>Question 3 was also popular. Generally candidates stuck to addressing disorders from the guide. CBT tended to be the most discussed treatment. Research was relevant in most cases, and candidates generally discussed the effectiveness of psychological treatment versus more biological treatments.</p>\n<p>Only a few candidates made the mistake of confusing biological treatments with psychological ones.</p>\n</div>"}}]]}]]}]

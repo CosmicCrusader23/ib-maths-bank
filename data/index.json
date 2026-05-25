@@ -35,13 +35,25 @@
       "label": "ESS",
       "total": 268,
       "topic_count": 8
+    },
+    {
+      "key": "psychology",
+      "label": "Psychology",
+      "total": 270,
+      "topic_count": 9
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "total": 2066,
+      "topic_count": 6
     }
   ],
   "sources": {
-    "pestle": 7454,
+    "pestle": 9790,
     "christos-maa-exercise": 70,
     "christos-mai-exercise": 66,
     "christos-maa-tests": 56
   },
-  "total": 7646
+  "total": 9982
 }

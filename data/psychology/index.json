@@ -1,0 +1,55 @@
+{
+  "subject": "psychology",
+  "label": "Psychology",
+  "topics": [
+    {
+      "id": "1",
+      "name": "Biological approach to behaviour",
+      "count": 35
+    },
+    {
+      "id": "2",
+      "name": "Cognitive approach to behaviour",
+      "count": 36
+    },
+    {
+      "id": "3",
+      "name": "Sociocultural approach to behaviour",
+      "count": 30
+    },
+    {
+      "id": "4",
+      "name": "Research methodology",
+      "count": 21
+    },
+    {
+      "id": "5",
+      "name": "Option — Abnormal psychology",
+      "count": 35
+    },
+    {
+      "id": "6",
+      "name": "Option — Developmental psychology",
+      "count": 32
+    },
+    {
+      "id": "7",
+      "name": "Option — Health psychology",
+      "count": 33
+    },
+    {
+      "id": "8",
+      "name": "Option — Psychology of human relationships",
+      "count": 33
+    },
+    {
+      "id": "9",
+      "name": "Option — Sport psychology",
+      "count": 15
+    }
+  ],
+  "sources": {
+    "pestle": 270
+  },
+  "total": 270
+}
