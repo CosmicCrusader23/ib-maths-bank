@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import type { SubjectIndex } from "@/lib/data";
+import { TestSetup } from "@/components/TestSetup";
 
 interface Props {
   subjects: { key: string; data: SubjectIndex }[];
@@ -35,9 +36,12 @@ export function SubjectTabs({ subjects, defaultKey }: Props) {
         ))}
       </div>
 
-      <div className="summary-bar">
-        <span>{data.total.toLocaleString()} questions</span>
-        {sourceLine && <span>{sourceLine}</span>}
+      <div className="page-header" style={{ margin: "16px 0 8px" }}>
+        <div className="summary-bar" style={{ margin: 0 }}>
+          <span>{data.total.toLocaleString()} questions in {data.label}</span>
+          {sourceLine && <span>{sourceLine}</span>}
+        </div>
+        <TestSetup subject={current.key} hasMaths={current.key === "maths"} />
       </div>
 
       <div className="topic-grid">

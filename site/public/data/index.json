@@ -3,7 +3,7 @@
     {
       "key": "maths",
       "label": "Mathematics",
-      "total": 1804,
+      "total": 1926,
       "topic_count": 5
     },
     {
@@ -15,7 +15,9 @@
   ],
   "sources": {
     "pestle": 3158,
-    "christos": 70
+    "christos-maa-exercise": 70,
+    "christos-mai-exercise": 66,
+    "christos-maa-tests": 56
   },
-  "total": 3228
+  "total": 3350
 }
