@@ -8,7 +8,6 @@ import sys
 from pathlib import Path
 
 from . import db
-from .topics import TOPICS
 
 KNOWN_SOURCES = {
     "pestle":   "ib_etl.sources.pestle",

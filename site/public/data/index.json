@@ -1,34 +1,27 @@
 {
-  "topics": [
+  "subjects": [
     {
-      "id": "1",
-      "name": "Number and algebra",
-      "count": 325
+      "key": "maths_aa",
+      "label": "Maths AA",
+      "total": 937,
+      "topic_count": 5
     },
     {
-      "id": "2",
-      "name": "Functions",
-      "count": 278
+      "key": "maths_ai",
+      "label": "Maths AI",
+      "total": 867,
+      "topic_count": 5
     },
     {
-      "id": "3",
-      "name": "Geometry and trigonometry",
-      "count": 344
-    },
-    {
-      "id": "4",
-      "name": "Statistics and probability",
-      "count": 481
-    },
-    {
-      "id": "5",
-      "name": "Calculus",
-      "count": 376
+      "key": "physics",
+      "label": "Physics",
+      "total": 1424,
+      "topic_count": 16
     }
   ],
   "sources": {
-    "pestle": 1734,
+    "pestle": 3158,
     "christos": 70
   },
-  "total": 1804
+  "total": 3228
 }

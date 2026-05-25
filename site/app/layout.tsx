@@ -4,9 +4,9 @@ import { MathJax } from "@/components/MathJax";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "IB Maths Bank",
+  title: "IB Revision Bank",
   description:
-    "Curated, merged question bank for IB Mathematics (AA & AI, HL & SL), grouped by syllabus topic.",
+    "Curated, merged question bank for IB Mathematics (AA & AI) and Physics, grouped by syllabus topic.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -14,9 +14,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body>
         <header className="topbar">
-          <Link href="/" className="brand">IB Maths Bank</Link>
+          <Link href="/" className="brand">IB Revision Bank</Link>
           <nav>
-            <Link href="/">Topics</Link>
+            <Link href="/">Subjects</Link>
             <Link href="/about">About</Link>
           </nav>
         </header>

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { listAllQuestionIds, loadQuestion } from "@/lib/data";
+import { formatSubject } from "@/lib/format";
 
 export async function generateStaticParams() {
   const ids = await listAllQuestionIds();
@@ -20,15 +21,20 @@ export default async function QuestionPage({
     notFound();
   }
 
+  const subjectLabel = formatSubject(q.subject);
+
   return (
     <article className="q-page">
       <p style={{ margin: 0 }}>
-        <Link href={`/topic/${q.topic_id}/`}>← back to topic {q.topic_id}</Link>
+        <Link href={`/subject/${q.subject}/topic/${q.topic_id}/`}>
+          ← back to {subjectLabel} topic {q.topic_id}
+        </Link>
       </p>
       <h1>{q.title || `Question ${q.id}`}</h1>
       <div className="q-meta">
         <span className="tag">{q.source}</span>
-        <span>{q.course}</span>
+        <span>{subjectLabel}</span>
+        {q.course && <span>{q.course}</span>}
         {q.level && <span>{q.level}</span>}
         {q.paper && <span>Paper {q.paper}</span>}
         {q.session && <span>{q.session}</span>}

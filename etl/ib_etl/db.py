@@ -13,25 +13,26 @@ SCHEMA = """
 CREATE TABLE IF NOT EXISTS questions (
     id              INTEGER PRIMARY KEY AUTOINCREMENT,
     source          TEXT    NOT NULL,
-    source_id       TEXT    NOT NULL,                    -- stable id within source
+    source_id       TEXT    NOT NULL,
     source_url      TEXT,
-    course          TEXT    NOT NULL,                    -- 'AA' | 'AI'
+    subject         TEXT    NOT NULL,                    -- 'maths_aa' | 'maths_ai' | 'physics' | ...
+    course          TEXT,                                -- legacy: 'AA' | 'AI' | null for physics
     level           TEXT,                                -- 'SL' | 'HL' | 'BOTH'
-    paper           TEXT,                                -- '1' | '2' | '3' or null
+    paper           TEXT,
     year            TEXT,
-    session         TEXT,                                -- e.g. '18M', '19N', 'SPM'
-    topic_id        TEXT    NOT NULL,                    -- '1'..'5'
-    subtopic        TEXT,                                -- source-native subtopic
+    session         TEXT,
+    topic_id        TEXT    NOT NULL,                    -- subject-scoped
+    subtopic        TEXT,
     title           TEXT,
     question_html   TEXT    NOT NULL,
     solution_html   TEXT,
     examiners_html  TEXT,
-    extra_json      TEXT,                                -- json blob for source-specific fields
+    extra_json      TEXT,
     UNIQUE(source, source_id)
 );
 
-CREATE INDEX IF NOT EXISTS idx_q_topic   ON questions(topic_id);
-CREATE INDEX IF NOT EXISTS idx_q_course  ON questions(course);
+CREATE INDEX IF NOT EXISTS idx_q_subject ON questions(subject);
+CREATE INDEX IF NOT EXISTS idx_q_topic   ON questions(subject, topic_id);
 CREATE INDEX IF NOT EXISTS idx_q_level   ON questions(level);
 CREATE INDEX IF NOT EXISTS idx_q_source  ON questions(source);
 """
@@ -47,8 +48,8 @@ def connect(path: Path = DB_PATH) -> sqlite3.Connection:
 
 def upsert_questions(conn: sqlite3.Connection, rows: Iterable[dict[str, Any]]) -> int:
     cols = (
-        "source", "source_id", "source_url", "course", "level", "paper",
-        "year", "session", "topic_id", "subtopic", "title",
+        "source", "source_id", "source_url", "subject", "course", "level",
+        "paper", "year", "session", "topic_id", "subtopic", "title",
         "question_html", "solution_html", "examiners_html", "extra_json",
     )
     placeholders = ",".join("?" for _ in cols)
@@ -62,9 +63,9 @@ def upsert_questions(conn: sqlite3.Connection, rows: Iterable[dict[str, Any]]) -
         extra = r.get("extra")
         values = [
             r.get("source"), r.get("source_id"), r.get("source_url"),
-            r.get("course"), r.get("level"), r.get("paper"),
-            r.get("year"), r.get("session"), r.get("topic_id"),
-            r.get("subtopic"), r.get("title"),
+            r.get("subject"), r.get("course"), r.get("level"),
+            r.get("paper"), r.get("year"), r.get("session"),
+            r.get("topic_id"), r.get("subtopic"), r.get("title"),
             r.get("question_html") or "", r.get("solution_html"),
             r.get("examiners_html"),
             json.dumps(extra, ensure_ascii=False) if extra is not None else None,
@@ -78,13 +79,13 @@ def upsert_questions(conn: sqlite3.Connection, rows: Iterable[dict[str, Any]]) -
 def stats(conn: sqlite3.Connection) -> dict[str, Any]:
     cur = conn.cursor()
     out = {"total": cur.execute("SELECT COUNT(*) FROM questions").fetchone()[0]}
+    out["by_subject"] = dict(cur.execute(
+        "SELECT subject, COUNT(*) FROM questions GROUP BY subject ORDER BY 2 DESC"
+    ).fetchall())
     out["by_source"] = dict(cur.execute(
         "SELECT source, COUNT(*) FROM questions GROUP BY source ORDER BY 2 DESC"
     ).fetchall())
-    out["by_course"] = dict(cur.execute(
-        "SELECT course, COUNT(*) FROM questions GROUP BY course ORDER BY 2 DESC"
-    ).fetchall())
     out["by_topic"] = dict(cur.execute(
-        "SELECT topic_id, COUNT(*) FROM questions GROUP BY topic_id ORDER BY 1"
+        "SELECT subject || ':' || topic_id, COUNT(*) FROM questions GROUP BY subject, topic_id ORDER BY 1"
     ).fetchall())
     return out

@@ -1,30 +1,34 @@
-"""Pestle (pirateIB) — IB QuestionBanks for Math AA / AI.
+"""Pestle (pirateIB) — IB QuestionBanks for Maths AA/AI and Physics.
 
-The full per-subject JSON banks are stored as git-LFS objects on
-git.pirateib.sh. We pull them once via the LFS media URL and parse them
-straight into our schema.
+Each per-subject JSON bank is a list of question objects with ``Question``,
+``Markscheme``, ``Examiners report``, ``question_id``, ``topics`` and
+``subtopics`` fields. The banks live as git-LFS objects on git.pirateib.sh,
+fetched once via the LFS media URL.
+
+Each row in the JSON has its topic slug already mapped onto the IB syllabus,
+so we just route via PESTLE_TOPIC_MAP into our (subject, topic_id) pair.
 """
 from __future__ import annotations
 
 import json
 import re
-from pathlib import Path
 from typing import Iterator
 
 from ..db import upsert_questions
 from ..http import CACHE, fetch
-from ..topics import PESTLE_TOPIC_TO_ID
+from ..topics import PESTLE_TOPIC_MAP
 
 BASE = "https://git.pirateib.sh/pirateIB/pestle/media/branch/master/assets/jsonqb"
-BANKS = {
-    "AA": f"{BASE}/Math%20AA%20QB.json",
-    "AI": f"{BASE}/Math%20AI%20QB.json",
-}
 
-# question_id formats (pestle):
-#   SPM.1.SL.TZ0.8                 — Specimen paper, paper 1, SL, qn 8
-#   18M.2.AHL.TZ2.H_10             — 2018 May session, paper 2, AHL (HL extension), qn H_10
-#   18N.1.SL.TZ0.T_5               — 2018 November, paper 1, SL, qn T_5
+# (bank_key, json filename, subject_resolver)
+#   subject_resolver: ('maths', tid) -> 'maths_aa'/'maths_ai' | ('physics', tid) -> 'physics'
+BANKS = [
+    ("Math AA QB",  "Math%20AA%20QB.json",  "maths_aa"),
+    ("Math AI QB",  "Math%20AI%20QB.json",  "maths_ai"),
+    ("Physics QB",  "Physics%20QB.json",    "physics"),
+]
+
+# question_id formats (pestle): SPM.1.SL.TZ0.8 | 18M.2.AHL.TZ2.H_10 | 18N.2.HL.TZ0.2
 ID_RE = re.compile(
     r"^(?P<session>SPM|EXM|EXN|\d{2}[MN])\."
     r"(?P<paper>\d)\."
@@ -35,52 +39,66 @@ ID_RE = re.compile(
 
 
 def _session_to_year(session: str) -> str | None:
-    if session in {"SPM", "EXM", "EXN"}:
+    if not session or session in {"SPM", "EXM", "EXN"}:
         return None
-    # '18M' -> 2018, '24N' -> 2024
-    yr = int(session[:2])
-    return str(2000 + yr)
+    return str(2000 + int(session[:2]))
 
 
 def _parse_id(qid: str) -> dict[str, str | None]:
-    m = ID_RE.match(qid)
+    m = ID_RE.match(qid or "")
     if not m:
         return {"session": None, "paper": None, "level": None, "tz": None, "qn": qid}
     g = m.groupdict()
     return {
         "session": g["session"],
         "paper": g["paper"],
-        # AHL is pestle-speak for the HL extension content; treat as HL for browsing
         "level": "HL" if g["level"] == "AHL" else g["level"],
         "tz": g["tz"],
         "qn": g["qn"],
     }
 
 
-def _row_iter(course: str, raw: list[dict]) -> Iterator[dict]:
+def _resolve_subject(course_subject: str, kind: str) -> str | None:
+    """Resolve a (kind, topic_id) marker to a real subject key.
+
+    For physics, the marker is already 'physics'. For maths, the marker is
+    'maths' and we use the bank's `course_subject` ('maths_aa' or 'maths_ai').
+    """
+    if kind == "physics":
+        return "physics"
+    if kind == "maths":
+        return course_subject if course_subject.startswith("maths_") else None
+    return None
+
+
+def _row_iter(bank_label: str, course_subject: str, raw: list[dict]) -> Iterator[dict]:
+    course_legacy = {"maths_aa": "AA", "maths_ai": "AI"}.get(course_subject)
     for q in raw:
         topics = q.get("topics") or []
-        # pestle puts every entry under exactly one numeric topic in practice;
-        # if multiple, we duplicate so each topic page has it.
-        topic_ids = [PESTLE_TOPIC_TO_ID[t] for t in topics if t in PESTLE_TOPIC_TO_ID]
-        if not topic_ids:
+        routes = []
+        for t in topics:
+            if t in PESTLE_TOPIC_MAP:
+                kind, tid = PESTLE_TOPIC_MAP[t]
+                subj = _resolve_subject(course_subject, kind)
+                if subj:
+                    routes.append((subj, tid))
+        if not routes:
             continue
         qid = q.get("question_id") or ""
         meta = _parse_id(qid)
         subtopics = q.get("subtopics") or []
-        # one row per (question, topic_id) so a question shows up under each
-        # of its topics on the site
-        for topic_id in topic_ids:
+        for subj, tid in routes:
             yield {
                 "source": "pestle",
-                "source_id": f"{course}:{qid}:{topic_id}",
+                "source_id": f"{bank_label}:{qid}:{subj}:{tid}",
                 "source_url": "https://pestle.pages.dev/app/",
-                "course": course,
+                "subject": subj,
+                "course": course_legacy,
                 "level": meta["level"],
                 "paper": meta["paper"],
                 "year": _session_to_year(meta["session"] or ""),
                 "session": meta["session"],
-                "topic_id": topic_id,
+                "topic_id": tid,
                 "subtopic": ", ".join(subtopics) if subtopics else None,
                 "title": qid,
                 "question_html": q.get("Question") or "",
@@ -95,14 +113,14 @@ def _row_iter(course: str, raw: list[dict]) -> Iterator[dict]:
 
 
 def ingest(conn) -> int:
-    """Pull both AA and AI banks, parse, upsert. Returns rows touched."""
     n = 0
-    for course, url in BANKS.items():
-        dest = CACHE / "pestle" / f"Math {course} QB.json"
-        print(f"  pestle: fetching {course}…")
+    for bank_label, filename, course_subject in BANKS:
+        url = f"{BASE}/{filename}"
+        dest = CACHE / "pestle" / f"{bank_label}.json"
+        print(f"  pestle: fetching {bank_label}…")
         data = fetch(url, dest=dest)
         raw = json.loads(data)
-        rows = list(_row_iter(course, raw))
+        rows = list(_row_iter(bank_label, course_subject, raw))
         n += upsert_questions(conn, rows)
-        print(f"  pestle: {course}: {len(raw)} questions → {len(rows)} rows")
+        print(f"  pestle: {bank_label}: {len(raw)} questions → {len(rows)} rows")
     return n

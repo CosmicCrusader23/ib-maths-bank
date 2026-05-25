@@ -1,14 +1,11 @@
-"""Export the SQLite DB to per-topic JSON files for the static site.
+"""Export the SQLite DB to per-subject/per-topic JSON for the site.
 
 Layout written under ``site/public/data/``::
 
-    index.json                     -- topics + counts + source list
-    topic-{1..5}.json              -- list of question metadata for that topic
-    questions/{id}.json            -- full HTML payload, lazy-loaded by the site
-
-The per-topic file contains lightweight rows so the listing page is small;
-the full question/solution HTML lives in ``questions/{id}.json`` and is fetched
-when the user opens a question.
+    index.json                                          -- subjects + counts
+    {subject}/index.json                                -- topics within subject
+    {subject}/topic-{topic_id}.json                     -- list summary
+    questions/{id}.json                                 -- full HTML payload
 """
 from __future__ import annotations
 
@@ -16,13 +13,14 @@ import json
 from pathlib import Path
 
 from . import db
-from .topics import TOPICS
+from .topics import SUBJECTS, SUBJECT_LABELS
 
 
-def _row_summary(r) -> dict:
+def _summary(r) -> dict:
     return {
         "id": r["id"],
         "source": r["source"],
+        "subject": r["subject"],
         "course": r["course"],
         "level": r["level"],
         "paper": r["paper"],
@@ -34,8 +32,8 @@ def _row_summary(r) -> dict:
     }
 
 
-def _row_full(r) -> dict:
-    out = _row_summary(r)
+def _full(r) -> dict:
+    out = _summary(r)
     out.update({
         "source_url": r["source_url"],
         "question_html": r["question_html"],
@@ -51,37 +49,60 @@ def run(out_dir: Path) -> Path:
     (out_dir / "questions").mkdir(exist_ok=True)
 
     cur = conn.cursor()
-    counts = {}
-    for tid in TOPICS:
-        rows = cur.execute(
-            "SELECT * FROM questions WHERE topic_id=? ORDER BY source, course, level, paper, session, title",
-            (tid,),
-        ).fetchall()
-        summaries = [_row_summary(r) for r in rows]
-        (out_dir / f"topic-{tid}.json").write_text(
-            json.dumps(summaries, ensure_ascii=False),
+    subjects_meta = []
+    for subject_key, topics in SUBJECTS.items():
+        subj_dir = out_dir / subject_key
+        subj_dir.mkdir(parents=True, exist_ok=True)
+        topic_meta = []
+        subject_total = 0
+        for tid, name in topics.items():
+            rows = cur.execute(
+                "SELECT * FROM questions WHERE subject=? AND topic_id=? "
+                "ORDER BY source, course, level, paper, session, title",
+                (subject_key, tid),
+            ).fetchall()
+            summaries = [_summary(r) for r in rows]
+            (subj_dir / f"topic-{tid}.json").write_text(
+                json.dumps(summaries, ensure_ascii=False), encoding="utf-8",
+            )
+            topic_meta.append({"id": tid, "name": name, "count": len(summaries)})
+            subject_total += len(summaries)
+            for r in rows:
+                (out_dir / "questions" / f"{r['id']}.json").write_text(
+                    json.dumps(_full(r), ensure_ascii=False), encoding="utf-8",
+                )
+        sources_in_subject = dict(cur.execute(
+            "SELECT source, COUNT(*) FROM questions WHERE subject=? GROUP BY source ORDER BY 2 DESC",
+            (subject_key,),
+        ).fetchall())
+        (subj_dir / "index.json").write_text(
+            json.dumps({
+                "subject": subject_key,
+                "label": SUBJECT_LABELS.get(subject_key, subject_key),
+                "topics": topic_meta,
+                "sources": sources_in_subject,
+                "total": subject_total,
+            }, ensure_ascii=False, indent=2),
             encoding="utf-8",
         )
-        counts[tid] = len(summaries)
-        for r in rows:
-            (out_dir / "questions" / f"{r['id']}.json").write_text(
-                json.dumps(_row_full(r), ensure_ascii=False),
-                encoding="utf-8",
-            )
+        subjects_meta.append({
+            "key": subject_key,
+            "label": SUBJECT_LABELS.get(subject_key, subject_key),
+            "total": subject_total,
+            "topic_count": len(topic_meta),
+        })
 
     sources = dict(cur.execute(
         "SELECT source, COUNT(*) FROM questions GROUP BY source ORDER BY 2 DESC"
     ).fetchall())
+    total = cur.execute("SELECT COUNT(*) FROM questions").fetchone()[0]
 
-    index = {
-        "topics": [
-            {"id": tid, "name": name, "count": counts.get(tid, 0)}
-            for tid, name in TOPICS.items()
-        ],
-        "sources": sources,
-        "total": sum(counts.values()),
-    }
     (out_dir / "index.json").write_text(
-        json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8",
+        json.dumps({
+            "subjects": subjects_meta,
+            "sources": sources,
+            "total": total,
+        }, ensure_ascii=False, indent=2),
+        encoding="utf-8",
     )
     return out_dir
