@@ -1,0 +1,70 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d28401d6af3ccf77.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5926,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-6fb9469bd2d06e63.js"],"default"]
+8:I[5262,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-6fb9469bd2d06e63.js"],"SearchBar"]
+9:I[1495,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-6fb9469bd2d06e63.js"],"MathJax"]
+4:["id","23195","d"]
+0:["CkC9yMieHpjFJyyAZim3-",[[["",{"children":["q",{"children":[["id","23195","d"],{"children":["__PAGE__?{\"id\":\"23195\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","23195","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d24b6eb633663b77.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":[["$","$L7",null,{"iconNode":[["path",{"d":"M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z","key":"1s2grr"}],["path",{"d":"M20 2v4","key":"1rf3ol"}],["path",{"d":"M22 4h-4","key":"gwowj6"}],["circle",{"cx":"4","cy":"20","r":"2","key":"6kqj1y"}]],"className":"lucide-sparkles","size":18,"strokeWidth":2.25,"aria-hidden":"true"}],["$","span",null,{"children":"IB Revision Bank"}]]}],["$","div",null,{"className":"topbar-tools","children":[["$","$L8",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Free, curated IB question bank covering Mathematics (AA & AI), Physics, Chemistry, Biology, Economics and ESS — every question grouped by syllabus topic and pulled from public revision sources."}]]
+1:null
+b:T11d5,<div class="question" style="padding-left: 20px;">
+<p>reflected from the leaf surface;<br/>absorbed by non-photosynthetic surface;<br/>heat/some wavelengths are absorbed by leaf but not used in photosynthesis/not converted into chemical energy;<br/>(chemical energy/GPP) respired by vegetation;<br/>(chemical energy/GPP) not eaten/harvested by consumer / dead material consumed by decomposers;<br/>eaten but not absorbed by herbivore / lost in faeces;<br/>absorbed by herbivore, but lost through respiration.</p>
+<p><em>Award <strong>[1]</strong> for each correct way identified, up to <strong>[4 max]</strong></em>.</p>
+<p> </p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>measure change in population size over year;<br/>using Lincoln Index/mark-release-recapture;<br/>set traps/capture a sample, mark and release them;<br/>re-set traps for a second capture and calculate the proportion marked and unmarked;</p>
+<p>use the equation: <sub><span class="mjpage"><math alttext="N = \frac{{{n_1} \times {n_2}}}{{{n_3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>N</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mrow>
+<msub>
+<mi>n</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+<mo>×</mo>
+<mrow>
+<msub>
+<mi>n</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+</mrow>
+<mrow>
+<mrow>
+<msub>
+<mi>n</mi>
+<mn>3</mn>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</math></span></sub></p>
+<p>weigh a sample of insects to find (wet) weight;<br/>use a conversion factor to calculate dry weight from (wet) weight;<br/>calculate mean dry weight/biomass per individual;<br/>from mean dry weights and population sizes calculate total weight change over year;<br/>estimate area occupied by population using measuring tapes/scale maps;<br/>divide total change in dry mass by area in m<sub>2</sub>;</p>
+<p><em>Award <strong>[1]</strong> for each correct suggestion, up to <strong>[7 max]</strong>.</em><br/><em>Credit any alternative sequence of procedures that is equally appropriate to finding </em><em>net secondary productivity eg using lab population and weighing dry weight of food, </em><em>faeces, respiration rates, etc, awarding marks similarly to scheme above</em>.</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>The following guide for using the markbands suggests certain features that may be offered in responses. The five headings coincide with the criteria given in each of the markbands (although “ESS terminology” has been conflated with “Understanding concepts”). This guide simply provides some <strong>possible</strong> inclusions and should not be seen as requisite or comprehensive. It outlines the kind of elements to look for when deciding on the appropriate markband and the specific mark within that band.</em></p>
+<p><em>Answers may include</em>:</p>
+<ul>
+<li>
+<strong>understanding concepts and terminology</strong> of natural income, net productivity, natural capital, stock sustainability, replenishment, maximum sustainable yield, rates of harvest, renewable/non-renewable, goods/services, <em>etc</em>
+</li>
+<li>
+<strong>breadth in addressing and linking</strong> net productivity and natural income with sustainable harvesting, maximum sustainable yield, impacts of extraction/transport/processing, management of resources, remaining stock/capital, their applicability to abiotic/biotic resources, renewable/nonrenewable resources, goods/services, <em>etc</em>
+</li>
+<li>
+<strong>examples</strong> of net productivity/natural income of named resources <em>eg</em> timber, freshwater, fish populations, river processing organic waste, fossil fuels, impacts of unsustainable extraction <em>eg</em> bycatch, access roads/infrastructure in forests, <em>etc</em>
+</li>
+<li>
+<strong>balanced analysis</strong> of the extent to which net productivity and natural income are applicable and sufficient concepts for ensuring sustainable use of a range of resources</li>
+<li>
+<strong>a conclusion that is consistent with, and supported by, analysis and examples given</strong> <em>eg</em> “Both concepts can be very useful in assessing the sustainability of harvesting but net productivity is more limited in its applications<br/>since it can only be applied to biotic resources and neither of the concepts take into account any unsustainable damage that may occur through the actual extraction of a resource.”</li>
+</ul>
+<p><em>Refer to paper 2 markbands, available under the "your tests" tab &gt; supplemental materials.</em></p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/ess/topic/2/","children":["← back to ","ESS"," topic ","2"]}]}],["$","h1",null,{"children":"17M.2.SL.TZ0.4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"ESS"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"17M"}],["$","span",null,{"children":["· ","2-3-flows-of-energy-and-matter, 8-2-resource-use-in-society"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Identify <strong>four</strong> ways in which solar energy reaching vegetation may be lost from an ecosystem before it contributes to the biomass of herbivores.</p>\n<div class=\"marks\">[4]</div>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>Suggest a series of procedures that could be used to estimate the net productivity of an insect population in kg m<sup>–2</sup> yr<sup>–1</sup>.</p>\n<div class=\"marks\">[7]</div>\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px; padding-right: 20px;\">\n<p>To what extent are the concepts of <em>net productivity</em> and <em>natural income</em> useful in managing the sustainable harvesting of named resources from natural ecosystems?</p>\n<div class=\"marks\">[9]</div>\n<div class=\"question_part_label\">c.</div>\n</div>"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n<p>Question 4 was the least popular question and generated very few good responses. Most candidates focused on energy losses in the atmosphere before reaching the vegetation …which was not addressed by the question.</p>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n<p>A good proportion of candidates gained some credit for describing a protocol to estimate population size, but few could go on to find productivity.</p>\n<div class=\"question_part_label\">b.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n<p>Most could link net productivity and natural income with sustainable harvesting …although some confused natural income with financial gain. Very few were able to evaluate this in different contexts however, particularly so in regard to the weakness in these quantities/models.</p>\n<div class=\"question_part_label\">c.</div>\n</div>"}}]]}]]}]

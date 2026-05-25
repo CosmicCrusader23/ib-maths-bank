@@ -1,0 +1,51 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d28401d6af3ccf77.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5926,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-6fb9469bd2d06e63.js"],"default"]
+8:I[5262,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-6fb9469bd2d06e63.js"],"SearchBar"]
+9:I[1495,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-6fb9469bd2d06e63.js"],"MathJax"]
+4:["id","23255","d"]
+0:["CkC9yMieHpjFJyyAZim3-",[[["",{"children":["q",{"children":[["id","23255","d"],{"children":["__PAGE__?{\"id\":\"23255\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","23255","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d24b6eb633663b77.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":[["$","$L7",null,{"iconNode":[["path",{"d":"M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z","key":"1s2grr"}],["path",{"d":"M20 2v4","key":"1rf3ol"}],["path",{"d":"M22 4h-4","key":"gwowj6"}],["circle",{"cx":"4","cy":"20","r":"2","key":"6kqj1y"}]],"className":"lucide-sparkles","size":18,"strokeWidth":2.25,"aria-hidden":"true"}],["$","span",null,{"children":"IB Revision Bank"}]]}],["$","div",null,{"className":"topbar-tools","children":[["$","$L8",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Free, curated IB question bank covering Mathematics (AA & AI), Physics, Chemistry, Biology, Economics and ESS — every question grouped by syllabus topic and pulled from public revision sources."}]]
+1:null
+b:T739,<div class="specification">
+<p><em>The resource booklet provides information on Algonquin Provincial Park in Canada. Use the resource booklet and your own studies to answer the following</em>.</p>
+</div><div class="specification">
+<p style="text-align: center;"><strong>Figure 7(b): Fact file on beaver hunting</strong></p>
+<ul>
+<li>By 1900 beavers had been hunted almost to extinction for their pelts (skin and fur).</li>
+<li>The IUCN classify beavers as “least concern” on the Red List.</li>
+<li>There are 19 registered trap lines in Algonquin Provincial Park where beavers may be trapped for their pelts by First Nation (indigenous) people.</li>
+<li>All trappers must have a licence, and may only trap during the hunting season using ethical traps.</li>
+<li>135 000 beavers are still trapped and killed in Canada each year.</li>
+<li>The price for a beaver pelt was US$19 in 2015, compared to US$500 a pelt in 1940.</li>
+<li>Many landowners trap beavers on their property because of the damage they cause. (Beavers cut timbers and their dams can create floods causing millions of dollars of economic damage.)</li>
+</ul>
+<p style="text-align: center;">[Source: adapted from www.couplesresort.ca, www.ontario.ca, www.sbaa.ca,<br/>www.ecology.info, www.tobyhemenway.com and http://acs7.cortland.edu]</p>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>With reference to <strong>Figure 7(b)</strong>, calculate the percentage reduction in the price of beaver pelt between 1940 and 2015.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Identify <strong>one</strong> reason why the value of beaver pelts has changed over time.</p>
+<div class="marks">[1]</div>
+<div class="question_part_label">b.</div>
+</div>c:T6ab,<div class="question" style="padding-left: 20px;">
+<p><em>Award <strong>[1]</strong> for working/calculation and<strong> [1]</strong> for correct answer.</em><br/><em>Working/calculation <strong>[1]</strong></em></p>
+<p>500 − 19 = 481, then <span class="mjpage"><math alttext="\frac{481}{500}" xmlns="http://www.w3.org/1998/Math/MathML">
+<mfrac>
+<mn>481</mn>
+<mn>500</mn>
+</mfrac>
+</math></span> × 100 ;</p>
+<p>(500 − 19)/500 × 100;<br/>500 -- 100 % then 19 ---- 3.8 % followed by 100 - 3.8;<br/>500 -- 100% then 19 ---- 3.8 % followed by 481 ---- 96.2 %;<br/>500 −19 = 481 then 500 -- 100% followed by 481 ---- 96.2 %;<br/>19/500 = 0.038 then 1− 0.038 = 0.962.</p>
+<p><em>Answer <strong>[1]</strong></em><br/>= 96 / 96.2</p>
+<p> </p>
+<div class="question_part_label">a.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>This question requires “Resource Booklet - Nov 2018 SL paper 1”, available under the "your tests" tab &gt; supplemental materials</em>.</p>
+<p>less demand for beaver pelts/fur / people no longer want to wear fur / change in fashion tastes / fur no longer considered beautiful;<br/>changing attitudes towards hunting;<br/>alternative materials available, <em>eg</em> synthetics developed;<br/>glut in market (oversupply) from other areas reducing unit price / large number of beavers in 2015 resulted in cheaper pelts.</p>
+<p><em>Do not accept “almost extinct in 1900” since the two comparative dates are 1940 and 2015.</em><br/><em>Do not accept “beavers are considered by IUCN as least concern”.</em><br/><em>Do not accept only “there has been an increase in numbers”.</em></p>
+<p> </p>
+<div class="question_part_label">b.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/ess/topic/8/","children":["← back to ","ESS"," topic ","8"]}]}],["$","h1",null,{"children":"18N.1.SL.TZ0.7"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"ESS"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","1"]}],["$","span",null,{"children":"18N"}],["$","span",null,{"children":["· ","8-2-resource-use-in-society"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$b"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<div class=\"question\" style=\"padding-left: 20px;\">\n<p>The majority of students correctly conducted this calculation and achieved full marks. A few candidates lost a mark by not showing any workings of the calculation.</p>\n<div class=\"question_part_label\">a.</div>\n</div><div class=\"question\" style=\"padding-left: 20px;\">\n<p>There were mixed responses to this question. A common error was not linking the high number of beaver pelts in 2005 to lower prices compared to 1940. Many candidates just referred to beavers nearly becoming extinct in 1900 or its IUCN status.</p>\n<div class=\"question_part_label\">b.</div>\n</div>"}}]]}]]}]

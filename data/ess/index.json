@@ -1,0 +1,50 @@
+{
+  "subject": "ess",
+  "label": "ESS",
+  "topics": [
+    {
+      "id": "1",
+      "name": "Foundations of environmental systems and societies",
+      "count": 31
+    },
+    {
+      "id": "2",
+      "name": "Ecosystems and ecology",
+      "count": 47
+    },
+    {
+      "id": "3",
+      "name": "Biodiversity and conservation",
+      "count": 37
+    },
+    {
+      "id": "4",
+      "name": "Water and aquatic food production systems and societies",
+      "count": 26
+    },
+    {
+      "id": "5",
+      "name": "Soil systems and terrestrial food production systems and societies",
+      "count": 26
+    },
+    {
+      "id": "6",
+      "name": "Atmospheric systems and societies",
+      "count": 20
+    },
+    {
+      "id": "7",
+      "name": "Climate change and energy production",
+      "count": 37
+    },
+    {
+      "id": "8",
+      "name": "Human systems and resource use",
+      "count": 44
+    }
+  ],
+  "sources": {
+    "pestle": 268
+  },
+  "total": 268
+}

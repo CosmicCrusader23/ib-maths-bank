@@ -1,0 +1,75 @@
+3:I[9431,[],""]
+5:I[3721,[],""]
+6:I[1234,["234","static/chunks/234-d28401d6af3ccf77.js","878","static/chunks/app/q/%5Bid%5D/page-0c167e52df53b8f4.js"],""]
+7:I[5926,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-6fb9469bd2d06e63.js"],"default"]
+8:I[5262,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-6fb9469bd2d06e63.js"],"SearchBar"]
+9:I[1495,["234","static/chunks/234-d28401d6af3ccf77.js","185","static/chunks/app/layout-6fb9469bd2d06e63.js"],"MathJax"]
+4:["id","23342","d"]
+0:["CkC9yMieHpjFJyyAZim3-",[[["",{"children":["q",{"children":[["id","23342","d"],{"children":["__PAGE__?{\"id\":\"23342\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["q",{"children":[["id","23342","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","q","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d24b6eb633663b77.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"topbar","children":[["$","$L6",null,{"href":"/","className":"brand","children":[["$","$L7",null,{"iconNode":[["path",{"d":"M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z","key":"1s2grr"}],["path",{"d":"M20 2v4","key":"1rf3ol"}],["path",{"d":"M22 4h-4","key":"gwowj6"}],["circle",{"cx":"4","cy":"20","r":"2","key":"6kqj1y"}]],"className":"lucide-sparkles","size":18,"strokeWidth":2.25,"aria-hidden":"true"}],["$","span",null,{"children":"IB Revision Bank"}]]}],["$","div",null,{"className":"topbar-tools","children":[["$","$L8",null,{}],["$","$L6",null,{"href":"/about/","children":"About"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"Curated from public revision sources. Questions belong to their original authors; this site only links to and re-presents what is already publicly available."}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"IB Revision Bank"}],["$","meta","3",{"name":"description","content":"Free, curated IB question bank covering Mathematics (AA & AI), Physics, Chemistry, Biology, Economics and ESS — every question grouped by syllabus topic and pulled from public revision sources."}]]
+1:null
+b:T4ab,<div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>With reference to processes occurring within the atmospheric system identify <strong>two</strong> transformations of matter.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>With reference to processes occurring within the atmospheric system identify <strong>two</strong> transfers of energy.</p>
+<div class="marks">[2]</div>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Explain how regional differences in the hydrological cycle influence the formation of different biomes.</p>
+<div class="marks">[7]</div>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px; padding-right: 20px;">
+<p>Climate can both influence, and be influenced by, terrestrial food production systems.</p>
+<p>To what extent can terrestrial food production strategies contribute to a sustainable equilibrium in this relationship?</p>
+<div class="marks">[9]</div>
+<div class="question_part_label">c.</div>
+</div>c:T14ae,<div class="question" style="padding-left: 20px;">
+<p>condensation; evaporation; freezing; melting;</p>
+<p>O<sub>3</sub> → O<sub>2</sub> + O; Cl + O<sub>3</sub> → ClO + O<sub>2</sub>; SO<sub>3</sub> + H<sub>2</sub>O → H<sub>2</sub>SO<sub>4</sub>; NOx + H<sub>2</sub>O → HNO<sub>3</sub>;</p>
+<p><em>Accept other reasonable responses.</em></p>
+<p><em>Accept any valid chemical changes identified by formulae or words (eg decomposition of ozone).</em></p>
+<p><strong><em>[2 max]</em></strong></p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>radiation of sunlight/solar energy/heat/light toward earth;<br/>radiation of heat/IR away from earth;<br/>reflection of light/heat toward space from earth/clouds;<br/>scattering of light/heat from particulate matter;<br/>movement of (sensible) heat pole-wards by wind currents/tricellular winds/Hadley Cell/hurricanes/tropical cyclones;<br/>movement of latent heat in water vapour by winds;</p>
+<p><strong><em>[2 max]</em></strong></p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>in certain tropical regions there is high transpiration/precipitation;<br/>…allowing for high productivity/tropical rainforests;<br/>in other tropical regions evaporation exceeds precipitation;<br/>…so, water is limiting for growth leading to vegetation of desert biomes;<br/>in polar regions large proportion of water is frozen/stored as ice/glaciers;<br/>…so unavailable to plants resulting in limited vegetation of tundra;<br/>in mid-latitudes there is moderate transpiration/precipitation;<br/>…allowing for moderate plant growth of temperate grasslands/forests;<br/>in regions where water inputs exceed outputs/surface topography promotes rise of water table;<br/>...water accumulates above the soil to form an aquatic system/wetland;<br/>mountainous regions cause variations in precipitation on leeward/windward sides;<br/>...may cause forest growth on windward side/drier desert-like communities on leeward;</p>
+<p><em>Credit can be given for responses that identify features of hydrological cycle characteristic of a given region OR how such a characteristic gives rise to a given biome.</em></p>
+<p><em>Award<strong> [3 max]</strong> if the characteristics are not directly linked to given biomes.</em></p>
+<p><strong><em>[7 max]</em></strong></p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p><em>The following guide for using the markbands suggests certain features that may be offered in responses. The five headings coincide with the criteria given in each of the markbands (although “ESS terminology” has been conflated with “Understanding concepts”). This guide simply provides some <strong>possible</strong> inclusions and should not be seen as requisite or comprehensive. It outlines the kind of elements to look for when deciding on the appropriate markband and the specific mark within that band.</em></p>
+<p><em>Answers may include:</em></p>
+<ul>
+<li>
+<strong>understanding concepts and terminology</strong> of equilibria, sustainability, natural capital/income, climatic factors (temp/precipitation/seasonality), greenhouse gases, climate change, biome shifts, water conservation, irrigation, desertification, vegetarian vs meat-rich diets, mitigation, adaptation, commercial vs artisanal, intensive vs extensive, food miles, selective breeding/genetic engineering, <em>etc</em>;</li>
+<li>
+<strong>breadth in addressing and linking</strong> influences of climate on food production <em>eg</em> water scarcity, shifting biomes, mean temperatures / precipitation, desertification, wind / rain / erosion, <em>etc</em> and influences of food production on climate <em>eg</em> methane production, deforestation, use of fossil fuels, global transport, <em>etc</em> and ways in which production strategies may adapt to, or mitigate climate change;</li>
+<li>
+<strong>examples</strong> of food production strategies that <strong><em>adapt</em></strong> to climate change <em>eg</em> water conservation, drip irrigation, terracing, drought/temperature resistant crops, aquaponics, greenhouses, <em>etc</em> and strategies that <strong><em>mitigate</em></strong> climate change <em>eg</em> switching from meat-rich diets, localising food production, employing artisanal/low-energy farming strategies, <em>etc</em>;</li>
+<li>
+<strong>balanced analysis</strong> of the extent to which production strategies from a range of contexts may contribute to, or mitigate against, an equilibrium between food production and the climate <em>etc</em>;</li>
+<li>
+<strong>a conclusion that is consistent with, and supported by, analysis and examples given</strong> <em>eg</em> “although there are many production strategies that mitigate or adapt to climate change, the relationship has already shifted so far away from a sustainable equilibrium, and with growing populations, it seems unlikely that their contribution will be sufficient to avoid a tipping point in the future”;</li>
+</ul>
+<p><strong>[9]</strong></p>
+<p><em>Refer to paper 2 markbands, available under the "your tests" tab &gt; supplemental materials.</em></p>
+<div class="question_part_label">c.</div>
+</div>d:T41d,<div class="question" style="padding-left: 20px;">
+<p>Most candidates were able to identify two transformations of matter.</p>
+<div class="question_part_label">a.i.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Few candidates were able to identify transfers of energy in the atmosphere …often referring instead to energy transfers in food chains or transfers of matter.</p>
+<div class="question_part_label">a.ii.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Most candidates were able to gain three or four marks through addressing precipitation in rainforests and deserts, but few went further than this.</p>
+<div class="question_part_label">b.</div>
+</div><div class="question" style="padding-left: 20px;">
+<p>Responses often addressed <strong>either</strong> impact of climate on agriculture <strong>or</strong> vice versa, limiting range and balance of argument. A good number also addressed sustainable agricultural practices quite unrelated to climate.</p>
+<div class="question_part_label">c.</div>
+</div>2:["$","article",null,{"className":"q-page","children":[["$","p",null,{"style":{"margin":0},"children":["$","$L6",null,{"href":"/subject/ess/topic/4/","children":["← back to ","ESS"," topic ","4"]}]}],["$","h1",null,{"children":"19M.2.SL.TZ0.4"}],["$","div",null,{"className":"q-meta","children":[["$","span",null,{"className":"tag","children":"pestle"}],["$","span",null,{"children":"ESS"}],null,["$","span",null,{"children":"SL"}],["$","span",null,{"children":["Paper ","2"]}],["$","span",null,{"children":"19M"}],["$","span",null,{"children":["· ","6-1-introduction-to-the-atmosphere, 4-1-introduction-to-water-systems"]}],["$","a",null,{"href":"https://pestle.pages.dev/app/","target":"_blank","rel":"noopener","children":"source ↗"}]]}],["$","div",null,{"className":"q-content","dangerouslySetInnerHTML":{"__html":"$b"}}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Markscheme / solution"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"}}]]}],["$","details",null,{"className":"solution","children":[["$","summary",null,{"children":"Examiners’ report"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]]}]

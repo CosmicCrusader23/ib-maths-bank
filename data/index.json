@@ -29,13 +29,19 @@
       "label": "Biology",
       "total": 1732,
       "topic_count": 15
+    },
+    {
+      "key": "ess",
+      "label": "ESS",
+      "total": 268,
+      "topic_count": 8
     }
   ],
   "sources": {
-    "pestle": 7186,
+    "pestle": 7454,
     "christos-maa-exercise": 70,
     "christos-mai-exercise": 66,
     "christos-maa-tests": 56
   },
-  "total": 7378
+  "total": 7646
 }
