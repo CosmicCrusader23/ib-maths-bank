@@ -1,15 +1,9 @@
 {
   "subjects": [
     {
-      "key": "maths_aa",
-      "label": "Maths AA",
-      "total": 937,
-      "topic_count": 5
-    },
-    {
-      "key": "maths_ai",
-      "label": "Maths AI",
-      "total": 867,
+      "key": "maths",
+      "label": "Mathematics",
+      "total": 1804,
       "topic_count": 5
     },
     {
