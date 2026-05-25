@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { listSubjectKeys, loadSubject } from "@/lib/data";
+import { TestSetup } from "@/components/TestSetup";
 
 export async function generateStaticParams() {
   const keys = await listSubjectKeys();
@@ -29,7 +30,10 @@ export default async function SubjectPage({
       <p style={{ margin: 0 }}>
         <Link href="/">← all subjects</Link>
       </p>
-      <h1>{subj.label}</h1>
+      <div className="page-header">
+        <h1>{subj.label}</h1>
+        <TestSetup subject={key} hasMaths={key === "maths"} />
+      </div>
       <div className="summary-bar">
         <span>{subj.total.toLocaleString()} questions</span>
         {sourceLine && <span>{sourceLine}</span>}

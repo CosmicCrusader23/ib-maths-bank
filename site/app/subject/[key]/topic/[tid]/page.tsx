@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { listSubjectKeys, loadSubject, loadSubjectTopic } from "@/lib/data";
 import { TopicBrowser } from "@/components/TopicBrowser";
+import { TestSetup } from "@/components/TestSetup";
 
 export async function generateStaticParams() {
   const keys = await listSubjectKeys();
@@ -37,9 +38,12 @@ export default async function TopicPage({
       <p style={{ margin: 0 }}>
         <Link href={`/subject/${key}/`}>← {subj.label}</Link>
       </p>
-      <h1>
-        {topic.id}. {topic.name}
-      </h1>
+      <div className="page-header">
+        <h1>
+          {topic.id}. {topic.name}
+        </h1>
+        <TestSetup subject={key} topic={tid} hasMaths={key === "maths"} />
+      </div>
       <p className="summary-bar">
         <span>{questions.length.toLocaleString()} questions</span>
       </p>
